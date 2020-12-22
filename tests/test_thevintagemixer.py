@@ -21,7 +21,7 @@ class TestTheVintageMixerScraper(ScraperTest):
 
     def test_image(self):
         self.assertEqual(
-            "https://d6h7vs5ykbiug.cloudfront.net/wp-content/uploads/2017/08/Cherry-Baby-Birthday-Party-2-1-150x150.jpg",
+            "http://d6h7vs5ykbiug.cloudfront.net/wp-content/uploads/2017/08/Cherry-Baby-Birthday-Party-2-1.jpg",
             self.harvester_class.image(),
         )
 
@@ -46,6 +46,6 @@ class TestTheVintageMixerScraper(ScraperTest):
 
     def test_instructions(self):
         return self.assertEqual(
-            "Preheat the oven to 375 and grease two small ramekins* with coconut oil.\nIn a small mixing bowl combine the dry ingredients: coconut flour, almond flour, baking powder, baking soda, and salt.\nIn a separate, medium-sized, bowl mash the banana then add in the coconut oil, almond butter, maple syrup and vanilla. Stir in the egg.\nCombine the dry ingredients to the wet and mix only until combined and smooth.\nToss the chopped cherries with a teaspoon or so of coconut flour. Stir these into the batter. Spoon batter out into ramekins and bake at 375 for 20-25 minutes.\nLet cool 5 minutes in the pan then remove to a wire rack to cool completely. Wrap in plastic and freeze.\nAbout 1 hour before serving, remove cakes from freezer. If the cakes are puffed up at the top slice off the top to even them out and make it flat to layer the cakes.\nDap a small amount of frosting under the first cake on the plate so it won't wiggle as you ice it then add a spoonful on top of the cake to place the second layer on top. Frost gently around the sides of the cake and on top. Top the cake with a few fresh cherries.",
+            "Preheat the oven to 375 and grease two small ramekins* with coconut oil.\nIn a small mixing bowl combine the dry ingredients: coconut flour, almond flour, baking powder, baking soda, and salt.\nIn a separate, medium-sized, bowl mash the banana then add in the coconut oil, almond butter, maple syrup and vanilla. Stir in the egg.\nCombine the dry ingredients to the wet and mix only until combined and smooth.\nToss the chopped cherries with a teaspoon or so of coconut flour. Stir these into the batter. Spoon batter out into ramekins and bake at 375 for 20-25 minutes.\nLet cool 5 minutes in the pan then remove to a wire rack to cool completely. Wrap in plastic and freeze.\nTo frost the cake\nAbout 1 hour before serving, remove cakes from freezer. If the cakes are puffed up at the top slice off the top to even them out and make it flat to layer the cakes.\nDap a small amount of frosting under the first cake on the plate so it won't wiggle as you ice it then add a spoonful on top of the cake to place the second layer on top. Frost gently around the sides of the cake and on top. Top the cake with a few fresh cherries.",
             self.harvester_class.instructions(),
         )

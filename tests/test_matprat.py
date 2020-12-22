@@ -16,14 +16,14 @@ class TestMatprat(ScraperTest):
         )
 
     def test_total_time(self):
-        self.assertEqual(60, self.harvester_class.total_time())
+        self.assertEqual(160, self.harvester_class.total_time())
 
     def test_yields(self):
-        self.assertEqual("6 serving(s)", self.harvester_class.yields())
+        self.assertEqual("6 PORSJONER", self.harvester_class.yields())
 
     def test_image(self):
         self.assertEqual(
-            "Butter%20chicken%20|%20Oppskrift%20-%20MatPrat_files/large.jpeg",
+            "https://images.matprat.no/dxgehtetqy",
             self.harvester_class.image(),
         )
 
@@ -74,4 +74,4 @@ Legg kyllingbitene i sausen og la alt bli gjennomvarmt. Pynt med koriander.""",
         )
 
     def test_ratings(self):
-        self.assertEqual(8, self.harvester_class.ratings())
+        self.assertEqual(5.0, self.harvester_class.ratings())

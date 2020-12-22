@@ -11,7 +11,7 @@ class TestCookPadScraper(ScraperTest):
         self.assertEqual("cookpad.com", self.harvester_class.host())
 
     def test_title(self):
-        self.assertEqual(self.harvester_class.title(), "30分で簡単本格バターチキンカレー")
+        self.assertEqual(self.harvester_class.title(), "30分で簡単♡本格バターチキンカレー♡")
 
     def test_yields(self):
         self.assertEqual("4人分 serving(s)", self.harvester_class.yields())

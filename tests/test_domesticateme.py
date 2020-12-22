@@ -28,7 +28,7 @@ class TestDomesticateMeScraper(ScraperTest):
         self.assertEqual(60, self.harvester_class.total_time())
 
     def test_rating(self):
-        self.assertEqual(4.5, self.harvester_class.ratings())
+        self.assertEqual(4.72, self.harvester_class.ratings())
 
     def test_ingredients(self):
         self.assertCountEqual(

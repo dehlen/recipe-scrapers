@@ -1,6 +1,4 @@
 from ._abstract import AbstractScraper
-from ._utils import get_minutes, normalize_string, get_yields
-
 
 class BBCFood(AbstractScraper):
     @classmethod
@@ -36,3 +34,6 @@ class BBCFood(AbstractScraper):
 
     def ratings(self):
         return self.schema.ratings()
+
+    def author(self):
+        return self.schema.author()

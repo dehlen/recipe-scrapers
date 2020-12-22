@@ -17,14 +17,14 @@ class TestRealSimpleScraper(ScraperTest):
         self.assertEqual(540, self.harvester_class.total_time())
 
     def test_yields(self):
-        self.assertEqual("9 item(s)", self.harvester_class.yields())
+        self.assertEqual("Makes one 9-inch pie", self.harvester_class.yields())
 
     def test_ingredients(self):
         self.assertCountEqual(
             [
                 "3 8-ounce packages cream cheese, at room temperature",
                 "4 eggs",
-                "1 1/4 cups sugar",
+                "1 ¼ cups sugar",
                 "2 teaspoons pure vanilla extract",
                 "1 prebaked Ginger Graham Cracker Crust",
                 "1 cup sour cream",

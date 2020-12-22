@@ -53,6 +53,6 @@ class TestFineDiningLoversScraper(ScraperTest):
 
     def test_image(self):
         return self.assertEqual(
-            "https://www.finedininglovers.com/sites/g/files/xknfdk626/files/styles/recipe_full_desktop/public/Original_2242_zucchini-lasagna-raw-vegan.jpg",
+            "https://www.finedininglovers.com/sites/g/files/xknfdk626/files/Original_2242_zucchini-lasagna-raw-vegan.jpg",
             self.harvester_class.image(),
         )

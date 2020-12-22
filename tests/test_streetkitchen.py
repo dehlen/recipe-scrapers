@@ -55,6 +55,6 @@ class TestStreetKitchenScraper(ScraperTest):
 
     def test_image(self):
         self.assertEqual(
-            "https://485744-1530733-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/03/kapros-tejfolos-csirke-talalasa.jpg",
+            "https://505953-1605383-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/03/kapros-tejfolos-csirke-talalasa.jpg",
             self.harvester_class.image(),
         )

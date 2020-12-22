@@ -15,14 +15,14 @@ class TestSweetPeasAndSaffron(ScraperTest):
         )
 
     def test_total_time(self):
-        self.assertEqual("25", self.harvester_class.total_time())
+        self.assertEqual(25, self.harvester_class.total_time())
 
     def test_yields(self):
-        self.assertEqual("4", self.harvester_class.yields())
+        self.assertEqual("4 serving(s)", self.harvester_class.yields())
 
     def test_image(self):
         self.assertEqual(
-            "https://cdn.statically.io/img/sweetpeasandsaffron.com/wp-content/uploads/2017/05/steel-cut-oats-7-ways-TEXT-150x150.jpg?quality=100&f=auto",
+            "https://sweetpeasandsaffron.com/wp-content/uploads/2017/05/steel-cut-oats-7-ways-TEXT.jpg",
             self.harvester_class.image(),
         )
 
@@ -78,7 +78,7 @@ class TestSweetPeasAndSaffron(ScraperTest):
         )
 
     def test_ratings(self):
-        return self.assertEqual("4.89", self.harvester_class.ratings())
+        return self.assertEqual(4.38, self.harvester_class.ratings())
 
     def test_author(self):
         return self.assertEqual("Denise Bustard", self.harvester_class.author())

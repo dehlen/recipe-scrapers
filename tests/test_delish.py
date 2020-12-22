@@ -22,7 +22,7 @@ class TestDelishScraper(ScraperTest):
     def test_image(self):
         self.assertEqual(
             self.harvester_class.image(),
-            "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-190814-pumpkin-roll-0029-portrait-pf-1567187757.jpg?crop=1.00xw:0.667xh;0,0.0545xh&resize=768:*",
+            "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-190814-pumpkin-roll-0046-landscape-pf-1567187755.jpg",
         )
 
     def test_ingredients(self):

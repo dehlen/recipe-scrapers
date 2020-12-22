@@ -26,10 +26,10 @@ class TestWhatsGabyCookingScraper(ScraperTest):
         self.assertCountEqual(
             [
                 "1 ½ cups uncooked multi-colored quinoa",
-                "2 cups shredded colby jack cheese divided",
-                "1 cup shredded mozzarella cheese divided",
-                "1 cup canned black beans rinsed and drained",
-                "1 cup frozen charred corn trader joes",
+                "2 cups shredded colby jack cheese (divided)",
+                "1 cup shredded mozzarella cheese (divided)",
+                "1 cup canned black beans (rinsed and drained)",
+                "1 cup frozen charred corn (trader joes)",
                 "1 4.5-ounce can chopped green chiles",
                 "1 ½ cup Gaby's chipotle or tomatillo salsa",
                 "Kosher salt and pepper to taste",

@@ -19,11 +19,11 @@ class TestSouthernLiving(ScraperTest):
         self.assertEqual(180, self.harvester_class.total_time())
 
     def test_yields(self):
-        self.assertEqual("22 serving(s)", self.harvester_class.yields())
+        self.assertEqual("Makes 20 to 22", self.harvester_class.yields())
 
     def test_image(self):
         self.assertEqual(
-            "https://img1.southernliving.timeinc.net/sites/default/files/styles/medium_2x/public/image/2017/11/main/2546801_bread_02.jpg?itok=d6HUWfU9",
+            "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F24%2F2015%2F09%2F2546801_bread_02_1_0_1_0_0_0-2000.jpg",
             self.harvester_class.image(),
         )
 
@@ -35,7 +35,7 @@ class TestSouthernLiving(ScraperTest):
                 "1/2 cup warm water (100°F to 110°F)",
                 "1 (1⁄4-oz.) envelope active dry yeast",
                 "1/3 cup plus 1 tsp. granulated sugar, divided",
-                "2  large eggs, beaten",
+                "2 large eggs, beaten",
                 "3/4 teaspoon salt",
                 "5 1/4 - 6 cups bread flour, divided, plus more for dusting",
                 "1 1/4 pounds Conecuh sausage or spicy smoked sausage",

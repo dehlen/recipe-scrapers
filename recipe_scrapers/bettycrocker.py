@@ -89,7 +89,6 @@ class BettyCrocker(AbstractScraper):
         return instructions
 
     def ratings(self):
-        r = self.soup.find("span", {"class": "ratingCount"}).get_text()
-        if "\xa0Ratings" in r:
-            r = r.replace("\xa0Ratings", "")
-        return int(r)
+        stars = self.soup.find("span", {"class": "stars"})
+        r = stars.get("aria-label").strip() if stars else None
+        return float(r) if stars else None

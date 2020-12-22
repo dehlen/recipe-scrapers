@@ -12,7 +12,7 @@ class TestMyBakingAddictionScraper(ScraperTest):
 
     def test_image(self):
         self.assertEqual(
-            "https://www.mybakingaddiction.com/wp-content/uploads/2016/08/chocolate-coconut-zucchini-bread-1-of-11-1-720x720.jpg",
+            "https://www.mybakingaddiction.com/wp-content/uploads/2016/08/chocolate-coconut-zucchini-bread-1-of-11-1-scaled.jpg",
             self.harvester_class.image(),
         )
 
@@ -22,7 +22,7 @@ class TestMyBakingAddictionScraper(ScraperTest):
         )
 
     def test_ratings(self):
-        self.assertEqual(self.harvester_class.ratings(), 4.4)
+        self.assertEqual(self.harvester_class.ratings(), 4.3)
 
     def test_total_time(self):
         self.assertEqual(75, self.harvester_class.total_time())

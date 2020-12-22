@@ -26,7 +26,7 @@ class TestKingArthurScraper(ScraperTest):
         self.assertEqual(35, self.harvester_class.total_time())
 
     def test_rating(self):
-        self.assertEqual(4.70, self.harvester_class.ratings())
+        self.assertEqual(4.90, self.harvester_class.ratings())
 
     def test_ingredients(self):
         self.assertCountEqual(

@@ -23,7 +23,7 @@ class TestTwoPeasAndTheirPodScraper(ScraperTest):
     def test_ingredients(self):
         self.assertCountEqual(
             [
-                "2 cups shredded chicken we use rotisserie chicken",
+                "2 cups shredded chicken (we use rotisserie chicken)",
                 "1/2 teaspoon ground cumin",
                 "1/2 teaspoon ground chili powder",
                 "1/2 teaspoon kosher salt",
@@ -52,6 +52,6 @@ class TestTwoPeasAndTheirPodScraper(ScraperTest):
 
     def test_image(self):
         return self.assertEqual(
-            "https://www.twopeasandtheirpod.com/wp-content/uploads/2017/03/Baked-Chicken-Taquitos-1-220x220.jpg",
+            "https://www.twopeasandtheirpod.com/wp-content/uploads/2017/03/Baked-Chicken-Taquitos-1.jpg",
             self.harvester_class.image(),
         )

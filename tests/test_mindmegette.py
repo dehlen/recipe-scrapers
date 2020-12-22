@@ -16,7 +16,7 @@ class TestMindmegetteScraper(ScraperTest):
 
     def test_title(self):
         self.assertEqual(
-            self.harvester_class.title(), "Tepsis krumpli céklával és répával"
+            self.harvester_class.title(), "Tepsis krumpli céklával és répával Recept képpel - Mindmegette.hu - Receptek"
         )
 
     def test_total_time(self):

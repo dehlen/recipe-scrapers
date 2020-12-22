@@ -13,18 +13,18 @@ class TestGonnaWantSeconds(ScraperTest):
     def test_title(self):
         self.assertEqual(
             self.harvester_class.title(),
-            "Sour Cream Chicken Enchiladas (30-Min. Meal!)",
+            "Sour Cream Chicken Enchiladas",
         )
 
     def test_total_time(self):
-        self.assertEqual("30", self.harvester_class.total_time())
+        self.assertEqual(30, self.harvester_class.total_time())
 
     def test_yields(self):
-        self.assertEqual("5 servings", self.harvester_class.yields())
+        self.assertEqual("5 serving(s)", self.harvester_class.yields())
 
     def test_image(self):
         self.assertEqual(
-            "https://www.gonnawantseconds.com/wp-content/uploads/2020/01/Sour-Cream-Enchiladas-03-360x361.jpg",
+            "https://www.gonnawantseconds.com/wp-content/uploads/2020/01/Sour-Cream-Enchiladas-03.jpg",
             self.harvester_class.image(),
         )
 
@@ -69,7 +69,7 @@ class TestGonnaWantSeconds(ScraperTest):
         )
 
     def test_ratings(self):
-        self.assertEqual(0, self.harvester_class.ratings())
+        self.assertEqual(5.0, self.harvester_class.ratings())
 
     def test_description(self):
         self.assertEqual(

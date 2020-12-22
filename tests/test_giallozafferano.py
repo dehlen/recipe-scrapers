@@ -44,4 +44,4 @@ class TestGialloZafferanoScraper(ScraperTest):
         )
 
     def test_ratings(self):
-        self.assertEqual(4.0, self.harvester_class.ratings())
+        self.assertEqual(4.1, self.harvester_class.ratings())

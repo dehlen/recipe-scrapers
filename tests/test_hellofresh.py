@@ -14,7 +14,7 @@ class TestHelloFreshScraper(ScraperTest):
         self.assertEqual("hellofresh.co.uk", self.harvester_class.host(domain="co.uk"))
 
     def test_title(self):
-        self.assertEqual("Thai Style Pork Stir-Fry", self.harvester_class.title())
+        self.assertEqual("Thai Style Pork Stir-Fry with Veggie Rice", self.harvester_class.title())
 
     def test_total_time(self):
         self.assertEqual(35, self.harvester_class.total_time())

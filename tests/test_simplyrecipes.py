@@ -18,7 +18,7 @@ class TestSimplyRecipesScraper(ScraperTest):
 
     def test_yields(self):
         # 6 to 8 servings (makes about 3 quarts), debatable it should be 8 servings.
-        self.assertEqual("8 item(s)", self.harvester_class.yields())
+        self.assertEqual("6 to 8 servings (makes about 3 quarts)", self.harvester_class.yields())
 
     def test_ingredients(self):
         self.assertCountEqual(

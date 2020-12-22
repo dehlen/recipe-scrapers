@@ -61,7 +61,17 @@ class SchemaOrg:
         if author is not None:
             if type(author) == str:
                 return author
-            return author.get("name")
+            elif type(author) == list and len(author) > 0:
+                if type(author[0]) == dict:
+                    return author[0].get("name")
+                elif type(author[0]) == str:
+                    return author[0]
+                else:
+                    return None
+            elif type(author) == dict:
+                return author.get("name", None)
+            else:
+                return None
 
     def total_time(self):
         total_time = get_minutes(self.data.get("totalTime"))
@@ -99,10 +109,11 @@ class SchemaOrg:
 
         if type(image) == dict:
             return image.get("url")
-        elif type(image) == list:
+        elif type(image) == list and len(image) > 0:
             if type(image[0]) == dict:
                 return image[0].get("url")
-            return image[0]
+            elif type(image[0]) == str:
+                return image[0]
 
         if "http://" not in image and "https://" not in image:
             # some sites give image path relative to the domain

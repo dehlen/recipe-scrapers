@@ -21,7 +21,7 @@ class TestFoodNetworkScraper(ScraperTest):
 
     def test_image(self):
         self.assertEqual(
-            "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2009/4/10/1/FO1D47_24021_s4x3.jpg.rend.hgtvcom.406.305.suffix/1431766598136.jpeg",
+            "https://d2v9mhsiek5lbq.cloudfront.net/eyJidWNrZXQiOiJsb21hLW1lZGlhLXVrIiwia2V5IjoiZm9vZG5ldHdvcmstaW1hZ2UtZGVmYXVsdC1wbGFjZWhvbGRlci5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjE5MjAsImhlaWdodCI6MTA4MCwiZml0IjoiY292ZXIifX19",
             self.harvester_class.image(),
         )
 

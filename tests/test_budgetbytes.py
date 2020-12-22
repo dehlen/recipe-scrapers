@@ -46,4 +46,4 @@ class TestBudgetBytesScraper(ScraperTest):
         )
 
     def test_ratings(self):
-        self.assertEqual(5.0, self.harvester_class.ratings())
+        self.assertEqual(4.96, self.harvester_class.ratings())
