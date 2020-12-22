@@ -21,7 +21,7 @@ class TestJamieOliverScraper(ScraperTest):
 
     def test_image(self):
         self.assertEqual(
-            "jamieoliver_files/88_1_1441269331.jpg", self.harvester_class.image()
+            "https://img.jamieoliver.com/jamieoliver/recipe-database/oldImages/large/88_1_1441269331.jpg?tr=w-450", self.harvester_class.image()
         )
 
     def test_ingredients(self):

@@ -15,7 +15,7 @@ class TestHeinzBrasilScraper(ScraperTest):
 
     def test_image(self):
         self.assertEqual(
-            "//d36rz30b5p7lsd.cloudfront.net/heinzbrasilbr/recipes/img/1e1fccb2d38d8b3e3611aa5c99706523.jpeg",
+            "https://d36rz30b5p7lsd.cloudfront.net/heinzbrasilbr/recipes/img/1e1fccb2d38d8b3e3611aa5c99706523.jpeg",
             self.harvester_class.image(),
         )
 
@@ -41,6 +41,6 @@ class TestHeinzBrasilScraper(ScraperTest):
 
     def test_instructions(self):
         self.assertEqual(
-            "Frite a carne, a cebola e os pimentões na manteiga com o azeite, mexendo bem. Despeje as especiarias mexicanas e o café. Adicione o milho, o feijão, os tomates picados e o Ketchup Heinz. Cozinhe por 5 minutos. Sirva com um bom pedaço de pão e gruyère.",
+            "Modo de preparoFrite a carne, a cebola e os pimentões na manteiga com o azeite, mexendo bem. Despeje as especiarias mexicanas e o café. Adicione o milho, o feijão, os tomates picados e o Ketchup Heinz. Cozinhe por 5 minutos. Sirva com um bom pedaço de pão e gruyère.",
             self.harvester_class.instructions(),
         )

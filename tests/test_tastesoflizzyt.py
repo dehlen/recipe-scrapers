@@ -11,7 +11,7 @@ class TestTastesOfLizzyTScraper(ScraperTest):
         self.assertEqual("tastesoflizzyt.com", self.harvester_class.host())
 
     def test_title(self):
-        self.assertEqual(self.harvester_class.title(), "Soft Gingerbread Cookies")
+        self.assertEqual(self.harvester_class.title(), "Soft Baked Molasses Cookies")
 
     def test_total_time(self):
         self.assertEqual(27, self.harvester_class.total_time())

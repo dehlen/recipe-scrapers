@@ -17,7 +17,7 @@ class TestGeniusKitchenScraper(ScraperTest):
         self.assertEqual(40, self.harvester_class.total_time())
 
     def test_yields(self):
-        self.assertEqual("6 serving(s)", self.harvester_class.yields())
+        self.assertEqual("12 Quiche Lorraines, 6 serving(s)", self.harvester_class.yields())
 
     def test_ingredients(self):
         self.assertCountEqual(
@@ -26,7 +26,7 @@ class TestGeniusKitchenScraper(ScraperTest):
                 "4 slices bacon, cooked crisp &,crumbled",
                 "1 cup swiss cheese, grated",
                 "2 tablespoons flour",
-                "1⁄4 teaspoon salt",
+                "1/4 teaspoon salt",
                 "2 eggs",
                 "1 cup milk",
             ],

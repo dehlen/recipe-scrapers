@@ -57,4 +57,4 @@ class TestTasteOfHomeScraper(ScraperTest):
         )
 
     def test_ratings(self):
-        self.assertEqual(4.25, self.harvester_class.ratings())
+        self.assertEqual(4.2, self.harvester_class.ratings())
