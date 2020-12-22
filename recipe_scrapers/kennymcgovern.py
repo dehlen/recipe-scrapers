@@ -8,28 +8,31 @@ class KennyMcGovern(AbstractScraper):
         return "kennymcgovern.com"
 
     def title(self):
-        return self.soup.find("div", {"class": "wprm-recipe-name"}).get_text()
+        return self.schema.title()
+
+    def description(self):
+        return self.schema.description()
 
     def total_time(self):
-        return get_minutes(
-            self.soup.find("span", {"class": "wprm-recipe-total_time"}).parent
-        )
+        return self.schema.total_time()
+
+    def prep_time(self):
+        return self.schema.prep_time()
+
+    def cook_time(self):
+        return self.schema.cook_time()
 
     def yields(self):
-        yields = self.soup.find("span", {"class": "wprm-recipe-servings"}).get_text()
+        return self.schema.yields()
 
-        return get_yields("{} servings".format(yields))
+    def image(self):
+        return self.schema.image()
 
     def ingredients(self):
-        ingredients = self.soup.findAll("li", {"class": "wprm-recipe-ingredient"})
-
-        return [normalize_string(ingredient.get_text()) for ingredient in ingredients]
+        return self.schema.ingredients()
 
     def instructions(self):
-        instructions = self.soup.findAll(
-            "div", {"class": "wprm-recipe-instruction-text"}
-        )
+        return self.schema.instructions()
 
-        return "\n".join(
-            [normalize_string(instruction.get_text()) for instruction in instructions]
-        )
+    def ratings(self):
+        return self.schema.ratings()

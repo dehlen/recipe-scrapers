@@ -8,28 +8,31 @@ class SeriousEats(AbstractScraper):
         return "seriouseats.com"
 
     def title(self):
-        return self.soup.find("h1").get_text()
+        return self.schema.title()
+
+    def description(self):
+        return self.schema.description()
 
     def total_time(self):
-        return get_minutes(self.soup.findAll("span", {"class": "info"})[2])
+        return self.schema.total_time()
+
+    def prep_time(self):
+        return self.schema.prep_time()
+
+    def cook_time(self):
+        return self.schema.cook_time()
 
     def yields(self):
-        return get_yields(self.soup.find("span", {"class": "info yield"}))
+        return self.schema.yields()
+
+    def image(self):
+        return self.schema.image()
 
     def ingredients(self):
-        ingredients = self.soup.findAll("li", {"class": "ingredient"})
-        return [normalize_string(ingredient.get_text()) for ingredient in ingredients]
+        return self.schema.ingredients()
 
     def instructions(self):
-        instructions = self.soup.findAll("li", {"class": "recipe-procedure"})
-
-        return "\n".join(
-            [normalize_string(instruction.get_text()) for instruction in instructions]
-        )
+        return self.schema.instructions()
 
     def ratings(self):
-        rating = self.soup.find("meta", {"property": "og:rating"})
-        rating = (
-            round(float(rating["content"]), 2) if rating and rating["content"] else -1.0
-        )
-        return rating
+        return self.schema.ratings()

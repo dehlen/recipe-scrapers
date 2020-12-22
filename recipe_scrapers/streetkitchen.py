@@ -10,7 +10,17 @@ class StreetKitchen(AbstractScraper):
     def title(self):
         return self.soup.find("h1", {"class": "entry-title"}).get_text()
 
+    def description(self):
+        meta = self.soup.find("meta", {"property": "description", "content": True})
+        return normalize_string(meta.get("content")) if meta else None
+
     def total_time(self):
+        return 0
+
+    def prep_time(self):
+        return 0
+
+    def cook_time(self):
         return 0
 
     def image(self):

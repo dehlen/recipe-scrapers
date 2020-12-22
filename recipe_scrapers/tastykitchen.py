@@ -10,6 +10,10 @@ class TastyKitchen(AbstractScraper):
     def title(self):
         return self.soup.find("h1", {"itemprop": "name"}).get_text()
 
+    def description(self):
+        desc = self.soup.find("meta", {"property": "og:description", "content": True})
+        return desc.get("content")
+
     def total_time(self):
         return sum(
             [
@@ -17,6 +21,12 @@ class TastyKitchen(AbstractScraper):
                 get_minutes(self.soup.find("time", {"itemprop": "cookTime"})),
             ]
         )
+
+    def prep_time(self):
+        return get_minutes(self.soup.find("time", {"itemprop": "prepTime"}))
+
+    def cook_time(self):
+        return get_minutes(self.soup.find("time", {"itemprop": "cookTime"}))
 
     def yields(self):
         return get_yields(self.soup.find("span", {"itemprop": "yield"}))

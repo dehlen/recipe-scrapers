@@ -10,6 +10,13 @@ class TheHappyFoodie(AbstractScraper):
     def title(self):
         return self.soup.find("h1", {"class": "main-title"}).get_text()
 
+    def description(self):
+        description = self.soup.find("span", {"itemprop": "description"})
+        if description:
+            return normalize_string(description.get_text())
+        else:
+            return ""
+
     def total_time(self):
         return get_minutes(
             self.soup.find("div", {"class": "recipe__data__total-time"})

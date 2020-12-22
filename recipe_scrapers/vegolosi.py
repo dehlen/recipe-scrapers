@@ -8,60 +8,31 @@ class Vegolosi(AbstractScraper):
         return "vegolosi.it"
 
     def title(self):
-        return self.soup.find("h1").get_text().strip()
+        return self.schema.title()
 
-    def preparation_time(self):
-        possible_time_info_elements = self.soup.findAll(
-            "span", {"class": "tasty-recipes-prep-time"}
-        )
-
-        return sum([get_minutes(element) for element in possible_time_info_elements])
-
-    def cooking_time(self):
-        possible_time_info_elements = self.soup.findAll(
-            "span", {"class": "tasty-recipes-cook-time"}
-        )
-
-        return sum([get_minutes(element) for element in possible_time_info_elements])
+    def description(self):
+        return self.schema.description()
 
     def total_time(self):
-        possible_time_info_elements = self.soup.findAll(
-            "span", {"class": "tasty-recipes-total-time"}
-        )
+        return self.schema.total_time()
 
-        return sum([get_minutes(element) for element in possible_time_info_elements])
+    def prep_time(self):
+        return self.schema.prep_time()
+
+    def cook_time(self):
+        return self.schema.cook_time()
 
     def yields(self):
-        possible_yields_info_elements = self.soup.findAll(
-            "span", {"class": "tasty-recipes-yield"}
-        )
-        for element in possible_yields_info_elements:
-            if "persone" in element.get_text():
-                return get_yields(element)
-        return ""
+        return self.schema.yields()
+
+    def image(self):
+        return self.schema.image()
 
     def ingredients(self):
-        ingredients = self.soup.select(".tasty-recipe-ingredients > ul > li")
-
-        if not ingredients:
-            ingredients = self.soup.findAll("li", {"class": "ingredient"})
-
-        return [normalize_string(ingredient.get_text()) for ingredient in ingredients]
+        return self.schema.ingredients()
 
     def instructions(self):
-
-        instructions = self.soup.findAll("div", {"class": "tasty-recipe-instructions"})
-
-        return "\n".join(
-            [normalize_string(instruction.get_text()) for instruction in instructions]
-        )
+        return self.schema.instructions()
 
     def ratings(self):
-        return round(
-            float(
-                self.soup.find("div", {"class": "tasty-recipe-rating rating_panel"})
-                .get("data-content-rate")
-                .replace(",", ".")
-            ),
-            2,
-        )
+        return self.schema.ratings()

@@ -8,28 +8,31 @@ class HeinzBrasil(AbstractScraper):
         return "heinzbrasil.com.br"
 
     def title(self):
-        return self.soup.find("h1", {"class": "krRDPrecName"}).get_text()
+        return self.schema.title()
+
+    def description(self):
+        return self.schema.description()
 
     def total_time(self):
-        return 0
+        return self.schema.total_time()
+
+    def prep_time(self):
+        return self.schema.prep_time()
+
+    def cook_time(self):
+        return self.schema.cook_time()
+
+    def yields(self):
+        return self.schema.yields()
 
     def image(self):
-        return self.soup.find("img", {"class": "krBanImg"})["src"]
+        return self.schema.image()
 
     def ingredients(self):
-        ingredients = self.soup.findAll("div", {"class": "krRDPIngreListText"})
-
-        return [
-            normalize_string(
-                "{} {}".format(ingredient["qty"], ingredient["ingredientname"])
-            )
-            for ingredient in ingredients
-        ]
+        return self.schema.ingredients()
 
     def instructions(self):
-        instructions = (
-            self.soup.find("div", {"class": "krRecipeMakeItText"})
-            .findNext("div", {"class": "class"})
-            .nextSibling
-        )
-        return normalize_string(instructions.get_text())
+        return self.schema.instructions()
+
+    def ratings(self):
+        return self.schema.ratings()

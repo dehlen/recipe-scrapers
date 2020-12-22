@@ -8,43 +8,31 @@ class Yummly(AbstractScraper):
         return "yummly.com"
 
     def title(self):
-        return self.soup.find("h1").get_text()
+        return self.schema.title()
+
+    def description(self):
+        return self.schema.description()
 
     def total_time(self):
-        return get_minutes(self.soup.find("div", {"class": "recipe-summary-item unit"}))
+        return self.schema.total_time()
+
+    def prep_time(self):
+        return self.schema.prep_time()
+
+    def cook_time(self):
+        return self.schema.cook_time()
 
     def yields(self):
-        return get_yields(
-            self.soup.find("div", {"class": "servings"}).find("input").get("value")
-        )
+        return self.schema.yields()
+
+    def image(self):
+        return self.schema.image()
 
     def ingredients(self):
-        ingredients = self.soup.findAll("li", {"class": "IngredientLine"})
-
-        return [
-            " ".join(
-                [
-                    normalize_string(span.get_text())
-                    for span in ingredient.select(
-                        """
-                    span[class^=amount],
-                    span[class^=unit],
-                    span[class^=ingredient]"""
-                    )
-                ]
-            )
-            for ingredient in ingredients
-        ]
+        return self.schema.ingredients()
 
     def instructions(self):
-        instructions = self.soup.find("div", attrs={"class": "directions-wrapper"})
-        return (
-            "\n".join(
-                [
-                    normalize_string(instr.get_text())
-                    for instr in instructions.findAll("span", attrs={"class": "step"})
-                ]
-            )
-            if instructions is not None
-            else ""
-        )
+        return self.schema.instructions()
+
+    def ratings(self):
+        return self.schema.ratings()

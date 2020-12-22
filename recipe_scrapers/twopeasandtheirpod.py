@@ -8,34 +8,31 @@ class TwoPeasAndTheirPod(AbstractScraper):
         return "twopeasandtheirpod.com"
 
     def title(self):
-        return self.soup.find("h2", {"class": "wprm-recipe-name"}).get_text()
+        return self.schema.title()
+
+    def description(self):
+        return self.schema.description()
 
     def total_time(self):
-        minutes = self.soup.select_one(".wprm-recipe-total_time").get_text()
-        unit = self.soup.select_one(".wprm-recipe-total_time-unit").get_text()
+        return self.schema.total_time()
 
-        return get_minutes("{} {}".format(minutes, unit))
+    def prep_time(self):
+        return self.schema.prep_time()
+
+    def cook_time(self):
+        return self.schema.cook_time()
 
     def yields(self):
-        return get_yields(
-            self.soup.select_one(
-                "div.wprm-recipe-details-container dl:nth-of-type(5) dd"
-            ).get_text()
-        )
-
-    def ingredients(self):
-        ingredients = self.soup.findAll("li", {"class": "wprm-recipe-ingredient"})
-
-        return [normalize_string(ingredient.get_text()) for ingredient in ingredients]
-
-    def instructions(self):
-        instructions = self.soup.select(".wprm-recipe-instruction-text")
-
-        return "\n".join(
-            [normalize_string(instruction.get_text()) for instruction in instructions]
-        )
+        return self.schema.yields()
 
     def image(self):
-        image = self.soup.find("div", {"class": "wprm-recipe-image"}).find("img")
+        return self.schema.image()
 
-        return image["src"] if image else None
+    def ingredients(self):
+        return self.schema.ingredients()
+
+    def instructions(self):
+        return self.schema.instructions()
+
+    def ratings(self):
+        return self.schema.ratings()

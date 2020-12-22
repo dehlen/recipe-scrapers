@@ -8,25 +8,31 @@ class Przepisy(AbstractScraper):
         return "przepisy.pl"
 
     def title(self):
-        return self.soup.find("h1", {"class": "title"}).get_text()
+        return self.schema.title()
+
+    def description(self):
+        return self.schema.description()
 
     def total_time(self):
-        return get_minutes(self.soup.find("div", {"class": "time-count"}))
+        return self.schema.total_time()
+
+    def prep_time(self):
+        return self.schema.prep_time()
+
+    def cook_time(self):
+        return self.schema.cook_time()
 
     def yields(self):
-        return get_yields(self.soup.find("div", {"class": "person-count"}))
+        return self.schema.yields()
+
+    def image(self):
+        return self.schema.image()
 
     def ingredients(self):
-        ingredients = self.soup.findAll("span", {"class": "text-bg-white"})
-
-        return [
-            normalize_string(i.get_text()) + " " + normalize_string(j.get_text())
-            for i, j in zip(ingredients[0::2], ingredients[1::2])
-        ]
+        return self.schema.ingredients()
 
     def instructions(self):
-        instructions = self.soup.findAll("p", {"class": "step-info-description"})
+        return self.schema.instructions()
 
-        return "\n".join(
-            [normalize_string(instruction.get_text()) for instruction in instructions]
-        )
+    def ratings(self):
+        return self.schema.ratings()

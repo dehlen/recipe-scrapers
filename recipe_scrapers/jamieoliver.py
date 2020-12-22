@@ -8,27 +8,31 @@ class JamieOliver(AbstractScraper):
         return "jamieoliver.com"
 
     def title(self):
-        return self.soup.find("h1").get_text()
+        return self.schema.title()
+
+    def description(self):
+        return self.schema.description()
 
     def total_time(self):
-        return get_minutes(self.soup.find("div", {"class": "time"}))
+        return self.schema.total_time()
+
+    def prep_time(self):
+        return self.schema.prep_time()
+
+    def cook_time(self):
+        return self.schema.cook_time()
 
     def yields(self):
-        return get_yields(self.soup.find("div", {"class": "recipe-detail serves"}))
+        return self.schema.yields()
 
     def image(self):
-        container = self.soup.find("div", {"class": "recipe-header-left"})
-        if not container:
-            return None
-
-        image = container.find("img", {"src": True})
-        return image["src"] if image else None
+        return self.schema.image()
 
     def ingredients(self):
-        ingredients = self.soup.find("ul", {"class", "ingred-list"}).findAll("li")
-
-        return [normalize_string(ingredient.get_text()) for ingredient in ingredients]
+        return self.schema.ingredients()
 
     def instructions(self):
-        instructions = self.soup.find("div", {"class": "instructions-wrapper"})
-        return normalize_string(instructions.get_text())
+        return self.schema.instructions()
+
+    def ratings(self):
+        return self.schema.ratings()

@@ -10,8 +10,19 @@ class HEB(AbstractScraper):
     def title(self):
         return self.soup.find("h1", {"class": "title"}).get_text()
 
+    def description(self):
+        return ""
+
     def total_time(self):
         minutes_tag = self.soup.find("div", {"itemprop": "totalTime"})
+        return get_minutes(minutes_tag.parent.get_text())
+
+    def prep_time(self):
+        minutes_tag = self.soup.find("div", {"itemprop": "prepTime"})
+        return get_minutes(minutes_tag.parent.get_text())
+
+    def cook_time(self):
+        minutes_tag = self.soup.find("div", {"itemprop": "cookTime"})
         return get_minutes(minutes_tag.parent.get_text())
 
     def yields(self):

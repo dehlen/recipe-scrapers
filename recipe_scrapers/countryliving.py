@@ -8,30 +8,31 @@ class CountryLiving(AbstractScraper):
         return "countryliving.com"
 
     def title(self):
-        return self.soup.find("h1", {"class": "content-hed recipe-hed"}).get_text()
+        return self.schema.title()
+
+    def description(self):
+        return self.schema.description()
 
     def total_time(self):
-        return get_minutes(
-            self.soup.find("span", {"class": "total-time-amount"}).parent
-        )
+        return self.schema.total_time()
+
+    def prep_time(self):
+        return self.schema.prep_time()
+
+    def cook_time(self):
+        return self.schema.cook_time()
 
     def yields(self):
-        yields = self.soup.find(
-            "div", {"class": "recipe-details-item yields"}
-        ).get_text()
+        return self.schema.yields()
 
-        return get_yields("{} servings".format(yields))
+    def image(self):
+        return self.schema.image()
 
     def ingredients(self):
-        ingredients = self.soup.findAll("div", {"class": "ingredient-item"})
-
-        return [normalize_string(ingredient.get_text()) for ingredient in ingredients]
+        return self.schema.ingredients()
 
     def instructions(self):
-        instructions = self.soup.find("div", {"class": "direction-lists"}).find_all(
-            "li"
-        )
+        return self.schema.instructions()
 
-        return "\n".join(
-            [normalize_string(instruction.get_text()) for instruction in instructions]
-        )
+    def ratings(self):
+        return self.schema.ratings()

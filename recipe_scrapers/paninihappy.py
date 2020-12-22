@@ -10,8 +10,18 @@ class PaniniHappy(AbstractScraper):
     def title(self):
         return self.soup.find("h1", {"class": "entry-title"}).get_text()
 
+    def description(self):
+        meta = self.soup.find("meta", {"property": "description", "content": True})
+        return normalize_string(meta.get("content")) if meta else None
+
     def total_time(self):
         return get_minutes(self.soup.find("span", {"class": "duration"}))
+
+    def prep_time(self):
+        return get_minutes(self.soup.find("span", {"class": "preptime"}))
+
+    def cook_time(self):
+        return get_minutes(self.soup.find("span", {"class": "cooktime"}))
 
     def yields(self):
         return get_yields(self.soup.find("span", {"class": "yield"}))

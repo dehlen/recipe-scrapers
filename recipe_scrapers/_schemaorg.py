@@ -53,6 +53,9 @@ class SchemaOrg:
     def title(self):
         return normalize_string(self.data.get("name"))
 
+    def description(self):
+        return normalize_string(self.data.get("description"))
+
     def author(self):
         author = self.data.get("author")
         if author is not None:
@@ -67,6 +70,12 @@ class SchemaOrg:
             cook_time = get_minutes(self.data.get("cookTime")) or 0
             total_time = prep_time + cook_time
         return total_time
+
+    def prep_time(self):
+        return get_minutes(self.data.get("prepTime")) or 0
+
+    def cook_time(self):
+        return get_minutes(self.data.get("cookTime")) or 0
 
     def yields(self):
         yield_data = self.data.get("recipeYield")

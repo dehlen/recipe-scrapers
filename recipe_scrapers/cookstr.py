@@ -8,42 +8,31 @@ class Cookstr(AbstractScraper):
         return "cookstr.com"
 
     def title(self):
-        return normalize_string(
-            self.soup.find("h1", {"class": "articleHeadline"}).get_text()
-        )
+        return self.schema.title()
+
+    def description(self):
+        return self.schema.description()
 
     def total_time(self):
-        sections = self.soup.findAll("div", {"class": "articleAttrSection"})
-        total_time = 0
-        for section in sections:
-            time = section.find(text="Total Time")
-            if time:
-                total_time += get_minutes(time.parent.parent)
-        return total_time
+        return self.schema.total_time()
+
+    def prep_time(self):
+        return self.schema.prep_time()
+
+    def cook_time(self):
+        return self.schema.cook_time()
 
     def yields(self):
-        sections = self.soup.findAll("span", {"class": "attrLabel"})
-        total_serves = 0
-        for section in sections:
-            serves = section.find(text="Serves")
-            if serves:
-                total_serves += get_yields(serves.parent.parent)
-        return total_serves
+        return self.schema.yields()
+
+    def image(self):
+        return self.schema.image()
 
     def ingredients(self):
-        ingredients = self.soup.find("div", {"class": "recipeIngredients"})
-
-        return [
-            normalize_string(ingredient.get_text())
-            for ingredient in ingredients.findAll("li")
-        ]
+        return self.schema.ingredients()
 
     def instructions(self):
-        instructions = self.soup.find("div", {"class": "stepByStepInstructionsDiv"})
+        return self.schema.instructions()
 
-        return "\n".join(
-            [
-                normalize_string(instruction.get_text())
-                for instruction in instructions.findAll("p")
-            ]
-        )
+    def ratings(self):
+        return self.schema.ratings()

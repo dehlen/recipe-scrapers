@@ -49,9 +49,24 @@ class AbstractScraper(metaclass=ExceptionHandlingMetaclass):
     def title(self):
         raise NotImplementedError("This should be implemented.")
 
+    @Decorators.normalize_string_output
+    @Decorators.schema_org_priority
+    def description(self):
+        raise NotImplementedError("This should be implemented.")
+
     @Decorators.schema_org_priority
     def total_time(self):
-        """ total time it takes to preparate the recipe in minutes """
+        """ total time it takes to preparate and cook the recipe in minutes """
+        raise NotImplementedError("This should be implemented.")
+
+    @Decorators.schema_org_priority
+    def cook_time(self):
+        """ time it takes to cook the recipe in minutes """
+        raise NotImplementedError("This should be implemented.")
+
+    @Decorators.schema_org_priority
+    def prep_time(self):
+        """ time it takes to preparate the recipe in minutes """
         raise NotImplementedError("This should be implemented.")
 
     @Decorators.schema_org_priority

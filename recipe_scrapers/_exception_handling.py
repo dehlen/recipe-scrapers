@@ -4,7 +4,10 @@ import functools
 
 ON_EXCEPTION_RETURN_VALUES = {
     "title": "",
+    "description": "",
     "total_time": 0,
+    "cook_time": 0,
+    "prep_time": 0,
     "yields": "",
     "image": "",
     "ingredients": [],

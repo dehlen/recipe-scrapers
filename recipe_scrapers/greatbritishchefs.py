@@ -15,6 +15,10 @@ class GreatBritishChefs(AbstractScraper):
     def title(self):
         return normalize_string(self.soup.find("h1").get_text())
 
+    def description(self):
+        meta = self.soup.find("meta", {"property": "description", "content": True})
+        return normalize_string(meta.get("content")) if meta else None
+
     def total_time(self):
         total_time = 0
         tt1 = self.soup.find("span", {"class": "RecipeAttributes__Time"})
@@ -27,6 +31,12 @@ class GreatBritishChefs(AbstractScraper):
             else:
                 total_time = tt2
         return total_time
+
+    def prep_time(self):
+        return get_minutes(self.soup.find(itemprop="prepTime").parent)
+
+    def cook_time(self):
+        return get_minutes(self.soup.find(itemprop="cookTime").parent)
 
     def yields(self):
         recipe_yield = self.soup.find("span", {"class": "RecipeAttributes__Serves"})

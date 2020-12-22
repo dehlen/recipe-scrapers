@@ -12,11 +12,21 @@ class JustBento(AbstractScraper):
         title = self.soup.find("meta", {"property": "og:title", "content": True})
         return title.get("content").replace(expected_prefix, "")
 
+    def description(self):
+        desc = self.soup.find("meta", {"property": "og:description", "content": True})
+        return desc.get("content")
+
     def total_time(self):
         time = self.soup.find(
             "div", {"class": "field-name-taxonomy-vocabulary-2"}
         ).find("a", {"typeof": "skos:Concept"})
         return get_minutes(time)
+
+    def prep_time(self):
+        return 0
+
+    def cook_time(self):
+        return 0
 
     def yields(self):
         return "1"

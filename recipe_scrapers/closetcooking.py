@@ -12,8 +12,19 @@ class ClosetCooking(AbstractScraper):
             self.soup.find("h1", {"class": "entry-title"}).get_text()
         )
 
+    def description(self):
+        return normalize_string(
+            self.soup.find("div", {"class": "description"}).get_text()
+        )
+
     def total_time(self):
         return get_minutes(self.soup.find(itemprop="totalTime").parent)
+
+    def prep_time(self):
+        return get_minutes(self.soup.find(itemprop="prepTime").parent)
+
+    def cook_time(self):
+        return get_minutes(self.soup.find(itemprop="cookTime").parent)
 
     def yields(self):
         return get_yields(self.soup.find(itemprop="recipeYield").parent)

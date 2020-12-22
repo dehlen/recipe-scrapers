@@ -15,6 +15,13 @@ class BettyCrocker(AbstractScraper):
     def title(self):
         return self.soup.find("h1").get_text()
 
+    def description(self):
+        description = self.soup.find("span", {"itemprop": "description"})
+        if description:
+            return normalize_string(description.get_text())
+        else:
+            return ""
+
     def total_time(self):
         total_time = 0
         tt = self.soup.find("li", {"id": "gmi_rp_primaryAttributes_total"})
@@ -23,6 +30,18 @@ class BettyCrocker(AbstractScraper):
             tt2 = get_minutes(tt1)
         total_time = tt2
         return total_time
+
+    def prep_time(self):
+        prep_time = 0
+        pt = self.soup.find("li", {"id": "gmi_rp_primaryAttributes_prep"})
+        if pt:
+            pt1 = normalize_string(pt.get_text())
+            pt2 = get_minutes(pt1)
+        prep_time = pt2
+        return prep_time
+
+    def cook_time(self):
+        return self.total_time() - self.prep_time()
 
     def yields(self):
         recipe_yield = self.soup.find("li", {"id": "gmi_rp_primaryAttributes_servings"})

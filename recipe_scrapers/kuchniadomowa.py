@@ -1,5 +1,5 @@
 from ._abstract import AbstractScraper
-
+from ._utils import normalize_string
 
 class KuchniaDomowa(AbstractScraper):
     @classmethod
@@ -8,6 +8,10 @@ class KuchniaDomowa(AbstractScraper):
 
     def title(self):
         return self.soup.find("h2").get_text().strip()
+
+    def description(self):
+        meta = self.soup.find("meta", {"property": "description", "content": True})
+        return normalize_string(meta.get("content")) if meta else None
 
     def image(self):
         urls = self.soup.findAll("img", {"class": "article-img", "id": "article-img-1"})

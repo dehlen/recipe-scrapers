@@ -12,46 +12,31 @@ class SweetPeasAndSaffron(AbstractScraper):
         return "sweetpeasandsaffron.com"
 
     def title(self):
-        return self.soup.find("h2", {"class": "wprm-recipe-name"}).text
+        return self.schema.title()
+
+    def description(self):
+        return self.schema.description()
 
     def total_time(self):
-        return self.soup.find("span", {"class": "wprm-recipe-total_time"}).text
+        return self.schema.total_time()
+
+    def prep_time(self):
+        return self.schema.prep_time()
+
+    def cook_time(self):
+        return self.schema.cook_time()
 
     def yields(self):
-        return self.soup.find("span", {"class": "wprm-recipe-servings"}).text
+        return self.schema.yields()
 
     def image(self):
-        return self.soup.find(
-            "div", {"class": "wprm-recipe-image wprm-block-image-normal"}
-        ).find("img")["data-src"]
-
-    def instructions(self):
-        instructions = [
-            e.text
-            for e in self.soup.find_all(
-                "div", {"class": "wprm-recipe-instruction-text"}
-            )
-        ]
-        return [normalize_string(instruction) for instruction in instructions]
+        return self.schema.image()
 
     def ingredients(self):
-        ingredient_amount = self.soup.find_all(
-            "span", {"class": "wprm-recipe-ingredient-amount"}
-        )
-        ingredient_unit = self.soup.find_all(
-            "span", {"class": "wprm-recipe-ingredient-unit"}
-        )
-        ingredient_name = self.soup.find_all(
-            "span", {"class": "wprm-recipe-ingredient-name"}
-        )
-        ingredients = [
-            " ".join([n.text, a.text, u.text])
-            for a, u, n in zip(ingredient_amount, ingredient_unit, ingredient_name)
-        ]
-        return ingredients
+        return self.schema.ingredients()
+
+    def instructions(self):
+        return self.schema.instructions()
 
     def ratings(self):
-        return self.soup.find("span", {"class": "wprm-recipe-rating-average"}).text
-
-    def author(self):
-        return self.soup.find("span", {"class": "wprm-recipe-author"}).text
+        return self.schema.ratings()

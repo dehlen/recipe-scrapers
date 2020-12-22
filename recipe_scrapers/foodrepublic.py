@@ -8,7 +8,12 @@ class FoodRepublic(AbstractScraper):
         return "foodrepublic.com"
 
     def title(self):
-        return self.soup.find("h3", {"class": "recipe-title"}).get_text()
+        return self.soup.find("h1", {"itemprop": "headline"}).get_text()
+
+    def description(self):
+        meta = self.soup.find("meta", {"property": "description", "content": True})
+        content = meta.get("content")
+        return normalize_string(content) if content else ""
 
     def total_time(self):
         return sum(
@@ -17,6 +22,12 @@ class FoodRepublic(AbstractScraper):
                 get_minutes(self.soup.find("li", {"class": "cook-time"})),
             ]
         )
+
+    def prep_time(self):
+        return get_minutes(self.soup.find("li", {"class": "prep-time"})),
+
+    def cook_time(self):
+        get_minutes(self.soup.find("li", {"class": "cook-time"}))
 
     def yields(self):
         return get_yields(self.soup.find("span", {"itemprop": "recipeYield"}))

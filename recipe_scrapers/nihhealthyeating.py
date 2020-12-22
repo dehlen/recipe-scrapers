@@ -10,6 +10,10 @@ class NIHHealthyEating(AbstractScraper):
     def title(self):
         return self.soup.h1.get_text().strip()
 
+    def description(self):
+        desc = self.soup.find("p", {"class": "recipe_detail_subtext"}).get_text()
+        return normalize_string(desc) if desc else ""
+
     def total_time(self):
         time_table = self.soup.find("table", {"class": "recipe_time_table"})
 

@@ -8,30 +8,31 @@ class RealSimple(AbstractScraper):
         return "realsimple.com"
 
     def title(self):
-        return self.soup.find("h1").get_text(strip=True)
+        return self.schema.title()
+
+    def description(self):
+        return self.schema.description()
 
     def total_time(self):
-        return get_minutes(self.soup.findAll("div", {"class": "recipe-meta-item"})[1])
+        return self.schema.total_time()
+
+    def prep_time(self):
+        return self.schema.prep_time()
+
+    def cook_time(self):
+        return self.schema.cook_time()
 
     def yields(self):
-        return get_yields(
-            self.soup.findAll("div", {"class": "recipe-meta-item"})[2]
-            .find("div", {"class": "recipe-meta-item-body"})
-            .get_text()
-        )
+        return self.schema.yields()
+
+    def image(self):
+        return self.schema.image()
 
     def ingredients(self):
-        ingredients = self.soup.find("div", {"class": "ingredients"}).findAll("li")
-
-        return [normalize_string(ingredient.get_text()) for ingredient in ingredients]
+        return self.schema.ingredients()
 
     def instructions(self):
-        instructions = self.soup.findAll("div", {"class": "step"})
+        return self.schema.instructions()
 
-        return "\n".join(
-            [
-                normalize_string(instruction.find("p").get_text())
-                for instruction in instructions
-                if instruction.find("p") is not None
-            ]
-        )
+    def ratings(self):
+        return self.schema.ratings()

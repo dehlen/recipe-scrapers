@@ -8,30 +8,31 @@ class Panelinha(AbstractScraper):
         return "panelinha.com.br"
 
     def title(self):
-        return normalize_string(self.soup.find("h1").get_text())
+        return self.schema.title()
+
+    def description(self):
+        return self.schema.description()
 
     def total_time(self):
-        return get_minutes(
-            self.soup.find("span", string="Tempo de preparo").nextSibling
-        )
+        return self.schema.total_time()
 
-    def ingredients(self):
-        ingredients = self.soup.find("h4", string="Ingredientes").nextSibling.findAll(
-            "li"
-        )
+    def prep_time(self):
+        return self.schema.prep_time()
 
-        return [normalize_string(ingredient.get_text()) for ingredient in ingredients]
-
-    def instructions(self):
-        instructions = self.soup.find(
-            "h4", string="Modo de preparo"
-        ).nextSibling.findAll("li")
-
-        return "\n".join(
-            [normalize_string(instruction.get_text()) for instruction in instructions]
-        )
+    def cook_time(self):
+        return self.schema.cook_time()
 
     def yields(self):
-        return normalize_string(
-            self.soup.find("span", string="Serve").nextSibling.get_text()
-        )
+        return self.schema.yields()
+
+    def image(self):
+        return self.schema.image()
+
+    def ingredients(self):
+        return self.schema.ingredients()
+
+    def instructions(self):
+        return self.schema.instructions()
+
+    def ratings(self):
+        return self.schema.ratings()

@@ -8,35 +8,31 @@ class FitMenCook(AbstractScraper):
         return "fitmencook.com"
 
     def title(self):
-        raw_title = self.soup.find("h2", {"class": "gap-none"}).get_text()
-        title = raw_title.replace("\t", "")
-        title = title.replace("\n", "")
+        return self.schema.title()
 
-        return title
+    def description(self):
+        return self.schema.description()
 
     def total_time(self):
-        return get_minutes(self.soup.find("span", {"class": "total-time"}))
+        return self.schema.total_time()
+
+    def prep_time(self):
+        return self.schema.prep_time()
+
+    def cook_time(self):
+        return self.schema.cook_time()
 
     def yields(self):
-        for h4 in self.soup.findAll("h4"):
-            for strong in h4.findAll("strong"):
-                raw_yield = strong.text
-                for word in raw_yield.split():
-                    if word.isdigit():
-                        yields = word
+        return self.schema.yields()
 
-        return get_yields("{} servings".format(yields))
+    def image(self):
+        return self.schema.image()
 
     def ingredients(self):
-        ingredients_parent = self.soup.find("div", {"class": "recipe-ingredients"})
-        ingredients = ingredients_parent.findAll("li")
-
-        return [normalize_string(ingredient.get_text()) for ingredient in ingredients]
+        return self.schema.ingredients()
 
     def instructions(self):
-        instructions_parent = self.soup.find("div", {"class": "recipe-steps"})
-        instructions = instructions_parent.findAll("li")
+        return self.schema.instructions()
 
-        return "\n".join(
-            [normalize_string(instruction.get_text()) for instruction in instructions]
-        )
+    def ratings(self):
+        return self.schema.ratings()
