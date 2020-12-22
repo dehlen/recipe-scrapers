@@ -32,7 +32,7 @@
         <link rel="icon" sizes="32x32" href="https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/favicon_32x32.png" />
         <link rel="icon" sizes="16x16" href="https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/sales_flyer/img/favicon_16x16.png" />
 
-
+        
 
     <link rel="preload" href="/resources/css/global.css" as="style" />
     <link rel="preload" href="/resources/js/app.esm.js" as="script" />
@@ -45,13 +45,14 @@
     <script>
         // Optional: Value for GoogleApiKey will resolve as an empty string for any context where the server has not supplied a value
         window["GoogleAPIKey"] = "";
+        window["wfmLogoutDestination"] = "/recipes/grilled-cheese-and-greens" || "/";
     </script>
     <script src="https://cdn.optimizely.com/js/9737255642.js"></script>
 
-
+        
         <link rel="stylesheet" href="/resources/css/recipes.css" />
 
-        <link rel="stylesheet" href="https://images-na.ssl-images-amazon.com/images/I/61S54yCMZRL.css?AUIClients/WholeUI" />
+        <link rel="stylesheet" href="https://images-na.ssl-images-amazon.com/images/I/618CG52ocDL.css?AUIClients/WholeUI" />
 
         <script>
 (function(f,h,Q,E){function F(a){v&&v.tag&&v.tag(q(":","aui",a))}function w(a,b){v&&v.count&&v.count("aui:"+a,0===b?0:b||(v.count("aui:"+a)||0)+1)}function m(a){try{return a.test(navigator.userAgent)}catch(b){return!1}}function x(a,b,c){a.addEventListener?a.addEventListener(b,c,!1):a.attachEvent&&a.attachEvent("on"+b,c)}function q(a,b,c,e){b=b&&c?b+a+c:b||c;return e?q(a,b,e):b}function G(a,b,c){try{Object.defineProperty(a,b,{value:c,writable:!1})}catch(e){a[b]=c}return c}function va(a,b){var c=a.length,
@@ -61,10 +62,10 @@ h){function n(){var a=null;e?a=h:"function"===typeof h&&(p.start=C(),a=h.apply(f
 namespace:k.namespace};c?n():va(l,k.guardFatal(d,n));return{decorate:function(a){U[d]=k.guardFatal(d,a)}}}}function ja(a){return function(){var b=Array.prototype.slice.call(arguments);return{execute:B(b,!1,a,!1,this),register:B(b,!0,a,!1,this)}}}function W(a,b){return function(c,e){e||(e=c,c=E);var g=this.attribution;return function(){y.push(b||{attribution:g,name:c,logLevel:a});var d=e.apply(this,arguments);y.pop();return d}}}function I(a,b){this.load={js:ea(this,!0),css:ea(this)};G(this,"namespace",
 b);G(this,"attribution",a)}function ka(){h.body?t.trigger("a-bodyBegin"):setTimeout(ka,20)}function D(a,b){a.className=X(a,b)+" "+b}function X(a,b){return(" "+a.className+" ").split(" "+b+" ").join(" ").replace(/^ | $/g,"")}function la(a){try{return a()}catch(b){return!1}}function J(){if(K){var a={w:f.innerWidth||n.clientWidth,h:f.innerHeight||n.clientHeight};5<Math.abs(a.w-Y.w)||50<a.h-Y.h?(Y=a,L=4,(a=k.mobile||k.tablet?450<a.w&&a.w>a.h:1250<=a.w)?D(n,"a-ws"):n.className=X(n,"a-ws")):0<L&&(L--,ma=
 setTimeout(J,16))}}function za(a){(K=a===E?!K:!!a)&&J()}function Aa(){return K}function u(a,b){return"sw:"+(b||"")+":"+a+":"}function na(){oa.forEach(function(a){F(a)})}function p(a){oa.push(a)}function pa(a,b,c,e){if(c){b=m(/Chrome/i)&&!m(/Edge/i)&&!m(/OPR/i)&&!a.capabilities.isAmazonApp&&!m(new RegExp(Z+"bwv"+Z+"b"));var g=u(e,"browser"),d=u(e,"prod_mshop"),f=u(e,"beta_mshop");!a.capabilities.isAmazonApp&&c.browser&&b&&(p(g+"supported"),c.browser.action(g,e));!b&&c.browser&&p(g+"unsupported");c.prodMshop&&
-p(d+"unsupported");c.betaMshop&&p(f+"unsupported")}}"use strict";var M=Q.now=Q.now||function(){return+new Q},C=function(a){return a&&a.now?a.now.bind(a):M}(f.performance),N=C(),r=f.AmazonUIPageJS||f.P;if(r&&r.when&&r.register){N=[];for(var l=h.currentScript;l;l=l.parentElement)l.id&&N.push(l.id);return r.log("A copy of P has already been loaded on this page.","FATAL",N.join(" "))}var v=f.ue;F();F("aui_build_date:3.20.6-2020-10-03");var R=[],S=!1;var ca=function(){for(var a=setTimeout(ca,0),b=M();R.length;)if(R.shift()(),
+p(d+"unsupported");c.betaMshop&&p(f+"unsupported")}}"use strict";var M=Q.now=Q.now||function(){return+new Q},C=function(a){return a&&a.now?a.now.bind(a):M}(f.performance),N=C(),r=f.AmazonUIPageJS||f.P;if(r&&r.when&&r.register){N=[];for(var l=h.currentScript;l;l=l.parentElement)l.id&&N.push(l.id);return r.log("A copy of P has already been loaded on this page.","FATAL",N.join(" "))}var v=f.ue;F();F("aui_build_date:3.20.8-2020-12-18");var R=[],S=!1;var ca=function(){for(var a=setTimeout(ca,0),b=M();R.length;)if(R.shift()(),
 50<M()-b)return;clearTimeout(a);S=!1};var da={},A={},fa={},T=!1;x(f,"beforeunload",function(){T=!0;setTimeout(function(){T=!1},1E4)});var ha=/^prv:/,V={},H={},U={},ia={},ya=0,Z=String.fromCharCode(92),y=[],qa=f.onerror;f.onerror=function(a,b,c,e,g){g&&"object"===typeof g||(g=Error(a,b,c),g.columnNumber=e,g.stack=b||c||e?q(Z,g.message,"at "+q(":",b,c,e)):E);var d=y.pop()||{};g.attribution=q(":",g.attribution||d.attribution,d.name);g.logLevel=d.logLevel;g.attribution&&console&&console.log&&console.log([g.logLevel||
 "ERROR",a,"thrown by",g.attribution].join(" "));y=[];qa&&(d=[].slice.call(arguments),d[4]=g,qa.apply(f,d))};I.prototype={logError:function(a,b,c,e){b={message:b,logLevel:c||"ERROR",attribution:q(":",this.attribution,e)};if(f.ueLogError)return f.ueLogError(a||b,a?b:null),!0;console&&console.error&&(console.log(b),console.error(a));return!1},error:function(a,b,c,e){a=Error(q(":",e,a,c));a.attribution=q(":",this.attribution,b);throw a;},guardError:W(),guardFatal:W("FATAL"),guardCurrent:function(a){var b=
-y[y.length-1];return b?W(b.logLevel,b).call(this,a):a},log:function(a,b,c){return this.logError(null,a,b,c)},declare:B([],!0,!0,!0),register:B([],!0),execute:B([]),AUI_BUILD_DATE:"3.20.6-2020-10-03",when:ja(),now:ja(!0),trigger:function(a,b,c){var e=M();this.declare(a,{data:b,pageElapsedTime:e-(f.aPageStart||NaN),triggerTime:e});c&&c.instrument&&O.when("prv:a-logTrigger").execute(function(b){b(a)})},handleTriggers:function(){this.log("handleTriggers deprecated")},attributeErrors:function(a){return new I(a)},
+y[y.length-1];return b?W(b.logLevel,b).call(this,a):a},log:function(a,b,c){return this.logError(null,a,b,c)},declare:B([],!0,!0,!0),register:B([],!0),execute:B([]),AUI_BUILD_DATE:"3.20.8-2020-12-18",when:ja(),now:ja(!0),trigger:function(a,b,c){var e=M();this.declare(a,{data:b,pageElapsedTime:e-(f.aPageStart||NaN),triggerTime:e});c&&c.instrument&&O.when("prv:a-logTrigger").execute(function(b){b(a)})},handleTriggers:function(){this.log("handleTriggers deprecated")},attributeErrors:function(a){return new I(a)},
 _namespace:function(a,b){return new I(a,b)}};var t=G(f,"AmazonUIPageJS",new I);var O=t._namespace("PageJS","AmazonUI");O.declare("prv:p-debug",ia);t.declare("p-recorder-events",[]);t.declare("p-recorder-stop",function(){});G(f,"P",t);ka();if(h.addEventListener){var ra;h.addEventListener("DOMContentLoaded",ra=function(){t.trigger("a-domready");h.removeEventListener("DOMContentLoaded",ra,!1)},!1)}var n=h.documentElement,aa=function(){var a=["O","ms","Moz","Webkit"],b=h.createElement("div");return{testGradients:function(){b.style.cssText=
 "background-image:-webkit-gradient(linear,left top,right bottom,from(#1E4),to(white));background-image:-webkit-linear-gradient(left top,#1E4,white);background-image:linear-gradient(left top,#1E4,white);";return~b.style.backgroundImage.indexOf("gradient")},test:function(c){var e=c.charAt(0).toUpperCase()+c.substr(1);c=(a.join(e+" ")+e+" "+c).split(" ");for(e=c.length;e--;)if(""===b.style[c[e]])return!0;return!1},testTransform3d:function(){var a=!1;f.matchMedia&&(a=f.matchMedia("(-webkit-transform-3d)").matches);
 return a}}}();r=n.className;var sa=/(^| )a-mobile( |$)/.test(r),ta=/(^| )a-tablet( |$)/.test(r),k={audio:function(){return!!h.createElement("audio").canPlayType},video:function(){return!!h.createElement("video").canPlayType},canvas:function(){return!!h.createElement("canvas").getContext},svg:function(){return!!h.createElementNS&&!!h.createElementNS("http://www.w3.org/2000/svg","svg").createSVGRect},offline:function(){return navigator.hasOwnProperty&&navigator.hasOwnProperty("onLine")&&navigator.onLine},
@@ -72,7 +73,7 @@ dragDrop:function(){return"draggable"in h.createElement("span")},geolocation:fun
 f.localStorage},orientation:function(){return"orientation"in f},touch:function(){return"ontouchend"in h},gradients:function(){return aa.testGradients()},hires:function(){var a=f.devicePixelRatio&&1.5<=f.devicePixelRatio||f.matchMedia&&f.matchMedia("(min-resolution:144dpi)").matches;w("hiRes"+(sa?"Mobile":ta?"Tablet":"Desktop"),a?1:0);return a},transform3d:function(){return aa.testTransform3d()},touchScrolling:function(){return m(/Windowshop|android|OS ([5-9]|[1-9][0-9]+)(_[0-9]{1,2})+ like Mac OS X|Chrome|Silk|Firefox|Trident.+?; Touch/i)},
 ios:function(){return m(/OS [1-9][0-9]*(_[0-9]*)+ like Mac OS X/i)&&!m(/trident|Edge/i)},android:function(){return m(/android.([1-9]|[L-Z])/i)&&!m(/trident|Edge/i)},mobile:function(){return sa},tablet:function(){return ta},rtl:function(){return"rtl"===n.dir}};for(l in k)k.hasOwnProperty(l)&&(k[l]=la(k[l]));for(var ba="textShadow textStroke boxShadow borderRadius borderImage opacity transform transition".split(" "),P=0;P<ba.length;P++)k[ba[P]]=la(function(){return aa.test(ba[P])});var K=!0,ma=0,Y=
 {w:0,h:0},L=4;J();x(f,"resize",function(){clearTimeout(ma);L=4;J()});var ua={getItem:function(a){try{return f.localStorage.getItem(a)}catch(b){}},setItem:function(a,b){try{return f.localStorage.setItem(a,b)}catch(c){}}};n.className=X(n,"a-no-js");D(n,"a-js");!m(/OS [1-8](_[0-9]*)+ like Mac OS X/i)||f.navigator.standalone||m(/safari/i)||D(n,"a-ember");r=[];for(l in k)k.hasOwnProperty(l)&&k[l]&&r.push("a-"+l.replace(/([A-Z])/g,function(a){return"-"+a.toLowerCase()}));D(n,r.join(" "));n.setAttribute("data-aui-build-date",
-"3.20.6-2020-10-03");t.register("p-detect",function(){return{capabilities:k,localStorage:k.localStorage&&ua,toggleResponsiveGrid:za,responsiveGridEnabled:Aa}});m(/UCBrowser/i)||k.localStorage&&D(n,ua.getItem("a-font-class"));t.declare("a-event-revised-handling",!1);try{var z=navigator.serviceWorker}catch(a){F("sw:nav_err")}z&&(x(z,"message",function(a){a&&a.data&&w(a.data.k,a.data.v)}),z.controller&&z.controller.postMessage("MSG-RDY"));var oa=[];(function(a){var b=a.reg,c=a.unreg;z&&z.getRegistrations?
+"3.20.8-2020-12-18");t.register("p-detect",function(){return{capabilities:k,localStorage:k.localStorage&&ua,toggleResponsiveGrid:za,responsiveGridEnabled:Aa}});m(/UCBrowser/i)||k.localStorage&&D(n,ua.getItem("a-font-class"));t.declare("a-event-revised-handling",!1);try{var z=navigator.serviceWorker}catch(a){F("sw:nav_err")}z&&(x(z,"message",function(a){a&&a.data&&w(a.data.k,a.data.v)}),z.controller&&z.controller.postMessage("MSG-RDY"));var oa=[];(function(a){var b=a.reg,c=a.unreg;z&&z.getRegistrations?
 (O.when("A","a-util").execute(function(a,b){pa(a,b,c,"unregister")}),x(f,"load",function(){O.when("A","a-util").execute(function(a,c){pa(a,c,b,"register");na()})})):(b&&(b.browser&&p(u("register","browser")+"unsupported"),b.prodMshop&&p(u("register","prod_mshop")+"unsupported"),b.betaMshop&&p(u("register","beta_mshop")+"unsupported")),c&&(c.browser&&p(u("unregister","browser")+"unsupported"),c.prodMshop&&p(u("unregister","prod_mshop")+"unsupported"),c.betaMshop&&p(u("unregister","beta_mshop")+"unsupported")),
 na())})({reg:{},unreg:{}});t.declare("a-fix-event-off",!1);w("pagejs:pkgExecTime",C()-N)})(window,document,Date);
   (window.AmazonUIPageJS ? AmazonUIPageJS : P).load.js('https://images-na.ssl-images-amazon.com/images/I/518lAPZcRsL.js?AUIClients/WholeUI');
@@ -133,6 +134,8 @@ na())})({reg:{},unreg:{}});t.declare("a-fix-event-off",!1);w("pagejs:pkgExecTime
   </g>
 </g></symbol><symbol id='phoneIcon' viewBox='0 0 22 22'><path fill='none' fill-rule='evenodd' stroke='#004E36' stroke-linecap='round' stroke-linejoin='round' stroke-width='1.35' d='M8.68 7.532a1.578 1.578 0 0 0 0-2.23L7.007 3.629a1.577 1.577 0 0 0-2.23 0l-.918.918a2.362 2.362 0 0 0-.298 2.976 36.678 36.678 0 0 0 10.25 10.25c.937.62 2.183.497 2.976-.297l.918-.918a1.578 1.578 0 0 0 0-2.23l-1.672-1.673a1.578 1.578 0 0 0-2.231 0l-.557.558a37.424 37.424 0 0 1-5.123-5.124l.558-.557z'/></symbol><symbol id='plus' viewBox='0 0 20 20'><g fill-rule='evenodd' fill='#004E36'><path d='M.665 5.5h4.822V.705h2.02V5.5h4.788v2.003H7.508v4.832H5.487V7.503H.665z'/></g></symbol><symbol id='launchIcon' viewBox='0 0 16 16'><g fill='#004E36' fill-rule='evenodd' stroke='#004E36' stroke-width='.5'><path d='M14.3 1H11a.5.5 0 1 1 0-1h4a1 1 0 0 1 1 1v4a.5.5 0 1 1-1 0V1.7l-4.95 4.95a.495.495 0 0 1-.7-.7L14.3 1z'/><path d='M13 9h1v6c0 .6-.4 1-1 1H1c-.6 0-1-.4-1-1V3c0-.6.4-1 1-1h7v1H1v12h12V9z'/></g></symbol><symbol id='link' viewBox='0 0 20 20'><g fill-rule='evenodd' fill='#004E36'><path d='M9.485 6.445c-.261.26-.673.27-.921.023-.248-.248-.238-.66.023-.922l3.497-3.497C13.697.436 16.247.373 17.78 1.906c1.534 1.534 1.47 4.085-.142 5.698l-3.498 3.497c-1.612 1.613-4.163 1.677-5.697.143-.248-.248-.238-.66.023-.921.26-.26.673-.271.921-.023 1.038 1.038 2.764.994 3.855-.097l3.498-3.497c1.09-1.091 1.134-2.817.096-3.855-1.038-1.038-2.764-.995-3.855.096L9.485 6.445zm1.046 6.929c.26-.261.673-.272.92-.024.249.248.238.66-.022.922L7.93 17.769c-1.612 1.613-4.163 1.676-5.697.143-1.534-1.534-1.47-4.085.143-5.698l3.497-3.497c1.613-1.613 4.164-1.677 5.697-.143.248.248.238.66-.023.921-.26.26-.673.271-.92.023-1.039-1.038-2.765-.994-3.856.097l-3.497 3.497c-1.092 1.091-1.135 2.817-.097 3.855 1.038 1.038 2.764.995 3.855-.096l3.498-3.497z'/></g></symbol></svg>
 
+        
+        
 
 
 
@@ -143,14 +146,12 @@ na())})({reg:{},unreg:{}});t.declare("a-fix-event-off",!1);w("pagejs:pkgExecTime
 
 
 
-
-
-
-
+     
+     
           <script type="module" src="/resources/js/app.esm.js"></script>
           <script nomodule src="/resources/js/app.js"></script>
-
-
+     
+ 
 
 
 
@@ -164,7 +165,7 @@ na())})({reg:{},unreg:{}});t.declare("a-fix-event-off",!1);w("pagejs:pkgExecTime
         <script src="/resources/js/header-images.js"></script>
         <script>
             document.addEventListener('WholeUIReady', function() {
-                const imgArray = [
+                const imgArray = [ 
                     { img:"http://assets.wholefoodsmarket.com/recipes/3604/460/290/3604-1.jpg", width:460, height:290 }
                      ];
 
@@ -178,9 +179,9 @@ na())})({reg:{},unreg:{}});t.declare("a-fix-event-off",!1);w("pagejs:pkgExecTime
             height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <!-- End Google Tag Manager (noscript) -->
         <main class="w-main">
-
-
-
+            
+                
+                    
 
 
 
@@ -189,7 +190,10 @@ na())})({reg:{},unreg:{}});t.declare("a-fix-event-off",!1);w("pagejs:pkgExecTime
         <p class="w-body-short-form-white">We are taking extended measures to ensure the safety and wellness of our team members and communities at this time. <a href='https://www.wholefoodsmarket.com/company-info/covid-19-response' aria-label='status message link' class='w-link w-link-white' style='color:white;text-decoration:underline;'>Learn more.</a></p>
     </div>
 
-<nav class="wfm-global-nav" id="header">
+
+    
+    
+        <nav class="wfm-global-nav" id="header">
     <div class="wfm-global-nav__group">
         <wfm-global-menu-hamburger></wfm-global-menu-hamburger>
         <div class="wfm-global-nav__logo"><a href="https://www.wholefoodsmarket.com"><span class="w-visually-hidden">Home</span></a></div>
@@ -202,7 +206,8 @@ na())})({reg:{},unreg:{}});t.declare("a-fix-event-off",!1);w("pagejs:pkgExecTime
         <ul class="wfm-global-nav__menu">
             <li><a class="w-link w-link-white" href="https://products.wholefoodsmarket.com"><span>Browse Products</span></a></li>
             <li><a class="w-link w-link-white" href="/online-ordering"><span>Order Online</span></a></li>
-            <li><a class="w-link w-link-white" href="/tips-and-ideas"><span>Tips &amp; Ideas</span></a></li>
+            <!-- <li><a class="w-link w-link-white" href="/tips-and-ideas"><span>Tips &amp; Ideas</span></a></li> -->
+            <li><a href="https://holiday.wholefoodsmarket.com/" class="w-link w-link-white"><span>Holiday Meals</span></a></li>
             <li><a class="w-link w-link-white" href="/sales-flyer"><span>Weekly Sales</span></a></li>
             <li><a class="w-link w-link-white" href="/stores"><span>Find a Store</span></a></li>
         </ul>
@@ -210,21 +215,27 @@ na())})({reg:{},unreg:{}});t.declare("a-fix-event-off",!1);w("pagejs:pkgExecTime
             <wfm-site-search rel-desktop=".wfm-global-menu"></wfm-site-search>
         </div>
         <div class="wfm-global-nav__login">
-
-            <wfm-login-menu logout-destination="/recipes/grilled-cheese-and-greens"></wfm-login-menu>
+            <wfm-login-menu></wfm-login-menu>
         </div>
     </wfm-global-menu>
     <wfm-login-tooltip
-        rel-desktop=".wfm-global-nav__login-button"
-        rel-tablet=".wfm-global-nav__hamburger .wfm-hamburger__box"
-        rel-mobile=".wfm-global-nav__hamburger .wfm-hamburger__box">
+            rel-desktop=".wfm-global-nav__login-button"
+            rel-tablet=".wfm-global-nav__hamburger .wfm-hamburger__box"
+            rel-mobile=".wfm-global-nav__hamburger .wfm-hamburger__box">
     </wfm-login-tooltip>
 </nav>
 <wfm-global-bar></wfm-global-bar>
 
+    
 
+<script src='/resources/DSIEventLog.js'></script>
+<script>
+    DSIEventLog.attachListener('ul.wfm-global-nav__menu > li > a', requestId, DSIEventLog.actionTypeEnum.INTENTION, 'HeaderButtonClick')
+</script>
 
-
+                
+                
+            
             <div class="w-recipe-container">
                 <div class="w-grid-container w-recipe-header">
                     <div class="w-header-social w-grid-start-lg-2 w-grid-width-lg-1 w-grid-start-md-2 w-grid-width-md-8 w-grid-start-sm-2 w-grid-width-sm-10">
@@ -239,12 +250,12 @@ na())})({reg:{},unreg:{}});t.declare("a-fix-event-off",!1);w("pagejs:pkgExecTime
                         </div>
                         <h1 class="w-header-title w-fs-hero2 w-font--circular-std-bold">Grilled Cheese and Greens</h1>
                         <div class="w-recipe-serving-cook-time-container">
-
+                            
                                 <div class="w-header-servings w-fs-body-short-form w-font--circular-std-book">Serves 4</div>
-
-
+                            
+                            
                                 <div class="w-header-cook-time w-fs-body-short-form w-font--circular-std-book">Time 30 min</div>
-
+                            
                         </div>
                     </div>
                     <div id="w-header-img" class="w-grid-start-lg-3 w-grid-width-lg-22 w-grid-start-md-1 w-grid-width-md-13 w-grid-start-sm-1 w-grid-width-sm-13"></div>
@@ -254,11 +265,11 @@ na())})({reg:{},unreg:{}});t.declare("a-fix-event-off",!1);w("pagejs:pkgExecTime
                     <div class="w-content-description w-fs-body-long-form w-font--corda w-grid-start-lg-3 w-grid-width-lg-11 w-grid-start-md-2 w-grid-width-md-11 w-grid-start-sm-2 w-grid-width-sm-11">
                         Sneak soft cooked greens into the middle of a warm grilled cheese sandwich to add a bit of nutrition to this comforting meal. Substitute your favorite greens for kale if you like, and try with oozy Taleggio cheese for a sophisticated twist.
                     </div>
-
+                    
                     <div class="w-content-special-diets w-grid-start-lg-3 w-grid-width-lg-11 w-grid-start-md-2 w-grid-width-md-11 w-grid-start-sm-2 w-grid-width-sm-11">
                         <div class="w-diets-title w-fs-body-em w-font--circular-std-bold">Special Diets:</div>
                         <div class="w-diets-icons">
-
+                            
                                 <div class="w-diet-icon-group">
                                     <a href="/special-diets/vegetarian" aria-label="Additional Info about Diet: Vegetarian" >
                                         <svg class="logo__img svg-logo-dims" aria-hidden="true">
@@ -267,7 +278,7 @@ na())})({reg:{},unreg:{}});t.declare("a-fix-event-off",!1);w("pagejs:pkgExecTime
                                     </a>
                                     <div class="w-diet-text w-fs-link-text w-font--circular-std-bold"><a href="/special-diets/vegetarian" aria-label="Additional Info about Diet: Vegetarian" >Vegetarian</a></div>
                                 </div>
-
+                            
                                 <div class="w-diet-icon-group">
                                     <a href="/special-diets/high-fiber" aria-label="Additional Info about Diet: High fiber" >
                                         <svg class="logo__img svg-logo-dims" aria-hidden="true">
@@ -276,7 +287,7 @@ na())})({reg:{},unreg:{}});t.declare("a-fix-event-off",!1);w("pagejs:pkgExecTime
                                     </a>
                                     <div class="w-diet-text w-fs-link-text w-font--circular-std-bold"><a href="/special-diets/high-fiber" aria-label="Additional Info about Diet: High fiber" >High fiber</a></div>
                                 </div>
-
+                            
                                 <div class="w-diet-icon-group">
                                     <a href="/special-diets/sugar-conscious" aria-label="Additional Info about Diet: Sugar conscious" >
                                         <svg class="logo__img svg-logo-dims" aria-hidden="true">
@@ -285,31 +296,31 @@ na())})({reg:{},unreg:{}});t.declare("a-fix-event-off",!1);w("pagejs:pkgExecTime
                                     </a>
                                     <div class="w-diet-text w-fs-link-text w-font--circular-std-bold"><a href="/special-diets/sugar-conscious" aria-label="Additional Info about Diet: Sugar conscious" >Sugar conscious</a></div>
                                 </div>
-
+                            
                         </div>
                     </div>
-
+                    
                     <div class="w-content-ingredients w-grid-start-lg-17 w-grid-width-lg-9 w-grid-height-lg-5 w-grid-start-md-1 w-grid-width-md-13 w-grid-start-sm-1 w-grid-width-sm-13 w-grid-container">
                         <div class="w-ingredients-card-container w-grid-start-lg-1 w-grid-width-lg-25 w-grid-start-md-2 w-grid-width-md-11 w-grid-start-sm-2 w-grid-width-sm-11">
                             <div class="w-ingredients-card">
                                 <div class="w-ingredients-title w-fs-subhead-large w-font--circular-std-bold">Ingredients</div>
                                 <div class="w-ingredients-content w-fs-body-short-form w-font--circular-std-book">
                                     <ul>
-
+                                        
                                             <li><span class="w-font--circular-std-bold">2 tablespoons</span> extra-virgin olive oil, divided</li>
-
+                                        
                                             <li><span class="w-font--circular-std-bold">1 clove</span> garlic, thinly sliced</li>
-
+                                        
                                             <li><span class="w-font--circular-std-bold">1 bunch</span> (about 8 ounces) kale, thick stems removed and leaves shredded</li>
-
+                                        
                                             <li><span class="w-font--circular-std-bold">8 slices</span> whole grain bread</li>
-
+                                        
                                             <li><span class="w-font--circular-std-bold">8 slices</span> Swiss or Le Gruyère cheese (about 8 ounces total)</li>
-
+                                        
                                             <li><span class="w-font--circular-std-bold">1/4 teaspoon</span> kosher salt</li>
-
+                                        
                                             <li><span class="w-font--circular-std-bold">1/8 teaspoon</span> ground black pepper</li>
-
+                                        
                                     </ul>
                                     <div class="w-ingredients-button">
                                         <a class="w-primary-button" href="https://www.amazon.com/alm/storefront?almBrandId=VUZHIFdob2xlIEZvb2Rz&ref_=US_TRF_ALL_UFG_WFM_REFER_0423636" target="_blank" rel="noopener noreferrer">Shop with Prime<svg aria-hidden="true" focusable="false" class="w-link-icon "><use xlink:href="#launchIconDarkBg"></use></svg></a>
@@ -322,21 +333,21 @@ na())})({reg:{},unreg:{}});t.declare("a-fix-event-off",!1);w("pagejs:pkgExecTime
                     <div class="w-content-method w-grid-start-lg-3 w-grid-width-lg-11 w-grid-start-md-2 w-grid-width-md-11 w-grid-start-sm-2 w-grid-width-sm-11">
                         <div class="w-method-title w-fs-subhead-large w-font--circular-std-bold">Method</div>
                         <div class="w-method-content w-fs-body-long-form w-font--corda">
-
+                            
                                 <p>In a large skillet, heat 1 teaspoon olive oil over medium-high heat until hot.</p>
-
+                            
                                 <p>Add kale, garlic, salt and pepper. Cover and cook, stirring occasionally, until kale begins to wilt, about 5 minutes.</p>
-
+                            
                                 <p>Uncover, reduce heat to medium and continue to cook, stirring frequently, until kale is very soft, about 5 minutes.</p>
-
+                            
                                 <p>Arrange 4 bread slices on a work surface. Top each with one slice of cheese, an even layer of the kale, another slice of cheese, and then a piece of bread.</p>
-
+                            
                                 <p>Brush both sides of each sandwich with remaining olive oil.</p>
-
+                            
                                 <p>Heat a large nonstick skillet over medium heat until hot.</p>
-
+                            
                                 <p>Place stacked sandwiches in the pan and cook until bread is golden brown and cheese has melted, pressing flat with a spatula occasionally, 4 to 5 minutes per side. Serve immediately. Depending on the size of your skillet, you might need to cook these in batches. If so, the first batch can be kept warm in a 200&deg;F oven while finishing the second batch.</p>
-
+                            
                         </div>
                     </div>
 
@@ -356,21 +367,21 @@ na())})({reg:{},unreg:{}});t.declare("a-fix-event-off",!1);w("pagejs:pkgExecTime
                             <div id="w-mobile-clickable" class="w-ingredients-title w-fs-link-text-large w-font--circular-std-bold">Ingredients</div>
                             <div id="w-mobile-ingredient-content" class="w-ingredients-content w-fs-body-short-form w-font--circular-std-book">
                                 <ul>
-
+                                
                                     <li><span class="w-font--circular-std-bold">2 tablespoons</span> extra-virgin olive oil, divided</li>
-
+                                
                                     <li><span class="w-font--circular-std-bold">1 clove</span> garlic, thinly sliced</li>
-
+                                
                                     <li><span class="w-font--circular-std-bold">1 bunch</span> (about 8 ounces) kale, thick stems removed and leaves shredded</li>
-
+                                
                                     <li><span class="w-font--circular-std-bold">8 slices</span> whole grain bread</li>
-
+                                
                                     <li><span class="w-font--circular-std-bold">8 slices</span> Swiss or Le Gruyère cheese (about 8 ounces total)</li>
-
+                                
                                     <li><span class="w-font--circular-std-bold">1/4 teaspoon</span> kosher salt</li>
-
+                                
                                     <li><span class="w-font--circular-std-bold">1/8 teaspoon</span> ground black pepper</li>
-
+                                
                                 </ul>
                             </div>
                             <div class="w-ingredients-button">
@@ -381,9 +392,9 @@ na())})({reg:{},unreg:{}});t.declare("a-fix-event-off",!1);w("pagejs:pkgExecTime
                     </div>
                 </div>
             </div>
-
-
-
+            
+                
+                    
 
 
 <div class="w-footer--section" id="footer">
@@ -391,92 +402,71 @@ na())})({reg:{},unreg:{}});t.declare("a-fix-event-off",!1);w("pagejs:pkgExecTime
         <div class="w-global--footer-list-group">
             <div class="w-global--footer-list">
                 <h3>Shopping</h3>
-                <ul role="nav">
-                        <li><a class="w-link w-link-white"
-                                href="/sales-flyer"
-                                aria-label="Weekly Sales">Weekly Sales</a></li>
-                        <li><a class="w-link w-link-white"
-                                href="https://products.wholefoodsmarket.com"
-                                aria-label="Browse Products">Browse Products</a></li>
-                        <li><a class="w-link w-link-white"
-                                href="/shop/choose"
-                                aria-label="Meals and Catering">Meals and Catering</a></li>
-                        <li><a class="w-link--external w-link--external-icon w-link-white"
-                                href="https://wholefoods.buyatab.com/custom/wholefoods"
-                                target="_blank"
-                                aria-label="Gift Cards">Gift Cards</a></li>
-                        <li><a class="w-link--external w-link--external-icon w-link-white"
-                                href="https://www.amazon.com/alm/storefront?almBrandId=VUZHIFdob2xlIEZvb2Rz&ref_=US_TRF_ALL_UFG_WFM_REFER_0422447"
-                                target="_blank"
-                                aria-label="Delivery and Pickup">Delivery and Pickup</a></li>
+                <ul role="navigation">
+                    <li><a class="w-link w-link-white"
+                           href="/sales-flyer">Weekly Sales</a></li>
+                    <li><a class="w-link w-link-white"
+                           href="https://products.wholefoodsmarket.com">Browse Products</a></li>
+                    <li><a class="w-link w-link-white"
+                           href="/shop/choose">Meals and Catering</a></li>
+                    <li><a class="w-link--external w-link--external-icon w-link-white"
+                           href="https://wholefoods.buyatab.com/custom/wholefoods"
+                           target="_blank">Gift Cards</a></li>
+                    <li><a class="w-link--external w-link--external-icon w-link-white"
+                           href="https://www.amazon.com/alm/storefront?almBrandId=VUZHIFdob2xlIEZvb2Rz&ref_=US_TRF_ALL_UFG_WFM_REFER_0422447"
+                           target="_blank">Delivery and Pickup</a></li>
                 </ul>
             </div>
             <div class="w-global--footer-list">
                 <h3>About</h3>
-                <ul role="nav">
-                        <li><a class="w-link w-link-white"
-                               href="/company-info"
-                               aria-label="About Whole Foods Market">About Whole Foods Market</a></li>
-                        <li><a class="w-link w-link-white"
-                               href="/quality-standards"
-                               aria-label="Quality Standards">Quality Standards</a></li>
-                        <li><a class="w-link w-link-white"
-                               href="/mission-values"
-                               aria-label="Mission and Values">Mission and Values</a></li>
-                        <li><a class="w-link w-link-white"
-                               href="/departments"
-                               aria-label="Departments">Departments</a></li>
-                        <li><a class="w-link w-link-white"
-                               href="/company-info/information-potential-suppliers"
-                               aria-label="Potential Suppliers">Potential Suppliers</a></li>
-                        <li><a class="w-link w-link-white"
-                               href="/company-info/corporate-policies"
-                               aria-label="Corporate Policies">Corporate Policies</a></li>
-                        <li><a class="w-link--external w-link--external-icon w-link-white"
-                               href="https://media.wholefoodsmarket.com"
-                               target="_blank"
-                               aria-label="Newsroom">Newsroom</a></li>
-                        <li><a class="w-link--external w-link--external-icon w-link-white"
-                               href="https://careers.wholefoodsmarket.com/global/en"
-                               target="_blank"
-                               aria-label="Careers">Careers</a></li>
+                <ul role="navigation">
+                    <li><a class="w-link w-link-white"
+                           href="/company-info">About Whole Foods Market</a></li>
+                    <li><a class="w-link w-link-white"
+                           href="/quality-standards">Quality Standards</a></li>
+                    <li><a class="w-link w-link-white"
+                           href="/mission-values">Mission and Values</a></li>
+                    <li><a class="w-link w-link-white"
+                           href="/departments">Departments</a></li>
+                    <li><a class="w-link w-link-white"
+                           href="/company-info/information-potential-suppliers">Potential Suppliers</a></li>
+                    <li><a class="w-link w-link-white"
+                           href="/company-info/corporate-policies">Corporate Policies</a></li>
+                    <li><a class="w-link--external w-link--external-icon w-link-white"
+                           href="https://media.wholefoodsmarket.com"
+                           target="_blank">Newsroom</a></li>
+                    <li><a class="w-link--external w-link--external-icon w-link-white"
+                           href="https://careers.wholefoodsmarket.com/global/en"
+                           target="_blank">Careers</a></li>
                 </ul>
             </div>
             <div class="w-global--footer-list">
                 <h3>More</h3>
-                <ul role="nav">
+                <ul role="navigation">
                     <li><a class="w-link w-link-white"
-                            href="/amazon"
-                            aria-label="Amazon Prime at Whole Foods">Amazon Prime at Whole Foods</a></li>
+                           href="/amazon">Amazon Prime at Whole Foods</a></li>
                     <li><a class="w-link w-link-white"
-                            href="/special-diets"
-                            aria-label="Special Diets">Special Diets</a></li>
+                           href="/special-diets">Special Diets</a></li>
                     <li><a class="w-link w-link-white"
-                            href="/tips-and-ideas"
-                            aria-label="Tips and Ideas">Tips and Ideas</a></li>
+                           href="/tips-and-ideas">Tips and Ideas</a></li>
                     <li><a class="w-link w-link-white"
-                            href="/recipes"
-                            aria-label="Recipes">Recipes</a></li>
+                           href="/recipes">Recipes</a></li>
                     <li><a class="w-link--external w-link--external-icon w-link-white"
-                            href="https://www.wholeplanetfoundation.org"
-                            target="_blank"
-                            aria-label="Whole Planet Foundation">Whole Planet Foundation</a></li>
+                           href="https://www.wholeplanetfoundation.org"
+                           target="_blank">Whole Planet Foundation</a></li>
                     <li><a class="w-link--external w-link--external-icon w-link-white"
-                            href="https://www.wholekidsfoundation.org"
-                            target="_blank"
-                            aria-label="Whole Kids Foundation">Whole Kids Foundation</a></li>
+                           href="https://www.wholekidsfoundation.org"
+                           target="_blank">Whole Kids Foundation</a></li>
                     <li><a class="w-link--external w-link--external-icon w-link-white"
-                            href="https://www.wholecitiesfoundation.org"
-                            target="_blank"
-                            aria-label="Whole Cities Foundation">Whole Cities Foundation</a></li>
+                           href="https://www.wholecitiesfoundation.org"
+                           target="_blank">Whole Cities Foundation</a></li>
                 </ul>
             </div>
             <div class="w-global--footer-list w-global-customer-care">
                 <h3>Need Help?</h3>
-                <ul role="nav">
+                <ul role="navigation">
                     <li><a class="w-link w-link-white w-link--arrow"
-                            href="/customer-service"
-                            aria-label="Visit customer care">Visit customer care</a></li>
+                           href="/customer-service">Visit customer care</a></li>
                 </ul>
                 <div class="w-global--footer-contact">
                     <h3>Connect With Us</h3>
@@ -510,21 +500,18 @@ na())})({reg:{},unreg:{}});t.declare("a-fix-event-off",!1);w("pagejs:pkgExecTime
                         </ul>
                     </nav>
                     <a class="w-button w-link-white w-button--white"
--                       href="/account#email"
--                       aria-label="Sign up for email"><span>Sign up for email</span></a>
+                       -                       href="/account#email"><span>Sign up for email</span></a>
                     <div class="w-global--footer-apps">
                         <p>Download the Whole Foods Market app</p>
                         <ul class="inline-app-icons">
-                            <li><a href="https://itunes.apple.com/us/app/whole-foods-market/id320029256"
-                                   target="_blank"
-                                   aria-label="Whole Foods Market on iTunes">
+                            <li><a href="https://wholefoods.app.link/r47ndBCtAab"
+                                   target="_blank" >
                                 <img src="https://s3.amazonaws.com/assets.wholefoodsmarket.com/static_pages/badge-ios-app-store.svg"
                                      alt="Get the app in the Apple iTunes Store" />
                             </a></li>
-                            <li><a href="https://play.google.com/store/apps/details?id=com.wholefoods.wholefoodsmarket"
-                                   target="_blank"
-                                   aria-label="Whole Foods Market on Google Play">
-                                <img src="https://s3.amazonaws.com/assets.wholefoodsmarket.com/static_pages/badge-android-app-store.jpg"
+                            <li><a href="https://wholefoods.app.link/r47ndBCtAab"
+                                   target="_blank" >
+                                <img src="https://s3.amazonaws.com/assets.wholefoodsmarket.com/static_pages/google-badge.svg"
                                      alt="Get the app in the Google Play Store" />
                             </a></li>
                         </ul>
@@ -535,39 +522,37 @@ na())})({reg:{},unreg:{}});t.declare("a-fix-event-off",!1);w("pagejs:pkgExecTime
     </div>
     <div class="w-global--footer-content w-global--footer-bottom">
         <div class="w-global--footer-footer-list">
-            <ul role="nav">
-                <li><a class="w-link w-link-white"
-                        href="/legal/trademarks"
-                        aria-label="Copyright 2020 Whole Foods Market IP. L.P.">Copyright 2020 Whole Foods Market IP. L.P.</a></li>
-                <hr />
-                <div class="w-global--footer-footer-links">
-                    <li><a class="w-link w-link-white"
-                            href="/site-information/privacy-notice"
-                            aria-label="Privacy Notice">Privacy Notice</a></li>
-                    <li><a class="w-link w-link-white"
-                            href="/legal/conditions-of-use"
-                            aria-label="Conditions of Use">Conditions of Use</a></li>
-                    <li><a class="w-link w-link-white"
-                            href="/site-information/interest-based-ads"
-                            aria-label="Interest-Based Ads">Interest-Based Ads</a></li>
-                    <li><a class="w-link w-link-white"
-                            href="/site-information/site-map"
-                            aria-label="Site Map">Site Map</a></li>
-                    <li><a class="w-link w-link-white"
-                            href="/site-information"
-                            aria-label="Site Information">Site Information</a></li>
-                    <li><a class="w-link w-link-white"
-                            href="/legal"
-                            aria-label="Legal">Legal</a></li>
-                </div>
+            <ul role="navigation">
+                <li>
+                    <a class="w-link w-link-white"
+                       href="/legal/trademarks">Copyright 2020 Whole Foods Market IP. L.P.</a>
+                </li>
+                <li aria-hidden="true"><hr /></li>
+                <li>
+                    <ul class="w-global--footer-footer-links">
+                        <li><a class="w-link w-link-white"
+                               href="/site-information/privacy-notice">Privacy Notice</a></li>
+                        <li><a class="w-link w-link-white"
+                               href="/legal/conditions-of-use">Conditions of Use</a></li>
+                        <li><a class="w-link w-link-white"
+                               href="/site-information/interest-based-ads">Interest-Based Ads</a></li>
+                        <li><a class="w-link w-link-white"
+                               href="/site-information/site-map">Site Map</a></li>
+                        <li><a class="w-link w-link-white"
+                               href="/site-information">Site Information</a></li>
+                        <li><a class="w-link w-link-white"
+                               href="/legal">Legal</a></li>
+                    </ul>
+                </li>
             </ul>
         </div>
     </div>
 </div>
 
 
-
-
+                
+                
+            
         </main>
 
         <script type="application/ld+json">
@@ -636,3 +621,4 @@ na())})({reg:{},unreg:{}});t.declare("a-fix-event-off",!1);w("pagejs:pkgExecTime
         </script>
     </body>
 </html>
+

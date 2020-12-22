@@ -25,7 +25,7 @@ class TestBBCFoodScraper(ScraperTest):
         self.assertEqual(130, self.harvester_class.total_time())
 
     def test_yields(self):
-        self.assertEqual("1 item(s)", self.harvester_class.yields())
+        self.assertEqual("Makes 1", self.harvester_class.yields())
 
     def test_image(self):
         self.assertEqual(

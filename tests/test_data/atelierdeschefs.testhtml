@@ -4,7 +4,9 @@
         <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
         <title>Recette de Crêpe savoyarde facile et rapide</title>
         <meta name="description" content="Découvrez cette recette de Crêpe savoyarde expliquée par nos chefs">
-                <link href="https://www.atelierdeschefs.com/favicon_fr.png" rel="icon" type="image/x-icon">
+                        <link rel="shortcut icon" type="image/x-icon" href="https://www.atelierdeschefs.com/favicon.ico">
+
+
         <!-- Data Layer -->
         <script>
         window.dataLayer = window.dataLayer || [];dataLayer = [{"typepage":"recette"}];</script>
@@ -608,7 +610,7 @@
                         <div class="row-fluid text-center">
                             <div class="inline">
                                 <input id="input-rating" name="input-rating" value="7" class="rating-loading inline" data-size="xs" data-show-clear="false" data-show-caption="false" >
-                            </div><span id="all_votes"> (297</span>
+                            </div><span id="all_votes"> (299</span>
                             votes)                            <span class="pink bold fz140">  3.7/5</span>
                         </div>
                     </div>
@@ -979,7 +981,7 @@ Servir aussitôt.</p>
         "ratingValue":  "3.7",
         "bestRating":   "5",
         "worstRating":  "1",
-        "ratingCount":  "297"
+        "ratingCount":  "299"
         },
     "recipeInstructions":[
                     {

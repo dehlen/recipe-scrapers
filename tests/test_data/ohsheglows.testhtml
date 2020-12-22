@@ -16,22 +16,22 @@
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://ohsheglows.com/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://ohsheglows.com/wp-includes/wlwmanifest.xml" />
 <script>
-window.adthrive = window.adthrive || {};
-window.adthrive.cmd = window.adthrive.cmd || [];
-window.adthrive.host = 'ads.adthrive.com';
-window.adthrive.plugin = 'adthrive-ads-1.0.37';
-window.adthrive.threshold = Math.floor(Math.random() * 100 + 1);
+(function(w, d) {
+	w.adthrive = w.adthrive || {};
+	w.adthrive.cmd = w.adthrive.cmd || [];
+	w.adthrive.plugin = 'adthrive-ads-1.0.41';
+	w.adthrive.host = 'ads.adthrive.com';
 
-(function() {
-	var script = document.createElement('script');
-	script.async = true;
-	script.type = 'text/javascript';
-	script.src = 'https://ads.adthrive.com/sites/589b93efff85b43ebd5596b9/ads.min.js?threshold=' + window.adthrive.threshold;
-	var node = document.getElementsByTagName('script')[0];
-	node.parentNode.insertBefore(script, node);
-})();
+	var s = d.createElement('script');
+	s.async = true;
+	s.referrerpolicy='no-referrer-when-downgrade';
+	s.src = 'https://' + w.adthrive.host + '/sites/589b93efff85b43ebd5596b9/ads.min.js?referrer=' + w.encodeURIComponent(w.location.href);
+	var n = d.getElementsByTagName('script')[0];
+	n.parentNode.insertBefore(s, n);
+})(window, document);
 </script>
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
 <link rel='dns-prefetch' href='//www.dwin2.com' />
 <link rel='dns-prefetch' href='//code.jquery.com' />
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
@@ -39,10 +39,10 @@ window.adthrive.threshold = Math.floor(Math.random() * 100 + 1);
 <link rel="alternate" type="application/rss+xml" title="Oh She Glows &raquo; Obsession-Worthy Peanut Butter Cookie Ice Cream Comments Feed" href="https://ohsheglows.com/2019/06/29/obsession-worthy-peanut-butter-cookie-ice-cream/feed/" />
 
 <script type="text/javascript" data-cfasync="false">
-	var em_version         = '6.0.2';
+	var em_version         = '6.2.2';
 	var em_track_user      = true;
 	var em_no_track_reason = '';
-
+	
 	var disableStr = 'ga-disable-UA-6196245-1';
 
 	/* Function to detect opted out users */
@@ -66,7 +66,7 @@ window.adthrive.threshold = Math.floor(Math.random() * 100 + 1);
 			__gaTrackerOptout();
 		}
 	}
-
+	
 	if ( em_track_user ) {
 		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -124,7 +124,7 @@ window.ga = __gaTracker;		__gaTracker('create', 'UA-6196245-1', 'auto');
 </script>
 
 <script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/ohsheglows.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.14"}};
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/ohsheglows.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.16"}};
 			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
 		</script>
 <style type="text/css">
@@ -142,27 +142,96 @@ img.emoji {
 }
 </style>
 <link rel='stylesheet' id='osg_recipe-css' href='https://ohsheglows.com/wp-content/plugins/osg_recipes/osg_recipes.css?ver=2.1.9' type='text/css' media='all' />
-<link rel='stylesheet' id='jquery-ui-base-css' href='//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css?ver=4.9.14' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-base-css' href='//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css?ver=4.9.16' type='text/css' media='all' />
 <link rel='stylesheet' id='contact-form-7-css' href='https://ohsheglows.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.7' type='text/css' media='all' />
-<link rel='stylesheet' id='smartbanner-css' href='https://ohsheglows.com/wp-content/plugins/osg_mobile_only//smartbanner/smartbanner.css?ver=4.9.14' type='text/css' media='all' />
+<link rel='stylesheet' id='smartbanner-css' href='https://ohsheglows.com/wp-content/plugins/osg_mobile_only//smartbanner/smartbanner.css?ver=4.9.16' type='text/css' media='all' />
 <link rel='stylesheet' id='isell-style-css' href='https://ohsheglows.com/wp-content/plugins/sell-digital-downloads/css/isell_style.css?ver=2.2.6' type='text/css' media='all' />
-<link rel='stylesheet' id='social-widget-css' href='https://ohsheglows.com/wp-content/plugins/social-media-widget/social_widget.css?ver=4.9.14' type='text/css' media='all' />
+<link rel='stylesheet' id='social-widget-css' href='https://ohsheglows.com/wp-content/plugins/social-media-widget/social_widget.css?ver=4.9.16' type='text/css' media='all' />
 <link rel='stylesheet' id='wp-pagenavi-css' href='https://ohsheglows.com/wp-content/plugins/wp-pagenavi-custom/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
-<link rel='stylesheet' id='fancybox-css' href='https://ohsheglows.com/wp-content/themes/thesis_189/custom/fancybox/source/jquery.fancybox.css?v=2.0.6&#038;ver=4.9.14' type='text/css' media='all' />
-<link rel='stylesheet' id='GoogleFonts-css' href='//fonts.googleapis.com/css?family=Carrois+Gothic+SC%7COpen+Sans%3A400italic%2C400%2C600&#038;ver=4.9.14' type='text/css' media='all' />
-<link rel='stylesheet' id='newsletter-css' href='https://ohsheglows.com/wp-content/plugins/newsletter/style.css?ver=6.6.3' type='text/css' media='all' />
-<link rel='stylesheet' id='ubermenu-css' href='https://ohsheglows.com/wp-content/plugins/ubermenu/pro/assets/css/ubermenu.min.css?ver=3.6.1' type='text/css' media='all' />
-<link rel='stylesheet' id='ubermenu-white-css' href='https://ohsheglows.com/wp-content/plugins/ubermenu/pro/assets/css/skins/white.css?ver=4.9.14' type='text/css' media='all' />
-<link rel='stylesheet' id='ubermenu-font-awesome-all-css' href='https://ohsheglows.com/wp-content/plugins/ubermenu/assets/fontawesome/css/all.min.css?ver=4.9.14' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-css' href='https://ohsheglows.com/wp-content/themes/thesis_189/custom/fancybox/source/jquery.fancybox.css?v=2.0.6&#038;ver=4.9.16' type='text/css' media='all' />
+<link rel='stylesheet' id='GoogleFonts-css' href='//fonts.googleapis.com/css2?family=Carrois+Gothic+SC&#038;family=Open+Sans:ital,wght@0,400;0,600;1,400&#038;family=Libre+Franklin:wght@300&#038;family=Mulish:wght@400;600&#038;family=Roboto+Slab:wght@400;600&#038;display=swap' type='text/css' media='all' />
+<link rel='stylesheet' id='newsletter-css' href='https://ohsheglows.com/wp-content/plugins/newsletter/style.css?ver=6.9.9' type='text/css' media='all' />
+<link rel='stylesheet' id='popup-maker-site-css' href='https://ohsheglows.com/wp-content/plugins/popup-maker/assets/css/pum-site.min.css?ver=1.13.1' type='text/css' media='all' />
+<style id='popup-maker-site-inline-css' type='text/css'>
+/* Popup Google Fonts */
+@import url('//fonts.googleapis.com/css?family=Montserrat:100');
+
+/* Popup Theme 76404: Content Only - For use with page builders or block editor */
+.pum-theme-76404, .pum-theme-content-only { background-color: rgba( 0, 0, 0, 0.70 ) } 
+.pum-theme-76404 .pum-container, .pum-theme-content-only .pum-container { padding: 0px; border-radius: 0px; border: 1px none #000000; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.00 ) } 
+.pum-theme-76404 .pum-title, .pum-theme-content-only .pum-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-weight: 400; font-size: 32px; line-height: 36px } 
+.pum-theme-76404 .pum-content, .pum-theme-content-only .pum-content { color: #8c8c8c; font-family: inherit; font-weight: 400 } 
+.pum-theme-76404 .pum-content + .pum-close, .pum-theme-content-only .pum-content + .pum-close { position: absolute; height: 18px; width: 18px; left: auto; right: 7px; bottom: auto; top: 7px; padding: 0px; color: #000000; font-family: inherit; font-weight: 700; font-size: 20px; line-height: 20px; border: 1px none #ffffff; border-radius: 15px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.00 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.00 ); background-color: rgba( 255, 255, 255, 0.00 ) } 
+
+/* Popup Theme 76247: OSG Book3 */
+.pum-theme-76247, .pum-theme-osg-book3 { background-color: rgba( 73, 74, 91, 0.90 ) } 
+.pum-theme-76247 .pum-container, .pum-theme-osg-book3 .pum-container { padding: 18px; border-radius: 0px; border: 1px none #000000; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.23 ); background-color: rgba( 249, 249, 249, 1.00 ) } 
+.pum-theme-76247 .pum-title, .pum-theme-osg-book3 .pum-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-weight: 400; font-size: 24px; line-height: 30px } 
+.pum-theme-76247 .pum-content, .pum-theme-osg-book3 .pum-content { color: #8c8c8c; font-family: inherit; font-weight: 400 } 
+.pum-theme-76247 .pum-content + .pum-close, .pum-theme-osg-book3 .pum-content + .pum-close { position: absolute; height: 24px; width: auto; left: auto; right: 0px; bottom: auto; top: 0px; padding: 5px; color: #494a5b; font-family: inherit; font-weight: 600; font-size: 14px; line-height: 10px; border: 1px none #ffffff; border-radius: 0px; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.00 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 255, 255, 255, 0.70 ) } 
+
+/* Popup Theme 76240: Default Theme */
+.pum-theme-76240, .pum-theme-default-theme { background-color: rgba( 255, 255, 255, 1.00 ) } 
+.pum-theme-76240 .pum-container, .pum-theme-default-theme .pum-container { padding: 18px; border-radius: 0px; border: 1px none #000000; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.23 ); background-color: rgba( 249, 249, 249, 1.00 ) } 
+.pum-theme-76240 .pum-title, .pum-theme-default-theme .pum-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-weight: 400; font-size: 32px; font-style: normal; line-height: 36px } 
+.pum-theme-76240 .pum-content, .pum-theme-default-theme .pum-content { color: #8c8c8c; font-family: inherit; font-weight: 400; font-style: inherit } 
+.pum-theme-76240 .pum-content + .pum-close, .pum-theme-default-theme .pum-content + .pum-close { position: absolute; height: auto; width: auto; left: auto; right: 0px; bottom: auto; top: 0px; padding: 8px; color: #ffffff; font-family: inherit; font-weight: 400; font-size: 12px; font-style: inherit; line-height: 36px; border: 1px none #ffffff; border-radius: 0px; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 0, 183, 205, 1.00 ) } 
+
+/* Popup Theme 76241: Light Box */
+.pum-theme-76241, .pum-theme-lightbox { background-color: rgba( 0, 0, 0, 0.60 ) } 
+.pum-theme-76241 .pum-container, .pum-theme-lightbox .pum-container { padding: 18px; border-radius: 3px; border: 8px solid #000000; box-shadow: 0px 0px 30px 0px rgba( 2, 2, 2, 1.00 ); background-color: rgba( 255, 255, 255, 1.00 ) } 
+.pum-theme-76241 .pum-title, .pum-theme-lightbox .pum-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-weight: 100; font-size: 32px; line-height: 36px } 
+.pum-theme-76241 .pum-content, .pum-theme-lightbox .pum-content { color: #000000; font-family: inherit; font-weight: 100 } 
+.pum-theme-76241 .pum-content + .pum-close, .pum-theme-lightbox .pum-content + .pum-close { position: absolute; height: 26px; width: 26px; left: auto; right: -13px; bottom: auto; top: -13px; padding: 0px; color: #ffffff; font-family: Arial; font-weight: 100; font-size: 24px; line-height: 24px; border: 2px solid #ffffff; border-radius: 26px; box-shadow: 0px 0px 15px 1px rgba( 2, 2, 2, 0.75 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 0, 0, 0, 1.00 ) } 
+
+/* Popup Theme 76242: Enterprise Blue */
+.pum-theme-76242, .pum-theme-enterprise-blue { background-color: rgba( 0, 0, 0, 0.70 ) } 
+.pum-theme-76242 .pum-container, .pum-theme-enterprise-blue .pum-container { padding: 28px; border-radius: 5px; border: 1px none #000000; box-shadow: 0px 10px 25px 4px rgba( 2, 2, 2, 0.50 ); background-color: rgba( 255, 255, 255, 1.00 ) } 
+.pum-theme-76242 .pum-title, .pum-theme-enterprise-blue .pum-title { color: #315b7c; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-weight: 100; font-size: 34px; line-height: 36px } 
+.pum-theme-76242 .pum-content, .pum-theme-enterprise-blue .pum-content { color: #2d2d2d; font-family: inherit; font-weight: 100 } 
+.pum-theme-76242 .pum-content + .pum-close, .pum-theme-enterprise-blue .pum-content + .pum-close { position: absolute; height: 28px; width: 28px; left: auto; right: 8px; bottom: auto; top: 8px; padding: 4px; color: #ffffff; font-family: Times New Roman; font-weight: 100; font-size: 20px; line-height: 20px; border: 1px none #ffffff; border-radius: 42px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 49, 91, 124, 1.00 ) } 
+
+/* Popup Theme 76243: Hello Box */
+.pum-theme-76243, .pum-theme-hello-box { background-color: rgba( 0, 0, 0, 0.75 ) } 
+.pum-theme-76243 .pum-container, .pum-theme-hello-box .pum-container { padding: 30px; border-radius: 80px; border: 14px solid #81d742; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.00 ); background-color: rgba( 255, 255, 255, 1.00 ) } 
+.pum-theme-76243 .pum-title, .pum-theme-hello-box .pum-title { color: #2d2d2d; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: Montserrat; font-weight: 100; font-size: 32px; line-height: 36px } 
+.pum-theme-76243 .pum-content, .pum-theme-hello-box .pum-content { color: #2d2d2d; font-family: inherit; font-weight: 100 } 
+.pum-theme-76243 .pum-content + .pum-close, .pum-theme-hello-box .pum-content + .pum-close { position: absolute; height: auto; width: auto; left: auto; right: -30px; bottom: auto; top: -30px; padding: 0px; color: #2d2d2d; font-family: Times New Roman; font-weight: 100; font-size: 32px; line-height: 28px; border: 1px none #ffffff; border-radius: 28px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 255, 255, 255, 1.00 ) } 
+
+/* Popup Theme 76244: Cutting Edge */
+.pum-theme-76244, .pum-theme-cutting-edge { background-color: rgba( 0, 0, 0, 0.50 ) } 
+.pum-theme-76244 .pum-container, .pum-theme-cutting-edge .pum-container { padding: 18px; border-radius: 0px; border: 1px none #000000; box-shadow: 0px 10px 25px 0px rgba( 2, 2, 2, 0.50 ); background-color: rgba( 30, 115, 190, 1.00 ) } 
+.pum-theme-76244 .pum-title, .pum-theme-cutting-edge .pum-title { color: #ffffff; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: Sans-Serif; font-weight: 100; font-size: 26px; line-height: 28px } 
+.pum-theme-76244 .pum-content, .pum-theme-cutting-edge .pum-content { color: #ffffff; font-family: inherit; font-weight: 100 } 
+.pum-theme-76244 .pum-content + .pum-close, .pum-theme-cutting-edge .pum-content + .pum-close { position: absolute; height: 24px; width: 24px; left: auto; right: 0px; bottom: auto; top: 0px; padding: 0px; color: #1e73be; font-family: Times New Roman; font-weight: 100; font-size: 32px; line-height: 24px; border: 1px none #ffffff; border-radius: 0px; box-shadow: -1px 1px 1px 0px rgba( 2, 2, 2, 0.10 ); text-shadow: -1px 1px 1px rgba( 0, 0, 0, 0.10 ); background-color: rgba( 238, 238, 34, 1.00 ) } 
+
+/* Popup Theme 76245: Framed Border */
+.pum-theme-76245, .pum-theme-framed-border { background-color: rgba( 255, 255, 255, 0.50 ) } 
+.pum-theme-76245 .pum-container, .pum-theme-framed-border .pum-container { padding: 18px; border-radius: 0px; border: 20px outset #dd3333; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.97 ) inset; background-color: rgba( 255, 251, 239, 1.00 ) } 
+.pum-theme-76245 .pum-title, .pum-theme-framed-border .pum-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-weight: 100; font-size: 32px; line-height: 36px } 
+.pum-theme-76245 .pum-content, .pum-theme-framed-border .pum-content { color: #2d2d2d; font-family: inherit; font-weight: 100 } 
+.pum-theme-76245 .pum-content + .pum-close, .pum-theme-framed-border .pum-content + .pum-close { position: absolute; height: 20px; width: 20px; left: auto; right: -20px; bottom: auto; top: -20px; padding: 0px; color: #ffffff; font-family: Tahoma; font-weight: 700; font-size: 16px; line-height: 18px; border: 1px none #ffffff; border-radius: 0px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 0, 0, 0, 0.55 ) } 
+
+/* Popup Theme 76246: Floating Bar - Soft Blue */
+.pum-theme-76246, .pum-theme-floating-bar { background-color: rgba( 255, 255, 255, 0.00 ) } 
+.pum-theme-76246 .pum-container, .pum-theme-floating-bar .pum-container { padding: 8px; border-radius: 0px; border: 1px none #000000; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.23 ); background-color: rgba( 238, 246, 252, 1.00 ) } 
+.pum-theme-76246 .pum-title, .pum-theme-floating-bar .pum-title { color: #505050; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-weight: 400; font-size: 32px; line-height: 36px } 
+.pum-theme-76246 .pum-content, .pum-theme-floating-bar .pum-content { color: #505050; font-family: inherit; font-weight: 400 } 
+.pum-theme-76246 .pum-content + .pum-close, .pum-theme-floating-bar .pum-content + .pum-close { position: absolute; height: 18px; width: 18px; left: auto; right: 5px; bottom: auto; top: 50%; padding: 0px; color: #505050; font-family: Sans-Serif; font-weight: 700; font-size: 15px; line-height: 18px; border: 1px solid #505050; border-radius: 15px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.00 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.00 ); background-color: rgba( 255, 255, 255, 0.00 ); transform: translate(0, -50%) } 
+
+#pum-76249 {z-index: 1999999999}
+
+</style>
+<link rel='stylesheet' id='ubermenu-css' href='https://ohsheglows.com/wp-content/plugins/ubermenu/pro/assets/css/ubermenu.min.css?ver=3.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ubermenu-white-css' href='https://ohsheglows.com/wp-content/plugins/ubermenu/pro/assets/css/skins/white.css?ver=4.9.16' type='text/css' media='all' />
+<link rel='stylesheet' id='ubermenu-font-awesome-all-css' href='https://ohsheglows.com/wp-content/plugins/ubermenu/assets/fontawesome/css/all.min.css?ver=4.9.16' type='text/css' media='all' />
 <link rel='stylesheet' id='wp-commentnavi-css' href='https://ohsheglows.com/wp-content/plugins/wp-commentnavi/commentnavi-css.css?ver=1.10' type='text/css' media='all' />
-<script type='text/javascript' src='https://ohsheglows.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
-<script type='text/javascript' src='https://ohsheglows.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var exactmetrics_frontend = {"js_events_tracking":"true","download_extensions":"zip,mp3,mpeg,pdf,docx,pptx,xlsx,rar","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/ohsheglows.com","hash_tracking":"false"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://ohsheglows.com/wp-content/plugins/google-analytics-dashboard-for-wp/assets/js/frontend.min.js?ver=6.0.2'></script>
+<script type='text/javascript' src='https://ohsheglows.com/wp-content/plugins/google-analytics-dashboard-for-wp/assets/js/frontend.min.js?ver=6.2.2'></script>
 <link rel='https://api.w.org/' href='https://ohsheglows.com/wp-json/' />
 <link rel="alternate" type="application/json+oembed" href="https://ohsheglows.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fohsheglows.com%2F2019%2F06%2F29%2Fobsession-worthy-peanut-butter-cookie-ice-cream%2F" />
 <link rel="alternate" type="text/xml+oembed" href="https://ohsheglows.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fohsheglows.com%2F2019%2F06%2F29%2Fobsession-worthy-peanut-butter-cookie-ice-cream%2F&#038;format=xml" />
@@ -204,7 +273,7 @@ var exactmetrics_frontend = {"js_events_tracking":"true","download_extensions":"
 
 </style>
 <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests;block-all-mixed-content" />
-<!--[if IE]>
+<!--[if IE]> 
 <link rel="stylesheet" href="https://ohsheglows.com/wp-content/themes/thesis_189/custom/ie.css" type="text/css" media="screen, projection" />
 <![endif]-->
 </head>
@@ -235,6 +304,7 @@ var exactmetrics_frontend = {"js_events_tracking":"true","download_extensions":"
 
 </div> <div id="content_box">
 <div id="content" class="hfeed">
+
 <!-- google_ad_section_start --> <div class="post_box top post-76056 post type-post status-publish format-standard has-post-thumbnail hentry category-holiday-birthday category-holiday-can-us-day category-gluten-free category-dessert-ice-cream-banana-soft-serve category-popular-recipes category-snacks category-valentines-day-recipes-2 tag-vegan-ice-cream tag-vegan-peanut-butter-cookie-ice-cream tag-vegan-peanut-butter-ice-cream" id="post-76056">
 <div class="headline_area">
 <h1 class="entry-title">Obsession-Worthy Peanut Butter Cookie Ice Cream</h1>
@@ -267,14 +337,14 @@ var exactmetrics_frontend = {"js_events_tracking":"true","download_extensions":"
 <a name="#recipe"></a>
 <a name="#recipe_4047"></a>
 <div id="recipe_4047" class="recipe-content clear">
-<script type="application/ld+json">{  "@context": "http://schema.org/",  "@type": "Recipe",  "@id": "#recipe_4047",  "mainEntityOfPage": "true",  "name": "Obsession-Worthy Peanut Butter Cookie Ice Cream",  "image": [    "https://ohsheglows.com/gs_images/2019/06/Flourless-Peanut-Butter-Cookie-Ice-Cream-00950-3.jpg"  ],  "author": {    "@type": "Person",    "name": "Angela Liddon"  },  "datePublished": "2019-06-27 19:39:50",  "description": "This is my favourite kind of summer indulgence! My reader-favourite Flourless Peanut Butter Cookies meet my dreamy homemade peanut butter and coconut milk ice cream in this cooling summer treat. Chewy coconut, snappy chocolate chips, and tender bites of soft peanut butter cookies blend perfectly with a creamy vanilla and peanut butter vegan ice cream. If I\u2019d known how simple it was to make my own vegan ice cream (only 5 ingredients!), I would\u2019ve invested in an ice cream machine long ago. Well, I\u2019m making up for lost time now!",  "prepTime": "PT10M",  "cookTime": "PT12M",  "totalTime": "PT22M",  "keywords": "Vegan, Gluten-Free, Oil-Free, Freezer Friendly, Kid Friendly, Make-Ahead, Party Favourite",  "recipeYield": "8 (1\/2-cup) servings",  "recipeCategory": [    "Vegan",    "Frozen Dessert (Banana Soft Serve",    " Ice Cream",    " Sorbet)"  ],  "recipeCuisine": [    "Canadian"  ],  "nutrition": {    "@type": "NutritionInformation",    "servingSize": "1/2-cup",    "calories": "365 calorie",    "fatContent": "26 grams",    "saturatedFatContent": "19 grams",    "sodiumContent": "100 milligrams",    "carbohydrateContent": "29 grams",    "fiberContent": "2 grams",    "sugarContent": "24 grams",    "proteinContent": "6 grams"  },  "suitableForDiet": [    "https://schema.org/GlutenFreeDiet",    "https://schema.org/VeganDiet",    "https://schema.org/VegetarianDiet"  ],  "recipeIngredient": [    "1 batch Flourless Peanut Butter Cookies, divided",    "2 (14-ounce\/398 mL) cans full-fat coconut milk*",    "1\/2 cup (105 g) natural cane sugar",    "3 tablespoons (45 mL) smooth natural peanut butter",    "2 teaspoons (10 mL) pure vanilla extract",    "1\/4 + 1\/8 teaspoon fine sea salt, or to taste"  ],  "recipeInstructions": [    {      "@type": "HowToStep",      "text": "Chill the ice cream bowl in the freezer overnight, or for at least 12 hours. This step is very important to ensure the ice cream thickens properly.\u00a0"    },    {      "@type": "HowToStep",      "text": "Prepare the Flourless Peanut Butter Cookies. After baking, cool the cookies for 10 to 15 minutes, then transfer each one to a plate. Place in the freezer on a flat surface for a minimum of 25 minutes. As soon as you transfer the cookies to the freezer, get started on the ice cream."    },    {      "@type": "HowToStep",      "text": "Add the ice cream ingredients (entire cans of coconut milk, sugar, peanut butter, vanilla, and salt) to a blender and blend for about 8 to 10 seconds, until smooth (be sure not to blend longer than 10 seconds, as it may effect the final texture of your ice cream).\u00a0"    },    {      "@type": "HowToStep",      "text": "Place the frozen ice cream bowl into the ice cream maker, insert the churning arm, cover with the lid, and turn on the machine (if the instructions for your ice cream maker are different, please follow the directions that came with your machine). Slowly pour the mixture into the bowl as it churns. Churn for about 22 minutes, until the mixture has thickened into a very thin, soft-serve texture.\u00a0"    },    {      "@type": "HowToStep",      "text": "Once the cookies have been in the freezer for 25 minutes, chop 6 of the cookies into small, almond-sized chunks. Reserve the remaining 7 cookies, at room temperature, for later."    },    {      "@type": "HowToStep",      "text": "After 22 minutes of churning, slowly add the chopped cookies, a handful at a time, to the mixture while the machine is still churning. I like to use a fork to gently push the chopped cookies into the ice cream and help it along. Churn another 5 to 8 minutes, until the ice cream has thickened a bit more. It will have a thick, soft-serve texture when ready. There will be some hardened ice cream along the inside of the bowl...I like to think of this as the chef\u2019s extra helping (wink, wink)! Serve immediately, or for a firmer texture, transfer the ice cream to a loaf pan or airtight container and spread out smooth. At this stage, I like to crumble an extra cookie all over the top (and gently push it into the ice cream) to make it look extra-enticing, but this is optional. Cover and freeze for 2 hours for a more traditional ice cream firmness.\u00a0"    },    {      "@type": "HowToStep",      "text": "To serve, scoop into bowls or ice cream cones. Or, if you're feeling wild, make ice cream sandwiches with the leftover cookies...oh yea!!"    },    {      "@type": "HowToStep",      "text": "Storage tip: Leftovers can be stored in an airtight container in the freezer for 3 to 4 weeks. Be sure to cover the ice cream with a piece of wrap to prevent freezer burn. To soften, let the container rest on the counter for 20 to 30 minutes before scooping."    }  ],  "aggregateRating": {    "@type": "AggregateRating",    "ratingValue": "4.6667",    "ratingCount": "18"  },  "interactionStatistic": {    "@type": "InteractionCounter",    "interactionType": "http://schema.org/Comment",    "userInteractionCount": "98"  },  "publisher": {     "@type":"Organization",    "name":"Oh She Glows",    "logo": {      "@type":"ImageObject",      "url":"https://ohsheglows.com/osg_logo-512x512.png"    },    "url":"https://ohsheglows.com"  }}</script> <div itemscope itemtype="http://schema.org/Recipe" class="clear" itemid="#recipe_4047">
+<script type="application/ld+json">{  "@context": "http://schema.org/",  "@type": "Recipe",  "@id": "#recipe_4047",  "mainEntityOfPage": "true",  "name": "Obsession-Worthy Peanut Butter Cookie Ice Cream",  "image": [    "https://ohsheglows.com/gs_images/2019/06/Flourless-Peanut-Butter-Cookie-Ice-Cream-00950-3.jpg"  ],  "author": {    "@type": "Person",    "name": "Angela Liddon"  },  "datePublished": "2019-06-27 19:39:50",  "description": "This is my favourite kind of summer indulgence! My reader-favourite Flourless Peanut Butter Cookies meet my dreamy homemade peanut butter and coconut milk ice cream in this cooling summer treat. Chewy coconut, snappy chocolate chips, and tender bites of soft peanut butter cookies blend perfectly with a creamy vanilla and peanut butter vegan ice cream. If I\u2019d known how simple it was to make my own vegan ice cream (only 5 ingredients!), I would\u2019ve invested in an ice cream machine long ago. Well, I\u2019m making up for lost time now!",  "prepTime": "PT10M",  "cookTime": "PT12M",  "totalTime": "PT22M",  "keywords": "Vegan, Gluten-Free, Oil-Free, Freezer Friendly, Kid Friendly, Make-Ahead, Party Favourite",  "recipeYield": "8 (1\/2-cup) servings",  "recipeCategory": [    "Vegan",    "Frozen Dessert (Banana Soft Serve",    " Ice Cream",    " Sorbet)"  ],  "recipeCuisine": [    "Canadian"  ],  "nutrition": {    "@type": "NutritionInformation",    "servingSize": "1/2-cup",    "calories": "365 calorie",    "fatContent": "26 grams",    "saturatedFatContent": "19 grams",    "sodiumContent": "100 milligrams",    "carbohydrateContent": "29 grams",    "fiberContent": "2 grams",    "sugarContent": "24 grams",    "proteinContent": "6 grams"  },  "suitableForDiet": [    "https://schema.org/GlutenFreeDiet",    "https://schema.org/VeganDiet",    "https://schema.org/VegetarianDiet"  ],  "recipeIngredient": [    "1 batch Flourless Peanut Butter Cookies, divided",    "2 (14-ounce\/398 mL) cans full-fat coconut milk*",    "1\/2 cup (105 g) natural cane sugar",    "3 tablespoons (45 mL) smooth natural peanut butter",    "2 teaspoons (10 mL) pure vanilla extract",    "1\/4 + 1\/8 teaspoon fine sea salt, or to taste"  ],  "recipeInstructions": [    {      "@type": "HowToStep",      "text": "Chill the ice cream bowl in the freezer overnight, or for at least 12 hours. This step is very important to ensure the ice cream thickens properly.\u00a0"    },    {      "@type": "HowToStep",      "text": "Prepare the Flourless Peanut Butter Cookies. After baking, cool the cookies for 10 to 15 minutes, then transfer each one to a plate. Place in the freezer on a flat surface for a minimum of 25 minutes. As soon as you transfer the cookies to the freezer, get started on the ice cream."    },    {      "@type": "HowToStep",      "text": "Add the ice cream ingredients (entire cans of coconut milk, sugar, peanut butter, vanilla, and salt) to a blender and blend for about 8 to 10 seconds, until smooth (be sure not to blend longer than 10 seconds, as it may effect the final texture of your ice cream).\u00a0"    },    {      "@type": "HowToStep",      "text": "Place the frozen ice cream bowl into the ice cream maker, insert the churning arm, cover with the lid, and turn on the machine (if the instructions for your ice cream maker are different, please follow the directions that came with your machine). Slowly pour the mixture into the bowl as it churns. Churn for about 22 minutes, until the mixture has thickened into a very thin, soft-serve texture.\u00a0"    },    {      "@type": "HowToStep",      "text": "Once the cookies have been in the freezer for 25 minutes, chop 6 of the cookies into small, almond-sized chunks. Reserve the remaining 7 cookies, at room temperature, for later."    },    {      "@type": "HowToStep",      "text": "After 22 minutes of churning, slowly add the chopped cookies, a handful at a time, to the mixture while the machine is still churning. I like to use a fork to gently push the chopped cookies into the ice cream and help it along. Churn another 5 to 8 minutes, until the ice cream has thickened a bit more. It will have a thick, soft-serve texture when ready. There will be some hardened ice cream along the inside of the bowl...I like to think of this as the chef\u2019s extra helping (wink, wink)! Serve immediately, or for a firmer texture, transfer the ice cream to a loaf pan or airtight container and spread out smooth. At this stage, I like to crumble an extra cookie all over the top (and gently push it into the ice cream) to make it look extra-enticing, but this is optional. Cover and freeze for 2 hours for a more traditional ice cream firmness.\u00a0"    },    {      "@type": "HowToStep",      "text": "To serve, scoop into bowls or ice cream cones. Or, if you're feeling wild, make ice cream sandwiches with the leftover cookies...oh yea!!"    },    {      "@type": "HowToStep",      "text": "Storage tip: Leftovers can be stored in an airtight container in the freezer for 3 to 4 weeks. Be sure to cover the ice cream with a piece of wrap to prevent freezer burn. To soften, let the container rest on the counter for 20 to 30 minutes before scooping."    }  ],  "aggregateRating": {    "@type": "AggregateRating",    "ratingValue": "4.6667",    "ratingCount": "21"  },  "interactionStatistic": {    "@type": "InteractionCounter",    "interactionType": "http://schema.org/Comment",    "userInteractionCount": "104"  },  "publisher": {     "@type":"Organization",    "name":"Oh She Glows",    "logo": {      "@type":"ImageObject",      "url":"https://ohsheglows.com/osg_logo-512x512.png"    },    "url":"https://ohsheglows.com"  }}</script> <div itemscope itemtype="http://schema.org/Recipe" class="clear" itemid="#recipe_4047">
 <meta itemprop="inLanguage" value="en" />
 <header class="recipe-header">
 <div class="top-right">
 <table class="user_functions">
 <tr>
 <td colspan="2">
-<div itemprop="aggregateRating" itemscope="" itemtype="http://schema.org/AggregateRating"><div class="osg-rating-box"><div style="width:93%" class="osg-rating"></div></div><span itemprop="ratingValue">4.7</span> from <span itemprop="reviewCount">18</span> reviews</div> </td>
+<div itemprop="aggregateRating" itemscope="" itemtype="http://schema.org/AggregateRating"><div class="osg-rating-box"><div style="width:93%" class="osg-rating"></div></div><span itemprop="ratingValue">4.7</span> from <span itemprop="reviewCount">21</span> reviews</div> </td>
 </tr>
 <tr>
 <td>
@@ -300,7 +370,7 @@ var exactmetrics_frontend = {"js_events_tracking":"true","download_extensions":"
 <h6 class="first cols-4" style="width: 24%;" class="first">Yield<br><span class="yield" itemprop="recipeYield">8 (1/2-cup) servings</span></h6>
 <h6 class="cols-4" style="width: 24%;">Prep time<br><span class="preptime"><time itemprop="prepTime" datetime="PT10M">10 Minutes</time></span></h6>
 <h6 class="cols-4" style="width: 24%;">Cook time<br><span class="cookTime"><time itemprop="cookTime" dateTime="PT12M">12 Minutes</time></span></h6>
- <h6 class="cols-4" style="width: 24%;">Chill time<br><span class="freezeTime">overnight (ice cream bowl) + 30 minutes</span></h6>
+<h6 class="cols-4" style="width: 24%;">Chill time<br><span class="freezeTime">overnight (ice cream bowl) + 30 minutes</span></h6>
 <h6 class="display-none">Total time<br><span class="duration"><time itemprop="totalTime" datetime="PT22M">22 Minutes</time></span></h6>
 </div>
 <div class="ingredients clear">
@@ -308,7 +378,7 @@ var exactmetrics_frontend = {"js_events_tracking":"true","download_extensions":"
 <ul class="ingredients"><li><span class="ingredient" itemprop="recipeIngredient">1 batch <a href="https://ohsheglows.com/2019/06/29/flourless-peanut-butter-cookies/" target="_blank">Flourless Peanut Butter Cookies</a>, divided</span></li><li><span class="ingredient" itemprop="recipeIngredient">2 (14-ounce/398 mL) cans full-fat coconut milk*</span></li><li><span class="ingredient" itemprop="recipeIngredient">1/2 cup (105 g) natural cane sugar</span></li><li><span class="ingredient" itemprop="recipeIngredient">3 tablespoons (45 mL) smooth natural peanut butter</span></li><li><span class="ingredient" itemprop="recipeIngredient">2 teaspoons (10 mL) pure vanilla extract</span></li><li><span class="ingredient" itemprop="recipeIngredient">1/4 + 1/8 teaspoon fine sea salt, or to taste</span></li></ul> </div>
 <div id="instructions" class="clear">
 <h4>Directions:</h4>
-<div class="instructions"><ol> <li class="instruction" itemprop="recipeInstructions"><span style="font-weight: 400"> Chill the ice cream bowl in the freezer overnight, or for at least 12 hours. This step is very important to ensure the ice cream thickens properly. </span></li> <li class="instruction" itemprop="recipeInstructions"><span style="font-weight: 400"> Prepare the <a href="https://ohsheglows.com/2019/06/29/flourless-peanut-butter-cookies/" target="_blank" target="_blank">Flourless Peanut Butter Cookies</a>. After baking, cool the cookies for 10 to 15 minutes, then transfer each one to a plate. Place in the freezer on a flat surface for a minimum of 25 minutes. As soon as you transfer the cookies to the freezer, get started on the ice cream.</span></li> <li class="instruction" itemprop="recipeInstructions"><span style="font-weight: 400"> Add the ice cream ingredients (entire cans of coconut milk, sugar, peanut butter, vanilla, and salt) to a blender and blend for about 8 to 10 seconds, until smooth (be sure not to blend longer than 10 seconds, as it may effect the final texture of your ice cream). </span></li> <li class="instruction" itemprop="recipeInstructions"><span style="font-weight: 400"> Place the frozen ice cream bowl into the ice cream maker, insert the churning arm, cover with the lid, and turn on the machine (if the instructions for your ice cream maker are different, please follow the directions that came with your machine). Slowly pour the mixture into the bowl as it churns. Churn for about 22 minutes, until the mixture has thickened into a very thin, soft-serve texture. </span></li> <li class="instruction" itemprop="recipeInstructions"><span style="font-weight: 400"> Once the cookies have been in the freezer for 25 minutes, chop 6 of the cookies into small, almond-sized chunks. Reserve the remaining 7 cookies, at room temperature, for later.</span></li> <li class="instruction" itemprop="recipeInstructions"><span style="font-weight: 400"> After 22 minutes of churning, slowly add the chopped cookies, a handful at a time, to the mixture while the machine is still churning. I like to use a fork to gently push the chopped cookies into the ice cream and help it along. Churn another 5 to 8 minutes, until the ice cream has thickened a bit more. It will have a thick, soft-serve texture when ready. There will be some hardened ice cream along the inside of the bowl...I like to think of this as the chef’s extra helping (wink, wink)! Serve immediately, or for a firmer texture, transfer the ice cream to a loaf pan or airtight container and spread out smooth. At this stage, I like to crumble an extra cookie all over the top (and gently push it into the ice cream) to make it look extra-enticing, but this is optional. Cover and freeze for 2 hours for a more traditional ice cream firmness. </span></li> <li class="instruction" itemprop="recipeInstructions"><span style="font-weight: 400"> To serve, scoop into bowls or ice cream cones. Or, if you're feeling wild, make ice cream sandwiches with the leftover cookies...oh yea!!</span></li> <li class="instruction" itemprop="recipeInstructions">Storage tip: Leftovers can be stored in an airtight container in the freezer for 3 to 4 weeks. Be sure to cover the ice cream with a piece of wrap to prevent freezer burn. To soften, let the container rest on the counter for 20 to 30 minutes before scooping.</li></ol></div>
+<div class="instructions"><ol> <li class="instruction" itemprop="recipeInstructions"><span style="font-weight: 400"> Chill the ice cream bowl in the freezer overnight, or for at least 12 hours. This step is very important to ensure the ice cream thickens properly. </span></li> <li class="instruction" itemprop="recipeInstructions"><span style="font-weight: 400"> Prepare the <a href="https://ohsheglows.com/2019/06/29/flourless-peanut-butter-cookies/" target="_blank" target="_blank">Flourless Peanut Butter Cookies</a>. After baking, cool the cookies for 10 to 15 minutes, then transfer each one to a plate. Place in the freezer on a flat surface for a minimum of 25 minutes. As soon as you transfer the cookies to the freezer, get started on the ice cream.</span></li> <li class="instruction" itemprop="recipeInstructions"><span style="font-weight: 400"> Add the ice cream ingredients (entire cans of coconut milk, sugar, peanut butter, vanilla, and salt) to a blender and blend for about 8 to 10 seconds, until smooth (be sure not to blend longer than 10 seconds, as it may effect the final texture of your ice cream). </span></li> <li class="instruction" itemprop="recipeInstructions"><span style="font-weight: 400"> Place the frozen ice cream bowl into the ice cream maker, insert the churning arm, cover with the lid, and turn on the machine (if the instructions for your ice cream maker are different, please follow the directions that came with your machine). Slowly pour the mixture into the bowl as it churns. Churn for about 22 minutes, until the mixture has thickened into a very thin, soft-serve texture. </span></li> <li class="instruction" itemprop="recipeInstructions"><span style="font-weight: 400"> Once the cookies have been in the freezer for 25 minutes, chop 6 of the cookies into small, almond-sized chunks. Reserve the remaining 7 cookies, at room temperature, for later.</span></li> <li class="instruction" itemprop="recipeInstructions"><span style="font-weight: 400"> After 22 minutes of churning, slowly add the chopped cookies, a handful at a time, to the mixture while the machine is still churning. I like to use a fork to gently push the chopped cookies into the ice cream and help it along. Churn another 5 to 8 minutes, until the ice cream has thickened a bit more. It will have a thick, soft-serve texture when ready. There will be some hardened ice cream along the inside of the bowl...I like to think of this as the chef’s extra helping (wink, wink)! Serve immediately, or for a firmer texture, transfer the ice cream to a loaf pan or airtight container and spread out smooth. At this stage, I like to crumble an extra cookie all over the top (and gently push it into the ice cream) to make it look extra-enticing, but this is optional. Cover and freeze for 2 hours for a more traditional ice cream firmness. </span></li> <li class="instruction" itemprop="recipeInstructions"><span style="font-weight: 400"> To serve, scoop into bowls or ice cream cones. Or, if you're feeling wild, make ice cream sandwiches with the leftover cookies...oh yea!!</span></li> <li class="instruction" itemprop="recipeInstructions">Storage tip: Leftovers can be stored in an airtight container in the freezer for 3 to 4 weeks. Be sure to cover the ice cream with a piece of wrap to prevent freezer burn. To soften, let the container rest on the counter for 20 to 30 minutes before scooping.</li></ol></div>
 </div>
 <div id="nutrition_info" class="nutrition_info clear">
 <h4>Nutrition Information</h4>
@@ -347,8 +417,8 @@ var exactmetrics_frontend = {"js_events_tracking":"true","download_extensions":"
 <img class="alignnone wp-image-76073" src="https://ohsheglows.com/wp-content/uploads/2019/06/veganpeanutbuttercookieicecream-2259-683x1024.jpg" alt="" width="595" height="893" srcset="https://ohsheglows.com/wp-content/uploads/2019/06/veganpeanutbuttercookieicecream-2259-683x1024.jpg 683w, https://ohsheglows.com/wp-content/uploads/2019/06/veganpeanutbuttercookieicecream-2259-200x300.jpg 200w, https://ohsheglows.com/wp-content/uploads/2019/06/veganpeanutbuttercookieicecream-2259-768x1152.jpg 768w" sizes="(max-width: 595px) 100vw, 595px" />
 <p>Want to torture a person? Give them an ice cream cone on a hot day, and tell them they can&#8217;t eat it until you&#8217;ve snapped a good pic. bahaha.</p>
 <img class="alignnone wp-image-76077" src="https://ohsheglows.com/wp-content/uploads/2019/06/veganpeanutbuttercookieicecream-2305-1024x683.jpg" alt="" width="595" height="397" srcset="https://ohsheglows.com/wp-content/uploads/2019/06/veganpeanutbuttercookieicecream-2305-1024x683.jpg 1024w, https://ohsheglows.com/wp-content/uploads/2019/06/veganpeanutbuttercookieicecream-2305-300x200.jpg 300w, https://ohsheglows.com/wp-content/uploads/2019/06/veganpeanutbuttercookieicecream-2305-768x512.jpg 768w, https://ohsheglows.com/wp-content/uploads/2019/06/veganpeanutbuttercookieicecream-2305-200x133.jpg 200w, https://ohsheglows.com/wp-content/uploads/2019/06/veganpeanutbuttercookieicecream-2305-268x179.jpg 268w" sizes="(max-width: 595px) 100vw, 595px" />
-<p><em>Let's get social! Follow Angela on Instagram <a href="https://instagram.com/ohsheglows/" target="_blank">@ohsheglows</a>, <a href="https://www.facebook.com/ohsheglowsblog" target="_blank">Facebook</a>, <a href="https://twitter.com/ohsheglows" target="_blank">Twitter</a>, <a href="https://www.pinterest.com/ohsheglows/healthy-vegan-recipes-by-oh-she-glows/" target="_blank">Pinterest</a>, <a href="https://www.snapchat.com/add/angelaliddon" target="_blank">Snapchat</a>, and <a href="https://plus.google.com/b/104754355147604568722/+ohsheglows/posts" target="_blank">Google+</a><br>
-</em></p><div class="socialmedia_text"><a href="https://ohsheglows.com/2019/06/29/obsession-worthy-peanut-butter-cookie-ice-cream/#comments">Comments (98)</a> | <script>function fbs_click() {u=location.href;t=document.title;window.open('//www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&t='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=626,height=436'); return false;}</script><a rel="nofollow" href="//www.facebook.com/share.php?u=https%3A%2F%2Fohsheglows.com%2F2019%2F06%2F29%2Fobsession-worthy-peanut-butter-cookie-ice-cream%2F" onclick="ga('send', { hitType: 'social',socialNetwork: 'facebook',socialAction: 'share',socialTarget: 'https://ohsheglows.com/2019/06/29/obsession-worthy-peanut-butter-cookie-ice-cream/'});return fbs_click()" target="_blank">Share on Facebook</a> | <a target="_blank" href="//twitter.com/share?text=Obsession-Worthy%20Peanut%20Butter%20Cookie%20Ice%20Cream&url=https%3A%2F%2Fohsheglows.com%2F2019%2F06%2F29%2Fobsession-worthy-peanut-butter-cookie-ice-cream%2F" onclick="ga('send', { hitType: 'social',socialNetwork: 'twitter',socialAction: 'tweet',socialTarget: 'https://ohsheglows.com/2019/06/29/obsession-worthy-peanut-butter-cookie-ice-cream/'});window.open(this.href,this.target,'width=500,height=400,resizeable,scrollbars');return false;">Tweet</a> | <a target="_blank" href="//pinterest.com/pin/create/button/?url=https%3A%2F%2Fohsheglows.com%2F2019%2F06%2F29%2Fobsession-worthy-peanut-butter-cookie-ice-cream%2F&media=https%3A%2F%2Fohsheglows.com%2Fwp-content%2Fuploads%2F2019%2F06%2Fveganpeanutbuttercookieicecream-2273-1.jpg&description=Obsession-Worthy%20Peanut%20Butter%20Cookie%20Ice%20Cream" onclick="ga('send', { hitType: 'social',socialNetwork: 'pinterest',socialAction: 'pin',socialTarget: 'https://ohsheglows.com/2019/06/29/obsession-worthy-peanut-butter-cookie-ice-cream/'});window.open(this.href,this.target,'width=500,height=400,resizeable,scrollbars');return false;" class="pin-it-button" count-layout="horizontal">Pin It</a> | <a target="_blank" href="https://www.snapchat.com/add/angelaliddon" onclick="ga('send', { hitType: 'social',socialNetwork: 'snapchat',socialAction: 'snap',socialTarget: 'https://ohsheglows.com/2019/06/29/obsession-worthy-peanut-butter-cookie-ice-cream/'});window.open(this.href,this.target,'width=500,height=400,resizeable,scrollbars');return false;">Snapchat</a> | </div> </div>
+<p><em>Let's get social! Follow Angela on Instagram <a href="https://instagram.com/ohsheglows/" target="_blank">@ohsheglows</a>, <a href="https://www.facebook.com/ohsheglowsblog" target="_blank">Facebook</a>, <a href="https://twitter.com/ohsheglows" target="_blank">Twitter</a>, and <a href="https://www.pinterest.com/ohsheglows/healthy-vegan-recipes-by-oh-she-glows/" target="_blank">Pinterest</a><br>
+</em></p><div class="socialmedia_text"><a href="https://ohsheglows.com/2019/06/29/obsession-worthy-peanut-butter-cookie-ice-cream/#comments">Comments (104)</a> | <script>function fbs_click() {u=location.href;t=document.title;window.open('//www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&t='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=626,height=436'); return false;}</script><a rel="nofollow" href="//www.facebook.com/share.php?u=https%3A%2F%2Fohsheglows.com%2F2019%2F06%2F29%2Fobsession-worthy-peanut-butter-cookie-ice-cream%2F" onclick="ga('send', { hitType: 'social',socialNetwork: 'facebook',socialAction: 'share',socialTarget: 'https://ohsheglows.com/2019/06/29/obsession-worthy-peanut-butter-cookie-ice-cream/'});return fbs_click()" target="_blank">Share on Facebook</a> | <a target="_blank" href="//twitter.com/share?text=Obsession-Worthy%20Peanut%20Butter%20Cookie%20Ice%20Cream&url=https%3A%2F%2Fohsheglows.com%2F2019%2F06%2F29%2Fobsession-worthy-peanut-butter-cookie-ice-cream%2F" onclick="ga('send', { hitType: 'social',socialNetwork: 'twitter',socialAction: 'tweet',socialTarget: 'https://ohsheglows.com/2019/06/29/obsession-worthy-peanut-butter-cookie-ice-cream/'});window.open(this.href,this.target,'width=500,height=400,resizeable,scrollbars');return false;">Tweet</a> | <a target="_blank" href="//pinterest.com/pin/create/button/?url=https%3A%2F%2Fohsheglows.com%2F2019%2F06%2F29%2Fobsession-worthy-peanut-butter-cookie-ice-cream%2F&media=https%3A%2F%2Fohsheglows.com%2Fwp-content%2Fuploads%2F2019%2F06%2Fveganpeanutbuttercookieicecream-2273-1.jpg&description=Obsession-Worthy%20Peanut%20Butter%20Cookie%20Ice%20Cream" onclick="ga('send', { hitType: 'social',socialNetwork: 'pinterest',socialAction: 'pin',socialTarget: 'https://ohsheglows.com/2019/06/29/obsession-worthy-peanut-butter-cookie-ice-cream/'});window.open(this.href,this.target,'width=500,height=400,resizeable,scrollbars');return false;" class="pin-it-button" count-layout="horizontal">Pin It</a> </div> </div>
 </div>
 <h2 class="prev_excerpts_heading">Previous Posts</h2><div class="clr"></div><div class="osg_img_layout"> <div class="archive_post_box">
 <h2><a href="https://ohsheglows.com/2019/06/29/flourless-peanut-butter-cookies/">Flourless Peanut Butter Cookies</a></h2>
@@ -357,7 +427,7 @@ var exactmetrics_frontend = {"js_events_tracking":"true","download_extensions":"
 <a href="https://ohsheglows.com/2019/06/29/flourless-peanut-butter-cookies/" class="gobump"><img width="268" height="179" src="https://ohsheglows.com/wp-content/uploads/2019/06/flourless-PB-268x179.jpg" class="attachment-osg-image-layout size-osg-image-layout wp-post-image" alt="" title="Flourless Peanut Butter Cookies" srcset="https://ohsheglows.com/wp-content/uploads/2019/06/flourless-PB-268x179.jpg 268w, https://ohsheglows.com/wp-content/uploads/2019/06/flourless-PB-200x133.jpg 200w" sizes="(max-width: 268px) 100vw, 268px" /></a>
 </div>
 <h3>
-<a href="https://ohsheglows.com/2019/06/29/flourless-peanut-butter-cookies/#comments">73 Comments</a></h3>
+<a href="https://ohsheglows.com/2019/06/29/flourless-peanut-butter-cookies/#comments">80 Comments</a></h3>
 <div class="archive_share_box">
 </div>
 </div>
@@ -369,7 +439,7 @@ var exactmetrics_frontend = {"js_events_tracking":"true","download_extensions":"
 <a href="https://ohsheglows.com/2019/03/07/meal-prep-week-long-power-bowls/" class="gobump"><img width="268" height="179" src="https://ohsheglows.com/wp-content/uploads/2019/03/veganpowerbowls-2157-5-268x179.jpg" class="attachment-osg-image-layout size-osg-image-layout wp-post-image" alt="" title="Meal Prep Week-Long Power Bowls" srcset="https://ohsheglows.com/wp-content/uploads/2019/03/veganpowerbowls-2157-5-268x179.jpg 268w, https://ohsheglows.com/wp-content/uploads/2019/03/veganpowerbowls-2157-5-200x133.jpg 200w" sizes="(max-width: 268px) 100vw, 268px" /></a>
 </div>
 <h3>
-<a href="https://ohsheglows.com/2019/03/07/meal-prep-week-long-power-bowls/#comments">94 Comments</a></h3>
+<a href="https://ohsheglows.com/2019/03/07/meal-prep-week-long-power-bowls/#comments">99 Comments</a></h3>
 <div class="archive_share_box">
 </div>
 </div>
@@ -381,7 +451,7 @@ var exactmetrics_frontend = {"js_events_tracking":"true","download_extensions":"
 <a href="https://ohsheglows.com/2019/01/26/game-night-crispy-potato-bruschetta/" class="gobump"><img width="268" height="179" src="https://ohsheglows.com/wp-content/uploads/2019/01/gamenightcrispypotatobruschetta-1964-268x179.jpg" class="attachment-osg-image-layout size-osg-image-layout wp-post-image" alt="" title="Game Night Crispy Potato Bruschetta" srcset="https://ohsheglows.com/wp-content/uploads/2019/01/gamenightcrispypotatobruschetta-1964-268x179.jpg 268w, https://ohsheglows.com/wp-content/uploads/2019/01/gamenightcrispypotatobruschetta-1964-200x133.jpg 200w" sizes="(max-width: 268px) 100vw, 268px" /></a>
 </div>
 <h3>
-<a href="https://ohsheglows.com/2019/01/26/game-night-crispy-potato-bruschetta/#comments">59 Comments</a></h3>
+<a href="https://ohsheglows.com/2019/01/26/game-night-crispy-potato-bruschetta/#comments">61 Comments</a></h3>
 <div class="archive_share_box">
 </div>
 </div>
@@ -400,7 +470,7 @@ var exactmetrics_frontend = {"js_events_tracking":"true","download_extensions":"
 </div>
 <div class="clr"></div><div id="adthrive-below-post"></div> <div id="comments">
 <div id="comments_intro" class="comments_intro">
-<p><span class="bracket">{</span> <span>98</span> comments&#8230; read them below or <a href="#respond" rel="nofollow">add one</a> <span class="bracket">}</span></p>
+<p><span class="bracket">{</span> <span>104</span> comments&#8230; read them below or <a href="#respond" rel="nofollow">add one</a> <span class="bracket">}</span></p>
 </div>
 <dl id="comment_list">
 <dt class="comment even thread-even depth-1 parent" id="comment-2191098">
@@ -657,7 +727,7 @@ Rui</p>
 <span class="avatar"></span>
 <span class="comment_author">Cynthia</span>
 <span class="comment_time"><a href="#comment-2191348" title="Permalink to this comment" rel="nofollow">June 30, 2019 at 8:59 am</a></span>
-</dt>
+ </dt>
 <dd class="comment even thread-odd thread-alt depth-1 parent">
 <div class="format_text" id="comment-body-2191348">
 <p>I recently thought that I somehow deleted myself off your blog but after searching realized you just hadn&#8217;t posted in a while. You were greatly missed and appreciate your vulnerability in sharing why. I feel for you and all you went through. You have an entire community who love and support you no matter what and we are glad to see you are back inspiring us with your amazing talent :). I&#8217;m so thrilled to see that you are working on another cookbook. The other 2 are my saving grace. What I love about your recipes, that I can&#8217;t find in any other book, is that you eat &#8220;normal&#8221; (for lack of a better word) foods, and just veganize them. You don&#8217;t make a lot with ingredients that are &#8220;out there&#8221; for the average palette, if that makes sense :). For that reason, I have recommended and given your books as gifts so many times. If I had one request, it would be to ask for more sugar alternatives in your recipes. I know you don&#8217;t use white sugar which is great, but even cane sugar, I always try and sub for coconut sugar, sucanat, xylitol, stevia and recently monk fruit. Just trying to go that extra step towards more healthy, but it&#8217;s always a risk that the recipe won&#8217;t turn out as good. I love how you feed our bodies with such great nutrients, so that is only a personal request :). Thanks for all you do in providing us with the best vegan food recipes!!</p>
@@ -1345,7 +1415,7 @@ Would love to see a really good one from you too!</p>
 <dd class="comment odd alt thread-even depth-1">
 <div class="format_text" id="comment-body-2226698">
 <p>Hi Angela, </p>
-<p>I&#8217;m a long time reader. I started reading from 2008, I believe! Your recipes got me through professional school! This the first time I&#8217;m posting. We haven&#8217;t heard from you in 5 months!  Please do consider writing us a little update or recipe to let us know that you&#8217;re still out there creating wonderful recipes and content. Wishing you and your family health and happiness.</p>
+<p>I&#8217;m a long time reader. I started reading from 2008, I believe! Your recipes got me through professional school! This the first time I&#8217;m posting. We haven&#8217;t heard from you in 5 months! Please do consider writing us a little update or recipe to let us know that you&#8217;re still out there creating wonderful recipes and content. Wishing you and your family health and happiness.</p>
 <p>Rita</p>
 <p class="reply"><a rel='nofollow' class='comment-reply-link' href='https://ohsheglows.com/2019/06/29/obsession-worthy-peanut-butter-cookie-ice-cream/?replytocom=2226698#respond' onclick='return addComment.moveForm( "comment-body-2226698", "2226698", "respond", "76056" )' aria-label='Reply to Rita'>Reply</a></p>
 </div>
@@ -1525,7 +1595,7 @@ I’ve never posted before, but I am concerned about you Angela. I am so gratefu
 </dd>
 </dl>
 </dd>
- <dt class="comment odd alt thread-odd thread-alt depth-1" id="comment-2276713">
+<dt class="comment odd alt thread-odd thread-alt depth-1" id="comment-2276713">
 <span class="avatar"></span>
 <span class="comment_author">Christine Lacey</span>
 <span class="comment_time"><a href="#comment-2276713" title="Permalink to this comment" rel="nofollow">April 4, 2020 at 12:46 pm</a></span>
@@ -1581,6 +1651,78 @@ I am thrilled that you are writing yet another cookbook for us all. It is a huge
 <p class="reply"><a rel='nofollow' class='comment-reply-link' href='https://ohsheglows.com/2019/06/29/obsession-worthy-peanut-butter-cookie-ice-cream/?replytocom=2318768#respond' onclick='return addComment.moveForm( "comment-body-2318768", "2318768", "respond", "76056" )' aria-label='Reply to Lorraine E Smith'>Reply</a></p>
 </div>
 </dd>
+<dt class="comment even thread-even depth-1" id="comment-2326492">
+<span class="avatar"></span>
+<span class="comment_author">Gabrielle</span>
+<span class="comment_time"><a href="#comment-2326492" title="Permalink to this comment" rel="nofollow">May 31, 2020 at 10:14 am</a></span>
+<div class="osg-comment-rating">Recipe Rating: <div class="osg-rating-box-small"><div style="width:100%;" class="osg-rating-small"></div></div></div> </dt>
+<dd class="comment even thread-even depth-1">
+<div class="format_text" id="comment-body-2326492">
+<p>This was AMAZING!! This will be a new dessert favourite in our household. Thanks so much Angela!!</p>
+<p class="reply"><a rel='nofollow' class='comment-reply-link' href='https://ohsheglows.com/2019/06/29/obsession-worthy-peanut-butter-cookie-ice-cream/?replytocom=2326492#respond' onclick='return addComment.moveForm( "comment-body-2326492", "2326492", "respond", "76056" )' aria-label='Reply to Gabrielle'>Reply</a></p>
+</div>
+</dd>
+<dt class="comment odd alt thread-odd thread-alt depth-1" id="comment-2366878">
+<span class="avatar"><a href="https://www.alicecooperstown.com/" rel="nofollow"></a></span>
+<span class="comment_author"><a href='https://www.alicecooperstown.com/' rel='external nofollow' class='url'>Alice</a></span>
+<span class="comment_time"><a href="#comment-2366878" title="Permalink to this comment" rel="nofollow">August 4, 2020 at 4:18 am</a></span>
+<div class="osg-comment-rating">Recipe Rating: <div class="osg-rating-box-small"><div style="width:80%;" class="osg-rating-small"></div></div></div> </dt>
+<dd class="comment odd alt thread-odd thread-alt depth-1">
+<div class="format_text" id="comment-body-2366878">
+<p>Will try this amazing recipe tonight and i hope i make it. Thanks for sharing</p>
+<p class="reply"><a rel='nofollow' class='comment-reply-link' href='https://ohsheglows.com/2019/06/29/obsession-worthy-peanut-butter-cookie-ice-cream/?replytocom=2366878#respond' onclick='return addComment.moveForm( "comment-body-2366878", "2366878", "respond", "76056" )' aria-label='Reply to Alice'>Reply</a></p>
+</div>
+</dd>
+<dt class="comment even thread-even depth-1 parent" id="comment-2370077">
+<span class="avatar"></span>
+<span class="comment_author">Laila Abdullah</span>
+<span class="comment_time"><a href="#comment-2370077" title="Permalink to this comment" rel="nofollow">August 10, 2020 at 10:01 am</a></span>
+</dt>
+<dd class="comment even thread-even depth-1 parent">
+<div class="format_text" id="comment-body-2370077">
+<p>Hello, I really enjoy your blog. I read all of your healthy recipes, but I kept scrolling down to find best recipes that contain protein powder and I couldn&#8217;t find, can you please write for us about this topic? I&#8217;m dying to know. Thanks for everything! I love your blog &lt;3</p>
+<p class="reply"><a rel='nofollow' class='comment-reply-link' href='https://ohsheglows.com/2019/06/29/obsession-worthy-peanut-butter-cookie-ice-cream/?replytocom=2370077#respond' onclick='return addComment.moveForm( "comment-body-2370077", "2370077", "respond", "76056" )' aria-label='Reply to Laila Abdullah'>Reply</a></p>
+</div>
+<dl class="children">
+<dt class="comment byuser comment-author-admin bypostauthor odd alt depth-2" id="comment-2371730">
+<span class="avatar"></span>
+<span class="comment_author">Angela (Oh She Glows)</span>
+<span class="comment_time"><a href="#comment-2371730" title="Permalink to this comment" rel="nofollow">August 13, 2020 at 10:03 am</a></span>
+</dt>
+<dd class="comment byuser comment-author-admin bypostauthor odd alt depth-2">
+<div class="format_text" id="comment-body-2371730">
+<p>Hi Laila! Thank you so much for your kind words! I don&#8217;t have too many recipes with protein powder, but here are a few to try out:</p>
+<p>In the Buff Smoothie Bowl<br />
+Green Warrior Protein Smoothie<br />
+Quick &#8216;n Easy No-Bake Protein Bars </p>
+<p>:)</p>
+<p class="reply"><a rel='nofollow' class='comment-reply-link' href='https://ohsheglows.com/2019/06/29/obsession-worthy-peanut-butter-cookie-ice-cream/?replytocom=2371730#respond' onclick='return addComment.moveForm( "comment-body-2371730", "2371730", "respond", "76056" )' aria-label='Reply to Angela (Oh She Glows)'>Reply</a></p>
+</div>
+</dd>
+</dl>
+</dd>
+<dt class="comment even thread-odd thread-alt depth-1" id="comment-2384145">
+<span class="avatar"></span>
+<span class="comment_author">Nova</span>
+<span class="comment_time"><a href="#comment-2384145" title="Permalink to this comment" rel="nofollow">September 7, 2020 at 1:22 pm</a></span>
+<div class="osg-comment-rating">Recipe Rating: <div class="osg-rating-box-small"><div style="width:100%;" class="osg-rating-small"></div></div></div> </dt>
+<dd class="comment even thread-odd thread-alt depth-1">
+<div class="format_text" id="comment-body-2384145">
+<p>Obsession worthy is right. Made this last weekend and it didn&#8217;t last long! Absolutely delicious and my husband&#8217;s new favorite ice cream. Thank you!</p>
+<p class="reply"><a rel='nofollow' class='comment-reply-link' href='https://ohsheglows.com/2019/06/29/obsession-worthy-peanut-butter-cookie-ice-cream/?replytocom=2384145#respond' onclick='return addComment.moveForm( "comment-body-2384145", "2384145", "respond", "76056" )' aria-label='Reply to Nova'>Reply</a></p>
+</div>
+</dd>
+<dt class="comment odd alt thread-even depth-1" id="comment-2414576">
+<span class="avatar"></span>
+<span class="comment_author">Jeremy Brett</span>
+<span class="comment_time"><a href="#comment-2414576" title="Permalink to this comment" rel="nofollow">November 10, 2020 at 8:52 am</a></span>
+</dt>
+<dd class="comment odd alt thread-even depth-1">
+<div class="format_text" id="comment-body-2414576">
+<p>wow, thnk</p>
+<p class="reply"><a rel='nofollow' class='comment-reply-link' href='https://ohsheglows.com/2019/06/29/obsession-worthy-peanut-butter-cookie-ice-cream/?replytocom=2414576#respond' onclick='return addComment.moveForm( "comment-body-2414576", "2414576", "respond", "76056" )' aria-label='Reply to Jeremy Brett'>Reply</a></p>
+</div>
+</dd>
 </dl>
 <div id="respond">
 <div id="respond_intro">
@@ -1598,7 +1740,7 @@ I am thrilled that you are writing yet another cookbook for us all. It is a huge
 <input type='hidden' name='comment_post_ID' value='76056' id='comment_post_ID' />
 <input type='hidden' name='comment_parent' id='comment_parent' value='0' />
 </p>
-<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="080e1d5936" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="60" /></p> </form>
+<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="caaef7200c" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="53" /></p> </form>
 </div>
 </div>
 <div class="prev_next post_nav">
@@ -1611,6 +1753,15 @@ I am thrilled that you are writing yet another cookbook for us all. It is a huge
 <ul class="sidebar_list">
 <li class="widget Social_Widget" id="social-widget-3"><h3>Join over 1 million followers!</h3><div class="socialmedia-buttons smw_center"><a href="https://www.facebook.com/ohsheglowsblog" rel="nofollow" target="_blank"><img width="32" height="32" src="//cdn.ohsheglows.com/images/icons/pink/facebook.png" alt="Follow Us on Facebook" title="Follow Us on Facebook" style="opacity: 0.8; -moz-opacity: 0.8;" class="fade" /></a><a href="https://twitter.com/#!/ohsheglows" rel="nofollow" target="_blank"><img width="32" height="32" src="//cdn.ohsheglows.com/images/icons/pink/twitter.png" alt="Follow Us on Twitter" title="Follow Us on Twitter" style="opacity: 0.8; -moz-opacity: 0.8;" class="fade" /></a><a href="https://www.instagram.com/ohsheglows/" rel="nofollow" target="_blank"><img width="32" height="32" src="//cdn.ohsheglows.com/images/icons/pink/instagram.png" alt="Follow Us on Instagram" title="Follow Us on Instagram" style="opacity: 0.8; -moz-opacity: 0.8;" class="fade" /></a><a href="https://www.pinterest.com/ohsheglows/healthy-vegan-recipes-by-oh-she-glows/" rel="nofollow" target="_blank"><img width="32" height="32" src="//cdn.ohsheglows.com/images/icons/pink/pinterest.png" alt="Follow Us on Pinterest" title="Follow Us on Pinterest" style="opacity: 0.8; -moz-opacity: 0.8;" class="fade" /></a><a href="https://ohsheglows.com/feed/" rel="nofollow" target="_blank"><img width="32" height="32" src="//cdn.ohsheglows.com/images/icons/pink/rss.png" alt="Follow Us on RSS" title="Follow Us on RSS" style="opacity: 0.8; -moz-opacity: 0.8;" class="fade" /></a><a href="https://feedburner.google.com/fb/a/mailverify?uri=ohsheglows%2FvQFK&loc=en_US" rel="nofollow" target="_blank"><img width="32" height="32" src="//cdn.ohsheglows.com/images/icons/pink/email.png" alt="Follow Us on E-mail" title="Follow Us on E-mail" style="opacity: 0.8; -moz-opacity: 0.8;" class="fade" /></a></div></li><li class="widget enh_rp" id="enh-rp-5"><h3>Recent Posts</h3><ul class="enhanced-recent-posts">
 <li>
+<a href="https://ohsheglows.com/2020/10/05/my-am-pm-skincare-routines-and-current-fave-products-cruelty-free/">My AM + PM Skincare Routines and Current Fave Products! (cruelty-free)</a>
+</li>
+<li>
+<a href="https://ohsheglows.com/2020/09/20/perfect-little-pumpkin-cookies-with-spiced-buttercream/">Perfect Little Pumpkin Cookies with Spiced Buttercream</a>
+</li>
+<li>
+<a href="https://ohsheglows.com/2020/07/29/oh-she-glows-for-dinner-pre-order-bonus-bundle/">Oh She Glows For Dinner + Pre-order Bonus Bundle!</a>
+</li>
+<li>
 <a href="https://ohsheglows.com/2020/04/25/cozy-at-home-spicy-any-veggie-soup/">Cozy At Home Spicy Any-Veggie Soup</a>
 </li>
 <li>
@@ -1618,15 +1769,6 @@ I am thrilled that you are writing yet another cookbook for us all. It is a huge
 </li>
 <li>
 <a href="https://ohsheglows.com/2019/06/29/flourless-peanut-butter-cookies/">Flourless Peanut Butter Cookies</a>
-</li>
-<li>
-<a href="https://ohsheglows.com/2019/03/07/meal-prep-week-long-power-bowls/">Meal Prep Week-Long Power Bowls</a>
-</li>
-<li>
-<a href="https://ohsheglows.com/2019/01/26/game-night-crispy-potato-bruschetta/">Game Night Crispy Potato Bruschetta</a>
-</li>
-<li>
-<a href="https://ohsheglows.com/2019/01/15/crunchy-dill-chickpea-pancakes-with-lemon-garlic-aioli/">Crunchy Dill Chickpea Pancakes with Lemon-Garlic Aioli</a>
 </li>
 </ul>
 </li> </ul>
@@ -1641,7 +1783,8 @@ I am thrilled that you are writing yet another cookbook for us all. It is a huge
 <li id="menu-item-61875" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-61875"><a href="https://ohsheglows.com/categories/my-story/">My Story</a></li>
 <li id="menu-item-61880" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-61880"><a href="https://ohsheglows.com/faqs/">FAQ</a></li>
 <li id="menu-item-61881" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-61881"><a href="https://ohsheglows.com/in-the-news/">Press</a></li>
-</ul></div></div></div><div class="footer-spacer">&nbsp;</div><div class="footer-spacer">&nbsp;</div><div class="footer-spacer">&nbsp;</div><script type='text/javascript' src='https://ohsheglows.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+</ul></div></div></div><div class="footer-spacer">&nbsp;</div><div class="footer-spacer">&nbsp;</div><div class="footer-spacer">&nbsp;</div><script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js'></script>
+<script type='text/javascript' src='https://ohsheglows.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
 <script type='text/javascript' src='https://ohsheglows.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
 <script type='text/javascript' src='https://ohsheglows.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
 <script type='text/javascript' src='https://ohsheglows.com/wp-includes/js/jquery/ui/resizable.min.js?ver=1.11.4'></script>
@@ -1651,11 +1794,11 @@ I am thrilled that you are writing yet another cookbook for us all. It is a huge
 <script type='text/javascript' src='https://ohsheglows.com/wp-includes/js/jquery/ui/dialog.min.js?ver=1.11.4'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
-var recipe_js = {"ajaxurl":"https:\/\/ohsheglows.com\/wp-admin\/admin-ajax.php","nonce":"c2a1e02aae"};
+var recipe_js = {"ajaxurl":"https:\/\/ohsheglows.com\/wp-admin\/admin-ajax.php","nonce":"51124a0bec"};
 /* ]]> */
 </script>
 <script type='text/javascript' src='https://ohsheglows.com/wp-content/plugins/osg_recipes/js/osg_recipes.js?ver=2.1.9'></script>
-<script type='text/javascript' src='https://ohsheglows.com/wp-includes/js/comment-reply.min.js?ver=4.9.14'></script>
+<script type='text/javascript' src='https://ohsheglows.com/wp-includes/js/comment-reply.min.js?ver=4.9.16'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var wpcf7 = {"apiSettings":{"root":"https:\/\/ohsheglows.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
@@ -1676,26 +1819,35 @@ var SafariPushParams = {"token":"","userID":"0","webServiceURL":"https:\/\/push.
 <script type='text/javascript' src='https://ohsheglows.com/wp-content/plugins/wp-safari-push/js/safari-push.min.js?ver=0.2'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
-var newsletter = {"messages":{"email_error":"Your email seems wrong, please verify again.","name_error":"The name is not correct","surname_error":"The last name is not correct","profile_error":"A mandatory field is not filled in","privacy_error":"You must accept the privacy informative to subscribe."},"profile_max":"20"};
+var pum_vars = {"version":"1.13.1","pm_dir_url":"https:\/\/ohsheglows.com\/wp-content\/plugins\/popup-maker\/","ajaxurl":"https:\/\/ohsheglows.com\/wp-admin\/admin-ajax.php","restapi":"https:\/\/ohsheglows.com\/wp-json\/pum\/v1","rest_nonce":null,"default_theme":"76240","debug_mode":"","disable_tracking":"","home_url":"\/","message_position":"top","core_sub_forms_enabled":"1","popups":[],"analytics_route":"analytics","analytics_api":"https:\/\/ohsheglows.com\/wp-json\/pum\/v1"};
+var ajaxurl = "https:\/\/ohsheglows.com\/wp-admin\/admin-ajax.php";
+var pum_sub_vars = {"ajaxurl":"https:\/\/ohsheglows.com\/wp-admin\/admin-ajax.php","message_position":"top"};
+var pum_popups = {"pum-76249":{"disable_on_mobile":false,"disable_on_tablet":false,"custom_height_auto":false,"scrollable_content":false,"position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"close_on_form_submission":false,"close_on_overlay_click":true,"close_on_esc_press":true,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"triggers":[{"type":"auto_open","settings":{"cookie_name":["pum-new-76249"],"delay":"750"}}],"cookies":[{"event":"on_popup_close","settings":{"name":"pum-new-76249","key":"","session":false,"time":"1 day","path":true}}],"theme_id":"76247","size":"medium","responsive_min_width":"0%","responsive_max_width":"540px","custom_width":"640px","custom_height":"380px","animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center","position_top":"100","position_bottom":"0","position_left":"0","position_right":"0","zindex":"1999999999","close_button_delay":"0","close_on_form_submission_delay":"0","theme_slug":"osg-book3","id":76249,"slug":"oh-she-glows-for-dinner-preorder"}};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://ohsheglows.com/wp-content/plugins/newsletter/subscription/validate.js?ver=6.6.3'></script>
+<script type='text/javascript' src='https://ohsheglows.com/wp-content/plugins/popup-maker/assets/js/site.min.js?defer&#038;ver=1.13.1'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
-var ubermenu_data = {"remove_conflicts":"on","reposition_on_load":"off","intent_delay":"400","intent_interval":"20","intent_threshold":"7","scrollto_offset":"50","scrollto_duration":"1000","responsive_breakpoint":"959","accessible":"on","retractor_display_strategy":"responsive","touch_off_close":"on","submenu_indicator_close_mobile":"on","collapse_after_scroll":"on","v":"3.6.1","configurations":["osg-bottom-menu","osg-top-menu","main"],"ajax_url":"https:\/\/ohsheglows.com\/wp-admin\/admin-ajax.php","plugin_url":"https:\/\/ohsheglows.com\/wp-content\/plugins\/ubermenu\/","disable_mobile":"off","prefix_boost":"","aria_role_navigation":"off","aria_nav_label":"off","aria_expanded":"off","aria_hidden":"off","aria_controls":"","aria_responsive_toggle":"off","icon_tag":"i","theme_locations":{"primary":"Primary Menu","main":"Main Menu","recipes":"Recipes Menu","recipes_mobile":"Recipes Mobile Menu","fitness":"Fitness Menu","health":"Health & Beauty Menu","mystory":"My Story Menu","mystory_mobile":"My Story Mobile Menu","photography":"Photography Menu","popular":"Popular Menu","popular_mobile":"Popular Mobile Menu","adthrive_primary":"AdThrive Primary Menu"}};
+var ubermenu_data = {"remove_conflicts":"on","reposition_on_load":"off","intent_delay":"400","intent_interval":"20","intent_threshold":"7","scrollto_offset":"50","scrollto_duration":"1000","responsive_breakpoint":"959","accessible":"on","retractor_display_strategy":"responsive","touch_off_close":"on","submenu_indicator_close_mobile":"on","collapse_after_scroll":"on","v":"3.7.2","configurations":["osg-bottom-menu","osg-top-menu","main"],"ajax_url":"https:\/\/ohsheglows.com\/wp-admin\/admin-ajax.php","plugin_url":"https:\/\/ohsheglows.com\/wp-content\/plugins\/ubermenu\/","disable_mobile":"off","prefix_boost":"","use_core_svgs":"off","aria_role_navigation":"off","aria_nav_label":"off","aria_expanded":"off","aria_hidden":"off","aria_controls":"","aria_responsive_toggle":"off","icon_tag":"i","esc_close_mobile":"on","theme_locations":{"primary":"Primary Menu","main":"Main Menu","recipes":"Recipes Menu","recipes_mobile":"Recipes Mobile Menu","fitness":"Fitness Menu","health":"Health & Beauty Menu","mystory":"My Story Menu","mystory_mobile":"My Story Mobile Menu","photography":"Photography Menu","popular":"Popular Menu","popular_mobile":"Popular Mobile Menu","adthrive_primary":"AdThrive Primary Menu"}};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://ohsheglows.com/wp-content/plugins/ubermenu/assets/js/ubermenu.min.js?ver=3.6.1'></script>
-<script type='text/javascript' src='https://ohsheglows.com/wp-includes/js/wp-embed.min.js?ver=4.9.14'></script>
-<script async="async" type='text/javascript' src='https://ohsheglows.com/wp-content/plugins/akismet/_inc/form.js?ver=4.1.5'></script>
-<script>
-(function (w, d) {
-	var s = d.createElement('script');
-	s.src = "https://dstik9906m659.cloudfront.net/eVIfRVUUblIfRlskRCEyUu.js";
-	s.defer = true;
-	d.body.appendChild(s);
-})(window, document);
-</script>
+<script type='text/javascript' src='https://ohsheglows.com/wp-content/plugins/ubermenu/assets/js/ubermenu.min.js?ver=3.7.2'></script>
+<script type='text/javascript' src='https://ohsheglows.com/wp-includes/js/wp-embed.min.js?ver=4.9.16'></script>
+<script async="async" type='text/javascript' src='https://ohsheglows.com/wp-content/plugins/akismet/_inc/form.js?ver=4.1.7'></script>
+<div id="pum-76249" class="pum pum-overlay pum-theme-76247 pum-theme-osg-book3 popmake-overlay pum-click-to-close auto_open click_open" data-popmake="{&quot;id&quot;:76249,&quot;slug&quot;:&quot;oh-she-glows-for-dinner-preorder&quot;,&quot;theme_id&quot;:76247,&quot;cookies&quot;:[{&quot;event&quot;:&quot;on_popup_close&quot;,&quot;settings&quot;:{&quot;name&quot;:&quot;pum-new-76249&quot;,&quot;key&quot;:&quot;&quot;,&quot;session&quot;:false,&quot;time&quot;:&quot;1 day&quot;,&quot;path&quot;:true}}],&quot;triggers&quot;:[{&quot;type&quot;:&quot;auto_open&quot;,&quot;settings&quot;:{&quot;cookie_name&quot;:[&quot;pum-new-76249&quot;],&quot;delay&quot;:&quot;750&quot;}},{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;extra_selectors&quot;:&quot;&quot;,&quot;cookie_name&quot;:null}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;medium&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;540px&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;center&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:&quot;1&quot;,&quot;esc_press&quot;:&quot;1&quot;,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]}}" role="dialog" aria-hidden="true">
+<div id="popmake-76249" class="pum-container popmake theme-76247 pum-responsive pum-responsive-medium responsive size-medium">
+<div class="pum-content popmake-content">
+<p><img class="alignleft wp-image-76156 size-osg-portrait-2x3-360px" style="margin-bottom: 0; margin-right: 18px; max-width: 250px;" src="http://dev.ohsheglows.com/wp-content/uploads/2020/09/OSG_for_Dinner-360x450.jpg" alt="Preorder Oh She Glows for Dinner" width="230" height="auto" /><span style="font-family: 'Roboto Slab', serif; font-size: 41px; letter-spacing: normal; text-transform: lowercase; color: #494a5b;">oh she glows</span><br />
+<span style="font-family: 'Mulish', san-serif; color: #494a5b; font-weight: 600; font-size: 22px;">FOR DINNER</span></p>
+<div style="color: #c59d60; text-align: right; margin-top: 20px; margin-bottom: 20px; font-size: 23px;">&#8230;get your oven ready<br />
+available now!</div>
+<div style="border: 1px solid #494a5b; background: linear-gradient(#fff,#d0af7c); width: 240px; float: left; text-align: center; font-size: 19px; font-weight: 600; margin-top: 20px;"><a style="width: 100%; height: 100%; color: #494a5b; padding: 9px 17px; display: block;" href="/book" target="_blank" rel="noopener noreferrer">Click here to<br />
+order your copy!</a></div>
+</div>
+<button type="button" class="pum-close popmake-close" aria-label="Close">
+X </button>
+</div>
+</div>
 </div>
 <div id="footer-spacer"></div></div>
 <br style="clear:both;" />

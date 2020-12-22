@@ -1,4 +1,5 @@
 
+
 <!DOCTYPE html>
 <html lang="en" dir="ltr" prefix="og: https://ogp.me/ns#">
   <head>
@@ -15,7 +16,7 @@
 <meta name="p:domain_verify" content="0141af6904f9685eaafe9b65c80cf9d3" />
 <meta property="og:description" content="Soft, chewy rye cookies with crispy edges and complex, spiced flavor." />
 <meta property="og:image" content="https://www.kingarthurbaking.com/sites/default/files/2020-07/spiced-rye-ginger-cookies.jpg" />
-<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="Generator" content="Drupal 9 (https://www.drupal.org)" />
 <meta name="MobileOptimized" content="width" />
 <meta name="HandheldFriendly" content="true" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -47,7 +48,7 @@
                 "1/4 cup (85g) molasses",
                 "1/3 cup (76g) coarse sparkling sugar or 1/3 cup (66g) granulated sugar"
             ],
-            "recipeInstructions": "Preheat the oven to 325°F. Lightly grease (or line with parchment) two baking sheets.\n, Weigh your flour; or measure it by gently spooning it into a cup, then sweeping off any excess.\n, In a medium bowl, whisk together the flour, baking soda, salt, and spices. Set aside.\n, In a large mixing bowl, using either a hand whisk, an electric mixer, or a stand mixer, whisk the sugar and oil until combined.\n, Add the egg and whisk until smooth.\n, Stir in the molasses.\n, Add the dry ingredients to the bowl and stir until well combined.\n, Use a spoon (or a tablespoon cookie scoop) to portion 1 1/4\u0022 balls of dough.\n, Roll the dough balls in granulated or sparkling sugar to coat before placing onto the prepared baking sheets. Leave 2\u0022 between them on all sides; they\u0027ll spread as they bake.\n, Bake the cookies for 12 to 15 minutes, until they\u0027re puffed and their edges are set.\n, Remove the cookies from the oven, and cool completely right on the pan.  \n, Store cookies, well wrapped, at room temperature for several days; freeze for longer storage.",
+            "recipeInstructions": "Preheat the oven to 325°F. Lightly grease (or line with parchment) two baking sheets.\n, Weigh your flour; or measure it by gently spooning it into a cup, then sweeping off any excess.\n, In a medium bowl, whisk together the flour, baking soda, salt, and spices. Set aside.\n, In a large mixing bowl, using either a hand whisk, an electric mixer, or a stand mixer, whisk the sugar and oil until combined.\n, Add the egg and whisk until smooth.\n, Stir in the molasses.\n, Add the dry ingredients to the bowl and stir until well combined.\n, Use a spoon (or a tablespoon cookie scoop) to portion 1 1/4\u0022 balls of dough.\n, Roll the dough balls in granulated or sparkling sugar to coat before placing onto the prepared baking sheets. Leave 2\u0022 between them on all sides; they\u0027ll spread as they bake.\n, Bake the cookies for 12 to 15 minutes, until they\u0027re puffed and their edges are set.\n, Remove the cookies from the oven, and cool completely right on the pan.  \n, Store cookies, well wrapped, at room temperature for several days; freeze for longer storage.",
             "author": {
                 "@type": "Organization",
                 "name": "King Arthur Flour",
@@ -77,29 +78,25 @@
             },
             "aggregateRating": {
                 "@type": "AggregateRating",
-                "ratingValue": "4.70",
-                "ratingCount": "7"
+                "ratingValue": "4.90",
+                "ratingCount": "15"
             }
         }
     ]
 }</script>
 <link rel="shortcut icon" href="/themes/custom/kaf_nextgenweb/favicon.ico" type="image/vnd.microsoft.icon" />
 <link rel="revision" href="https://www.kingarthurbaking.com/recipes/spiced-rye-ginger-cookies-recipe" />
-<script src="/sites/default/files/google_tag/drupal_gtm_container/google_tag.script.js?qi3fyr" defer></script>
+<script src="/sites/default/files/google_tag/drupal_gtm_container/google_tag.script.js?qkzutw" defer></script>
 
     <title>Spiced Rye Ginger Cookies | King Arthur Baking</title>
-    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_7Nm8ikXmb9lB2iTIo9g-DOEHY3ydPPtGJctRuAYQmI8.css" />
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_xikE5gSB_-ct81VrV23Eh52atP16u2VHbSNvpD8Hc9k.css" />
 <link rel="stylesheet" media="all" href="https://use.typekit.net/qwi2npt.css" />
-<link rel="stylesheet" media="all" href="/sites/default/files/css/css_nWbf5V2hhOZHMvkXzzeTxnWa_GMePn-B4FX7GIUgrmw.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_6CIzrt2eYtywOMSLvnlTPFjTFVMw9xGRTbb9YBiCUCM.css" />
 
-
-<!--[if lte IE 8]>
-<script src="/sites/default/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
-<![endif]-->
-
-
-  <script>(window.BOOMR_mq=window.BOOMR_mq||[]).push(["addVar",{"rua.upush":"true","rua.cpush":"true","rua.upre":"true","rua.cpre":"true","rua.uprl":"false","rua.cprl":"false","rua.cprf":"false","rua.trans":"SJ-4659a562-8437-42c4-aca3-832053302428","rua.cook":"false","rua.ims":"false","rua.ufprl":"false","rua.cfprl":"true"}]);</script>
-  <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("False"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="SQQ6J-MS2G2-ZFAMA-2TTB7-72K6R",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"SQQ6J-MS2G2-ZFAMA-2TTB7-72K6R",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e="true"=="true"?1:0,t="",n="i6znrlaxbsjvwx43gwoq-f-510435ee6-clientnsv4-s.akamaihd.net",i={"ak.v":"29","ak.cp":"1068635","ak.ai":parseInt("635712",10),"ak.ol":"0","ak.cr":8,"ak.ipv":4,"ak.proto":"h2","ak.rid":"c158bdd2","ak.r":37762,"ak.a2":e,"ak.m":"","ak.n":"essl","ak.bpcip":"71.178.216.0","ak.cport":57422,"ak.gh":"23.32.16.91","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"","ak.t":"1604007325","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==S70JrEcUT5JrH2YHm8T4FWIEr1NYLt2WQ6brrS+ldQ0btD60oPfGmCX0dGS1TiK6oehnWf8GAF77mTti+GCoiEz/wCQS4Zj53viXXKJ+pLhLQThdNX6WlFof9iwYQ32oEvoHM7x8Cdz05HSWB86HnDNIUwNPZFiSuJ/Q5GM2VX27h4jrQASGjfcTGjwJFaVWUi/A2OT2XiYnnlr4/2wTPGffg1G02/R3BQuuC6Dgwo7qyObmFhd3NCCqKaQwd2vIf+x8uU9jXib0bzNnBdBcWGGnFDth5DUTSm0+TwbcW8MWYzR3JMFl0V7FPRjQMKTHII0ZCk/ceA9TL0ZMfkAhmHO9x6Rxm4JcK1IBrKhnBYdV7HsaviTnzMRu3EFg1OuMJz0697nkg4VB6keIjoHNh/T+ecfDLvsIaP4Llb3K5DU=","ak.pv":"3","ak.dpoabenc":""};if(""!==t)i["ak.ruds"]=t;var _={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))i["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(i)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:i,akDNSPreFetchDomain:n,init:function(){if(!_.i){var a=BOOMR.subscribe;a("before_beacon",_.av,null,null),a("onbeacon",_.rv,null,null),_.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+    
+  
+  <script>(window.BOOMR_mq=window.BOOMR_mq||[]).push(["addVar",{"rua.upush":"false","rua.cpush":"false","rua.upre":"false","rua.cpre":"false","rua.uprl":"false","rua.cprl":"false","rua.cprf":"false","rua.trans":"","rua.cook":"false","rua.ims":"false","rua.ufprl":"false","rua.cfprl":"false"}]);</script>
+  <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("False"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="SQQ6J-MS2G2-ZFAMA-2TTB7-72K6R",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"SQQ6J-MS2G2-ZFAMA-2TTB7-72K6R",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="jw7jjhyxesrfqx7cn64q-f-d1605107d-clientnsv4-s.akamaihd.net",i={"ak.v":"29","ak.cp":"1068635","ak.ai":parseInt("635712",10),"ak.ol":"0","ak.cr":30,"ak.ipv":4,"ak.proto":"h2","ak.rid":"c41649b","ak.r":40717,"ak.a2":e,"ak.m":"a","ak.n":"essl","ak.bpcip":"77.190.148.0","ak.cport":51255,"ak.gh":"23.36.160.24","ak.quicv":"","ak.tlsv":"tls1.2","ak.0rtt":"","ak.csrc":"-","ak.acc":"","ak.t":"1608675257","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==6TOZBUcW6Yfv2OfVpOEXtXGlJIjHdti7EkkHmKBNRVD713WNNMqlMEq2RYKpP1tno3F1s8d+kdMz83V83XzhdbLX9ElZ1B+zBj8gX8mGru331gcvGVXBhI8QA2wG/h+Imnc++ukjg+OR/M8L4j0Zr7IoNzkLEYbML8Tl+j5RytCCF7NuEiytVkupCCS1x02crcUsbNCMJ2qfwv4VhPjCbOxZAGklLosp21L8ZfF3nnpiWLX8G9P98nZcHZLj9cmYehiZGb0ivUlXjStunrWyMMqTcI5DNQ38ERelETKO6vJRl31DPhEKA2N3+kTFAlHt5cWP1RXHWL4fRj7svXaG7LcRqmbC8QItpkB7Xp86j8lYK3wN/cGj5sRhncGjnkAV9C24SkrmnY8N2nL0Rctv7eZ/sU/Aa3g1VH50vdrUt3M=","ak.pv":"3","ak.dpoabenc":""};if(""!==t)i["ak.ruds"]=t;var _={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))i["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(i)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:i,akDNSPreFetchDomain:n,init:function(){if(!_.i){var a=BOOMR.subscribe;a("before_beacon",_.av,null,null),a("onbeacon",_.rv,null,null),_.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
   <body class="has-subnav path-node page-node-type-recipe">
         <a href="#main-content" class="visually-hidden focusable skip-link">
       Skip to main content
@@ -111,8 +108,8 @@
   <header class="header" role="banner">
       <div class="region region-promo-bar">
     <div id="block-kafpromobar" class="block block-kaf-promo-bar block-kaf-promo-bar-block">
-
-
+  
+    
       <div class="kaf-promo-bar js-kaf-promo-bar"></div>
 
   </div>
@@ -121,7 +118,7 @@
 
     <div class="header__wrap">
         <div class="region region-header">
-
+    
 <div id="block-kaf-nextgenweb-branding" class="block block-branding">
             <a href="/" title="King Arthur Baking Company" rel="home" class="site-logo">
         <img class="brand-lg" src="https://shop.kingarthurbaking.com/images/logos/king-arthur-baking@2x.png" alt="King Arthur Baking Company">
@@ -129,16 +126,16 @@
       </a>
       </div>
 <div id="block-kafsubmenu" class="block block-kaf-submenu">
-
-
+  
+    
       <ul class="mnav-l1" id="mobile-nav" role="navigation" aria-labelledby="mnav-trigger" tabindex="-1">
        <li class="mnav-l1--item mnav-item">
-      <a href="https://shop.kingarthurbaking.com/shop-home/" class="mobile-subnav-l1">Shop</a>
+      <span class="mnav-item--wrapper"><a href="https://shop.kingarthurbaking.com/shop-home/" class="mobile-subnav-l1">Shop</a></span>
 
-
+                  
     </li>
        <li class="mnav-l1--item mnav-item">
-      <a href="/recipes" class="mobile-subnav-l1">Recipes</a>
+      <span class="mnav-item--wrapper"><a href="/recipes" class="mobile-subnav-l1">Recipes</a></span>
 
                     <button class="mnav-more"><span class="visually-hidden">Expand Recipes</span></button>
 
@@ -149,7 +146,7 @@
           </div>
           <ul class="mnav-l2">
                           <li class="mnav-l2--item mnav-item">
-                <span class="mobile-subnav-l2">Categories</span>
+                <span class="mnav-item--wrapper"><span class="mobile-subnav-l2">Categories</span></span>
 
                                                   <button class="mnav-more"><span class="visually-hidden">Expand Categories</span></button>
                   <div class="mnav-l3--wrapper mnav-wrapper" aria-hidden="true">
@@ -159,47 +156,47 @@
                     </div>
                     <ul class="mnav-l3">
                                               <li class="mnav-l3--item mnav-item">
-                          <a href="/recipes/biscuits-shortcakes" class="mobile-subnav-l3">Biscuits &amp; Shortcakes</a>
+                          <span class="mnav-item--wrapper"><a href="/recipes/biscuits-shortcakes" class="mobile-subnav-l3">Biscuits &amp; Shortcakes</a></span>
                         </li>
                                               <li class="mnav-l3--item mnav-item">
-                          <a href="/recipes/bread" class="mobile-subnav-l3">Bread</a>
+                          <span class="mnav-item--wrapper"><a href="/recipes/bread" class="mobile-subnav-l3">Bread</a></span>
                         </li>
                                               <li class="mnav-l3--item mnav-item">
-                          <a href="/recipes/buns-rolls" class="mobile-subnav-l3">Buns &amp; Rolls</a>
+                          <span class="mnav-item--wrapper"><a href="/recipes/buns-rolls" class="mobile-subnav-l3">Buns &amp; Rolls</a></span>
                         </li>
                                               <li class="mnav-l3--item mnav-item">
-                          <a href="/recipes/cake" class="mobile-subnav-l3">Cake</a>
+                          <span class="mnav-item--wrapper"><a href="/recipes/cake" class="mobile-subnav-l3">Cake</a></span>
                         </li>
                                               <li class="mnav-l3--item mnav-item">
-                          <a href="/recipes/cookies-bars" class="mobile-subnav-l3">Cookies &amp; Bars</a>
+                          <span class="mnav-item--wrapper"><a href="/recipes/cookies-bars" class="mobile-subnav-l3">Cookies &amp; Bars</a></span>
                         </li>
                                               <li class="mnav-l3--item mnav-item">
-                          <a href="/recipes/muffins-popovers" class="mobile-subnav-l3">Muffins &amp; Popovers</a>
+                          <span class="mnav-item--wrapper"><a href="/recipes/muffins-popovers" class="mobile-subnav-l3">Muffins &amp; Popovers</a></span>
                         </li>
                                               <li class="mnav-l3--item mnav-item">
-                          <a href="/recipes/pancakes-waffles" class="mobile-subnav-l3">Pancakes &amp; Waffles</a>
+                          <span class="mnav-item--wrapper"><a href="/recipes/pancakes-waffles" class="mobile-subnav-l3">Pancakes &amp; Waffles</a></span>
                         </li>
                                               <li class="mnav-l3--item mnav-item">
-                          <a href="/recipes/pastry" class="mobile-subnav-l3">Pastry</a>
+                          <span class="mnav-item--wrapper"><a href="/recipes/pastry" class="mobile-subnav-l3">Pastry</a></span>
                         </li>
                                               <li class="mnav-l3--item mnav-item">
-                          <a href="/recipes/pie" class="mobile-subnav-l3">Pie</a>
+                          <span class="mnav-item--wrapper"><a href="/recipes/pie" class="mobile-subnav-l3">Pie</a></span>
                         </li>
                                               <li class="mnav-l3--item mnav-item">
-                          <a href="/recipes/scones" class="mobile-subnav-l3">Scones</a>
+                          <span class="mnav-item--wrapper"><a href="/recipes/scones" class="mobile-subnav-l3">Scones</a></span>
                         </li>
                                               <li class="mnav-l3--item mnav-item">
-                          <span class="mobile-subnav-l3">—</span>
+                          <span class="mnav-item--wrapper"><span class="mobile-subnav-l3">—</span></span>
                         </li>
                                               <li class="mnav-l3--item mnav-item">
-                          <a href="https://www.kingarthurbaking.com/recipes#categories" class="mobile-subnav-l3">See All Categories</a>
+                          <span class="mnav-item--wrapper"><a href="https://www.kingarthurbaking.com/recipes#categories" class="mobile-subnav-l3">See All Categories</a></span>
                         </li>
                                           </ul>
                   </div>
-
+                                
               </li>
                           <li class="mnav-l2--item mnav-item">
-                <a href="/recipes/collections" class="mobile-subnav-l2">Collections</a>
+                <span class="mnav-item--wrapper"><a href="/recipes/collections" class="mobile-subnav-l2">Collections</a></span>
 
                                                   <button class="mnav-more"><span class="visually-hidden">Expand Collections</span></button>
                   <div class="mnav-l3--wrapper mnav-wrapper" aria-hidden="true">
@@ -209,32 +206,32 @@
                     </div>
                     <ul class="mnav-l3">
                                               <li class="mnav-l3--item mnav-item">
-                          <a href="/recipes/collections/easy-homemade-meals" class="mobile-subnav-l3">Easy Homemade Meals</a>
+                          <span class="mnav-item--wrapper"><a href="/recipes/collections/holiday-classics" class="mobile-subnav-l3">Holiday Classics</a></span>
                         </li>
                                               <li class="mnav-l3--item mnav-item">
-                          <a href="/recipes/collections/recipes-to-bake-with-kids" class="mobile-subnav-l3">Recipes to Bake With Kids</a>
+                          <span class="mnav-item--wrapper"><a href="/recipes/collections/easy-homemade-meals" class="mobile-subnav-l3">Easy Homemade Meals</a></span>
                         </li>
                                               <li class="mnav-l3--item mnav-item">
-                          <a href="/recipes/collections/everyday-bread" class="mobile-subnav-l3">Everyday Bread</a>
+                          <span class="mnav-item--wrapper"><a href="/recipes/collections/recipes-to-bake-with-kids" class="mobile-subnav-l3">Recipes to Bake With Kids</a></span>
                         </li>
                                               <li class="mnav-l3--item mnav-item">
-                          <a href="/recipes/collections/recipes-with-5-ingredients-or-fewer" class="mobile-subnav-l3">5 Ingredients or Fewer</a>
+                          <span class="mnav-item--wrapper"><a href="/recipes/collections/recipes-with-5-ingredients-or-fewer" class="mobile-subnav-l3">5 Ingredients or Fewer</a></span>
                         </li>
                                               <li class="mnav-l3--item mnav-item">
-                          <a href="/recipes/collections/sourdough-discard-recipes" class="mobile-subnav-l3">Sourdough Discard Recipes</a>
+                          <span class="mnav-item--wrapper"><a href="/recipes/collections/sourdough-discard-recipes" class="mobile-subnav-l3">Sourdough Discard Recipes</a></span>
                         </li>
                                               <li class="mnav-l3--item mnav-item">
-                          <span class="mobile-subnav-l3">—</span>
+                          <span class="mnav-item--wrapper"><span class="mobile-subnav-l3">—</span></span>
                         </li>
                                               <li class="mnav-l3--item mnav-item">
-                          <a href="/recipes/collections" class="mobile-subnav-l3">View All Recipe Collections</a>
+                          <span class="mnav-item--wrapper"><a href="/recipes/collections" class="mobile-subnav-l3">View All Recipe Collections</a></span>
                         </li>
                                           </ul>
                   </div>
-
+                                
               </li>
                           <li class="mnav-l2--item mnav-item">
-                <span class="mobile-subnav-l2">Resources</span>
+                <span class="mnav-item--wrapper"><span class="mobile-subnav-l2">Resources</span></span>
 
                                                   <button class="mnav-more"><span class="visually-hidden">Expand Resources</span></button>
                   <div class="mnav-l3--wrapper mnav-wrapper" aria-hidden="true">
@@ -244,30 +241,30 @@
                     </div>
                     <ul class="mnav-l3">
                                               <li class="mnav-l3--item mnav-item">
-                          <a href="/recipebox" class="mobile-subnav-l3">Recipe Box</a>
+                          <span class="mnav-item--wrapper"><a href="/recipebox" class="mobile-subnav-l3">Recipe Box</a></span>
                         </li>
                                               <li class="mnav-l3--item mnav-item">
-                          <a href="/bakers-hotline" class="mobile-subnav-l3">Bakers Hotline</a>
+                          <span class="mnav-item--wrapper"><a href="/bakers-hotline" class="mobile-subnav-l3">Bakers Hotline</a></span>
                         </li>
                                               <li class="mnav-l3--item mnav-item">
-                          <a href="/learn/ingredient-weight-chart" class="mobile-subnav-l3">Ingredient Weight Chart</a>
+                          <span class="mnav-item--wrapper"><a href="/learn/ingredient-weight-chart" class="mobile-subnav-l3">Ingredient Weight Chart</a></span>
                         </li>
                                               <li class="mnav-l3--item mnav-item">
-                          <a href="/videos/baking-skills/how-to-measure-flour" class="mobile-subnav-l3">How to Measure Flour</a>
+                          <span class="mnav-item--wrapper"><a href="/videos/baking-skills/how-to-measure-flour" class="mobile-subnav-l3">How to Measure Flour</a></span>
                         </li>
                                               <li class="mnav-l3--item mnav-item">
-                          <a href="/recipes/resources/recipe-success-guide" class="mobile-subnav-l3">Recipe Success Guide</a>
+                          <span class="mnav-item--wrapper"><a href="/recipes/resources/recipe-success-guide" class="mobile-subnav-l3">Recipe Success Guide</a></span>
                         </li>
                                           </ul>
                   </div>
-
+                                
               </li>
                       </ul>
         </div>
-
+            
     </li>
        <li class="mnav-l1--item mnav-item">
-      <a href="/learn" class="mobile-subnav-l1">Learn</a>
+      <span class="mnav-item--wrapper"><a href="/learn" class="mobile-subnav-l1">Learn</a></span>
 
                     <button class="mnav-more"><span class="visually-hidden">Expand Learn</span></button>
 
@@ -278,7 +275,7 @@
           </div>
           <ul class="mnav-l2">
                           <li class="mnav-l2--item mnav-item">
-                <a href="/learn/guides" class="mobile-subnav-l2">Baking Guides</a>
+                <span class="mnav-item--wrapper"><a href="/learn/guides" class="mobile-subnav-l2">Baking Guides</a></span>
 
                                                   <button class="mnav-more"><span class="visually-hidden">Expand Baking Guides</span></button>
                   <div class="mnav-l3--wrapper mnav-wrapper" aria-hidden="true">
@@ -288,42 +285,42 @@
                     </div>
                     <ul class="mnav-l3">
                                               <li class="mnav-l3--item mnav-item">
-                          <a href="/learn/guides/sourdough" class="mobile-subnav-l3">Sourdough Baking</a>
+                          <span class="mnav-item--wrapper"><a href="/learn/guides/pie" class="mobile-subnav-l3">Pie Baking</a></span>
                         </li>
                                               <li class="mnav-l3--item mnav-item">
-                          <a href="/learn/guides/homebound-baking" class="mobile-subnav-l3">Homebound Baking</a>
+                          <span class="mnav-item--wrapper"><a href="/learn/guides/christmas-baking-guide" class="mobile-subnav-l3">Christmas Baking Guide</a></span>
                         </li>
                                               <li class="mnav-l3--item mnav-item">
-                          <a href="/learn/guides/pie" class="mobile-subnav-l3">Pie Baking</a>
+                          <span class="mnav-item--wrapper"><a href="/learn/guides/sourdough" class="mobile-subnav-l3">Sourdough Baking</a></span>
                         </li>
                                               <li class="mnav-l3--item mnav-item">
-                          <a href="/learn/guides/scone-baking" class="mobile-subnav-l3">Scone Baking</a>
+                          <span class="mnav-item--wrapper"><a href="/learn/guides/scone-baking" class="mobile-subnav-l3">Scone Baking</a></span>
                         </li>
                                               <li class="mnav-l3--item mnav-item">
-                          <a href="/learn/guides/gluten-free" class="mobile-subnav-l3">Gluten-Free Baking</a>
+                          <span class="mnav-item--wrapper"><a href="/learn/guides/gluten-free" class="mobile-subnav-l3">Gluten-Free Baking</a></span>
                         </li>
                                               <li class="mnav-l3--item mnav-item">
-                          <span class="mobile-subnav-l3">—</span>
+                          <span class="mnav-item--wrapper"><span class="mobile-subnav-l3">—</span></span>
                         </li>
                                               <li class="mnav-l3--item mnav-item">
-                          <a href="/learn/guides" class="mobile-subnav-l3">View All Baking Guides</a>
+                          <span class="mnav-item--wrapper"><a href="/learn/guides" class="mobile-subnav-l3">View All Baking Guides</a></span>
                         </li>
                                           </ul>
                   </div>
-
+                                
               </li>
                           <li class="mnav-l2--item mnav-item">
-                <a href="/videos" class="mobile-subnav-l2">Videos</a>
+                <span class="mnav-item--wrapper"><a href="/videos" class="mobile-subnav-l2">Videos</a></span>
 
-
+                                                
               </li>
                           <li class="mnav-l2--item mnav-item">
-                <a href="/baking-school" class="mobile-subnav-l2">Baking School</a>
+                <span class="mnav-item--wrapper"><a href="/baking-school" class="mobile-subnav-l2">Baking School</a></span>
 
-
+                                                
               </li>
                           <li class="mnav-l2--item mnav-item">
-                <span class="mobile-subnav-l2">Resources</span>
+                <span class="mnav-item--wrapper"><span class="mobile-subnav-l2">Resources</span></span>
 
                                                   <button class="mnav-more"><span class="visually-hidden">Expand Resources</span></button>
                   <div class="mnav-l3--wrapper mnav-wrapper" aria-hidden="true">
@@ -333,30 +330,30 @@
                     </div>
                     <ul class="mnav-l3">
                                               <li class="mnav-l3--item mnav-item">
-                          <a href="/learn/resources/tools-and-pans" class="mobile-subnav-l3">Tools and Pans</a>
+                          <span class="mnav-item--wrapper"><a href="/learn/resources/tools-and-pans" class="mobile-subnav-l3">Tools and Pans</a></span>
                         </li>
                                               <li class="mnav-l3--item mnav-item">
-                          <a href="/learn/resources/baking-tips-techniques" class="mobile-subnav-l3">Baking Tips and Techniques</a>
+                          <span class="mnav-item--wrapper"><a href="/learn/resources/baking-tips-techniques" class="mobile-subnav-l3">Baking Tips and Techniques</a></span>
                         </li>
                                               <li class="mnav-l3--item mnav-item">
-                          <a href="/learn/resources/yeast" class="mobile-subnav-l3">All About Yeast</a>
+                          <span class="mnav-item--wrapper"><a href="/learn/resources/yeast" class="mobile-subnav-l3">All About Yeast</a></span>
                         </li>
                                               <li class="mnav-l3--item mnav-item">
-                          <a href="/learn/resources/high-altitude-baking" class="mobile-subnav-l3">High-Altitude Baking</a>
+                          <span class="mnav-item--wrapper"><a href="/learn/resources/high-altitude-baking" class="mobile-subnav-l3">High-Altitude Baking</a></span>
                         </li>
                                               <li class="mnav-l3--item mnav-item">
-                          <a href="/learn/ingredient-weight-chart" class="mobile-subnav-l3">Ingredient Weight Chart</a>
+                          <span class="mnav-item--wrapper"><a href="/learn/ingredient-weight-chart" class="mobile-subnav-l3">Ingredient Weight Chart</a></span>
                         </li>
                                           </ul>
                   </div>
-
+                                
               </li>
                       </ul>
         </div>
-
+            
     </li>
        <li class="mnav-l1--item mnav-item">
-      <a href="/about" class="mobile-subnav-l1">About</a>
+      <span class="mnav-item--wrapper"><a href="/about" class="mobile-subnav-l1">About</a></span>
 
                     <button class="mnav-more"><span class="visually-hidden">Expand About</span></button>
 
@@ -367,32 +364,32 @@
           </div>
           <ul class="mnav-l2">
                           <li class="mnav-l2--item mnav-item">
-                <a href="/about/mission-impact" class="mobile-subnav-l2">Mission &amp; Impact</a>
+                <span class="mnav-item--wrapper"><a href="/about/mission-impact" class="mobile-subnav-l2">Mission &amp; Impact</a></span>
 
-
+                                                
               </li>
                           <li class="mnav-l2--item mnav-item">
-                <a href="/about/our-products" class="mobile-subnav-l2">Our Products</a>
+                <span class="mnav-item--wrapper"><a href="/about/our-products" class="mobile-subnav-l2">Our Products</a></span>
 
-
+                                                
               </li>
                           <li class="mnav-l2--item mnav-item">
-                <a href="/visit" class="mobile-subnav-l2">Visit Us</a>
+                <span class="mnav-item--wrapper"><a href="/visit" class="mobile-subnav-l2">Visit Us</a></span>
 
-
+                                                
               </li>
                           <li class="mnav-l2--item mnav-item">
-                <a href="/about/bakeforgood" class="mobile-subnav-l2">Bake for Good</a>
+                <span class="mnav-item--wrapper"><a href="/about/bakeforgood" class="mobile-subnav-l2">Bake for Good</a></span>
 
-
+                                                
               </li>
                           <li class="mnav-l2--item mnav-item">
-                <a href="/about/history" class="mobile-subnav-l2">Our History</a>
+                <span class="mnav-item--wrapper"><a href="/about/history" class="mobile-subnav-l2">Our History</a></span>
 
-
+                                                
               </li>
                           <li class="mnav-l2--item mnav-item">
-                <a href="/newsroom" class="mobile-subnav-l2">Newsroom</a>
+                <span class="mnav-item--wrapper"><a href="/newsroom" class="mobile-subnav-l2">Newsroom</a></span>
 
                                                   <button class="mnav-more"><span class="visually-hidden">Expand Newsroom</span></button>
                   <div class="mnav-l3--wrapper mnav-wrapper" aria-hidden="true">
@@ -402,30 +399,30 @@
                     </div>
                     <ul class="mnav-l3">
                                               <li class="mnav-l3--item mnav-item">
-                          <a href="/newsroom" class="mobile-subnav-l3">Newsroom</a>
+                          <span class="mnav-item--wrapper"><a href="/newsroom" class="mobile-subnav-l3">Newsroom</a></span>
                         </li>
                                               <li class="mnav-l3--item mnav-item">
-                          <a href="/newsroom/press-kit" class="mobile-subnav-l3">Press Kit</a>
+                          <span class="mnav-item--wrapper"><a href="/newsroom/press-kit" class="mobile-subnav-l3">Press Kit</a></span>
                         </li>
                                               <li class="mnav-l3--item mnav-item">
-                          <a href="/newsroom/company-stories" class="mobile-subnav-l3">Company Stories</a>
+                          <span class="mnav-item--wrapper"><a href="/newsroom/company-stories" class="mobile-subnav-l3">Company Stories</a></span>
                         </li>
                                               <li class="mnav-l3--item mnav-item">
-                          <a href="/newsroom/press-releases" class="mobile-subnav-l3">Press Releases</a>
+                          <span class="mnav-item--wrapper"><a href="/newsroom/press-releases" class="mobile-subnav-l3">Press Releases</a></span>
                         </li>
                                               <li class="mnav-l3--item mnav-item">
-                          <a href="/newsroom/in-the-press" class="mobile-subnav-l3">In the Press</a>
+                          <span class="mnav-item--wrapper"><a href="/newsroom/in-the-press" class="mobile-subnav-l3">In the Press</a></span>
                         </li>
                                           </ul>
                   </div>
-
+                                
               </li>
                       </ul>
         </div>
-
+            
     </li>
        <li class="mnav-l1--item mnav-item">
-      <a href="/blog" class="mobile-subnav-l1">Blog</a>
+      <span class="mnav-item--wrapper"><a href="/blog" class="mobile-subnav-l1">Blog</a></span>
 
                     <button class="mnav-more"><span class="visually-hidden">Expand Blog</span></button>
 
@@ -436,26 +433,26 @@
           </div>
           <ul class="mnav-l2">
                           <li class="mnav-l2--item mnav-item">
-                <a href="/blog-category/recipe" class="mobile-subnav-l2">Recipes</a>
+                <span class="mnav-item--wrapper"><a href="/blog-category/recipe" class="mobile-subnav-l2">Recipes</a></span>
 
-
+                                                
               </li>
                           <li class="mnav-l2--item mnav-item">
-                <a href="/blog-category/tips-techniques" class="mobile-subnav-l2">Tips + Techniques</a>
+                <span class="mnav-item--wrapper"><a href="/blog-category/tips-techniques" class="mobile-subnav-l2">Tips + Techniques</a></span>
 
-
+                                                
               </li>
                           <li class="mnav-l2--item mnav-item">
-                <a href="/blog-category/story" class="mobile-subnav-l2">Stories</a>
+                <span class="mnav-item--wrapper"><a href="/blog-category/story" class="mobile-subnav-l2">Stories</a></span>
 
-
+                                                
               </li>
                       </ul>
         </div>
-
+            
     </li>
        <li class="mnav-l1--item mnav-item">
-      <a href="/pro" class="mobile-subnav-l1">Bakery Flour Sales</a>
+      <span class="mnav-item--wrapper"><a href="/pro" class="mobile-subnav-l1">Bakery Flour Sales</a></span>
 
                     <button class="mnav-more"><span class="visually-hidden">Expand Bakery Flour Sales</span></button>
 
@@ -466,27 +463,27 @@
           </div>
           <ul class="mnav-l2">
                           <li class="mnav-l2--item mnav-item">
-                <a href="/pro/products" class="mobile-subnav-l2">Products</a>
+                <span class="mnav-item--wrapper"><a href="/pro/products" class="mobile-subnav-l2">Products</a></span>
 
-
+                                                
               </li>
                           <li class="mnav-l2--item mnav-item">
-                <a href="/pro/team" class="mobile-subnav-l2">Our Team</a>
+                <span class="mnav-item--wrapper"><a href="/pro/team" class="mobile-subnav-l2">Our Team</a></span>
 
-
+                                                
               </li>
                           <li class="mnav-l2--item mnav-item">
-                <a href="/pro/distributor" class="mobile-subnav-l2">Distributors</a>
+                <span class="mnav-item--wrapper"><a href="/pro/distributor" class="mobile-subnav-l2">Distributors</a></span>
 
-
+                                                
               </li>
                           <li class="mnav-l2--item mnav-item">
-                <a href="/pro/formulas" class="mobile-subnav-l2">Formulas</a>
+                <span class="mnav-item--wrapper"><a href="/pro/formulas" class="mobile-subnav-l2">Formulas</a></span>
 
-
+                                                
               </li>
                           <li class="mnav-l2--item mnav-item">
-                <a href="/pro/reference" class="mobile-subnav-l2">Reference</a>
+                <span class="mnav-item--wrapper"><a href="/pro/reference" class="mobile-subnav-l2">Reference</a></span>
 
                                                   <button class="mnav-more"><span class="visually-hidden">Expand Reference</span></button>
                   <div class="mnav-l3--wrapper mnav-wrapper" aria-hidden="true">
@@ -496,50 +493,50 @@
                     </div>
                     <ul class="mnav-l3">
                                               <li class="mnav-l3--item mnav-item">
-                          <a href="/pro/bakers-percentage" class="mobile-subnav-l3">Baker&#039;s Percentage</a>
+                          <span class="mnav-item--wrapper"><a href="/pro/bakers-percentage" class="mobile-subnav-l3">Baker&#039;s Percentage</a></span>
                         </li>
                                               <li class="mnav-l3--item mnav-item">
-                          <a href="/pro/batch-costing" class="mobile-subnav-l3">Batch Costing</a>
+                          <span class="mnav-item--wrapper"><a href="/pro/batch-costing" class="mobile-subnav-l3">Batch Costing</a></span>
                         </li>
                                               <li class="mnav-l3--item mnav-item">
-                          <a href="/pro/reference/bromate" class="mobile-subnav-l3">Bromate</a>
+                          <span class="mnav-item--wrapper"><a href="/pro/reference/bromate" class="mobile-subnav-l3">Bromate</a></span>
                         </li>
                                               <li class="mnav-l3--item mnav-item">
-                          <a href="/pro/reference/conversion" class="mobile-subnav-l3">Common conversions</a>
+                          <span class="mnav-item--wrapper"><a href="/pro/reference/conversion" class="mobile-subnav-l3">Common conversions</a></span>
                         </li>
                                               <li class="mnav-l3--item mnav-item">
-                          <a href="/pro/reference/dough-temperature" class="mobile-subnav-l3">Dough Temperatures</a>
+                          <span class="mnav-item--wrapper"><a href="/pro/reference/dough-temperature" class="mobile-subnav-l3">Dough Temperatures</a></span>
                         </li>
                                               <li class="mnav-l3--item mnav-item">
-                          <a href="/pro/reference/preferment" class="mobile-subnav-l3">Preferments</a>
+                          <span class="mnav-item--wrapper"><a href="/pro/reference/preferment" class="mobile-subnav-l3">Preferments</a></span>
                         </li>
                                               <li class="mnav-l3--item mnav-item">
-                          <a href="/pro/reference/salt" class="mobile-subnav-l3">Salt</a>
+                          <span class="mnav-item--wrapper"><a href="/pro/reference/salt" class="mobile-subnav-l3">Salt</a></span>
                         </li>
                                               <li class="mnav-l3--item mnav-item">
-                          <a href="/pro/reference/water" class="mobile-subnav-l3">Water</a>
+                          <span class="mnav-item--wrapper"><a href="/pro/reference/water" class="mobile-subnav-l3">Water</a></span>
                         </li>
                                               <li class="mnav-l3--item mnav-item">
-                          <a href="/pro/reference/yeast" class="mobile-subnav-l3">Yeast</a>
+                          <span class="mnav-item--wrapper"><a href="/pro/reference/yeast" class="mobile-subnav-l3">Yeast</a></span>
                         </li>
                                               <li class="mnav-l3--item mnav-item">
-                          <a href="/pro/reference/videos" class="mobile-subnav-l3">Video Tips for Professionals</a>
+                          <span class="mnav-item--wrapper"><a href="/pro/reference/videos" class="mobile-subnav-l3">Video Tips for Professionals</a></span>
                         </li>
                                               <li class="mnav-l3--item mnav-item">
-                          <a href="/baking-school/calendar" class="mobile-subnav-l3">Professional Classes</a>
+                          <span class="mnav-item--wrapper"><a href="/baking-school/calendar" class="mobile-subnav-l3">Professional Classes</a></span>
                         </li>
                                           </ul>
                   </div>
-
+                                
               </li>
                           <li class="mnav-l2--item mnav-item">
-                <a href="/pro/contact" class="mobile-subnav-l2">Contact</a>
+                <span class="mnav-item--wrapper"><a href="/pro/contact" class="mobile-subnav-l2">Contact</a></span>
 
-
+                                                
               </li>
                       </ul>
         </div>
-
+            
     </li>
   </ul>
 
@@ -549,63 +546,59 @@
 
         <div class="region region-primary-menu">
     <div id="block-kafmegamenu" class="block block-">
-
-
-
+  
+    
+      
 <nav aria-label="Main Menu">
   <ul class="menu menu-level-0">
-
+          
       <li class="menu-item">
                   <a href="https://shop.kingarthurbaking.com/shop-home/">Shop</a>
-
-
+        
+                          
 
 <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
-
+        
   </div>
               </li>
-
+          
       <li class="menu-item menu-item--active-trail">
                   <a href="/recipes" class="is-active" data-drupal-link-system-path="node/116">Recipes</a>
-
-
-
-<div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
-
+        
+                          
 
 <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
-
-  </div>
+        
   </div>
               </li>
-
+          
       <li class="menu-item">
                   <a href="/learn" data-drupal-link-system-path="node/156">Learn</a>
-
-
+        
+                          
 
 <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
-
+        
   </div>
               </li>
-
+          
       <li class="menu-item">
                   <a href="/about" data-drupal-link-system-path="node/27601">About</a>
-
-
+        
+                          
 
 <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
-
+        
   </div>
               </li>
-
+          
       <li class="menu-item">
                   <a href="/blog" data-drupal-link-system-path="node/161">Blog</a>
-
-
+        
+                          
 
 <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
-
+        
   </div>
               </li>
       </ul>
@@ -628,103 +621,103 @@
 
     <nav class="user-nav">
      <nav role="navigation" aria-labelledby="block-kaf-nextgenweb-secondarynavigation-menu" id="block-kaf-nextgenweb-secondarynavigation">
-
+            
   <h2 class="visually-hidden" id="block-kaf-nextgenweb-secondarynavigation-menu">Secondary navigation</h2>
+  
 
-
-
+        
 <ul class="menu menu-level-0">
-
+  
   <li class="user__item user__item-account menu-item menu-item--expanded">
     <a href="https://shop.kingarthurbaking.com/signin">Sign in</a>
 
-
+              
 
 <div class="menu_link_content menu-link-contentsecondary view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
-
+        
 <ul class="menu menu-level-1">
-
+  
   <li class="user__item menu-item">
     <a href="https://shop.kingarthurbaking.com/AcctDashboard">Dashboard</a>
 
-
+              
 
 <div class="menu_link_content menu-link-contentsecondary view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
-
+        
   </div>
       </li>
-
+  
   <li class="user__item menu-item">
     <a href="https://shop.kingarthurbaking.com/OrderHistory">Orders</a>
 
-
+              
 
 <div class="menu_link_content menu-link-contentsecondary view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
-
+        
   </div>
       </li>
-
+  
   <li class="user__item menu-item">
     <a href="https://shop.kingarthurbaking.com/WishListDisplay">Wish List</a>
 
-
+              
 
 <div class="menu_link_content menu-link-contentsecondary view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
-
+        
   </div>
       </li>
-
+  
   <li class="user__item menu-item">
     <a href="/recipebox" data-drupal-link-system-path="recipebox">Recipe Box</a>
 
-
+              
 
 <div class="menu_link_content menu-link-contentsecondary view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
-
+        
   </div>
       </li>
-
+  
   <li class="user__item menu-item">
     <a href="/subscriptions" data-drupal-link-system-path="subscriptions">Email preferences</a>
 
-
+              
 
 <div class="menu_link_content menu-link-contentsecondary view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
-
+        
   </div>
       </li>
-
+  
   <li class="user__item user__item-separator user__item-chevron menu-item">
     <a href="https://classes.kingarthurbaking.com/Login.aspx">Baking School login</a>
 
-
+              
 
 <div class="menu_link_content menu-link-contentsecondary view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
-
+        
   </div>
       </li>
-
+  
   <li class="user__item user__item-signout menu-item">
     <a href="">Sign out</a>
 
-
+              
 
 <div class="menu_link_content menu-link-contentsecondary view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
-
+        
   </div>
       </li>
 </ul>
 
   </div>
       </li>
-
+  
   <li class="user__item user__item-cart menu-item">
     <a href="https://shop.kingarthurbaking.com/CartDisplay">View your cart</a>
 
-
+              
 
 <div class="menu_link_content menu-link-contentsecondary view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
-
+        
   </div>
       </li>
 </ul>
@@ -734,141 +727,141 @@
     </nav>
   </div>
 
-      <button class="menu__trigger" aria-haspopup="true" aria-controls="mobile-nav" id="mnav-trigger"><span class="visually-hidden">Menu</span></button>
+      <button class="menu__trigger" aria-haspopup="true" aria-controls="mobile-nav" aria-expanded="false" id="mnav-trigger"><span class="visually-hidden">Menu</span></button>
     </div>
 
           <nav class="header-subnav">
           <div class="region region-subnav-menu">
     <nav role="navigation" aria-labelledby="block-subnavrecipes-menu" id="block-subnavrecipes">
-
+            
   <h2 class="visually-hidden" id="block-subnavrecipes-menu">Subnav: Recipes</h2>
+  
 
+        
 
-
-
-                <ul data-region="subnav_menu" class="menu-subnav-recipes menu-level-0">
+                <ul class="menu-subnav-recipes menu-level-0">
                                     <li class="subnav-li parent-item">
                                                     <a aria-haspopup="true" aria-expanded="false" href="">Categories</a>
-
-
+                                      
+                          
                   <ul>
                                       <li>
                                                     <a href="/recipes/biscuits-shortcakes">Biscuits &amp; Shortcakes</a>
-
+                                      
                       </li>
                               <li>
                                                     <a href="/recipes/bread">Bread</a>
-
+                                      
                       </li>
                               <li>
                                                     <a href="/recipes/buns-rolls">Buns &amp; Rolls</a>
-
+                                      
                       </li>
                               <li>
                                                     <a href="/recipes/cake">Cake</a>
-
+                                      
                       </li>
                               <li>
                                                     <a href="/recipes/cookies-bars">Cookies &amp; Bars</a>
-
+                                      
                       </li>
                               <li>
                                                     <a href="/recipes/muffins-popovers">Muffins &amp; Popovers</a>
-
+                                      
                       </li>
                               <li>
                                                     <a href="/recipes/pancakes-waffles">Pancakes &amp; Waffles</a>
-
+                                      
                       </li>
                               <li>
                                                     <a href="/recipes/pastry">Pastry</a>
-
+                                      
                       </li>
                               <li>
                                                     <a href="/recipes/pie">Pie</a>
-
+                                      
                       </li>
                               <li>
                                                     <a href="/recipes/scones">Scones</a>
-
+                                      
                       </li>
                               <li>
                                                     <a href="">—</a>
-
+                                      
                       </li>
                               <li>
                                                     <a href="https://www.kingarthurbaking.com/recipes#categories">See All Categories</a>
-
+                                      
                       </li>
               </ul>
-
+      
                       </li>
                               <li class="subnav-li parent-item">
                                                     <a aria-haspopup="true" aria-expanded="false" href="/recipes/collections">Collections</a>
-
-
+                                      
+                          
                   <ul>
                                       <li>
+                                                    <a href="/recipes/collections/holiday-classics">Holiday Classics</a>
+                                      
+                      </li>
+                              <li>
                                                     <a href="/recipes/collections/easy-homemade-meals">Easy Homemade Meals</a>
-
+                                      
                       </li>
                               <li>
                                                     <a href="/recipes/collections/recipes-to-bake-with-kids">Recipes to Bake With Kids</a>
-
-                      </li>
-                              <li>
-                                                    <a href="/recipes/collections/everyday-bread">Everyday Bread</a>
-
+                                      
                       </li>
                               <li>
                                                     <a href="/recipes/collections/recipes-with-5-ingredients-or-fewer">5 Ingredients or Fewer</a>
-
+                                      
                       </li>
                               <li>
                                                     <a href="/recipes/collections/sourdough-discard-recipes">Sourdough Discard Recipes</a>
-
+                                      
                       </li>
                               <li>
                                                     <a href="">—</a>
-
+                                      
                       </li>
                               <li>
                                                     <a href="/recipes/collections">View All Recipe Collections</a>
-
+                                      
                       </li>
               </ul>
-
+      
                       </li>
                               <li class="subnav-li parent-item">
                                                     <a aria-haspopup="true" aria-expanded="false" href="">Resources</a>
-
-
+                                      
+                          
                   <ul>
                                       <li>
                                                     <a href="/recipebox">Recipe Box</a>
-
+                                      
                       </li>
                               <li>
                                                     <a href="/bakers-hotline">Bakers Hotline</a>
-
+                                      
                       </li>
                               <li>
                                                     <a href="/learn/ingredient-weight-chart">Ingredient Weight Chart</a>
-
+                                      
                       </li>
                               <li>
                                                     <a href="/videos/baking-skills/how-to-measure-flour">How to Measure Flour</a>
-
+                                      
                       </li>
                               <li>
                                                     <a href="/recipes/resources/recipe-success-guide">Recipe Success Guide</a>
-
+                                      
                       </li>
               </ul>
-
+      
                       </li>
               </ul>
-
+      
 
 
 
@@ -887,16 +880,17 @@
 
   <main class="main" role="main">
     <a id="main-content" tabindex="-1"></a>
-
+    
           <section class="page-content-header">
           <div class="region region-content-header">
     <div id="block-nodequickview" class="block block-ctools block-entity-viewnode">
+  
+    
+      
 
-
-
-<article role="article" class="node node--type-recipe quickview quickview--recipe">
+<article  role="article" class="node node--type-recipe quickview quickview--recipe">
   <div class="quickview__content">
-
+          
 <nav class="breadcrumb" role="navigation" aria-label="Breadcrumbs">
   <ol class="breadcrumb__wrap">
       <li class="breadcrumb__item">
@@ -911,25 +905,25 @@
     </ol>
 </nav>
 
-
+    
     <h1><span>Spiced Rye Ginger Cookies</span>
 </h1>
 
     <div class="quickview__meta">
       <div class="quickview__reviews reviews">
                   <a class="reviews__jumplink" href="#review-section">
-                              <div class="reviews__wrapper">
-                                    <span class="reviews__label">7 Reviews</span>
-                                      <span class="rating rating-is-50">4.7 out of 5 stars</span>
-                                  </div>
-                            </a>
+                                <div class="reviews__wrapper">
+                                      <span class="reviews__label">15 Reviews</span>
+                                      <span class="rating rating-is-50">4.9 out of 5 stars</span>
+                                    </div>
+                              </a>
               </div>
 
-              <div class="share js-kaf-share-widget no-shares">
+              <div class="share js-kaf-share-widget no-shares" role="region" aria-label="Social share">
   <div class="share__label">Shares</div>
   <div class="share__count js-kaf-share-count hidden"></div>
 
-  <ul class="share__btn-group" role="region" aria-label="Social share">
+  <ul class="share__btn-group">
     <li><a class="share__btn share__btn--facebook js-kaf-share-button-facebook" href="#">Share on Facebook</a></li>
     <li><a class="share__btn share__btn--email js-kaf-share-button-email" href="#">Share by Email</a></li>
     <li><a class="share__btn share__btn--pinterest js-kaf-share-button-pinterest" href="#">Share on Pinterest</a></li>
@@ -950,12 +944,12 @@
           <div class="label">Prep</div>
           <span>20 mins</span>
         </div>
-
+      
               <div class="stat__item stat__item--bake">
           <div class="label">Bake</div>
           <span>12 to 15 mins</span>
         </div>
-
+      
               <div class="stat__item stat__item--total">
           <div class="label">Total</div>
           <span>35 mins</span>
@@ -967,20 +961,22 @@
           <div class="label">Yield</div>
           <span>22 cookies</span>
         </div>
-
+      
               <div class="stat__item stat__item--recipe-box">
           <a href="/recipebox" class="btn btn--save js-kaf-recipe-box-add" data-recipe-id="42096" data-recipe-uuid="483273e8-0993-4784-9c80-4b25cee4bac6">Save Recipe</a>
         </div>
-
+      
       <div class="stat__item stat__item--print">
-        <a href="javascript:window.print()" class="btn btn--print">Print</a>
+        <button id="print-recipe-button" class="btn btn--print" data-node=42096>
+          Print
+        </button>
       </div>
     </div>
   </div>
 
   <div class="quickview__media">
     <div class="quickview__media-main">
-                      <div id="mainImage-0" >
+                            <div id="mainImage-0" >
                 <picture>
                   <source srcset="/sites/default/files/styles/featured_image/public/2020-07/spiced-rye-ginger-cookies.jpg?itok=ftzwpxJe 1x, /sites/default/files/styles/featured_image_2x/public/2020-07/spiced-rye-ginger-cookies.jpg?itok=hjUA46HP 2x" media="(min-width: 480px)" type="image/jpeg"/>
               <source srcset="/sites/default/files/styles/featured_image_sm/public/2020-07/spiced-rye-ginger-cookies.jpg?itok=e4_nE1u- 1x, /sites/default/files/styles/featured_image_sm_2x/public/2020-07/spiced-rye-ginger-cookies.jpg?itok=cMoyXVmk 2x" type="image/jpeg"/>
@@ -1039,22 +1035,24 @@
   </div>
 
       </section>
-
+    
 
     <section class="page-content">
         <div class="region region-content">
     <div role="article" class="node node--type-recipe node--promoted node--view-mode-full">
-
-
-
+  
+  
+  
 
   <div class="node__content">
     <section class="recipe recipe--detail">
       <aside class="recipe__ingredients">
         <h4>Ingredients</h4>
-          <div class="ingredient-section">
+        
+<div  class="ingredients-list">
+      <div class="ingredient-section">
       <p>Cookies</p>
-
+  
   <ul class="list--bullets">
       <li>2 cups (212g) <a href="https://shop.kingarthurbaking.com/items/organic-medium-rye-3-lbs" target="_blank" data-name="Organic Medium Rye - 3 lbs." data-sku="210099" data-price="$9.95">medium rye flour</a></li>
       <li>1 teaspoon baking soda</li>
@@ -1072,16 +1070,17 @@
 
   </div>
 
-  <div class="ingredient-section">
+      <div class="ingredient-section">
       <p>Coating</p>
-
+  
   <ul class="list--bullets">
-      <li>1/3 cup (76g) <a href="https://shop.kingarthurbaking.com/items/sparkling-sugar-15-oz" target="_blank" data-name="Sparkling Sugar - 15 oz." data-sku="100684" data-price="$7.95">coarse sparkling sugar</a> or 1/3 cup (66g) granulated sugar</li>
+      <li>1/3 cup (76g) coarse sparkling sugar or 1/3 cup (66g) granulated sugar</li>
   </ul>
 
 
   </div>
 
+  </div>
 
 
                   <a href="/nutritional-info/42096" aria-haspopup="dialog" class="btn btn--secondary use-ajax" data-dialog-type="modal" data-dialog-options="{&quot;width&quot;:&quot;90%&quot;, &quot;dialogClass&quot;:&quot;kaf-modal&quot;}">Nutrition Information</a>
@@ -1096,84 +1095,84 @@
         <p>Preheat the oven to 325°F. Lightly grease (or line with parchment) two baking sheets.</p>
 
 
-
+        
       </li>
           <li class="field__item">
 
         <p>Weigh your flour; or measure it by gently spooning it into a cup, then sweeping off any excess.</p>
 
 
-
+        
       </li>
           <li class="field__item">
 
         <p>In a medium bowl, whisk together the flour, baking soda, salt, and spices. Set aside.</p>
 
 
-
+        
       </li>
           <li class="field__item">
 
         <p>In a large mixing bowl, using either a hand whisk, an electric mixer, or a stand mixer, whisk the sugar and oil until combined.</p>
 
 
-
+        
       </li>
           <li class="field__item">
 
         <p>Add the egg and whisk until smooth.</p>
 
 
-
+        
       </li>
           <li class="field__item">
 
         <p>Stir in the molasses.</p>
 
 
-
+        
       </li>
           <li class="field__item">
 
         <p>Add the dry ingredients to the bowl and stir until well combined.</p>
 
 
-
+        
       </li>
           <li class="field__item">
 
         <p>Use a spoon (or a <a href="https://shop.kingarthurflour.com/items/tablespoon-cookie-scoop">tablespoon cookie scoop</a>) to portion 1 1/4" balls of dough.</p>
 
 
-
+        
       </li>
           <li class="field__item">
 
-        <p>Roll the dough balls in granulated or sparkling sugar to coat before placing onto the prepared baking sheets. Leave 2" between them on all sides; they'll spread as they bake.</p>
+        <p>Roll the dough balls in granulated or sparkling sugar to coat before placing onto the prepared baking sheets. Leave 2" between them on all sides; they'll spread as they bake.</p>
 
 
-
+        
       </li>
           <li class="field__item">
 
         <p>Bake the cookies for 12 to 15 minutes, until they're puffed and their edges are set.</p>
 
 
-
+        
       </li>
           <li class="field__item">
 
-        <p>Remove the cookies from the oven, and cool completely right on the pan.  </p>
+        <p>Remove the cookies from the oven, and cool completely right on the pan.  </p>
 
 
-
+        
       </li>
           <li class="field__item">
 
-        <p>Store cookies, well wrapped, at room temperature for several days; freeze for longer storage.</p>
+        <p>Store cookies, well wrapped, at room temperature for several days; freeze for longer storage.</p>
 
 
-
+        
       </li>
       </ol>
 </div>
@@ -1193,12 +1192,12 @@
   </ul>
 
           </div>
-
-                  <div class="share js-kaf-share-widget no-shares">
+        
+                  <div class="share js-kaf-share-widget no-shares" role="region" aria-label="Social share">
   <div class="share__label">Shares</div>
   <div class="share__count js-kaf-share-count hidden"></div>
 
-  <ul class="share__btn-group" role="region" aria-label="Social share">
+  <ul class="share__btn-group">
     <li><a class="share__btn share__btn--facebook js-kaf-share-button-facebook" href="#">Share on Facebook</a></li>
     <li><a class="share__btn share__btn--email js-kaf-share-button-email" href="#">Share by Email</a></li>
     <li><a class="share__btn share__btn--pinterest js-kaf-share-button-pinterest" href="#">Share on Pinterest</a></li>
@@ -1241,12 +1240,12 @@
 
     </section>
 
-
-
+    
+    
             <div class="region region-content-footer">
     <div id="block-kafrecipereviews" class="block block-kaf-recipe block-kaf-recipe-reviews">
-
-
+  
+    
       <div class="yotpo yotpo-main-widget"
   id="review-section"
   data-product-id="42096"
@@ -1260,8 +1259,8 @@
 
 <div id="block-recipe-newsletter-signup" class="block block-webform block-webform-block">
   <div class="newsletter-wrapper">
-
-
+    
+    
 
           <picture>
                   <source srcset="/sites/default/files/styles/featured_image/public/2020-07/spiced-rye-ginger-cookies.jpg?itok=ftzwpxJe 1x, /sites/default/files/styles/featured_image_2x/public/2020-07/spiced-rye-ginger-cookies.jpg?itok=hjUA46HP 2x" media="(min-width: 480px)" type="image/jpeg"/>
@@ -1290,84 +1289,24 @@
   </div>
 </div>
 <div id="block-kafrecommendedrecipes" class="block block-kaf-recipe block-kaf-recommended-recipes">
-
-
+  
+    
       <div class="related related--recipes">
   <div class="eyebrow">Recipes</div>
   <h3>Recommended Recipes</h3>
   <div class="related__nodes">
-
+    
 <div role="article" class="recipe recipe--card">
-  <a href="/recipes/ginger-molasses-amber-ale-cookies-recipe" rel="bookmark">
-
-
+  <a href="/recipes/grain-free-wedding-cookies-recipe" rel="bookmark">
+    
+    
 
     <div class="recipe__media">
-            <picture>
-                  <source srcset="/sites/default/files/styles/kaf_thumbnail_large/public/recipe_legacy/9777-3-large.jpg?itok=9JlrpMWk 1x, /sites/default/files/styles/kaf_thumbnail_large_2x_880x596_/public/recipe_legacy/9777-3-large.jpg?itok=Uech7UWN 2x" media="(min-width: 768px)" type="image/jpeg"/>
-              <source srcset="/sites/default/files/styles/kaf_thumbnail/public/recipe_legacy/9777-3-large.jpg?itok=DMTdcAV0 1x, /sites/default/files/styles/kaf_thumbnail_2x/public/recipe_legacy/9777-3-large.jpg?itok=K5aseFvj 2x" media="(min-width: 480px)" type="image/jpeg"/>
-              <source srcset="/sites/default/files/styles/kaf_thumbnail_small_200x135_/public/recipe_legacy/9777-3-large.jpg?itok=vmvzQhzU 1x, /sites/default/files/styles/kaf_thumbnail_small_2x_400x271_/public/recipe_legacy/9777-3-large.jpg?itok=YCEckhka 2x" type="image/jpeg"/>
-                  <img src="/sites/default/files/styles/kaf_thumbnail/public/recipe_legacy/9777-3-large.jpg?itok=DMTdcAV0" alt="Ginger Molasses Amber Ale Cookies" />
-
-  </picture>
-
-
-
-
-    </div>
-
-    <div class="recipe__content">
-              <span class="eyebrow">Drop cookies</span>
-
-              <h5>
-          <a href="/recipes/ginger-molasses-amber-ale-cookies-recipe">Ginger Molasses Amber Ale Cookies</a>
-        </h5>
-          </div>
-  </a>
-</div>
-
-
-<div role="article" class="recipe recipe--card">
-  <a href="/recipes/peanut-chocolate-dips-recipe" rel="bookmark">
-
-
-
-    <div class="recipe__media">
-            <picture>
-                  <source srcset="/sites/default/files/styles/kaf_thumbnail_large/public/recipe_legacy/1471361435530.jpg?itok=WuMGKXK7 1x, /sites/default/files/styles/kaf_thumbnail_large_2x_880x596_/public/recipe_legacy/1471361435530.jpg?itok=tiw7gwxm 2x" media="(min-width: 768px)" type="image/jpeg"/>
-              <source srcset="/sites/default/files/styles/kaf_thumbnail/public/recipe_legacy/1471361435530.jpg?itok=NlFXxMhW 1x, /sites/default/files/styles/kaf_thumbnail_2x/public/recipe_legacy/1471361435530.jpg?itok=g4mEDJri 2x" media="(min-width: 480px)" type="image/jpeg"/>
-              <source srcset="/sites/default/files/styles/kaf_thumbnail_small_200x135_/public/recipe_legacy/1471361435530.jpg?itok=g-rRoMuQ 1x, /sites/default/files/styles/kaf_thumbnail_small_2x_400x271_/public/recipe_legacy/1471361435530.jpg?itok=a0pwtPAM 2x" type="image/jpeg"/>
-                  <img src="/sites/default/files/styles/kaf_thumbnail/public/recipe_legacy/1471361435530.jpg?itok=NlFXxMhW" alt="Peanut-Chocolate Dips" />
-
-  </picture>
-
-
-
-
-    </div>
-
-    <div class="recipe__content">
-              <span class="eyebrow">Drop cookies</span>
-
-              <h5>
-          <a href="/recipes/peanut-chocolate-dips-recipe">Peanut-Chocolate Dips</a>
-        </h5>
-          </div>
-  </a>
-</div>
-
-
-<div role="article" class="recipe recipe--card">
-  <a href="/recipes/gluten-free-wedding-cookies-recipe" rel="bookmark">
-
-
-
-    <div class="recipe__media">
-            <picture>
-                  <source srcset="/sites/default/files/styles/kaf_thumbnail_large/public/2020-06/gluten-free-wedding-cookies.jpg?itok=YlIfEMj_ 1x, /sites/default/files/styles/kaf_thumbnail_large_2x_880x596_/public/2020-06/gluten-free-wedding-cookies.jpg?itok=7HYkCNrK 2x" media="(min-width: 768px)" type="image/jpeg"/>
-              <source srcset="/sites/default/files/styles/kaf_thumbnail/public/2020-06/gluten-free-wedding-cookies.jpg?itok=y34KS-pE 1x, /sites/default/files/styles/kaf_thumbnail_2x/public/2020-06/gluten-free-wedding-cookies.jpg?itok=mvz6_asX 2x" media="(min-width: 480px)" type="image/jpeg"/>
-              <source srcset="/sites/default/files/styles/kaf_thumbnail_small_200x135_/public/2020-06/gluten-free-wedding-cookies.jpg?itok=Waeiw9VP 1x, /sites/default/files/styles/kaf_thumbnail_small_2x_400x271_/public/2020-06/gluten-free-wedding-cookies.jpg?itok=LoOSksU_ 2x" type="image/jpeg"/>
-                  <img src="/sites/default/files/styles/kaf_thumbnail/public/2020-06/gluten-free-wedding-cookies.jpg?itok=y34KS-pE" alt="Gluten-Free Wedding Cookies" />
+                  <picture>
+                  <source srcset="/sites/default/files/styles/kaf_thumbnail_large/public/2019-07/Grain-Free-Wedding-Cookies.jpg?itok=0uJjj65B 1x, /sites/default/files/styles/kaf_thumbnail_large_2x_880x596_/public/2019-07/Grain-Free-Wedding-Cookies.jpg?itok=cUJarl05 2x" media="(min-width: 768px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/kaf_thumbnail/public/2019-07/Grain-Free-Wedding-Cookies.jpg?itok=ZU2u-ZVL 1x, /sites/default/files/styles/kaf_thumbnail_2x/public/2019-07/Grain-Free-Wedding-Cookies.jpg?itok=--zGUwLQ 2x" media="(min-width: 480px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/kaf_thumbnail_small_200x135_/public/2019-07/Grain-Free-Wedding-Cookies.jpg?itok=I3ARJFct 1x, /sites/default/files/styles/kaf_thumbnail_small_2x_400x271_/public/2019-07/Grain-Free-Wedding-Cookies.jpg?itok=71IuGWmj 2x" type="image/jpeg"/>
+                  <img src="/sites/default/files/styles/kaf_thumbnail/public/2019-07/Grain-Free-Wedding-Cookies.jpg?itok=ZU2u-ZVL" alt="Grain-Free Wedding Cookies" />
 
   </picture>
 
@@ -1378,9 +1317,9 @@
 
     <div class="recipe__content">
               <span class="eyebrow">Other</span>
-
+      
               <h5>
-          <a href="/recipes/gluten-free-wedding-cookies-recipe">Gluten-Free Wedding Cookies</a>
+          Grain-Free Wedding Cookies
         </h5>
           </div>
   </a>
@@ -1388,16 +1327,16 @@
 
 
 <div role="article" class="recipe recipe--card">
-  <a href="/recipes/lemon-snowball-cookies-recipe" rel="bookmark">
-
-
+  <a href="/recipes/self-rising-chocolate-chip-cookies-recipe" rel="bookmark">
+    
+    
 
     <div class="recipe__media">
-            <picture>
-                  <source srcset="/sites/default/files/styles/kaf_thumbnail_large/public/recipe_legacy/3891-3-large.jpg?itok=FbczLPNf 1x, /sites/default/files/styles/kaf_thumbnail_large_2x_880x596_/public/recipe_legacy/3891-3-large.jpg?itok=ILEcOQey 2x" media="(min-width: 768px)" type="image/jpeg"/>
-              <source srcset="/sites/default/files/styles/kaf_thumbnail/public/recipe_legacy/3891-3-large.jpg?itok=g3Lg3VRl 1x, /sites/default/files/styles/kaf_thumbnail_2x/public/recipe_legacy/3891-3-large.jpg?itok=qUeTb5RY 2x" media="(min-width: 480px)" type="image/jpeg"/>
-              <source srcset="/sites/default/files/styles/kaf_thumbnail_small_200x135_/public/recipe_legacy/3891-3-large.jpg?itok=exyOApTf 1x, /sites/default/files/styles/kaf_thumbnail_small_2x_400x271_/public/recipe_legacy/3891-3-large.jpg?itok=6nXwkxyj 2x" type="image/jpeg"/>
-                  <img src="/sites/default/files/styles/kaf_thumbnail/public/recipe_legacy/3891-3-large.jpg?itok=g3Lg3VRl" alt="Lemon Snowball Cookies " />
+                  <picture>
+                  <source srcset="/sites/default/files/styles/kaf_thumbnail_large/public/recipe_legacy/4235-3-large.jpg?itok=HM5P432o 1x, /sites/default/files/styles/kaf_thumbnail_large_2x_880x596_/public/recipe_legacy/4235-3-large.jpg?itok=mJIlzIle 2x" media="(min-width: 768px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/kaf_thumbnail/public/recipe_legacy/4235-3-large.jpg?itok=Bqmh38f0 1x, /sites/default/files/styles/kaf_thumbnail_2x/public/recipe_legacy/4235-3-large.jpg?itok=8MwMZNOh 2x" media="(min-width: 480px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/kaf_thumbnail_small_200x135_/public/recipe_legacy/4235-3-large.jpg?itok=IDgTgcnr 1x, /sites/default/files/styles/kaf_thumbnail_small_2x_400x271_/public/recipe_legacy/4235-3-large.jpg?itok=iw5gMzWm 2x" type="image/jpeg"/>
+                  <img src="/sites/default/files/styles/kaf_thumbnail/public/recipe_legacy/4235-3-large.jpg?itok=Bqmh38f0" alt=" Self-Rising Chocolate Chip Cookies  " />
 
   </picture>
 
@@ -1407,10 +1346,70 @@
     </div>
 
     <div class="recipe__content">
-              <span class="eyebrow">Other</span>
-
+              <span class="eyebrow">Drop cookies</span>
+      
               <h5>
-          <a href="/recipes/lemon-snowball-cookies-recipe">Lemon Snowball Cookies </a>
+           Self-Rising Chocolate Chip Cookies  
+        </h5>
+          </div>
+  </a>
+</div>
+
+
+<div role="article" class="recipe recipe--card">
+  <a href="/recipes/sprouted-wheat-drop-cookies-recipe" rel="bookmark">
+    
+    
+
+    <div class="recipe__media">
+                  <picture>
+                  <source srcset="/sites/default/files/styles/kaf_thumbnail_large/public/recipe_legacy/6351-3-large.jpg?itok=FF6_mVHx 1x, /sites/default/files/styles/kaf_thumbnail_large_2x_880x596_/public/recipe_legacy/6351-3-large.jpg?itok=DH4-RrCB 2x" media="(min-width: 768px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/kaf_thumbnail/public/recipe_legacy/6351-3-large.jpg?itok=__VCGuq6 1x, /sites/default/files/styles/kaf_thumbnail_2x/public/recipe_legacy/6351-3-large.jpg?itok=mXU6M_Ht 2x" media="(min-width: 480px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/kaf_thumbnail_small_200x135_/public/recipe_legacy/6351-3-large.jpg?itok=Xmjb-zRL 1x, /sites/default/files/styles/kaf_thumbnail_small_2x_400x271_/public/recipe_legacy/6351-3-large.jpg?itok=-a5Zak7L 2x" type="image/jpeg"/>
+                  <img src="/sites/default/files/styles/kaf_thumbnail/public/recipe_legacy/6351-3-large.jpg?itok=__VCGuq6" alt="Sprouted Wheat Drop Cookies" />
+
+  </picture>
+
+
+
+
+    </div>
+
+    <div class="recipe__content">
+              <span class="eyebrow">Drop cookies</span>
+      
+              <h5>
+          Sprouted Wheat Drop Cookies
+        </h5>
+          </div>
+  </a>
+</div>
+
+
+<div role="article" class="recipe recipe--card">
+  <a href="/recipes/peanut-blossoms-recipe" rel="bookmark">
+    
+    
+
+    <div class="recipe__media">
+                  <picture>
+                  <source srcset="/sites/default/files/styles/kaf_thumbnail_large/public/recipe_legacy/6263-3-large.jpg?itok=hWfsbpgc 1x, /sites/default/files/styles/kaf_thumbnail_large_2x_880x596_/public/recipe_legacy/6263-3-large.jpg?itok=X4iJwVU9 2x" media="(min-width: 768px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/kaf_thumbnail/public/recipe_legacy/6263-3-large.jpg?itok=64573QgP 1x, /sites/default/files/styles/kaf_thumbnail_2x/public/recipe_legacy/6263-3-large.jpg?itok=kM1NbA21 2x" media="(min-width: 480px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/kaf_thumbnail_small_200x135_/public/recipe_legacy/6263-3-large.jpg?itok=F1G9PKWB 1x, /sites/default/files/styles/kaf_thumbnail_small_2x_400x271_/public/recipe_legacy/6263-3-large.jpg?itok=SwIJfOPf 2x" type="image/jpeg"/>
+                  <img src="/sites/default/files/styles/kaf_thumbnail/public/recipe_legacy/6263-3-large.jpg?itok=64573QgP" alt="Peanut Blossoms" />
+
+  </picture>
+
+
+
+
+    </div>
+
+    <div class="recipe__content">
+              <span class="eyebrow">Filled</span>
+      
+              <h5>
+          Peanut Blossoms
         </h5>
           </div>
   </a>
@@ -1422,26 +1421,26 @@
 
   </div>
 <div id="block-kafreciperelatedproducts" class="block block-kaf-recipe block-kaf-related-products">
-
-
+  
+    
       <div class="related related--products">
   <div class="eyebrow">Shop</div>
   <h3>Related Products</h3>
   <div class="related__nodes">
-
+    
 <div role="article" class="product product--card">
-
-
+  
+  
 
       <a href="https://shop.kingarthurbaking.com/items/organic-medium-rye-3-lbs">
-
-      <img
-      src="/sites/default/files/product-image/210099_08_04_2020__09_46_10_700.jpg"
-      alt=""
-      width="700"
+  
+      <img 
+      src="/sites/default/files/product-image/210099_08_04_2020__09_46_10_700.jpg" 
+      alt="" 
+      width="700" 
       height="700"
     />
-
+  
   <div class="product__content">
     <h5 data-sku="210099" data-price="$9.95">
       <span>Organic Medium Rye - 3 lbs.</span>
@@ -1449,28 +1448,28 @@
     </h5>
 
     <div class="product__reviews">
-              <span class="rating rating-is-50">4.7 out of 5 stars</span>
-                    <span class="reviews__label">3 Reviews</span>
+              <span class="rating rating-is-50">4.9 out of 5 stars</span>
+                    <span class="reviews__label">147 Reviews</span>
           </div>
   </div>
 
       </a>
-
+  
 </div>
 
 <div role="article" class="product product--card">
-
-
+  
+  
 
       <a href="https://shop.kingarthurbaking.com/items/ginger-15-oz">
-
-      <img
-      src="/sites/default/files/product-image/208278_06_21_2019__15_51_55_700.jpg"
-      alt=""
-      width="700"
+  
+      <img 
+      src="/sites/default/files/product-image/208278_06_21_2019__15_51_55_700.jpg" 
+      alt="" 
+      width="700" 
       height="700"
     />
-
+  
   <div class="product__content">
     <h5 data-sku="208278" data-price="$4.95">
       <span>Ginger -  1.5 oz.</span>
@@ -1479,27 +1478,27 @@
 
     <div class="product__reviews">
               <span class="rating rating-is-50">5 out of 5 stars</span>
-                    <span class="reviews__label">28 Reviews</span>
+                    <span class="reviews__label">43 Reviews</span>
           </div>
   </div>
 
       </a>
-
+  
 </div>
 
 <div role="article" class="product product--card">
-
-
+  
+  
 
       <a href="https://shop.kingarthurbaking.com/items/vietnamese-cinnamon-3-oz">
-
-      <img
-      src="/sites/default/files/product-image/4960_08_27_2019__16_07_43_700.jpg"
-      alt=""
-      width="700"
+  
+      <img 
+      src="/sites/default/files/product-image/4960_08_27_2019__16_07_43_700.jpg" 
+      alt="" 
+      width="700" 
       height="700"
     />
-
+  
   <div class="product__content">
     <h5 data-sku="100660" data-price="$6.95">
       <span>Vietnamese Cinnamon - 3 oz.</span>
@@ -1508,41 +1507,41 @@
 
     <div class="product__reviews">
               <span class="rating rating-is-50">5 out of 5 stars</span>
-                    <span class="reviews__label">1254 Reviews</span>
+                    <span class="reviews__label">1436 Reviews</span>
           </div>
   </div>
 
       </a>
-
+  
 </div>
 
 <div role="article" class="product product--card">
+  
+  
 
-
-
-      <a href="https://shop.kingarthurbaking.com/items/sparkling-sugar-15-oz">
-
-      <img
-      src="/sites/default/files/product-image/3777_09_10_2018__13_17_15_700.jpg"
-      alt=""
-      width="700"
+      <a href="https://shop.kingarthurbaking.com/items/baking-parchment-paper-set-of-100-half-sheets">
+  
+      <img 
+      src="/sites/default/files/product-image/5854_12_14_2020__15_37_08_700.jpg" 
+      alt="" 
+      width="700" 
       height="700"
     />
-
+  
   <div class="product__content">
-    <h5 data-sku="100684" data-price="$7.95">
-      <span>Sparkling Sugar - 15 oz.</span>
+    <h5 data-sku="100656" data-price="$22.95">
+      <span>Baking Parchment Paper - Set of 100 Half-Sheets</span>
 
     </h5>
 
     <div class="product__reviews">
-              <span class="rating rating-is-50">4.9 out of 5 stars</span>
-                    <span class="reviews__label">402 Reviews</span>
+              <span class="rating rating-is-50">5 out of 5 stars</span>
+                    <span class="reviews__label">2854 Reviews</span>
           </div>
   </div>
 
       </a>
-
+  
 </div>
 
   </div>
@@ -1557,15 +1556,15 @@
       <div class="page-below-connect">
         <div class="region region-below-connect">
     <div id="block-connectwithus" class="block block-block-content block-block-content1b703610-b351-4568-bcc6-a91a133f7a95">
-
-
+  
+    
         <h2>Connect with us</h2>
 
   </div>
 <div id="block-receiverecipesspecialoffers" class="block block-block-content block-block-contentc53da24a-b22e-4ce3-acdd-9e13a0c06f0e">
-
+  
       <h3>Receive Recipes &amp; Special Offers</h3>
-
+    
         <form id="footer-newsletter-form">
 <div class="form-item-email"><input aria-label="Email address" class="custom-form-field form-email" id="footer-newsletter-input" placeholder="Email address" type="email" value="" /></div>
 
@@ -1577,17 +1576,17 @@
 
   </div>
 <div id="block-oursocialcommunities" class="block block-block-content block-block-content411ae0cb-f0be-450c-b0b1-d6a9848d6093">
-
+  
       <h3>Our Social Communities</h3>
-
+    
         <p><a class="icon-facebook" href="https://www.facebook.com/kingarthurbaking/"><span class="visually-hidden">Facebook</span></a> <a class="icon-instagram" href="https://www.instagram.com/kingarthurbaking/"><span class="visually-hidden">Instagram</span></a> <a class="icon-pinterest" href="https://www.pinterest.com/kingarthurbaking/"><span class="visually-hidden">Pinterest</span></a> <a class="icon-twitter" href="https://twitter.com/kingarthurflour/"><span class="visually-hidden">Twitter</span></a> <a class="icon-youtube" href="https://www.youtube.com/user/KingArthurFlour"><span class="visually-hidden">YouTube</span></a> <a class="icon-linkedin" href="https://www.linkedin.com/company/king-arthur-baking-company/"><span class="visually-hidden">LinkedIn</span></a></p>
 
 
   </div>
 <div id="block-getintouch" class="block block-block-content block-block-contentf5d7c1ec-3561-40ba-b96c-6457ceecb13f">
-
+  
       <h3>Get in Touch</h3>
-
+    
         <p><a class="button contact-button" href="/launchchat">Chat | Email</a></p>
 
 
@@ -1596,36 +1595,36 @@
   </div>
 
     </div>
-
+  
       <div class="page-below-values">
         <div class="region region-below-values">
     <div id="block-certifiedbcorporation" class="block block-block-content block-block-content900f3cf8-936b-4320-a12a-9f0aa9325299">
-
-
+  
+  
                 <img width="" height="" src="/sites/default/files/values-block/b-corp_6.svg" alt="Certified B Corporation Logo" />
 
 
 
       </div>
 <div id="block-100employeeowned" class="block block-block-content block-block-content0b74f5eb-9c02-4f1a-af3c-f3fbe64c2200">
-
-
+  
+  
                 <img width="" height="" src="/sites/default/files/values-block/employee-owned_6.svg" alt="100% Employee-owned logo" />
 
 
 
       </div>
 <div id="block-1fortheplanet" class="block block-block-content block-block-content8a5711d0-5544-4e42-bcdb-c59131dfa9d7">
-
-
+  
+  
                 <img width="" height="" src="/sites/default/files/values-block/for-the-planet_6.svg" alt="1% For The Planet Logo" />
 
 
 
       </div>
 <div id="block-100committedtoquality" class="block block-block-content block-block-content08516c39-cfe6-4e33-b48e-379b68c53063">
-
-
+  
+  
                 <img width="" height="" src="/sites/default/files/values-block/quality_6.svg" alt="100% Committed to Quality Logo" />
 
 
@@ -1635,45 +1634,45 @@
   </div>
 
     </div>
-
+  
   <footer class="footer" role="contentinfo">
   <div class="footer-grid">
           <div class="footer__first footer-menu">
           <div class="region region-footer-first">
     <nav role="navigation" aria-labelledby="block-kaf-nextgenweb-footerthebakerscatalogue-menu" id="block-kaf-nextgenweb-footerthebakerscatalogue">
-
+      
   <h2 id="block-kaf-nextgenweb-footerthebakerscatalogue-menu">Shop Online</h2>
+  
 
+        
 
-
-
-                <ul data-region="footer_first" class="menu-footer-bakers-catalog menu-level-0">
+                <ul class="menu-footer-bakers-catalog menu-level-0">
                                     <li>
                                                     <a href="https://shop.kingarthurbaking.com/customerservice/promotions.html">Current Promotions</a>
-
+                                      
                       </li>
                               <li>
                                                     <a href="https://shop.kingarthurbaking.com/customerservice/shipping.html">Customer Service</a>
-
+                                      
                       </li>
                               <li>
                                                     <a href="https://shop.kingarthurbaking.com/customerservice/returns.html">Returns &amp; Refunds</a>
-
+                                      
                       </li>
                               <li>
                                                     <a href="https://shop.kingarthurbaking.com/landing.jsp?go=DefaultCatSignup&amp;ref=pub1">Request a Catalog </a>
-
+                                      
                       </li>
                               <li>
                                                     <a href="https://shop.kingarthurbaking.com/quickshop">Quick Shop</a>
-
+                                      
                       </li>
                               <li>
                                                     <a href="https://shop.kingarthurbaking.com/rewards/">Baker&#039;s Rewards Plus</a>
-
+                                      
                       </li>
               </ul>
-
+      
 
 
 
@@ -1682,47 +1681,47 @@
   </div>
 
       </div>
-
+    
           <div class="footer__second footer-menu">
           <div class="region region-footer-second">
     <nav role="navigation" aria-labelledby="block-kaf-nextgenweb-footerforhomebakers-menu" id="block-kaf-nextgenweb-footerforhomebakers">
-
+      
   <h2 id="block-kaf-nextgenweb-footerforhomebakers-menu">For Home Bakers</h2>
+  
 
+        
 
-
-
-                <ul data-region="footer_second" class="menu-footer-home-bakers menu-level-0">
+                <ul class="menu-footer-home-bakers menu-level-0">
                                     <li>
                                                     <a href="/recipes">Recipes</a>
-
+                                      
                       </li>
                               <li>
                                                     <a href="/learn/guides">Baking Guides</a>
-
+                                      
                       </li>
                               <li>
                                                     <a href="/bakers-hotline">Baker&#039;s Hotline</a>
-
+                                      
                       </li>
                               <li>
                                                     <a href="/about/products/docs/flour-safety">Say No to Raw Dough</a>
-
+                                      
                       </li>
                               <li>
                                                     <a href="/baking-school/calendar?cat=3">Classes for Home Bakers </a>
-
+                                      
                       </li>
                               <li>
                                                     <a href="/baking-contests">Baking Contests</a>
-
+                                      
                       </li>
                               <li>
                                                     <a href="https://shop.kingarthurbaking.com/publications/cookbooks">Our Cookbooks</a>
-
+                                      
                       </li>
               </ul>
-
+      
 
 
 
@@ -1731,43 +1730,43 @@
   </div>
 
       </div>
-
+    
           <div class="footer__third footer-menu">
           <div class="region region-footer-third">
     <nav role="navigation" aria-labelledby="block-kaf-nextgenweb-footerforprofessionalbakers-menu" id="block-kaf-nextgenweb-footerforprofessionalbakers">
-
+      
   <h2 id="block-kaf-nextgenweb-footerforprofessionalbakers-menu">For Professional Bakers</h2>
+  
 
+        
 
-
-
-                <ul data-region="footer_third" class="menu-footer-professional-bakers menu-level-0">
+                <ul class="menu-footer-professional-bakers menu-level-0">
                                     <li>
                                                     <a href="/pro">Bakery &amp; Food Service Sales</a>
-
+                                      
                       </li>
                               <li>
                                                     <a href="/pro/products">Commercial Product Lines</a>
-
+                                      
                       </li>
                               <li>
                                                     <a href="/pro/distributor">Wholesale Distributors</a>
-
+                                      
                       </li>
                               <li>
                                                     <a href="/baking-school/calendar?cat=8">Classes &amp; Training</a>
-
+                                      
                       </li>
                               <li>
                                                     <a href="/pro/formulas">Bakery Formulas</a>
-
+                                      
                       </li>
                               <li>
                                                     <a href="/pro/reference">Resources &amp; Reference </a>
-
+                                      
                       </li>
               </ul>
-
+      
 
 
 
@@ -1776,47 +1775,47 @@
   </div>
 
       </div>
-
+    
           <div class="footer__fourth footer-menu">
           <div class="region region-footer-fourth">
     <nav role="navigation" aria-labelledby="block-kaf-nextgenweb-footerkingarthurflour-menu" id="block-kaf-nextgenweb-footerkingarthurflour">
-
+      
   <h2 id="block-kaf-nextgenweb-footerkingarthurflour-menu">Our Company</h2>
+  
 
+        
 
-
-
-                <ul data-region="footer_fourth" class="menu-footer-king-arthur-flour menu-level-0">
+                <ul class="menu-footer-king-arthur-flour menu-level-0">
                                     <li>
                                                     <a href="/about/our-products">Our Product Lines</a>
-
+                                      
                       </li>
                               <li>
                                                     <a href="/wheretobuy">Find Products Near You</a>
-
+                                      
                       </li>
                               <li>
                                                     <a href="/visit">Visit Us</a>
-
+                                      
                       </li>
                               <li>
                                                     <a href="/jobs">Jobs &amp; Careers</a>
-
+                                      
                       </li>
                               <li>
                                                     <a href="/about/diversity-equity-inclusion">Diversity, Equity, and Inclusion</a>
-
+                                      
                       </li>
                               <li>
                                                     <a href="/contact-us">Contact Us</a>
-
+                                      
                       </li>
                               <li>
                                                     <a href="/newsroom">Newsroom</a>
-
+                                      
                       </li>
               </ul>
-
+      
 
 
 
@@ -1827,42 +1826,42 @@
       </div>
       </div>
       <div class="footer__legal">
-
+      
 <div class="region region-footer">
   <p class="copyright">Copyright &copy;
     2020
     King Arthur Baking Company, Inc. All rights reserved.  </p>
 
       <nav role="navigation" aria-labelledby="block-footerlegal-menu" id="block-footerlegal">
-
+            
   <h2 class="visually-hidden" id="block-footerlegal-menu">Footer - Legal</h2>
+  
 
+        
 
-
-
-                <ul data-region="footer" class="menu-footer-legal menu-level-0">
+                <ul class="menu-footer-legal menu-level-0">
                                     <li>
                                                     <a href="/about/products/docs/supply-chain-disclosure">Supply Chain Disclosure</a>
-
+                                      
                       </li>
                               <li>
                                                     <a href="/policies/accessibility">Accessibility</a>
-
+                                      
                       </li>
                               <li>
                                                     <a href="/policies/privacy-policy">Privacy Policy</a>
-
+                                      
                       </li>
                               <li>
                                                     <a href="/policies/terms-of-use">Terms of Use</a>
-
+                                      
                       </li>
                               <li>
                                                     <a href="/policies/privacy/california#do-not-sell">Do Not Sell My Information</a>
-
+                                      
                       </li>
               </ul>
-
+      
 
 
 
@@ -1877,11 +1876,12 @@
 
   </div>
 
-
-    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/42096","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"ckeditor_accordion\/accordion_style,cleantalk\/apbct-public,core\/html5shiv,core\/picturefill,entity_embed\/caption,eu_cookie_compliance\/eu_cookie_compliance_bare,kaf_ga_tracking\/kaf_ga_tracking,kaf_helpscout\/helpscout,kaf_nextgenweb\/global-scripts,kaf_nextgenweb\/global-styling,kaf_nextgenweb\/status-message-ui,kaf_promo_bar\/kaf_promo_bar,kaf_recipe_box\/recipebox,kaf_share\/kaf_share,kaf_shopinfo\/shopinfo,system\/base","theme":"kaf_nextgenweb","theme_token":null},"ajaxTrustedUrl":[],"kaf_helpscout":{"beacon_id":"fd820c57-521c-4c0a-9eff-0ba927533437"},"kafShopinfo":{"apiBaseUrl":"https:\/\/shop.kingarthurbaking.com\/api\/userinfo","loginUrl":"https:\/\/shop.kingarthurbaking.com\/AcceptLogin"},"eu_cookie_compliance":{"popup_enabled":true,"popup_agreed_enabled":false,"popup_hide_agreed":false,"popup_clicking_confirmation":true,"popup_scrolling_confirmation":false,"popup_html_info":"\u003Cdiv class =\u0022alert alert--cookie sticky\u0022\u003E\n  \u003Cspan\u003E\n    \u003Cp\u003EThis site uses cookies to provide you with the best experience possible.\u003C\/p\u003E\n\n  \u003C\/span\u003E\n      \u003Ca class=\u0022find-more-button alert__learnmore\u0022\u003ERead our Privacy Policy\u003C\/a\u003E\n    \u003Ca class=\u0022agree-button alert__close\u0022\u003E\u003Ci\u003EClose\u003C\/i\u003E\u003C\/a\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv class =\u0022alert alert--cookie sticky\u0022\u003E\n  \u003Cspan\u003E\n    \n  \u003C\/span\u003E\n      \u003Ca class=\u0022find-more-button alert__learnmore\u0022\u003ERead our Privacy Policy\u003C\/a\u003E\n    \u003Ca class=\u0022agree-button alert__close\u0022\u003E\u003Ci\u003EClose\u003C\/i\u003E\u003C\/a\u003E\n\u003C\/div\u003E","mobile_breakpoint":768,"popup_html_agreed":false,"popup_use_bare_css":true,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/policies\/privacy.html","popup_link_new_window":true,"popup_position":false,"fixed_top_position":true,"popup_language":"en","store_consent":false,"better_support_for_screen_readers":false,"cookie_name":"","reload_page":false,"domain":"","domain_all_sites":null,"popup_eu_only_js":false,"cookie_lifetime":100,"cookie_session":0,"disagree_do_not_show_popup":false,"method":"default","whitelisted_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EPrivacy settings\u003C\/button\u003E\n\u003Cdiv class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\n\u003Cp\u003EYou have given your consent for us to set cookies.\u003C\/p\u003E\n\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button\u0022\u003EWithdraw consent\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","withdraw_enabled":false,"withdraw_button_on_info_popup":null,"cookie_categories":[],"enable_save_preferences_button":null,"fix_first_cookie_category":null,"select_all_categories_by_default":null},"ckeditorAccordion":{"accordionStyle":{"collapseAll":1}},"kaf_recipe_box":{"api_base_url":"https:\/\/shop.kingarthurbaking.com\/api\/recipebox","shop_signin_url":"https:\/\/shop.kingarthurbaking.com\/signin"},"kaf_promo_bar":{"api_base_url":"https:\/\/shop.kingarthurbaking.com\/CurrentPromo"},"kaf_search":{"algolia_app_id":"HWPWEWOTF5","algolia_api_key":"f76e4ac912eee478c11cad084afe4ecb"},"user":{"uid":0,"permissionsHash":"c50293c644408a7d52ffd7353eafe0b32da2035809d230aaf4ae7d894d3a6a42"}}</script>
-<script src="/sites/default/files/js/js_Wvx23Pjnu4MgBK02qnddsthuZ3I4siPS_NO7bgycXuA.js"></script>
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/42096","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"ckeditor_accordion\/accordion_style,cleantalk\/apbct-public,core\/picturefill,entity_embed\/caption,eu_cookie_compliance\/eu_cookie_compliance_bare,kaf_ga_tracking\/kaf_ga_tracking,kaf_helpscout\/helpscout,kaf_nextgenweb\/global-scripts,kaf_nextgenweb\/global-styling,kaf_nextgenweb\/status-message-ui,kaf_promo_bar\/kaf_promo_bar,kaf_recipe_box\/recipebox,kaf_share\/kaf_share,kaf_shopinfo\/shopinfo,system\/base","theme":"kaf_nextgenweb","theme_token":null},"ajaxTrustedUrl":[],"kaf_helpscout":{"beacon_id":"fd820c57-521c-4c0a-9eff-0ba927533437"},"kafShopinfo":{"apiBaseUrl":"https:\/\/shop.kingarthurbaking.com\/api\/userinfo","loginUrl":"https:\/\/shop.kingarthurbaking.com\/AcceptLogin"},"ckeditorAccordion":{"accordionStyle":{"collapseAll":1,"keepRowsOpen":null}},"kaf_recipe_box":{"api_base_url":"https:\/\/shop.kingarthurbaking.com\/api\/recipebox","shop_signin_url":"https:\/\/shop.kingarthurbaking.com\/signin"},"kaf_promo_bar":{"api_base_url":"https:\/\/shop.kingarthurbaking.com\/CurrentPromo"},"eu_cookie_compliance":{"cookie_policy_version":"1.0.0","popup_enabled":true,"popup_agreed_enabled":false,"popup_hide_agreed":false,"popup_clicking_confirmation":true,"popup_scrolling_confirmation":false,"popup_html_info":"\n\u003Cdiv class =\u0022alert alert--cookie sticky\u0022\u003E\n  \u003Cspan\u003E\n    \u003Cp\u003EThis site uses cookies to provide you with the best experience possible.\u003C\/p\u003E\n\n  \u003C\/span\u003E\n      \u003Ca class=\u0022find-more-button alert__learnmore\u0022\u003ERead our Privacy Policy\u003C\/a\u003E\n    \u003Ca class=\u0022agree-button alert__close\u0022\u003E\u003Ci\u003EClose\u003C\/i\u003E\u003C\/a\u003E\n\u003C\/div\u003E\n","use_mobile_message":false,"mobile_popup_html_info":"\n\u003Cdiv class =\u0022alert alert--cookie sticky\u0022\u003E\n  \u003Cspan\u003E\n    \n  \u003C\/span\u003E\n      \u003Ca class=\u0022find-more-button alert__learnmore\u0022\u003ERead our Privacy Policy\u003C\/a\u003E\n    \u003Ca class=\u0022agree-button alert__close\u0022\u003E\u003Ci\u003EClose\u003C\/i\u003E\u003C\/a\u003E\n\u003C\/div\u003E\n","mobile_breakpoint":768,"popup_html_agreed":false,"popup_use_bare_css":true,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/policies\/privacy.html","popup_link_new_window":true,"popup_position":false,"fixed_top_position":true,"popup_language":"en","store_consent":false,"better_support_for_screen_readers":false,"cookie_name":"","reload_page":false,"domain":"","domain_all_sites":null,"popup_eu_only_js":false,"cookie_lifetime":100,"cookie_session":0,"set_cookie_session_zero_on_disagree":0,"disagree_do_not_show_popup":false,"method":"default","automatic_cookies_removal":true,"allowed_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EPrivacy settings\u003C\/button\u003E\n\u003Cdiv role=\u0022alertdialog\u0022 aria-labelledby=\u0022popup-text\u0022 class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\n\u003Cp\u003EYou have given your consent for us to set cookies.\u003C\/p\u003E\n\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button\u0022\u003EWithdraw consent\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","withdraw_enabled":false,"reload_options":0,"reload_routes_list":"","withdraw_button_on_info_popup":null,"cookie_categories":[],"cookie_categories_details":[],"enable_save_preferences_button":null,"containing_element":"body","settings_tab_enabled":false},"kaf_search":{"algolia_app_id":"HWPWEWOTF5","algolia_api_key":"f76e4ac912eee478c11cad084afe4ecb"},"user":{"uid":0,"permissionsHash":"c50293c644408a7d52ffd7353eafe0b32da2035809d230aaf4ae7d894d3a6a42"}}</script>
+<script src="/sites/default/files/js/js_rX2L6ARbH6hFOun7obCgmwVzVJvEXw_1lRvdL-pFoFo.js"></script>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=default,Array.prototype.find,Array.prototype.includes,Promise,Object.assign,Object.entries"></script>
-<script src="/sites/default/files/js/js_wMpkKIiiTxEY--kUEIKHnSCyWirAvzzM_h-OQbUECh0.js"></script>
+<script src="/sites/default/files/js/js_uxVcAUhj8Y0qSZ6A76wsm8MumUOwYrbw_K8Pidgm2k0.js"></script>
+<script src="/modules/contrib/eu_cookie_compliance/js/eu_cookie_compliance.js?v=1.9" defer></script>
 
-  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam-cell.nr-data.net","licenseKey":"6b8b93db2d","applicationID":"401100790","transactionName":"YABQZUUAChBXU0xYDVlKc1JDCAsNGXRKRBJWCW5fWAUBP3VfVkUQWAleVEU9KgxSVW5YB0AmXV9DEwsPWlVKHFxBDFdG","queueTime":0,"applicationTime":354,"atts":"TEdTEw0aGR4=","errorBeacon":"bam-cell.nr-data.net","agent":""}</script></body>
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam-cell.nr-data.net","licenseKey":"6b8b93db2d","applicationID":"401100790","transactionName":"YABQZUUAChBXU0xYDVlKZ0NeTg0NUlVAHxJfFQ==","queueTime":0,"applicationTime":93,"atts":"TEdTEw0aGR4=","errorBeacon":"bam-cell.nr-data.net","agent":""}</script></body>
 </html>

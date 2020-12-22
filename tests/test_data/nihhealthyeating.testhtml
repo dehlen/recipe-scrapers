@@ -4,12 +4,12 @@
 <html>
 <head id="ctl00_Head1"><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /><link href="w3c/p3p.xml" rel="P3Pv1" /><link href="css/global.css" rel="stylesheet" type="text/css" media="screen" /><link href="css/print.css" rel="stylesheet" type="text/css" media="print" /><link href="styles/globalstyle.css" rel="stylesheet" type="text/css" media="screen" />
 
-    <script type="text/javascript" src="Scripts/jquery.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
     <script type="text/javascript" src="Scripts/global.js"></script>
     <script type="text/javascript" src="Scripts/jquery.anchor.js"></script>
     <!-- Adode Analytics code -->
-    <script src="//assets.adobedtm.com/219fe603b661f42db2252735b5931981afeb0439/satelliteLib-12fc50a2437a2f5b9a2d69a93da751d532ddde62.js"></script>
+    <script src="//assets.adobedtm.com/073614e3197b/d5aa02ba321b/launch-48a4cb0dcac3.min.js"></script>
     <script async type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=HHS&sdor=nih.gov "></script>
 
     <script type="text/javascript">
@@ -118,7 +118,7 @@
 
 <!-- Filtered Search JavaScript -->
 <link id="slideshow-css" rel="stylesheet" href="https://www.nhlbi.nih.gov/web_resources/css/superfish.css" type="text/css">
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script type="text/javascript" src="https://www.nhlbi.nih.gov/web_resources/js/superfish.js"></script>
 <script type="text/javascript" src="https://www.nhlbi.nih.gov/js/gsa.js"></script>
 
@@ -227,14 +227,50 @@
     </div>
 </div>
 
-        <form name="aspnetForm" method="post" action="./recipedetail.aspx?linkId=17&amp;cId=10&amp;rId=247&amp;AspxAutoDetectCookieSupport=1" id="aspnetForm">
-<input type="hidden" name="__CSRFTOKEN" id="__CSRFTOKEN" value="/wEFJDJkZjU4NjA1LWRkMjQtNGI4MC1iMDY3LTI2MjU0N2JkMDFhOQ==" />
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTYxNDQzMDE1Ng8WAh4IUmVjaXBlSWQC9wEWAmYPZBYEZg9kFgICBQ8VAncvL2Fzc2V0cy5hZG9iZWR0bS5jb20vMjE5ZmU2MDNiNjYxZjQyZGIyMjUyNzM1YjU5MzE5ODFhZmViMDQzOS9zYXRlbGxpdGVMaWItMTJmYzUwYTI0MzdhMmY1YjlhMmQ2OWE5M2RhNzUxZDUzMmRkZGU2Mi5qc1hodHRwczovL2RhcC5kaWdpdGFsZ292Lmdvdi9Vbml2ZXJzYWwtRmVkZXJhdGVkLUFuYWx5dGljcy1NaW4uanM/YWdlbmN5PUhIUyZzZG9yPW5paC5nb3YgZAIBD2QWBAIHDxAPFgYeDURhdGFUZXh0RmllbGQFBE5hbWUeDkRhdGFWYWx1ZUZpZWxkBQJJZB4LXyFEYXRhQm91bmRnZBAVEA5BbGwgQ2F0ZWdvcmllcwRCZWVmB1BvdWx0cnkHU2VhZm9vZARQb3JrBVBhc3RhClZlZ2V0YXJpYW4KVmVnZXRhYmxlcwVHcmFpbgxMdW5jaC9CcnVuY2gPQXBwZXRpemVyL1NuYWNrCEJldmVyYWdlB0Rlc3NlcnQOU2F1Y2UvRHJlc3NpbmcFQnJlYWQNU291cHMgJiBTdGV3cxUQATABMQEyATMBNAE1ATYBNwE4ATkCMTACMTECMTICMTMCMTQCMTUUKwMQZ2dnZ2dnZ2dnZ2dnZ2dnZ2RkAgsPZBYQAgQPDxYCHgRUZXh0BVo8aT5Zb3VyIEhlYWx0aCBJcyBHb2xkZW4hIEhlYXJ0IEhlYWx0aCBQcm9tb3Rpb24gQWN0aXZpdGllcyBmb3IgVmlldG5hbWVzZSBDb21tdW5pdGllczwvaT5kZAIFDxYCHgtfIUl0ZW1Db3VudAIHFg4CAQ9kFgQCAQ8WAh4HVmlzaWJsZWgWAmYPFQEAZAICDxUBJzEgQyBjYXJyb3RzLCBjdXQgaW50byBsb25nLCB0aGluIHN0cmlwc2QCAg9kFgQCAQ8WAh8GaBYCZg8VAQBkAgIPFQEQMiBDIGJlYW4gc3Byb3V0c2QCAw9kFgQCAQ8WAh8GaBYCZg8VAQBkAgIPFQEzMiBDIGN1Y3VtYmVyLCBzZWVkZWQgYW5kIGN1dCBpbnRvIGxvbmcsIHRoaW4gc3RyaXBzZAIED2QWBAIBDxYCHwZoFgJmDxUBAGQCAg8VARQxIEMgbWluY2VkIHNjYWxsaW9uc2QCBQ9kFgQCAQ8WAh8GaBYCZg8VAQBkAgIPFQEhJmZyYWMxMjsgQyBjaG9wcGVkIGZyZXNoIGNpbGFudHJvZAIGD2QWBAIBDxYCHwZoFgJmDxUBAGQCAg8VAR0mZnJhYzE0OyBDIGNob3BwZWQgZnJlc2ggbWludGQCBw9kFgQCAQ8WAh8GaBYCZg8VAQBkAgIPFQEVOCByaWNlIHBhcGVyIHdyYXBwZXJzZAIGDw8WAh8GaGRkAgcPFgIfBQIKFhRmD2QWAmYPFQIJVG90YWwgZmF0AzEgZ2QCAQ9kFgJmDxUCDVNhdHVyYXRlZCBmYXQDMCBnZAICD2QWAmYPFQILQ2hvbGVzdGVyb2wEMCBtZ2QCAw9kFgJmDxUCBlNvZGl1bQUyOCBtZ2QCBA9kFgJmDxUCC1RvdGFsIGZpYmVyAzIgZ2QCBQ9kFgJmDxUCB1Byb3RlaW4DMyBnZAIGD2QWAmYPFQINQ2FyYm9oeWRyYXRlcwQxNiBnZAIHD2QWAmYPFQIJUG90YXNzaXVtBjE2MSBtZ2QCCA9kFgJmDxUCB0NhbGNpdW0FMjUgbWdkAgkPZBYCZg8VAgRJcm9uBDEgbWdkAggPDxYCHwQFN1BlcmNlbnQgRGFpbHkgVmFsdWVzIGFyZSBiYXNlZCBvbiBhIDIsMDAwIGNhbG9yaWUgZGlldC5kZAIKDxYCHwUCBRYKAgEPZBYEAgEPDxYCHwQFATFkZAICDxUBK1Rvc3MgZmlyc3Qgc2l4IGluZ3JlZGllbnRzIGluIGEgbGFyZ2UgYm93bC5kAgIPZBYEAgEPDxYCHwQFATJkZAICDxUBXlNvYWsgb25lIHJpY2UgcGFwZXIgd3JhcHBlciBpbiB3YXJtIHdhdGVyIHVudGlsIHNvZnQgKDEgdG8gMiBtaW51dGVzKS4gU2hha2Ugb2ZmIGV4Y2VzcyB3YXRlci5kAgMPZBYEAgEPDxYCHwQFATNkZAICDxUBe1BsYWNlIHZlZ2V0YWJsZSBmaWxsaW5nIG9mZi1jZW50ZXIgb24gcmljZSBwYXBlciwgYW5kIGZvbGQgbGlrZSBhbiBlZ2cgcm9sbCAodHVjayBpbiB0aGUgc2lkZXMgdG8ga2VlcCB0aGUgZmlsbGluZyBpbnNpZGUpLmQCBA9kFgQCAQ8PFgIfBAUBNGRkAgIPFQFAUmVwZWF0IHdpdGggcmVtYWluaW5nIHZlZ2V0YWJsZSBmaWxsaW5nIGFuZCByaWNlIHBhcGVyIHdyYXBwZXJzLmQCBQ9kFgQCAQ8PFgIfBAUBNWRkAgIPFQFDT25jZSB5b3UgaGF2ZSBhc3NlbWJsZWQgYWxsIG9mIHRoZSBzcHJpbmcgcm9sbHMsIHNlcnZlIGltbWVkaWF0ZWx5LmQCCw8WAh8GaGQCDA9kFgICAQ8PFgIfBGVkZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAgUPY3RsMDAkYnRuU2VhcmNoBSNjdGwwMCRib2R5Q29udGVudCRidG5BZGRUb015UmVjaXBlczAoL/4Y/qUokhmawGtLeXS/AoQq7hzsCYJ8yO/pjPGB" />
+        <form name="aspnetForm" method="post" action="./recipedetail.aspx?linkId=0&amp;cId=10&amp;rId=247" onsubmit="javascript:return WebForm_OnSubmit();" id="aspnetForm">
+<div>
+<input type="hidden" name="__CSRFTOKEN" id="__CSRFTOKEN" value="/wEFJGE0MDE2ZjYxLTBlN2ItNGE5ZS1iNGE3LTIxNzY1YjYxYjVhYg==" />
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTYxNDQzMDE1Ng8WAh4IUmVjaXBlSWQC9wEWAmYPZBYEZg9kFgICBQ8VAkovL2Fzc2V0cy5hZG9iZWR0bS5jb20vMDczNjE0ZTMxOTdiL2Q1YWEwMmJhMzIxYi9sYXVuY2gtNDhhNGNiMGRjYWMzLm1pbi5qc1hodHRwczovL2RhcC5kaWdpdGFsZ292Lmdvdi9Vbml2ZXJzYWwtRmVkZXJhdGVkLUFuYWx5dGljcy1NaW4uanM/YWdlbmN5PUhIUyZzZG9yPW5paC5nb3YgZAIBD2QWBAIHDxAPFgYeDURhdGFUZXh0RmllbGQFBE5hbWUeDkRhdGFWYWx1ZUZpZWxkBQJJZB4LXyFEYXRhQm91bmRnZBAVEA5BbGwgQ2F0ZWdvcmllcwRCZWVmB1BvdWx0cnkHU2VhZm9vZARQb3JrBVBhc3RhClZlZ2V0YXJpYW4KVmVnZXRhYmxlcwVHcmFpbgxMdW5jaC9CcnVuY2gPQXBwZXRpemVyL1NuYWNrCEJldmVyYWdlB0Rlc3NlcnQOU2F1Y2UvRHJlc3NpbmcFQnJlYWQNU291cHMgJiBTdGV3cxUQATABMQEyATMBNAE1ATYBNwE4ATkCMTACMTECMTICMTMCMTQCMTUUKwMQZ2dnZ2dnZ2dnZ2dnZ2dnZ2RkAgsPZBYQAgQPDxYCHgRUZXh0BVo8aT5Zb3VyIEhlYWx0aCBJcyBHb2xkZW4hIEhlYXJ0IEhlYWx0aCBQcm9tb3Rpb24gQWN0aXZpdGllcyBmb3IgVmlldG5hbWVzZSBDb21tdW5pdGllczwvaT5kZAIFDxYCHgtfIUl0ZW1Db3VudAIHFg4CAQ9kFgQCAQ8WAh4HVmlzaWJsZWgWAmYPFQEAZAICDxUBJzEgQyBjYXJyb3RzLCBjdXQgaW50byBsb25nLCB0aGluIHN0cmlwc2QCAg9kFgQCAQ8WAh8GaBYCZg8VAQBkAgIPFQEQMiBDIGJlYW4gc3Byb3V0c2QCAw9kFgQCAQ8WAh8GaBYCZg8VAQBkAgIPFQEzMiBDIGN1Y3VtYmVyLCBzZWVkZWQgYW5kIGN1dCBpbnRvIGxvbmcsIHRoaW4gc3RyaXBzZAIED2QWBAIBDxYCHwZoFgJmDxUBAGQCAg8VARQxIEMgbWluY2VkIHNjYWxsaW9uc2QCBQ9kFgQCAQ8WAh8GaBYCZg8VAQBkAgIPFQEhJmZyYWMxMjsgQyBjaG9wcGVkIGZyZXNoIGNpbGFudHJvZAIGD2QWBAIBDxYCHwZoFgJmDxUBAGQCAg8VAR0mZnJhYzE0OyBDIGNob3BwZWQgZnJlc2ggbWludGQCBw9kFgQCAQ8WAh8GaBYCZg8VAQBkAgIPFQEVOCByaWNlIHBhcGVyIHdyYXBwZXJzZAIGDw8WAh8GaGRkAgcPFgIfBQIKFhRmD2QWAmYPFQIJVG90YWwgZmF0AzEgZ2QCAQ9kFgJmDxUCDVNhdHVyYXRlZCBmYXQDMCBnZAICD2QWAmYPFQILQ2hvbGVzdGVyb2wEMCBtZ2QCAw9kFgJmDxUCBlNvZGl1bQUyOCBtZ2QCBA9kFgJmDxUCC1RvdGFsIGZpYmVyAzIgZ2QCBQ9kFgJmDxUCB1Byb3RlaW4DMyBnZAIGD2QWAmYPFQINQ2FyYm9oeWRyYXRlcwQxNiBnZAIHD2QWAmYPFQIJUG90YXNzaXVtBjE2MSBtZ2QCCA9kFgJmDxUCB0NhbGNpdW0FMjUgbWdkAgkPZBYCZg8VAgRJcm9uBDEgbWdkAggPDxYCHwQFN1BlcmNlbnQgRGFpbHkgVmFsdWVzIGFyZSBiYXNlZCBvbiBhIDIsMDAwIGNhbG9yaWUgZGlldC5kZAIKDxYCHwUCBRYKAgEPZBYEAgEPDxYCHwQFATFkZAICDxUBK1Rvc3MgZmlyc3Qgc2l4IGluZ3JlZGllbnRzIGluIGEgbGFyZ2UgYm93bC5kAgIPZBYEAgEPDxYCHwQFATJkZAICDxUBXlNvYWsgb25lIHJpY2UgcGFwZXIgd3JhcHBlciBpbiB3YXJtIHdhdGVyIHVudGlsIHNvZnQgKDEgdG8gMiBtaW51dGVzKS4gU2hha2Ugb2ZmIGV4Y2VzcyB3YXRlci5kAgMPZBYEAgEPDxYCHwQFATNkZAICDxUBe1BsYWNlIHZlZ2V0YWJsZSBmaWxsaW5nIG9mZi1jZW50ZXIgb24gcmljZSBwYXBlciwgYW5kIGZvbGQgbGlrZSBhbiBlZ2cgcm9sbCAodHVjayBpbiB0aGUgc2lkZXMgdG8ga2VlcCB0aGUgZmlsbGluZyBpbnNpZGUpLmQCBA9kFgQCAQ8PFgIfBAUBNGRkAgIPFQFAUmVwZWF0IHdpdGggcmVtYWluaW5nIHZlZ2V0YWJsZSBmaWxsaW5nIGFuZCByaWNlIHBhcGVyIHdyYXBwZXJzLmQCBQ9kFgQCAQ8PFgIfBAUBNWRkAgIPFQFDT25jZSB5b3UgaGF2ZSBhc3NlbWJsZWQgYWxsIG9mIHRoZSBzcHJpbmcgcm9sbHMsIHNlcnZlIGltbWVkaWF0ZWx5LmQCCw8WAh8GaGQCDA9kFgICAQ8PFgIfBGVkZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAgUPY3RsMDAkYnRuU2VhcmNoBSNjdGwwMCRib2R5Q29udGVudCRidG5BZGRUb015UmVjaXBlc9mGzvk2QZI1RQjdCbWNPTqA74ykybwIHvF+aDB2nQrS" />
+</div>
 
-<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="38DFA1E0" />
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdABTBbtMFlEr4A7oocosgCuMa4+3WpZQNb82rzs2KnT3rh4ZF9Dgmqbh1uYJRuLYYa6Qe5uP+xt/x/j3eBGpaPFNDb5326l9SPJ3rDzn4OlNgMEulXHAvzD+w+o/7rGao4tXdzFzo0xyPVcrK/TxjyAidG93v8er/0hrOMICPry5lspBpdYpOILhgXhxpV/XGSzjXbl9mzbTeugJJOLRxFMfzmd4ZcGs3eLb7Q84c6xs+xMtMNHJGTIalnk4xSQkqk4WV4onbg2Vi0fSShZPOHqRtsjc21DoscfHgWRGdKZqzoqtHieYcC4YQBjgq1ETmgQkKvoLia6ef51BdQevDdhWoGid/xE2Hhhkfbs+IZhKwfdwCrehfoKAglE2amB+KvHtVekZAH7n66iWui6apxhYLWODENXTIJzz2mstWAI0Nx7Pfm4M4CwK71nJuskGjQLixKmpd8MZnx7HwC8RNq+Dh" />
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=V1rZIQuUsaxazYkw2zYb11R-Mt1aTKCL6oEKF8pu8flE4LnPW9CeDAqgHZFcvhRpLD52RYesbHU5JUhX3hpa4UZLVnMSF2WPKFLAMo3R_Zk1&amp;t=637346628242505677" type="text/javascript"></script>
+
+
+<script src="/WebResource.axd?d=jpJbM-oo-GcjOL_tJddtxNJcJd4nk0eM8_Bb_nv2GmNMUFp-1vS7jLIbwnGFxDHYdiQFkT0msOvoKC1TMw_Nj7R--Lbjg5Uz--mIPcy01Fc1&amp;t=637346628242505677" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
+return true;
+}
+//]]>
+</script>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="38DFA1E0" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdABSBG9eSnPdimLmhBvZaU83A4+3WpZQNb82rzs2KnT3rh4ZF9Dgmqbh1uYJRuLYYa6Qe5uP+xt/x/j3eBGpaPFNDb5326l9SPJ3rDzn4OlNgMEulXHAvzD+w+o/7rGao4tXdzFzo0xyPVcrK/TxjyAidG93v8er/0hrOMICPry5lspBpdYpOILhgXhxpV/XGSzjXbl9mzbTeugJJOLRxFMfzmd4ZcGs3eLb7Q84c6xs+xMtMNHJGTIalnk4xSQkqk4WV4onbg2Vi0fSShZPOHqRtsjc21DoscfHgWRGdKZqzoqtHieYcC4YQBjgq1ETmgQkKvoLia6ef51BdQevDdhWoGid/xE2Hhhkfbs+IZhKwfdwCrehfoKAglE2amB+KvHtVekZAH7n66iWui6apxhYLWODENXTIJzz2mstWAI0Nxy0mT2sQLNmiFv7Ww8wEGgwpxuojHKjwALlihsK+MaRp" />
+</div>
             <div id="header"  valign="bottom">
-                <img src="Images/logo.png" alt="Keep the Beat? Recipes: Deliciously Healthy Eating" />
             </div>
             <div id="subhead_myrecipes">
                 <div id="subhead_mybutton">
@@ -248,7 +284,7 @@
 
                 </div>
                 <div id="search_controls">
-                    <br />
+                    <span id="ctl00_rfvSearchText" style="color:Red;display:none;">Please enter the search text</span><br />
                     <label for="ctl00_txtSearch" class="hidden">
                         Search</label><input name="ctl00$txtSearch" type="text" value="Search" id="ctl00_txtSearch" title="Search" class="searchfield w300 swap_value" />
                     <label for="ctl00_ddlCategories" class="hidden">
@@ -271,7 +307,7 @@
 	<option value="15">Soups &amp; Stews</option>
 
 </select>
-                    <input type="image" name="ctl00$btnSearch" id="ctl00_btnSearch" class="vertmiddle" src="Images/btn_go.png" alt="search recipes" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$btnSearch&quot;, &quot;&quot;, true, &quot;MasterSearchGroup&quot;, &quot;&quot;, false, false))" border="0" />
+                    <input type="image" name="ctl00$btnSearch" id="ctl00_btnSearch" class="vertmiddle" src="Images/btn_go.png" alt="search recipes" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$btnSearch&quot;, &quot;&quot;, true, &quot;MasterSearchGroup&quot;, &quot;&quot;, false, false))" style="border-width:0px;" />
                 </div>
             </div>
             <div id="main_nav">
@@ -457,7 +493,7 @@
                         Cooking Resources</div>
                     <div class="menu_body">
                      <a href="cookingResrcs.aspx?linkId=2">Cooking Resources Main</a>
-                         <a href="recipeIcons.aspx?linkId=2">Guide to Recipe Symbols and Side Dishes </a>
+                         <a href="recipeIcons.aspx?linkId=2">Family Recipe Tips</a>
                         <a href="measurements.aspx?linkId=2">Guide to Common Cooking Measurements </a>
                         <a href="glos.aspx?linkId=2">Food Preparation Glossary</a>
                          <a href="cookinginfo.aspx?linkId=2">Basic Cooking Instructions</a>
@@ -470,7 +506,7 @@
                        Family Resources </div>
                      <div class="menu_body">
                         <a href="familyResrcs.aspx?linkId=3">Family Resources Main</a>
-                        <a href="parentTips.aspx?linkId=3"><em><strong>We Can!</strong></em>&reg; Parent Tips</a>
+                        <a href="parentTips.aspx?linkId=3">Parent Tips</a>
                         <a href="hlthyWeight.aspx?linkId=3">Encourage a Healthy Weight</a>
                         <a href="feedChild.aspx?linkId=3">How Much Should I Feed My Child</a>
                         <a href="chefTraining.aspx?linkId=3">Chefs in Training</a>
@@ -481,31 +517,25 @@
                         Tools & Resources</div>
                     <div class="menu_body" >
                         <a href="supporters.aspx?linkId=4">Tools & Resources Main</a>
-                        <a href="promo.aspx?linkId=4">Healthy Eating Promotion Suggestions</a>
                         <a href="toolbox.aspx?linkId=4">More Resources for Healthy Living</a>
-                        <a href="ktblogo.aspx?linkId=4">Keep the Beat Logos</a>
-                        <a href="logos.aspx?linkId=4">Logo Usage Guidelines</a>
                     </div>
 
+                     <div class="menu_headnosub bottom borderTop">
+                        <a href="Video.aspx">Healthy Eating Video Clips</a>
+                    </div>
 
-                 </div>
-
-                <div id="nav" style="border-top: solid 1px #d2de80;">
-                    <ul>
-
-                        <li><a href="Video.aspx">Healthy Eating Video Clips</a></li>
-                        <li><a href="media.aspx">Media</a> </li>
-                        <li><a href="https://www.nhlbi.nih.gov/health/index.htm#recipes" target="_blank">NHLBI
-                            Recipe Collections</a></li>
-                        <li><a href="https://www.nhlbi.nih.gov/health/public/heart/obesity/wecan/" target="_blank">
-                            <em>We Can!</em>&reg;</a></li>
-                   </ul>
-                    <p>
-                        <a href="https://www.facebook.com/NHLBI">
+                  <div class="menu_head" >
+                       CONNECT WITH US</div>
+                    <div class="menu_body" >
+                        <a href="https://www.facebook.com/hearttruth/">
                             <img src="images/ico_facebook.gif" alt="Link to NHLBI Facebook page" />
-                            Facebook</a></p><br />
-
-                </div>
+                            Facebook</a><br />
+                        <a href="https://twitter.com/TheHeartTruth">
+                            <img src="images/socialmedia/ico-twitter.png" alt="Link to NHLBI Twitter page" />
+                            Twitter</a><br />
+                    </div>
+                 </div>
+               </div>
             </div>
             <div id="main_content">
                 <a name="skip" id="skip"></a>
@@ -749,7 +779,7 @@
                         </table>
                     </div>
                     <div id="add_to_my_recipes">
-                        <input type="image" name="ctl00$bodyContent$btnAddToMyRecipes" id="ctl00_bodyContent_btnAddToMyRecipes" src="Images/btn_addtomyrecipes.png" alt="Add to my recipes" border="0" />
+                        <input type="image" name="ctl00$bodyContent$btnAddToMyRecipes" id="ctl00_bodyContent_btnAddToMyRecipes" src="Images/btn_addtomyrecipes.png" alt="Add to my recipes" style="border-width:0px;" />
                     </div>
                 </div>
             </td>
@@ -863,12 +893,27 @@
     <p>_______________<br />&#153;<em>Keep the Beat</em> is a trademark of the U.S. Department of Health and Human Services.</p>
 
 
-
-                <p><sup>&reg;</sup><em><strong>We Can! Ways to Enhance Children's Activity &amp; Nutrition</strong></em>, <strong><em>We Can!</em></strong>, and the <strong><em>We Can! </em></strong>logos are registered trademarks of the U.S. Department of Health &amp; Human Services (HHS).</p>
-
             </div>
              <input type="hidden" id="hidMenuId" />
              <input type="hidden" id="hidMenuIdtest" />
+
+<script type="text/javascript">
+//<![CDATA[
+var Page_Validators =  new Array(document.getElementById("ctl00_rfvSearchText"));
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+var ctl00_rfvSearchText = document.all ? document.all["ctl00_rfvSearchText"] : document.getElementById("ctl00_rfvSearchText");
+ctl00_rfvSearchText.controltovalidate = "ctl00_txtSearch";
+ctl00_rfvSearchText.errormessage = "Please enter the search text";
+ctl00_rfvSearchText.display = "Dynamic";
+ctl00_rfvSearchText.validationGroup = "MasterSearchGroup";
+ctl00_rfvSearchText.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ctl00_rfvSearchText.initialvalue = "Search";
+//]]>
+</script>
 
 
 <script type="text/javascript">
@@ -890,7 +935,26 @@
       for (var attr in aex){am.setAttribute(attr, aex[attr]);}h.appendChild(am);g[fsr] = function () {var aT = '__' + fsr + '_stk__';g[aT] = g[aT] || [];g[aT].push(arguments);};
     })(window);
     // DO NOT MODIFY ABOVE THIS LINE *****************************************
-</script></form>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+        //]]>
+</script>
+</form>
 
 <!-- modified by jim -->
 
@@ -1019,26 +1083,7 @@
 Copyright 1996-2010 Adobe, Inc. All Rights Reserved
 More info available at https://www.omniture.com -->
 
-<script language="JavaScript" type="text/javascript" src="js/healthyeating_omn_account.js"></script>
 
-  <script language="JavaScript" type="text/javascript" src="js/channel_code_02_24_11.js"></script>
-
-  <script language="JavaScript" type="text/javascript" src="js/s_code_SEMPHONIC_02_24_11.js"></script>
-
-  <script language="JavaScript" type="text/javascript"><!--
-/* You may give each page an identifying name, server, and channel on
-the next lines. */
-
-
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var s_code=s.t();if(s_code)document.write(s_code)//--></script>
-  <script language="JavaScript" type="text/javascript"><!--
-if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-//--></script>
-  <noscript>
-  <img src="https://nhlbi.122.2o7.net/b/ss/nhlbiglobal/1/H.22.1--NS/0?[AQB]&cdp=3&[AQE]"
-height="1" width="1" border="0" alt="" />
-  </noscript>
   <!--/DO NOT REMOVE/-->
 </p>
 
@@ -1051,3 +1096,4 @@ height="1" width="1" border="0" alt="" />
 
 </body>
 </html>
+

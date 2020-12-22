@@ -14,7 +14,7 @@
 	<!--[if lt IE 9]>
 	<script src="https://purelypope.com/wp-content/themes/soledad/js/html5.js"></script>
 	<![endif]-->
-
+	
 <!-- Google Tag Manager for WordPress by gtm4wp.com -->
 <script data-cfasync="false" data-pagespeed-no-defer>//<![CDATA[
 	var gtm4wp_datalayer_name = "dataLayer";
@@ -45,14 +45,14 @@
 	<meta property="og:site_name" content="PurelyPope" />
 	<meta property="article:publisher" content="https://www.facebook.com/PurelyPope" />
 	<meta property="article:published_time" content="2020-05-21T00:35:12+00:00" />
-	<meta property="article:modified_time" content="2020-08-04T17:17:24+00:00" />
+	<meta property="article:modified_time" content="2020-09-17T22:05:26+00:00" />
 	<meta property="og:image" content="https://purelypope.com/wp-content/uploads/2020/05/IMG_5412-1-scaled.jpg" />
 	<meta property="og:image:width" content="1920" />
 	<meta property="og:image:height" content="2560" />
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:creator" content="@purelypope" />
 	<meta name="twitter:site" content="@purelypope" />
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://purelypope.com/#website","url":"https://purelypope.com/","name":"PurelyPope","description":"A balanced babe dedicated to living pure and living well!","potentialAction":[{"@type":"SearchAction","target":"https://purelypope.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://purelypope.com/sweet-chili-brussel-sprouts/#primaryimage","inLanguage":"en-US","url":"https://purelypope.com/wp-content/uploads/2020/05/IMG_5412-1-scaled.jpg","width":1920,"height":2560,"caption":"PurelyPope Sweet Chili Brussel Sprouts Recipe"},{"@type":"WebPage","@id":"https://purelypope.com/sweet-chili-brussel-sprouts/#webpage","url":"https://purelypope.com/sweet-chili-brussel-sprouts/","name":"Sweet Chili Brussel Sprouts | PurelyPope","isPartOf":{"@id":"https://purelypope.com/#website"},"primaryImageOfPage":{"@id":"https://purelypope.com/sweet-chili-brussel-sprouts/#primaryimage"},"datePublished":"2020-05-21T00:35:12+00:00","dateModified":"2020-08-04T17:17:24+00:00","author":{"@id":"https://purelypope.com/#/schema/person/33419a5b59339c2f78afa84596960f6a"},"description":"There is nothing better than a well cooked batch of brussel sprouts! These sweet chili brussel sprouts are packed with flavor and nutritious, too!","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://purelypope.com/sweet-chili-brussel-sprouts/"]}]},{"@type":"Person","@id":"https://purelypope.com/#/schema/person/33419a5b59339c2f78afa84596960f6a","name":"Alysia","image":{"@type":"ImageObject","@id":"https://purelypope.com/#personlogo","inLanguage":"en-US","url":"https://secure.gravatar.com/avatar/f4deab2000d047f9b372ea184aa17f5b?s=96&d=mm&r=g","caption":"Alysia"}}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://purelypope.com/#website","url":"https://purelypope.com/","name":"PurelyPope","description":"A balanced babe dedicated to living pure and living well!","potentialAction":[{"@type":"SearchAction","target":"https://purelypope.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://purelypope.com/sweet-chili-brussel-sprouts/#primaryimage","inLanguage":"en-US","url":"https://purelypope.com/wp-content/uploads/2020/05/IMG_5412-1-scaled.jpg","width":1920,"height":2560,"caption":"PurelyPope Sweet Chili Brussel Sprouts Recipe"},{"@type":"WebPage","@id":"https://purelypope.com/sweet-chili-brussel-sprouts/#webpage","url":"https://purelypope.com/sweet-chili-brussel-sprouts/","name":"Sweet Chili Brussel Sprouts | PurelyPope","isPartOf":{"@id":"https://purelypope.com/#website"},"primaryImageOfPage":{"@id":"https://purelypope.com/sweet-chili-brussel-sprouts/#primaryimage"},"datePublished":"2020-05-21T00:35:12+00:00","dateModified":"2020-09-17T22:05:26+00:00","author":{"@id":"https://purelypope.com/#/schema/person/33419a5b59339c2f78afa84596960f6a"},"description":"There is nothing better than a well cooked batch of brussel sprouts! These sweet chili brussel sprouts are packed with flavor and nutritious, too!","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://purelypope.com/sweet-chili-brussel-sprouts/"]}]},{"@type":"Person","@id":"https://purelypope.com/#/schema/person/33419a5b59339c2f78afa84596960f6a","name":"Alysia","image":{"@type":"ImageObject","@id":"https://purelypope.com/#personlogo","inLanguage":"en-US","url":"https://secure.gravatar.com/avatar/f4deab2000d047f9b372ea184aa17f5b?s=96&d=mm&r=g","caption":"Alysia"}}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -84,7 +84,7 @@ img.emoji {
 <link rel='stylesheet' id='wc-block-vendors-style-css'  href='https://purelypope.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/vendors-style.css?ver=3.1.0' type='text/css' media='all' />
 <link rel='stylesheet' id='wc-block-style-css'  href='https://purelypope.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css?ver=3.1.0' type='text/css' media='all' />
 <link rel='stylesheet' id='ctct_form_styles-css'  href='https://purelypope.com/wp-content/plugins/constant-contact-forms/assets/css/style.css?ver=1.8.7' type='text/css' media='all' />
-<link rel='stylesheet' id='contact-form-7-css'  href='https://purelypope.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://purelypope.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.3.2' type='text/css' media='all' />
 <link rel='stylesheet' id='jpibfi-style-css'  href='https://purelypope.com/wp-content/plugins/jquery-pin-it-button-for-images/css/client.css?ver=3.0.5' type='text/css' media='all' />
 <link rel='stylesheet' id='penci-oswald-css'  href='//fonts.googleapis.com/css?family=Oswald%3A400&#038;ver=5.5' type='text/css' media='all' />
 <link rel='stylesheet' id='woocommerce-layout-css'  href='https://purelypope.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=4.4.1' type='text/css' media='all' />
@@ -112,14 +112,14 @@ var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_ur
 /* ]]> */
 </script>
 <script type='text/javascript' src='https://purelypope.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=4.4.1' id='wc-add-to-cart-js'></script>
-<script type='text/javascript' src='https://purelypope.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-contact-form-7-tracker.js?ver=1.11.4' id='gtm4wp-contact-form-7-tracker-js'></script>
-<script type='text/javascript' src='https://purelypope.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.11.4' id='gtm4wp-form-move-tracker-js'></script>
-<script type='text/javascript' src='https://purelypope.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-woocommerce-classic.js?ver=1.11.4' id='gtm4wp-woocommerce-classic-js'></script>
-<script type='text/javascript' src='https://purelypope.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-woocommerce-enhanced.js?ver=1.11.4' id='gtm4wp-woocommerce-enhanced-js'></script>
+<script type='text/javascript' src='https://purelypope.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-contact-form-7-tracker.js?ver=1.11.5' id='gtm4wp-contact-form-7-tracker-js'></script>
+<script type='text/javascript' src='https://purelypope.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.11.5' id='gtm4wp-form-move-tracker-js'></script>
+<script type='text/javascript' src='https://purelypope.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-woocommerce-classic.js?ver=1.11.5' id='gtm4wp-woocommerce-classic-js'></script>
+<script type='text/javascript' src='https://purelypope.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-woocommerce-enhanced.js?ver=1.11.5' id='gtm4wp-woocommerce-enhanced-js'></script>
 <script type='text/javascript' src='https://purelypope.com/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js?ver=6.3.0' id='vc_woocommerce-add-to-cart-js-js'></script>
 <script type='text/javascript' src='https://purelypope.com/wp-content/plugins/instagram-slider-widget/assets/js/jquery.flexslider-min.js?ver=2.2' id='jquery-pllexi-slider-js'></script>
 <link rel="https://api.w.org/" href="https://purelypope.com/wp-json/" /><link rel="alternate" type="application/json" href="https://purelypope.com/wp-json/wp/v2/posts/3389" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://purelypope.com/xmlrpc.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://purelypope.com/wp-includes/wlwmanifest.xml" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://purelypope.com/wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 5.5" />
 <meta name="generator" content="WooCommerce 4.4.1" />
 <link rel='shortlink' href='https://purelypope.com/?p=3389' />
@@ -145,11 +145,11 @@ a.pinit-button::after {
 						.post-entry .penci-recipe-heading a.penci-recipe-print { color:#86e9e9; } .post-entry .penci-recipe-heading a.penci-recipe-print { border-color:#86e9e9; } .post-entry .penci-recipe-heading a.penci-recipe-print:hover { background-color:#86e9e9; } .post-entry .penci-recipe-heading a.penci-recipe-print:hover { color:#fff; }														.penci-recipe-index .cat > a.penci-cat-name { color:#86e9e9; }									</style>
 	<style type="text/css">
 																											</style>
-<script id='pixel-script-poptin' src='https://cdn.popt.in/pixel.js?id=bb30cf05577c3' async='true'></script>
+<script id='pixel-script-poptin' src='https://cdn.popt.in/pixel.js?id=bb30cf05577c3' async='true'></script> 
 <!-- Google Tag Manager for WordPress by gtm4wp.com -->
 <script data-cfasync="false" data-pagespeed-no-defer>//<![CDATA[
 var google_tag_params = {"pagePostType":"post","pagePostType2":"single-post","pageCategory":["gluten-free","mains","recipes","sides-appetizers","snacks","vegan"],"pageAttributes":["asian","brussel-sprouts","dairy-free","gluten-free","paleo","side-dish","sides","veggies"],"pagePostAuthor":"Alysia","browserName":"Curl","browserVersion":"7.64.1","browserEngineName":"","browserEngineVersion":"","osName":"","osVersion":"","deviceType":"bot","deviceManufacturer":"","deviceModel":"","customerTotalOrders":0,"customerTotalOrderValue":"0.00","customerFirstName":"","customerLastName":"","customerBillingFirstName":"","customerBillingLastName":"","customerBillingCompany":"","customerBillingAddress1":"","customerBillingAddress2":"","customerBillingCity":"","customerBillingPostcode":"","customerBillingCountry":"","customerBillingEmail":"","customerBillingPhone":"","customerShippingFirstName":"","customerShippingLastName":"","customerShippingCompany":"","customerShippingAddress1":"","customerShippingAddress2":"","customerShippingCity":"","customerShippingPostcode":"","customerShippingCountry":"","cartContent":{"totals":{"applied_coupons":[],"discount_total":0,"subtotal":0,"total":0},"items":[]},"ecomm_pagetype":"other"};
-	var dataLayer_content = {"visitorLoginState":"logged-out","visitorType":"visitor-logged-out","visitorEmail":"","visitorUsername":"","visitorIP":"163.182.220.141","pagePostType":"post","pagePostType2":"single-post","pageCategory":["gluten-free","mains","recipes","sides-appetizers","snacks","vegan"],"pageAttributes":["asian","brussel-sprouts","dairy-free","gluten-free","paleo","side-dish","sides","veggies"],"pagePostAuthor":"Alysia","browserName":"Curl","browserVersion":"7.64.1","browserEngineName":"","browserEngineVersion":"","osName":"","osVersion":"","deviceType":"bot","deviceManufacturer":"","deviceModel":"","customerTotalOrders":0,"customerTotalOrderValue":"0.00","customerFirstName":"","customerLastName":"","customerBillingFirstName":"","customerBillingLastName":"","customerBillingCompany":"","customerBillingAddress1":"","customerBillingAddress2":"","customerBillingCity":"","customerBillingPostcode":"","customerBillingCountry":"","customerBillingEmail":"","customerBillingPhone":"","customerShippingFirstName":"","customerShippingLastName":"","customerShippingCompany":"","customerShippingAddress1":"","customerShippingAddress2":"","customerShippingCity":"","customerShippingPostcode":"","customerShippingCountry":"","cartContent":{"totals":{"applied_coupons":[],"discount_total":0,"subtotal":0,"total":0},"items":[]},"ecomm_pagetype":"other","google_tag_params":window.google_tag_params};
+	var dataLayer_content = {"visitorLoginState":"logged-out","visitorType":"visitor-logged-out","visitorEmail":"","visitorUsername":"","visitorIP":"77.190.148.159","pagePostType":"post","pagePostType2":"single-post","pageCategory":["gluten-free","mains","recipes","sides-appetizers","snacks","vegan"],"pageAttributes":["asian","brussel-sprouts","dairy-free","gluten-free","paleo","side-dish","sides","veggies"],"pagePostAuthor":"Alysia","browserName":"Curl","browserVersion":"7.64.1","browserEngineName":"","browserEngineVersion":"","osName":"","osVersion":"","deviceType":"bot","deviceManufacturer":"","deviceModel":"","customerTotalOrders":0,"customerTotalOrderValue":"0.00","customerFirstName":"","customerLastName":"","customerBillingFirstName":"","customerBillingLastName":"","customerBillingCompany":"","customerBillingAddress1":"","customerBillingAddress2":"","customerBillingCity":"","customerBillingPostcode":"","customerBillingCountry":"","customerBillingEmail":"","customerBillingPhone":"","customerShippingFirstName":"","customerShippingLastName":"","customerShippingCompany":"","customerShippingAddress1":"","customerShippingAddress2":"","customerShippingCity":"","customerShippingPostcode":"","customerShippingCountry":"","cartContent":{"totals":{"applied_coupons":[],"discount_total":0,"subtotal":0,"total":0},"items":[]},"ecomm_pagetype":"other","google_tag_params":window.google_tag_params};
 	dataLayer.push( dataLayer_content );//]]>
 </script>
 <script data-cfasync="false">//<![CDATA[
@@ -194,7 +194,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		.penci-grid .list-post.list-boxed-post{ border-color: #fbe5ff !important; }
 		.penci-post-box-meta.penci-post-box-grid:before, .woocommerce .widget_price_filter .ui-slider .ui-slider-range{ background-color: #fbe5ff; }
 		.penci-pagination.penci-ajax-more a.penci-ajax-more-button.loading-posts{ border-color: #fbe5ff !important; }
-
+				
 				a, .post-entry .penci-portfolio-filter ul li a:hover, .penci-portfolio-filter ul li a:hover, .penci-portfolio-filter ul li.active a, .post-entry .penci-portfolio-filter ul li.active a, .penci-countdown .countdown-amount, .archive-box h1, .post-entry a, .container.penci-breadcrumb span a:hover, .post-entry blockquote:before, .post-entry blockquote cite, .post-entry blockquote .author, .wpb_text_column blockquote:before, .wpb_text_column blockquote cite, .wpb_text_column blockquote .author, .penci-pagination a:hover, ul.penci-topbar-menu > li a:hover, div.penci-topbar-menu > ul > li a:hover, .penci-recipe-heading a.penci-recipe-print, .main-nav-social a:hover, .widget-social .remove-circle a:hover i, .penci-recipe-index .cat > a.penci-cat-name, #bbpress-forums li.bbp-body ul.forum li.bbp-forum-info a:hover, #bbpress-forums li.bbp-body ul.topic li.bbp-topic-title a:hover, #bbpress-forums li.bbp-body ul.forum li.bbp-forum-info .bbp-forum-content a, #bbpress-forums li.bbp-body ul.topic p.bbp-topic-meta a, #bbpress-forums .bbp-breadcrumb a:hover, #bbpress-forums .bbp-forum-freshness a:hover, #bbpress-forums .bbp-topic-freshness a:hover, #buddypress ul.item-list li div.item-title a, #buddypress ul.item-list li h4 a, #buddypress .activity-header a:first-child, #buddypress .comment-meta a:first-child, #buddypress .acomment-meta a:first-child, div.bbp-template-notice a:hover{ color: #86e9e9; }
 		.penci-home-popular-post ul.slick-dots li button:hover, .penci-home-popular-post ul.slick-dots li.slick-active button, .post-entry blockquote .author span:after, .error-image:after, .error-404 .go-back-home a:after, .penci-header-signup-form, .woocommerce span.onsale, .woocommerce #respond input#submit:hover, .woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce input.button:hover, .woocommerce nav.woocommerce-pagination ul li span.current, .woocommerce div.product .entry-summary div[itemprop="description"]:before, .woocommerce div.product .entry-summary div[itemprop="description"] blockquote .author span:after, .woocommerce div.product .woocommerce-tabs #tab-description blockquote .author span:after, .woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover, #top-search.shoping-cart-icon > a > span, #penci-demobar .buy-button, #penci-demobar .buy-button:hover, .penci-recipe-heading a.penci-recipe-print:hover, .penci-review-process span, .penci-review-score-total, #navigation.menu-style-2 ul.menu ul:before, #navigation.menu-style-2 .menu ul ul:before, .penci-go-to-top-floating, .post-entry.blockquote-style-2 blockquote:before, #bbpress-forums #bbp-search-form .button, #bbpress-forums #bbp-search-form .button:hover, .wrapper-boxed .bbp-pagination-links span.current, #bbpress-forums #bbp_reply_submit:hover, #bbpress-forums #bbp_topic_submit:hover, #buddypress .dir-search input[type=submit], #buddypress .groups-members-search input[type=submit], #buddypress button:hover, #buddypress a.button:hover, #buddypress a.button:focus, #buddypress input[type=button]:hover, #buddypress input[type=reset]:hover, #buddypress ul.button-nav li a:hover, #buddypress ul.button-nav li.current a, #buddypress div.generic-button a:hover, #buddypress .comment-reply-link:hover, #buddypress input[type=submit]:hover, #buddypress div.pagination .pagination-links .current, #buddypress div.item-list-tabs ul li.selected a, #buddypress div.item-list-tabs ul li.current a, #buddypress div.item-list-tabs ul li a:hover, #buddypress table.notifications thead tr, #buddypress table.notifications-settings thead tr, #buddypress table.profile-settings thead tr, #buddypress table.profile-fields thead tr, #buddypress table.wp-profile-fields thead tr, #buddypress table.messages-notices thead tr, #buddypress table.forum thead tr, #buddypress input[type=submit] { background-color: #86e9e9; }
 		.penci-pagination ul.page-numbers li span.current, #comments_pagination span { color: #fff; background: #86e9e9; border-color: #86e9e9; }
@@ -1416,7 +1416,36 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }		    </style>
     	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
-	<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+	<script>(window.gaDevIds=window.gaDevIds||[]).push('5CDcaG');</script>			<script  type="text/javascript">
+				!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+					n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+					n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+					t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+					document,'script','https://connect.facebook.net/en_US/fbevents.js');
+			</script>
+			<!-- WooCommerce Facebook Integration Begin -->
+			<script  type="text/javascript">
+
+				fbq('init', '1260433617688727', {}, {
+    "agent": "woocommerce-4.4.1-2.0.1"
+});
+
+				fbq( 'track', 'PageView', {
+    "source": "woocommerce",
+    "version": "4.4.1",
+    "pluginVersion": "2.0.1"
+} );
+
+				document.addEventListener( 'DOMContentLoaded', function() {
+					jQuery && jQuery( function( $ ) {
+						// insert placeholder for events injected when a product is added to the cart through AJAX
+						$( document.body ).append( '<div class=\"wc-facebook-pixel-event-placeholder\"></div>' );
+					} );
+				}, false );
+
+			</script>
+			<!-- WooCommerce Facebook Integration End -->
+			<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
 <noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
 
 <body data-rsssl=1 class="post-template-default single single-post postid-3389 single-format-standard theme-soledad woocommerce-no-js ctct-soledad wpb-js-composer js-comp-ver-6.3.0 vc_responsive">
@@ -1433,8 +1462,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div id="sidebar-nav-logo">
 							<a href="https://purelypope.com/"><img class="penci-lazy" src="https://purelypope.com/wp-content/themes/soledad/images/penci-holder.png" data-src="https://purelypope.com/wp-content/uploads/2018/03/marble-logo.png" alt="PurelyPope" /></a>
 					</div>
-
-
+	
+	
 	<ul id="menu-menu-new" class="menu"><li id="menu-item-1279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1279"><a href="https://purelypope.com/sweat/">Sweat</a></li>
 <li id="menu-item-1255" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1255"><a href="https://purelypope.com/recipes/">Recipes</a>
 <ul class="sub-menu">
@@ -1470,7 +1499,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 <header id="header" class="header-header-9 has-bottom-line"><!-- #header -->
-
+	
 			<!-- Navigation -->
 		<nav id="navigation" class="header-layout-bottom menu-style-2 header-6 header-9">
 			<div class="container">
@@ -1505,12 +1534,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3448"><a href="https://purelypope.com/checkout/">Checkout</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3450"><a href="https://purelypope.com/my-account/">My account</a></li>
 </ul>
-
-
-
+				
+				
+				
 									<div id="top-search" class="shoping-cart-icon clear-right"><a class="cart-contents" href="https://purelypope.com/cart/" title="View your shopping cart"><i class="fa fa-shopping-cart"></i><span>0</span></a></div>
-
-
+				
+				
 			</div>
 		</nav><!-- End Navigation -->
 	</header>
@@ -1522,12 +1551,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<span><a class="crumb" href="https://purelypope.com/">Home</a></span><i class="fa fa-angle-right"></i>
 			<span><a class="crumb" href="https://purelypope.com/category/recipes/">Recipes</a></span><i class="fa fa-angle-right"></i><span><a class="crumb" href="https://purelypope.com/category/recipes/gluten-free/">Gluten Free</a></span><i class="fa fa-angle-right"></i>			<span>Sweet Chili Brussel Sprouts</span>
 		</div>
-
+	
 			<div class="container container-single container-single-fullwidth">
-
+					
 	<div class="header-standard header-classic single-header">
 					<div class="penci-standard-cat penci-single-cat"><span class="cat"><a class="penci-cat-name" href="https://purelypope.com/category/recipes/gluten-free/">Gluten Free</a><a class="penci-cat-name" href="https://purelypope.com/category/recipes/mains/">Lunch &amp; Dinner Mains</a><a class="penci-cat-name" href="https://purelypope.com/category/recipes/">Recipes</a><a class="penci-cat-name" href="https://purelypope.com/category/recipes/sides-appetizers/">Sides/Appetizers</a><a class="penci-cat-name" href="https://purelypope.com/category/recipes/snacks/">Snacks</a><a class="penci-cat-name" href="https://purelypope.com/category/recipes/vegan/">Vegan</a></span></div>
-
+		
 		<h1 class="post-title single-post-title">Sweet Chili Brussel Sprouts</h1>
 
 					<div class="post-box-meta-single">
@@ -1542,18 +1571,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="post-image">
 				<a href="https://purelypope.com/wp-content/uploads/2020/05/IMG_5412-1-scaled.jpg" data-rel="penci-gallery-image-content">											<img class="attachment-penci-full-thumb size-penci-full-thumb penci-lazy wp-post-image" src="https://purelypope.com/wp-content/themes/soledad/images/penci2-holder.png" alt="Sweet Chili Brussel Sprouts" data-src="https://purelypope.com/wp-content/uploads/2020/05/IMG_5412-1-1170x1560.jpg">
 										</a>			</div>
-
+			
 
 				</div>
-
+	
 	<div class="container container-single penci_sidebar right-sidebar penci-enable-lightbox">
 		<div id="main" class="penci-main-sticky-sidebar">
 			<div class="theiaStickySidebar">
 														<article id="post-3389" class="post-3389 post type-post status-publish format-standard has-post-thumbnail hentry category-gluten-free category-mains category-recipes category-sides-appetizers category-snacks category-vegan tag-asian tag-brussel-sprouts tag-dairy-free tag-gluten-free tag-paleo tag-side-dish tag-sides tag-veggies">
 
-
-
-
+	
+				
+	
 	<div class="post-entry blockquote-style-1">
 		<div class="inner-post-entry">
 			<input class="jpibfi" type="hidden"><p>You know that I love veggies as much as the next gal, but sometimes the bland olive oil, salt and pepper just doesn&#8217;t do it for me! Hence, I&#8217;ve been playing around with different flavors and seasonings to spruce them up. These sweet chili brussel sprouts were a product of that sprucing up experiment that turned out so well! Read on! </p>
@@ -1562,29 +1591,25 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <ul>
 <li><span style="color: #cc99ff;"><span style="font-weight: 600;">Sweet:</span> </span><span style="color: #000000;">The sweetness in this special sauce comes from a combination of <a href="https://www.amazon.com/gp/product/B003XB5LMU/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;tag=purelypope-20&amp;creative=9325&amp;linkCode=as2&amp;creativeASIN=B003XB5LMU&amp;linkId=796751696d254d0554029c917e1f82bd" target="_blank" rel="noopener noreferrer">Coconut Aminos</a> and Maple Syrup. Coconut aminos are made from the fermented sap of coconut palm and sea salt. The aminos are soy, gluten and wheat free, which makes it a great option. It&#8217;s also much lower sodium than a traditional soy sauce. Maple syrup on the other hand is great to use in place of sugar, seeing as it has about half of the glycemic index of sugar.</span></li>
 <li><span style="color: #cc99ff;"><strong>Spicy:</strong> </span><span style="color: #cc99ff;"><span style="color: #000000;">The spice comes from none other than my favorite hot sauce, sriracha! Eating spicy foods has been known to help increase blood flow, so it&#8217;s a win for your taste buds and your bod!</span></span></li>
-<li><strong><span style="color: #cc99ff;">Salty: </span></strong><span style="color: #000000;">This recipe uses everything but the bagel seeds, which are super salty and delicious. I always get the one from Trader Joe&#8217;s, but you could also <a href="https://www.amazon.com/gp/product/B07Q2CPMLX/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;tag=purelypope-20&amp;creative=9325&amp;linkCode=as2&amp;creativeASIN=B07Q2CPMLX&amp;linkId=ab475f582809738e2dc1d6be5a6e4718" target="_blank" rel="noopener noreferrer">buy in bulk as well</a> and make my <a href="https://purelypope.com/purelypope-f-factor-bagel-recipe/" target="_blank" rel="noopener noreferrer">bagels</a> or <a href="https://purelypope.com/low-carb-bagel-bread/" target="_blank" rel="noopener noreferrer">bagel bread</a>, too!</span></li>
+<li><strong><span style="color: #cc99ff;">Salty: </span></strong><span style="color: #000000;">This recipe uses everything but the bagel seeds, which are super salty and delicious. I always get the one from Trader Joe&#8217;s, but you could also <a href="https://www.amazon.com/gp/product/B07Q2CPMLX/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;tag=purelypope-20&amp;creative=9325&amp;linkCode=as2&amp;creativeASIN=B07Q2CPMLX&amp;linkId=ab475f582809738e2dc1d6be5a6e4718" target="_blank" rel="noopener noreferrer">buy in bulk as well</a> and make my <a href="https://purelypope.com/purelypope-bagel/" target="_blank" rel="noopener noreferrer">bagels</a> or <a href="https://purelypope.com/bagel-bread/" target="_blank" rel="noopener noreferrer">bagel bread</a>, too!</span></li>
 <li><strong><span style="color: #cc99ff;">Savory:</span></strong> Finally, the savory flavor comes from the <a href="https://amzn.to/3bKyvTT" target="_blank" rel="noopener noreferrer">sesame oil</a> which is packed with antioxidants and great for anti-inflammatory purposes as well. </li>
 </ul>
 <p>If you&#8217;re a big fan of asian cuisine, try out my <a href="https://purelypope.com/low-carb-pad-thai/" target="_blank" rel="noopener noreferrer">low carb pad thai recipe</a> &#8211; it&#8217;s a crowd favorite and something I make minimum once a week!</p>
-<h2><span style="color: #ff99cc;">Sweet Chili Brussel Sprouts Specifics</span></h2>
-<div>
-<p>This amazing side dish (based off of 4 servings) rings in at 48 calories per serving. It also has 2g protein, 8g carbs, 2g fiber and 1g healthy fats! </p>
-</div>
 <div>Lots of Love! x</div>
 <div>xx</div>
 <div>Alysia (Purely) Pope</div>
 <div> </div>
 <div><img loading="lazy" class="aligncenter size-full wp-image-3393" src="https://purelypope.com/wp-content/uploads/2020/05/superfood-chia-seed-pudding-34.png" alt="PurelyPope Sweet Chili Brussel Sprouts Recipe" width="735" height="1102" srcset="https://purelypope.com/wp-content/uploads/2020/05/superfood-chia-seed-pudding-34.png 735w, https://purelypope.com/wp-content/uploads/2020/05/superfood-chia-seed-pudding-34-600x900.png 600w, https://purelypope.com/wp-content/uploads/2020/05/superfood-chia-seed-pudding-34-200x300.png 200w, https://purelypope.com/wp-content/uploads/2020/05/superfood-chia-seed-pudding-34-683x1024.png 683w, https://purelypope.com/wp-content/uploads/2020/05/superfood-chia-seed-pudding-34-585x877.png 585w" sizes="(max-width: 735px) 100vw, 735px" data-jpibfi-post-excerpt="" data-jpibfi-post-url="https://purelypope.com/sweet-chili-brussel-sprouts/" data-jpibfi-post-title="Sweet Chili Brussel Sprouts" data-jpibfi-src="https://purelypope.com/wp-content/uploads/2020/05/superfood-chia-seed-pudding-34.png" ></div>
-<h3>
+<h3>	
 	<div class="wrapper-penci-recipe">
-		<div class="penci-recipe" id="printrepcipe4994" itemscope itemtype="http://schema.org/Recipe">
+		<div class="penci-recipe" id="printrepcipe5357" itemscope itemtype="http://schema.org/Recipe">
 			<div class="penci-recipe-heading">
 									<h2 itemprop="name">Sweet Chili Brussel Sprouts</h2>
-
+				
 								<img style="display: none !important;" itemprop="image" src="https://purelypope.com/wp-content/uploads/2020/05/IMG_5412-1-150x150.jpg" width="50" height="50"/>
-
+				
 									<a href="#" class="penci-recipe-print" data-print="https://purelypope.com/wp-content/plugins/penci-recipe/inc/print.css"><i class="fa fa-print"></i> Print This</a>
-
+				
 									<div class="penci-recipe-meta">
 						<span>
 							<i class="fa fa-user"></i> Serves: <span class="servings" itemprop="recipeYield">4</span>
@@ -1601,16 +1626,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<div class="penci-recipe-ingredients">
 					<h3 class="penci-recipe-title">Ingredients</h3>
 										<ul>
-																					<li><span itemprop="recipeIngredient">					2 cups brussel sprouts, stems removed & cut in half</span></li>
+																					<li><span itemprop="recipeIngredient">										2 cups brussel sprouts, stems removed & cut in half</span></li>
 																												<li><span itemprop="recipeIngredient">2 tbsp coconut aminos</span></li>
 																												<li><span itemprop="recipeIngredient">1 tbsp sriracha</span></li>
 																												<li><span itemprop="recipeIngredient">1/2 tbsp maple syrup</span></li>
 																												<li><span itemprop="recipeIngredient">1 tsp sesame oil</span></li>
 																												<li><span itemprop="recipeIngredient">Everything bagel seasoning or sesame seeds, to top</span></li>
-																												<li><span itemprop="recipeIngredient">																																			</span></li>
+																												<li><span itemprop="recipeIngredient">																																								</span></li>
 																		</ul>
 									</div>
-
+			
 							<div class="penci-recipe-method" itemprop="recipeInstructions">
 					<h3 class="penci-recipe-title">Instructions</h3>
 					<input class="jpibfi" type="hidden"><h3><span style="color: #ff99cc;">Brussel Sprout Time!</span></h3>
@@ -1622,7 +1647,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <li>Turn oven to broil for 2-3 minutes to crisp (watch carefully to not burn.)</li>
 <li>Top with everything or sesame seeds.</li>
 </ol>				</div>
-
+			
 							<div class="penci-recipe-notes">
 					<h3 class="penci-recipe-title">Notes</h3>
 					<p>Store in the refrigerator or slice and freeze. </p>
@@ -1633,20 +1658,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 <p></p>
-
+			
 			<div class="penci-single-link-pages">
 						</div>
-
+			
 												<div class="post-tags">
 						<a href="https://purelypope.com/tag/asian/" rel="tag">asian</a><a href="https://purelypope.com/tag/brussel-sprouts/" rel="tag">brussel sprouts</a><a href="https://purelypope.com/tag/dairy-free/" rel="tag">dairy free</a><a href="https://purelypope.com/tag/gluten-free/" rel="tag">gluten free</a><a href="https://purelypope.com/tag/paleo/" rel="tag">paleo</a><a href="https://purelypope.com/tag/side-dish/" rel="tag">side dish</a><a href="https://purelypope.com/tag/sides/" rel="tag">sides</a><a href="https://purelypope.com/tag/veggies/" rel="tag">Veggies</a>					</div>
 									</div>
 	</div>
 
-
+	
 			<div class="tags-share-box center-box">
 
 							<span class="single-comment-o"><i class="fa fa-comment-o"></i>0 comment</span>
-
+			
 							<div class="post-share">
 					<span class="count-number-like">1</span><a class="penci-post-like single-like-button" data-post_id="3389" title="Like" data-like="Like" data-unlike="Unlike"><i class="fa fa-heart-o"></i></a>					<div class="list-posts-share">
 												<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://purelypope.com/sweet-chili-brussel-sprouts/"><i class="fa fa-facebook"></i><span class="dt-share">Facebook</span></a>
@@ -1656,7 +1681,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 				</div>
 					</div>
-
+	
 			<div class="post-author">
 	<div class="author-img">
 		<img alt='' src='https://secure.gravatar.com/avatar/f4deab2000d047f9b372ea184aa17f5b?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/f4deab2000d047f9b372ea184aa17f5b?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' loading='lazy'/>	</div>
@@ -1664,7 +1689,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<h5><a href="https://purelypope.com/author/admin/" title="Posts by Alysia" rel="author">Alysia</a></h5>
 		<p></p>
 															</div>
-</div>
+</div>	
 			<div class="post-pagination">
 				<div class="prev-post">
 						<div class="prev-post-inner">
@@ -1678,7 +1703,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				</a>
 			</div>
 		</div>
-
+	
 			<div class="next-post">
 						<div class="next-post-inner">
 				<div class="prev-post-title next-post-title">
@@ -1691,27 +1716,33 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				</a>
 			</div>
 		</div>
-	</div>
+	</div>	
 					<div class="post-related">
 		<div class="post-title-box"><h4 class="post-box-title">You may also like</h4></div>
 		<div class="penci-owl-carousel penci-owl-carousel-slider penci-related-carousel" data-lazy="true" data-item="3" data-desktop="3" data-tablet="2" data-tabsmall="2" data-auto="false" data-speed="300" data-dots="true">
 						<div class="item-related">
-																		<a class="related-thumb penci-image-holder owl-lazy" data-src="https://purelypope.com/wp-content/uploads/2018/08/Lilys-Chocolate-Bark-Final-00029-585x390.jpg" href="https://purelypope.com/vegan-dark-chocolate-bark/" title="Vegan Dark Chocolate Bark">
+																		<a class="related-thumb penci-image-holder owl-lazy" data-src="https://purelypope.com/wp-content/uploads/2020/11/IMG_1742-585x390.jpg" href="https://purelypope.com/lightened-up-sesame-cauliflower/" title="Lightened Up Sesame Cauliflower (or Chicken)">
 																			</a>
-										<h3><a href="https://purelypope.com/vegan-dark-chocolate-bark/">Vegan Dark Chocolate Bark</a></h3>
-										<span class="date">August 15, 2018</span>
+										<h3><a href="https://purelypope.com/lightened-up-sesame-cauliflower/">Lightened Up Sesame Cauliflower (or Chicken)</a></h3>
+										<span class="date">November 12, 2020</span>
 									</div>
 						<div class="item-related">
-																		<a class="related-thumb penci-image-holder owl-lazy" data-src="https://purelypope.com/wp-content/uploads/2020/03/Screen-Shot-2020-03-08-at-9.42.34-PM-585x390.png" href="https://purelypope.com/black-bean-vegan-enchiladas/" title="Black Bean Vegan Enchiladas">
+																		<a class="related-thumb penci-image-holder owl-lazy" data-src="https://purelypope.com/wp-content/uploads/2020/05/IMG_6128-585x390.jpg" href="https://purelypope.com/flourless-chocolate-protein-waffles/" title="Flourless Chocolate Protein Waffles">
 																			</a>
-										<h3><a href="https://purelypope.com/black-bean-vegan-enchiladas/">Black Bean Vegan Enchiladas</a></h3>
-										<span class="date">March 9, 2020</span>
+										<h3><a href="https://purelypope.com/flourless-chocolate-protein-waffles/">Flourless Chocolate Protein Waffles</a></h3>
+										<span class="date">May 29, 2020</span>
 									</div>
 						<div class="item-related">
-																		<a class="related-thumb penci-image-holder owl-lazy" data-src="https://purelypope.com/wp-content/uploads/2020/08/Screen-Shot-2020-08-19-at-1.50.39-PM-585x390.png" href="https://purelypope.com/bareorganics-adaptogenic-cookies/" title="BareOrganics Adaptogenic Cookies">
+																		<a class="related-thumb penci-image-holder owl-lazy" data-src="https://purelypope.com/wp-content/uploads/2019/04/IMG_2667-585x390.jpg" href="https://purelypope.com/no-bake-carrot-cake-balls/" title="Carrot Cake Bliss Balls">
 																			</a>
-										<h3><a href="https://purelypope.com/bareorganics-adaptogenic-cookies/">BareOrganics Adaptogenic Cookies</a></h3>
-										<span class="date">August 19, 2020</span>
+										<h3><a href="https://purelypope.com/no-bake-carrot-cake-balls/">Carrot Cake Bliss Balls</a></h3>
+										<span class="date">April 10, 2019</span>
+									</div>
+						<div class="item-related">
+																		<a class="related-thumb penci-image-holder owl-lazy" data-src="https://purelypope.com/wp-content/uploads/2020/02/IMG_8240-585x390.jpg" href="https://purelypope.com/healthy-tomato-soup/" title="Healthy Tomato Soup">
+																			</a>
+										<h3><a href="https://purelypope.com/healthy-tomato-soup/">Healthy Tomato Soup</a></h3>
+										<span class="date">February 25, 2020</span>
 									</div>
 						<div class="item-related">
 																		<a class="related-thumb penci-image-holder owl-lazy" data-src="https://purelypope.com/wp-content/uploads/2018/11/IMG_5535-scaled.jpg" href="https://purelypope.com/avocado-pesto-zoodles/" title="Drool Worthy Avocado Pesto Zoodles">
@@ -1720,22 +1751,28 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 										<span class="date">November 27, 2018</span>
 									</div>
 						<div class="item-related">
-																		<a class="related-thumb penci-image-holder owl-lazy" data-src="https://purelypope.com/wp-content/uploads/2019/11/IMG_1341-585x390.jpg" href="https://purelypope.com/grain-free-pumpkin-granola/" title="Grain Free Pumpkin Granola">
+																		<a class="related-thumb penci-image-holder owl-lazy" data-src="https://purelypope.com/wp-content/uploads/2020/08/IMG_7928-585x390.jpg" href="https://purelypope.com/plant-based-hummus-quesadillas/" title="Plant Based Hummus Quesadillas">
 																			</a>
-										<h3><a href="https://purelypope.com/grain-free-pumpkin-granola/">Grain Free Pumpkin Granola</a></h3>
-										<span class="date">November 19, 2019</span>
+										<h3><a href="https://purelypope.com/plant-based-hummus-quesadillas/">Plant Based Hummus Quesadillas</a></h3>
+										<span class="date">August 21, 2020</span>
 									</div>
 						<div class="item-related">
-																		<a class="related-thumb penci-image-holder owl-lazy" data-src="https://purelypope.com/wp-content/uploads/2020/05/IMG_4235-2-585x390.jpg" href="https://purelypope.com/veggie-tots/" title="Veggie Tots">
+																		<a class="related-thumb penci-image-holder owl-lazy" data-src="https://purelypope.com/wp-content/uploads/2020/09/IMG_9303-585x390.jpg" href="https://purelypope.com/mouthwatering-miso-eggplant/" title="Mouthwatering Miso Eggplant">
 																			</a>
-										<h3><a href="https://purelypope.com/veggie-tots/">Veggie Tots</a></h3>
-										<span class="date">May 3, 2020</span>
+										<h3><a href="https://purelypope.com/mouthwatering-miso-eggplant/">Mouthwatering Miso Eggplant</a></h3>
+										<span class="date">September 16, 2020</span>
 									</div>
 						<div class="item-related">
-																		<a class="related-thumb penci-image-holder owl-lazy" data-src="https://purelypope.com/wp-content/uploads/2019/08/IMG_1354-585x390.jpg" href="https://purelypope.com/chinese-chicken-salad-lightened-up/" title="Lightened Up Chinese Chicken Salad">
+																		<a class="related-thumb penci-image-holder owl-lazy" data-src="https://purelypope.com/wp-content/uploads/2020/08/IMG_3266-scaled.jpg" href="https://purelypope.com/moms-bok-choy/" title="Mom&#8217;s Bok Choy">
 																			</a>
-										<h3><a href="https://purelypope.com/chinese-chicken-salad-lightened-up/">Lightened Up Chinese Chicken Salad</a></h3>
-										<span class="date">August 20, 2019</span>
+										<h3><a href="https://purelypope.com/moms-bok-choy/">Mom&#8217;s Bok Choy</a></h3>
+										<span class="date">August 2, 2020</span>
+									</div>
+						<div class="item-related">
+																		<a class="related-thumb penci-image-holder owl-lazy" data-src="https://purelypope.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-21-at-10.43.35-AM-585x390.png" href="https://purelypope.com/best-ever-butternut-squash/" title="Best Ever Butternut Squash">
+																			</a>
+										<h3><a href="https://purelypope.com/best-ever-butternut-squash/">Best Ever Butternut Squash</a></h3>
+										<span class="date">October 21, 2020</span>
 									</div>
 						<div class="item-related">
 																		<a class="related-thumb penci-image-holder owl-lazy" data-src="https://purelypope.com/wp-content/uploads/2020/05/IMG_4270-585x390.jpg" href="https://purelypope.com/simple-chimichurri-sauce/" title="Simple Chimichurri Sauce!">
@@ -1743,25 +1780,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 										<h3><a href="https://purelypope.com/simple-chimichurri-sauce/">Simple Chimichurri Sauce!</a></h3>
 										<span class="date">May 7, 2020</span>
 									</div>
-						<div class="item-related">
-																		<a class="related-thumb penci-image-holder owl-lazy" data-src="https://purelypope.com/wp-content/uploads/2020/02/IMG_5193-2-585x390.jpg" href="https://purelypope.com/low-carb-microwave-english-muffin/" title="PurelyPope Microwave English Muffin">
-																			</a>
-										<h3><a href="https://purelypope.com/low-carb-microwave-english-muffin/">PurelyPope Microwave English Muffin</a></h3>
-										<span class="date">February 3, 2020</span>
-									</div>
-						<div class="item-related">
-																		<a class="related-thumb penci-image-holder owl-lazy" data-src="https://purelypope.com/wp-content/uploads/2019/09/IMG_4409-e1569336006118-585x390.jpg" href="https://purelypope.com/pumpkin-chocolate-chip-cookies/" title="Healthy Pumpkin Chocolate Chip Cookies">
-																			</a>
-										<h3><a href="https://purelypope.com/pumpkin-chocolate-chip-cookies/">Healthy Pumpkin Chocolate Chip Cookies</a></h3>
-										<span class="date">September 24, 2019</span>
-									</div>
-		</div></div>
+		</div></div>	
 			<div class="post-comments no-comment-yet" id="comments">
 	</div> <!-- end comments div -->
-
+	
 </article>							</div>
 		</div>
-
+					
 <div id="sidebar" class="penci-sidebar-content style-1 pcalign-center penci-sticky-sidebar">
 	<div class="theiaStickySidebar">
 		<aside id="search-2" class="widget widget_search"><form role="search" method="get" id="searchform" action="https://purelypope.com/">
@@ -1771,38 +1796,38 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </form></aside><aside id="penci_social_widget-1" class="widget penci_social_widget"><h4 class="widget-title penci-border-arrow"><span class="inner-arrow">Keep in touch</span></h4>
 			<div class="widget-social pc_aligncenter remove-circle">
 									<a href="https://www.facebook.com/purelypope" target="_blank"><i class="fa fa-facebook" style="font-size: 20px"></i><span style="font-size: 13px">Facebook</span></a>
-
+				
 									<a href="https://www.twitter.com/purelypope" target="_blank"><i class="fa fa-twitter" style="font-size: 20px"></i><span style="font-size: 13px">Twitter</span></a>
-
-
+				
+				
 									<a href="https://www.instagram.com/purelypope/" target="_blank"><i class="fa fa-instagram" style="font-size: 20px"></i><span style="font-size: 13px">Instagram</span></a>
-
+				
 									<a href="https://www.pinterest.com/purelypope/" target="_blank"><i class="fa fa-pinterest" style="font-size: 20px"></i><span style="font-size: 13px">Pinterest</span></a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
 							</div>
 
 			</aside><aside id="categories-2" class="widget widget_categories"><h4 class="widget-title penci-border-arrow"><span class="inner-arrow">Categories</span></h4><form action="https://purelypope.com" method="get"><label class="screen-reader-text" for="cat">Categories</label><select  name='cat' id='cat' class='postform' >
@@ -1841,52 +1866,52 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 			</aside><aside id="penci_latest_news_widget-1" class="widget penci_latest_news_widget"><h4 class="widget-title penci-border-arrow"><span class="inner-arrow">Recent Posts</span></h4>				<ul class="side-newsfeed">
 
-
+					
 						<li class="penci-feed">
 							<div class="side-item">
 
 																	<div class="side-image">
-																															<a class="penci-image-holder penci-lazy small-fix-size" rel="bookmark" data-src="https://purelypope.com/wp-content/uploads/2020/09/IMG_8567-263x175.jpg" href="https://purelypope.com/easy-af-healthy-pumpkin-butter/" title="Easy AF Healthy Pumpkin Butter"></a>
-
+																															<a class="penci-image-holder penci-lazy small-fix-size" rel="bookmark" data-src="https://purelypope.com/wp-content/uploads/2020/12/Screen-Shot-2020-12-21-at-5.56.08-PM-263x175.png" href="https://purelypope.com/book-recommendations-for-the-millennial-gal-pt-2/" title="Book Recommendations for the Millennial Gal Pt. 2"></a>
+										
 																			</div>
 																<div class="side-item-text">
-									<h4 class="side-title-post"><a href="https://purelypope.com/easy-af-healthy-pumpkin-butter/" rel="bookmark" title="Easy AF Healthy Pumpkin Butter">Easy AF Healthy Pumpkin Butter</a></h4>
-																			<span class="side-item-meta">September 1, 2020</span>
+									<h4 class="side-title-post"><a href="https://purelypope.com/book-recommendations-for-the-millennial-gal-pt-2/" rel="bookmark" title="Book Recommendations for the Millennial Gal Pt. 2">Book Recommendations for the Millennial Gal Pt. 2</a></h4>
+																			<span class="side-item-meta">December 22, 2020</span>
 																	</div>
 							</div>
 						</li>
 
-
+						
 						<li class="penci-feed">
 							<div class="side-item">
 
 																	<div class="side-image">
-																															<a class="penci-image-holder penci-lazy small-fix-size" rel="bookmark" data-src="https://purelypope.com/wp-content/uploads/2020/08/IMG_7299-scaled.jpg" href="https://purelypope.com/purelypope-picks-august-faves/" title="PurelyPope Picks: August Faves"></a>
-
+																															<a class="penci-image-holder penci-lazy small-fix-size" rel="bookmark" data-src="https://purelypope.com/wp-content/uploads/2020/12/IMG_7320-263x175.jpg" href="https://purelypope.com/holiday-pomegranate-salad/" title="Holiday Pomegranate Salad"></a>
+										
 																			</div>
 																<div class="side-item-text">
-									<h4 class="side-title-post"><a href="https://purelypope.com/purelypope-picks-august-faves/" rel="bookmark" title="PurelyPope Picks: August Faves">PurelyPope Picks: August Faves</a></h4>
-																			<span class="side-item-meta">August 31, 2020</span>
+									<h4 class="side-title-post"><a href="https://purelypope.com/holiday-pomegranate-salad/" rel="bookmark" title="Holiday Pomegranate Salad">Holiday Pomegranate Salad</a></h4>
+																			<span class="side-item-meta">December 15, 2020</span>
 																	</div>
 							</div>
 						</li>
 
-
+						
 						<li class="penci-feed">
 							<div class="side-item">
 
 																	<div class="side-image">
-																															<a class="penci-image-holder penci-lazy small-fix-size" rel="bookmark" data-src="https://purelypope.com/wp-content/uploads/2020/08/Screen-Shot-2020-08-31-at-2.06.11-PM-263x175.png" href="https://purelypope.com/cauliflower-sweet-potato-salad/" title="Cauliflower Sweet Potato Salad"></a>
-
+																															<a class="penci-image-holder penci-lazy small-fix-size" rel="bookmark" data-src="https://purelypope.com/wp-content/uploads/2020/12/Screen-Shot-2020-12-14-at-2.04.44-PM-263x175.png" href="https://purelypope.com/simple-healthy-hot-cocoa/" title="Simple &#038; Healthy Hot Cocoa"></a>
+										
 																			</div>
 																<div class="side-item-text">
-									<h4 class="side-title-post"><a href="https://purelypope.com/cauliflower-sweet-potato-salad/" rel="bookmark" title="Cauliflower Sweet Potato Salad">Cauliflower Sweet Potato Salad</a></h4>
-																			<span class="side-item-meta">August 31, 2020</span>
+									<h4 class="side-title-post"><a href="https://purelypope.com/simple-healthy-hot-cocoa/" rel="bookmark" title="Simple &#038; Healthy Hot Cocoa">Simple &#038; Healthy Hot Cocoa</a></h4>
+																			<span class="side-item-meta">December 14, 2020</span>
 																	</div>
 							</div>
 						</li>
 
-
+						
 				</ul>
 
 				</aside><aside id="mc4wp_form_widget-1" class="widget widget_mc4wp_form_widget"><h4 class="widget-title penci-border-arrow"><span class="inner-arrow">Subscribe Newsletter</span></h4><script>(function() {
@@ -1907,8 +1932,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </script><!-- Mailchimp for WordPress v4.8 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-1112" method="post" data-id="1112" data-name="Default sign-up form" ><div class="mc4wp-form-fields"><p class="mdes">Subscribe my Newsletter for new blog posts, tips & new photos. Let's stay updated!</p>
 				<p class="mname"><input type="text" name="NAME" placeholder="Name..." /></p>
 				<p class="memail"><input type="email" id="mc4wp_email" name="EMAIL" placeholder="Email..." required /></p>
-				<p class="msubmit"><input type="submit" value="Subscribe" /></p></div><label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1599227091" /><input type="hidden" name="_mc4wp_form_id" value="1112" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /><div class="mc4wp-response"></div></form><!-- / Mailchimp for WordPress Plugin --></aside>	</div>
-</div>
+				<p class="msubmit"><input type="submit" value="Subscribe" /></p></div><label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1608675260" /><input type="hidden" name="_mc4wp_form_id" value="1112" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /><div class="mc4wp-response"></div></form><!-- / Mailchimp for WordPress Plugin --></aside>	</div>
+</div>		
 <!-- END CONTAINER -->
 </div>
 <div class="clear-footer"></div>
@@ -1925,7 +1950,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="footer-widget-wrapper footer-widget-style-1">
 						<aside id="penci_popular_news_widget-1" class="widget penci_popular_news_widget"><h4 class="widget-title penci-border-arrow"><span class="inner-arrow">Popular Posts</span></h4>				<ul class="side-newsfeed display-order-numbers">
 
-
+					
 						<li class="penci-feed">
 															<span class="order-border-number">
 								<span class="number-post">1</span>
@@ -1933,7 +1958,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 														<div class="side-item">
 																	<div class="side-image">
 																															<a class="penci-image-holder penci-lazy small-fix-size" rel="bookmark" data-src="https://purelypope.com/wp-content/uploads/2018/09/PurelyPope-F-Factor-Bagel-Recipe-04-e1595875296853-263x175.jpg" href="https://purelypope.com/purelypope-bagel/" title="PurelyPope Bagel Recipe"></a>
-
+										
 																			</div>
 																<div class="side-item-text">
 									<h4 class="side-title-post"><a href="https://purelypope.com/purelypope-bagel/" rel="bookmark" title="PurelyPope Bagel Recipe">PurelyPope Bagel Recipe</a></h4>
@@ -1942,7 +1967,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							</div>
 						</li>
 
-
+						
 						<li class="penci-feed">
 															<span class="order-border-number">
 								<span class="number-post">2</span>
@@ -1950,7 +1975,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 														<div class="side-item">
 																	<div class="side-image">
 																															<a class="penci-image-holder penci-lazy small-fix-size" rel="bookmark" data-src="https://purelypope.com/wp-content/uploads/2019/10/PurelyPope-Nike-Yoga-Final-3-263x175.jpg" href="https://purelypope.com/melissa-wood-health-workout-review/" title="Melissa Wood Health Workout Review"></a>
-
+										
 																			</div>
 																<div class="side-item-text">
 									<h4 class="side-title-post"><a href="https://purelypope.com/melissa-wood-health-workout-review/" rel="bookmark" title="Melissa Wood Health Workout Review">Melissa Wood Health Workout Review</a></h4>
@@ -1959,7 +1984,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							</div>
 						</li>
 
-
+						
 						<li class="penci-feed">
 															<span class="order-border-number">
 								<span class="number-post">3</span>
@@ -1967,7 +1992,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 														<div class="side-item">
 																	<div class="side-image">
 																															<a class="penci-image-holder penci-lazy small-fix-size" rel="bookmark" data-src="https://purelypope.com/wp-content/uploads/2020/05/IMG_5438-263x175.jpg" href="https://purelypope.com/bagel-bread/" title="PurelyPope Bagel Bread"></a>
-
+										
 																			</div>
 																<div class="side-item-text">
 									<h4 class="side-title-post"><a href="https://purelypope.com/bagel-bread/" rel="bookmark" title="PurelyPope Bagel Bread">PurelyPope Bagel Bread</a></h4>
@@ -1976,12 +2001,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							</div>
 						</li>
 
-
+						
 				</ul>
 
 				</aside>					</div>
 					<div class="footer-widget-wrapper footer-widget-style-1 last">
-						<aside id="penci_pinterest_widget-1" class="widget penci_pinterest_widget"><h4 class="widget-title penci-border-arrow"><span class="inner-arrow">On Pinterest</span></h4><div class="penci-pinterest-widget-container"><div class="penci-images-pin-widget"><a href="https://www.pinterest.com/pin/697565429776571100/" title="29 Best Bridesmaid Gift Ideas Under $65" target="_blank" alt="29 Best Bridesmaid Gift Ideas Under $65"><span class="penci-image-holder rectangle-fix-size penci-lazy" data-src="//i.pinimg.com/236x/f1/93/48/f19348fa701c5cf4f9733614f814a785.jpg"></span></a><a href="https://www.pinterest.com/pin/697565429776571072/" title="" target="_blank" alt=""><span class="penci-image-holder rectangle-fix-size penci-lazy" data-src="//i.pinimg.com/236x/4a/5c/d4/4a5cd4e04300aead120776adf7975d25--wedding-day-gifts-wedding-wear.jpg"></span></a><a href="https://www.pinterest.com/pin/697565429776571018/" title="" target="_blank" alt=""><span class="penci-image-holder rectangle-fix-size penci-lazy" data-src="//i.pinimg.com/236x/e7/6f/33/e76f3377cf314b5e4434bc6db0a32ae6.jpg"></span></a><a href="https://www.pinterest.com/pin/697565429776570976/" title="" target="_blank" alt=""><span class="penci-image-holder rectangle-fix-size penci-lazy" data-src="//i.pinimg.com/236x/47/84/ae/4784ae9a17e65e7537a1604d90235a31.jpg"></span></a><a href="https://www.pinterest.com/pin/697565429776570923/" title="" target="_blank" alt=""><span class="penci-image-holder rectangle-fix-size penci-lazy" data-src="//i.pinimg.com/236x/2a/f1/65/2af165b65a7352c8bfb7052c043ffc94--ruffled-tablecloth-table-skirts.jpg"></span></a><a href="https://www.pinterest.com/pin/697565429776570916/" title="" target="_blank" alt=""><span class="penci-image-holder rectangle-fix-size penci-lazy" data-src="//i.pinimg.com/236x/89/fb/ac/89fbaceff6561d0225f3555a0a679184.jpg"></span></a>			</div>
+						<aside id="penci_pinterest_widget-1" class="widget penci_pinterest_widget"><h4 class="widget-title penci-border-arrow"><span class="inner-arrow">On Pinterest</span></h4><div class="penci-pinterest-widget-container"><div class="penci-images-pin-widget"><a href="https://www.pinterest.com/pin/697565429780345082/" title="" target="_blank" alt=""><span class="penci-image-holder rectangle-fix-size penci-lazy" data-src="//i.pinimg.com/236x/70/fc/a8/70fca804a8b6ee8d424f5e2e659b92c8.jpg"></span></a><a href="https://www.pinterest.com/pin/697565429780294346/" title="" target="_blank" alt=""><span class="penci-image-holder rectangle-fix-size penci-lazy" data-src="//i.pinimg.com/236x/8b/d6/14/8bd614a694f90b764f0ac1941e1ac51f.jpg"></span></a><a href="https://www.pinterest.com/pin/697565429780294327/" title="" target="_blank" alt=""><span class="penci-image-holder rectangle-fix-size penci-lazy" data-src="//i.pinimg.com/236x/55/bc/1a/55bc1a02e970be1ab8a64e432916ea28.jpg"></span></a><a href="https://www.pinterest.com/pin/697565429780294321/" title="" target="_blank" alt=""><span class="penci-image-holder rectangle-fix-size penci-lazy" data-src="//i.pinimg.com/236x/e2/da/2e/e2da2e7f9115becb7fff57685b319e6f.jpg"></span></a><a href="https://www.pinterest.com/pin/697565429780294317/" title="" target="_blank" alt=""><span class="penci-image-holder rectangle-fix-size penci-lazy" data-src="//i.pinimg.com/236x/36/b1/b1/36b1b14eb14f38c307716abe16c10b45.jpg"></span></a><a href="https://www.pinterest.com/pin/697565429780294313/" title="" target="_blank" alt=""><span class="penci-image-holder rectangle-fix-size penci-lazy" data-src="//i.pinimg.com/236x/6b/11/e9/6b11e9cc39a5d01d59a42e1bb09e0f03.jpg"></span></a>			</div>
 					</div></aside>					</div>
 							</div>
 		</div>
@@ -1989,159 +2014,244 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<div class="footer-instagram">
 		<aside id="custom_html-2" class="widget_text widget widget_custom_html"><h4 class="footer-instagram-title"><span><span class="title">Me on Insta</span></span></h4><div class="textwidget custom-html-widget">
 <div id="sb_instagram" class="sbi sbi_col_8  sbi_width_resp" style="padding-bottom: 10px;width: 100%;" data-feedid="sbi_purelypope#8" data-res="auto" data-cols="8" data-num="8" data-shortcode-atts="{&quot;user&quot;:&quot;purelypope&quot;}" >
-
+	
     <div id="sbi_images" style="padding: 5px;">
-		<div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_17865067385045995" data-date="1599152207">
+		<div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_17843055023509142" data-date="1608592617">
     <div class="sbi_photo_wrap">
-        <a class="sbi_photo" href="https://www.instagram.com/p/CErpBAOJHTL/" target="_blank" rel="noopener nofollow noreferrer" data-full-res="https://scontent-ort2-1.cdninstagram.com/v/t51.29350-15/118707391_722000768348733_7586690661787220283_n.jpg?_nc_cat=108&#038;_nc_sid=8ae9d6&#038;_nc_ohc=nXNWvLg_oKAAX92ZJLz&#038;_nc_ht=scontent-ort2-1.cdninstagram.com&#038;oh=6de192217e296e7e3f3ca83b9c545a6d&#038;oe=5F78E833" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-ort2-1.cdninstagram.com\/v\/t51.29350-15\/118707391_722000768348733_7586690661787220283_n.jpg?_nc_cat=108&amp;_nc_sid=8ae9d6&amp;_nc_ohc=nXNWvLg_oKAAX92ZJLz&amp;_nc_ht=scontent-ort2-1.cdninstagram.com&amp;oh=6de192217e296e7e3f3ca83b9c545a6d&amp;oe=5F78E833&quot;,&quot;150&quot;:&quot;https:\/\/www.instagram.com\/p\/CErpBAOJHTL\/media\/?size=t&quot;,&quot;320&quot;:&quot;https:\/\/www.instagram.com\/p\/CErpBAOJHTL\/media\/?size=m&quot;,&quot;640&quot;:&quot;https:\/\/scontent-ort2-1.cdninstagram.com\/v\/t51.29350-15\/118707391_722000768348733_7586690661787220283_n.jpg?_nc_cat=108&amp;_nc_sid=8ae9d6&amp;_nc_ohc=nXNWvLg_oKAAX92ZJLz&amp;_nc_ht=scontent-ort2-1.cdninstagram.com&amp;oh=6de192217e296e7e3f3ca83b9c545a6d&amp;oe=5F78E833&quot;}">
-            <span class="sbi-screenreader">PUMPKIN 🎃 💗butter...cuz I just couldn’t wa</span>
-            	                    <img src="https://purelypope.com/wp-content/plugins/instagram-feed/img/placeholder.png" alt="PUMPKIN 🎃 💗butter...cuz I just couldn’t wait, lol!!
+        <a class="sbi_photo" href="https://www.instagram.com/p/CJE_KtCpWmr/" target="_blank" rel="noopener nofollow noreferrer" data-full-res="https://scontent-ort2-1.cdninstagram.com/v/t51.29350-15/131994802_999151893827963_5581442216681989642_n.jpg?_nc_cat=107&#038;ccb=2&#038;_nc_sid=8ae9d6&#038;_nc_ohc=D1eUZ7z6sycAX-z_HpI&#038;_nc_ht=scontent-ort2-1.cdninstagram.com&#038;oh=616eb4e1bdf571e5973cae12141d40a7&#038;oe=600883BC" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-ort2-1.cdninstagram.com\/v\/t51.29350-15\/131994802_999151893827963_5581442216681989642_n.jpg?_nc_cat=107&amp;ccb=2&amp;_nc_sid=8ae9d6&amp;_nc_ohc=D1eUZ7z6sycAX-z_HpI&amp;_nc_ht=scontent-ort2-1.cdninstagram.com&amp;oh=616eb4e1bdf571e5973cae12141d40a7&amp;oe=600883BC&quot;,&quot;150&quot;:&quot;https:\/\/www.instagram.com\/p\/CJE_KtCpWmr\/media\/?size=t&quot;,&quot;320&quot;:&quot;https:\/\/www.instagram.com\/p\/CJE_KtCpWmr\/media\/?size=m&quot;,&quot;640&quot;:&quot;https:\/\/scontent-ort2-1.cdninstagram.com\/v\/t51.29350-15\/131994802_999151893827963_5581442216681989642_n.jpg?_nc_cat=107&amp;ccb=2&amp;_nc_sid=8ae9d6&amp;_nc_ohc=D1eUZ7z6sycAX-z_HpI&amp;_nc_ht=scontent-ort2-1.cdninstagram.com&amp;oh=616eb4e1bdf571e5973cae12141d40a7&amp;oe=600883BC&quot;}">
+            <span class="sbi-screenreader">Drool worthy 🤤(&amp; festive) 🎄🥑avocado pesto</span>
+            	                    <img src="https://purelypope.com/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Drool worthy 🤤(&amp; festive) 🎄🥑avocado pesto!!
 
-Last fall, I literally combined organic pumpkin purée with EVERYTHING! I thought it was be so delish to make a sweet and salty pumpkin butter to put on pancakes 🥞, banana bread 🍞, toast, etc! Drizzle some maple 🍁 syrup over it an you’re good to go! Here’s how ya do it:
+This recipe is simple, nutrient dense and IMO, (😉) very tasty!! Add this to your holiday spread 👩🏼‍🍳💕this week and everyone will love!
 
 INGREDIENTS:
-1 can pumpkin
-1 tbsp monk fruit
-3 tbsp maple syrup
-1 tbsp pumpkin pie spice
-1 tbsp cinnamon
-2 tbsp vegan butter, melted
-1 tsp vanilla extract
-1/2 lemon, juiced
-1/2 tsp salt
+2 cans @palmini_pasta noodles, rinsed &amp; drained
+1 avocado
+1 1/2 cups fresh basil
+1/4 cup pine nuts
+1/4 cup extra virgin olive oil
+3 tbsp fresh lemon juice
+1 tbsp maple syrup
+2 tsp garlic, minced
+1/2 tsp pink Himalayan sea salt
+1/2 tsp black pepper
+1/2 tsp chili flakes
 
-All ya have to do is whip it all together (ideally with a hand mixer) 👩🏼‍🍳 and you’re good to go! Are you ready for Fall recipes 🙃..I know I am! Xx #PurelyPope 💗">
+METHOD:
+1. Add all ingredients but the Palmini noodles to a blender or food processor and blend until creamy and well combined.
+2. Add noodles and the sauce to a non stick pan and combine until it reaches desired temp!
+3. Add toppings of choice-  I went with roasted red 🌶 and cherry tomatoes 🍅 YUM.
+
+Anddd enjoy! 🤩👏🏻I made this last night for my fam and it was a big hit! LMK what you’re making this week below! xx #PurelyPope #PalminiPartner">
         </a>
     </div>
-</div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_18132119551105510" data-date="1599081751">
+</div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_18022002718295504" data-date="1608407187">
     <div class="sbi_photo_wrap">
-        <a class="sbi_photo" href="https://www.instagram.com/p/CEpioXmJJ3_/" target="_blank" rel="noopener nofollow noreferrer" data-full-res="https://scontent-ort2-1.cdninstagram.com/v/t51.29350-15/118673186_311760500104531_720576564832776608_n.jpg?_nc_cat=103&#038;_nc_sid=8ae9d6&#038;_nc_ohc=N9IHMEinc5AAX8wvN-d&#038;_nc_ht=scontent-ort2-1.cdninstagram.com&#038;oh=10b928c126d1e4dacd0bde2ce400a130&#038;oe=5F770400" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-ort2-1.cdninstagram.com\/v\/t51.29350-15\/118673186_311760500104531_720576564832776608_n.jpg?_nc_cat=103&amp;_nc_sid=8ae9d6&amp;_nc_ohc=N9IHMEinc5AAX8wvN-d&amp;_nc_ht=scontent-ort2-1.cdninstagram.com&amp;oh=10b928c126d1e4dacd0bde2ce400a130&amp;oe=5F770400&quot;,&quot;150&quot;:&quot;https:\/\/www.instagram.com\/p\/CEpioXmJJ3_\/media\/?size=t&quot;,&quot;320&quot;:&quot;https:\/\/www.instagram.com\/p\/CEpioXmJJ3_\/media\/?size=m&quot;,&quot;640&quot;:&quot;https:\/\/scontent-ort2-1.cdninstagram.com\/v\/t51.29350-15\/118673186_311760500104531_720576564832776608_n.jpg?_nc_cat=103&amp;_nc_sid=8ae9d6&amp;_nc_ohc=N9IHMEinc5AAX8wvN-d&amp;_nc_ht=scontent-ort2-1.cdninstagram.com&amp;oh=10b928c126d1e4dacd0bde2ce400a130&amp;oe=5F770400&quot;}">
-            <span class="sbi-screenreader">Happy HUMPDAY 💗🎉 friends! On a scale of 1-10</span>
-            	                    <img src="https://purelypope.com/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Happy HUMPDAY 💗🎉 friends! On a scale of 1-10 who’s your week going so far?!
+        <a class="sbi_photo" href="https://www.instagram.com/p/CI_dfQnJrf_/" target="_blank" rel="noopener nofollow noreferrer" data-full-res="https://scontent-ort2-1.cdninstagram.com/v/t51.29350-15/131914946_214836080177738_991934842306369852_n.jpg?_nc_cat=108&#038;ccb=2&#038;_nc_sid=8ae9d6&#038;_nc_ohc=bbMBPXMURwgAX_rqIJD&#038;_nc_ht=scontent-ort2-1.cdninstagram.com&#038;oh=d825628f10f2868999c83352cade82f0&#038;oe=600865F3" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-ort2-1.cdninstagram.com\/v\/t51.29350-15\/131914946_214836080177738_991934842306369852_n.jpg?_nc_cat=108&amp;ccb=2&amp;_nc_sid=8ae9d6&amp;_nc_ohc=bbMBPXMURwgAX_rqIJD&amp;_nc_ht=scontent-ort2-1.cdninstagram.com&amp;oh=d825628f10f2868999c83352cade82f0&amp;oe=600865F3&quot;,&quot;150&quot;:&quot;https:\/\/www.instagram.com\/p\/CI_dfQnJrf_\/media\/?size=t&quot;,&quot;320&quot;:&quot;https:\/\/www.instagram.com\/p\/CI_dfQnJrf_\/media\/?size=m&quot;,&quot;640&quot;:&quot;https:\/\/scontent-ort2-1.cdninstagram.com\/v\/t51.29350-15\/131914946_214836080177738_991934842306369852_n.jpg?_nc_cat=108&amp;ccb=2&amp;_nc_sid=8ae9d6&amp;_nc_ohc=bbMBPXMURwgAX_rqIJD&amp;_nc_ht=scontent-ort2-1.cdninstagram.com&amp;oh=d825628f10f2868999c83352cade82f0&amp;oe=600865F3&quot;}">
+            <span class="sbi-screenreader"></span>
+            	                    <img src="https://purelypope.com/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Happiness 🌈💕 isn’t something we find 🕵🏼‍♀️, it’s something we CREATE.
 
-Mine is much better today considering I now know what day if the week it is 🙃..if you saw my stories ya know what I’m talking about 😂💗 BUT, I also just posted my monthly #PurelyPopePicks on the blog! I go through tons of categories of things I’m loving..but I’ll share a few of my top overall with you as a preview:
+And a majority of the things that we THINK will make us happy (💵👩‍❤️‍👨👛👗, don’t. Focus on creating your own happiness.
 
-1. @iliabeauty 💄 - idk why it’s taken me so long to make the switch to clean beauty, but bottom line what we put on our skin goes into our body, and this stuff is GOOD! I’ll ad my faves to my stories!
-2. @floliving 💃🏼- their app is unreal. It’s so empowering to know more about where my body is at in my cycle and how I can support it - download it!
-3. @tula 💁🏼‍♀️- their acne spot treatment is unreal!! It really works! PURELYPOPE gets ya 15% off!
-4. @alo 🧘🏼‍♀️- I’ve been loving my knot bra extra this summer, they have it in multiple colors, but I’m always a sucker for the white!
-5. @gangsterchicbrand inulin ☕️ - keeps everything MOVING! I went with a diff amazon brand for a while and forgot how much more effective and clean this one is. It’s a natural fiber from Jerusalem artichokes and I add it to my coffee every morning!
+What is something you can do today that will create happiness ☺️ for you? Think about it, do it &amp; create it.
 
-Also, I’m loving my new time limit 📱 on my Instagram. It’s really been a game changer for my anxiety!! 🙏🏼 What are you loving ATM?! #PurelyPope 💕">
+You’re worth it! Happy Saturday my loves! 💕Xo #PurelyPope">
         </a>
     </div>
-</div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_17927650693413458" data-date="1598999142">
+</div><div class="sbi_item sbi_type_carousel sbi_new sbi_transition" id="sbi_17865509192221173" data-date="1608248896">
     <div class="sbi_photo_wrap">
-        <a class="sbi_photo" href="https://www.instagram.com/p/CEnFEPspCIl/" target="_blank" rel="noopener nofollow noreferrer" data-full-res="https://scontent-ort2-1.cdninstagram.com/v/t51.29350-15/118617305_830509821091710_62679590165760727_n.jpg?_nc_cat=100&#038;_nc_sid=8ae9d6&#038;_nc_ohc=tpSaYIVFY-cAX9eiyT7&#038;_nc_ht=scontent-ort2-1.cdninstagram.com&#038;oh=3bd53786eea8c4f586f1d1fd379730ec&#038;oe=5F779FA1" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-ort2-1.cdninstagram.com\/v\/t51.29350-15\/118617305_830509821091710_62679590165760727_n.jpg?_nc_cat=100&amp;_nc_sid=8ae9d6&amp;_nc_ohc=tpSaYIVFY-cAX9eiyT7&amp;_nc_ht=scontent-ort2-1.cdninstagram.com&amp;oh=3bd53786eea8c4f586f1d1fd379730ec&amp;oe=5F779FA1&quot;,&quot;150&quot;:&quot;https:\/\/www.instagram.com\/p\/CEnFEPspCIl\/media\/?size=t&quot;,&quot;320&quot;:&quot;https:\/\/www.instagram.com\/p\/CEnFEPspCIl\/media\/?size=m&quot;,&quot;640&quot;:&quot;https:\/\/scontent-ort2-1.cdninstagram.com\/v\/t51.29350-15\/118617305_830509821091710_62679590165760727_n.jpg?_nc_cat=100&amp;_nc_sid=8ae9d6&amp;_nc_ohc=tpSaYIVFY-cAX9eiyT7&amp;_nc_ht=scontent-ort2-1.cdninstagram.com&amp;oh=3bd53786eea8c4f586f1d1fd379730ec&amp;oe=5F779FA1&quot;}">
-            <span class="sbi-screenreader">Cauliflower sweet potato 🍠 💕👅salad!!
-
-Aka</span>
-            	                    <img src="https://purelypope.com/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Cauliflower sweet potato 🍠 💕👅salad!!
-
-Aka a fun new take on traditional potato salad! And just in time for any Labor Day BBQ festivities!! I made this over the weekend and it was a hit 🙃💗..I cannot wait for you to try!
-
-Here’s what ya need:
-Cauliflower
-Sweet potato
-Celery
-Onion
-Avocado (or vegan) mayo
-Yellow mustard
-Apple cider vinegar
-Relish
-Paprika, dill seed, celery seed &amp; garlic powder
-Green onions
-
-This is insanely easy as well! It’s definitely a new (socially distanced) party 🎉 staple! Grab the full recipe and directions via the link below or in my stories! Xx #PurelyPope 💗
-
-https://purelypope.com/cauliflower-sweet-potato-salad/">
-        </a>
-    </div>
-</div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_18160998172059447" data-date="1598908031">
-    <div class="sbi_photo_wrap">
-        <a class="sbi_photo" href="https://www.instagram.com/p/CEkXSWspGvj/" target="_blank" rel="noopener nofollow noreferrer" data-full-res="https://scontent-ort2-1.cdninstagram.com/v/t51.29350-15/118493592_3227239104036121_6367311578186557684_n.jpg?_nc_cat=105&#038;_nc_sid=8ae9d6&#038;_nc_ohc=NoNbMW9eOekAX-sLl2Y&#038;_nc_ht=scontent-ort2-1.cdninstagram.com&#038;oh=abe58a37c95b670364bb4c37e02c8154&#038;oe=5F76112A" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-ort2-1.cdninstagram.com\/v\/t51.29350-15\/118493592_3227239104036121_6367311578186557684_n.jpg?_nc_cat=105&amp;_nc_sid=8ae9d6&amp;_nc_ohc=NoNbMW9eOekAX-sLl2Y&amp;_nc_ht=scontent-ort2-1.cdninstagram.com&amp;oh=abe58a37c95b670364bb4c37e02c8154&amp;oe=5F76112A&quot;,&quot;150&quot;:&quot;https:\/\/www.instagram.com\/p\/CEkXSWspGvj\/media\/?size=t&quot;,&quot;320&quot;:&quot;https:\/\/www.instagram.com\/p\/CEkXSWspGvj\/media\/?size=m&quot;,&quot;640&quot;:&quot;https:\/\/scontent-ort2-1.cdninstagram.com\/v\/t51.29350-15\/118493592_3227239104036121_6367311578186557684_n.jpg?_nc_cat=105&amp;_nc_sid=8ae9d6&amp;_nc_ohc=NoNbMW9eOekAX-sLl2Y&amp;_nc_ht=scontent-ort2-1.cdninstagram.com&amp;oh=abe58a37c95b670364bb4c37e02c8154&amp;oe=5F76112A&quot;}">
-            <span class="sbi-screenreader">Focusing on LOVE 💗, not 😝labels!
-
-The more I</span>
-            	                    <img src="https://purelypope.com/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Focusing on LOVE 💗, not 😝labels!
-
-The more I work with clients and the more in tune with myself that I get, the more I realize that not everything needs a label 🙅🏼‍♀️, nor should it have one. And the more I realize that we tend to focus on food 🍪🥙🌮🥗 A LOT, but most of the time the battles we’re facing have nothing to do with food 🤷🏼‍♀️, but more so our mindset. We use labels as a way to conform to what society thinks we should do, to find some sort of identity and to “fit in” in a way.
-
-I’ve been roped into this more times than I’d like to admit 😬- whether it was being part of a certain friend group back in high school or categorizing the way that I eat, dress, think, etc. Or even categorizing certain things we do/eat as good vs bad.
-
-But why not just focus on love? 💗 Focus on love for ourselves each day, and take it day by day. Some days that may be moving in a different way, eating in a different way, acting in a different way..we don’t have to be the same every day or fit into a specific mold - we just have to honor ourselves 🙏🏼 each and every day. That WILL mean doing some of the same things each day but that will also mean 🌱evolving/changing/growing.
-
-With this mindset I feel like I can have my cake 🍰 &amp; eat it too 🙃💗..I can consistently work on becoming the best version of ME, not anybody else- and that is unique and beautiful!! Are you in?! Xx #PurelyPope
-
-Ps: still currently reading 📖 remember to live by @khalilrafati and he’s hitting so many nails on the head I cannot put it down - he has a whole section on love, not labels and I’m obsessed!">
-        </a>
-    </div>
-</div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_17905643287510993" data-date="1598804373">
-    <div class="sbi_photo_wrap">
-        <a class="sbi_photo" href="https://www.instagram.com/p/CEhRkuIJuZe/" target="_blank" rel="noopener nofollow noreferrer" data-full-res="https://scontent-ort2-1.cdninstagram.com/v/t51.29350-15/118499896_335419647507854_5258497719834086815_n.jpg?_nc_cat=111&#038;_nc_sid=8ae9d6&#038;_nc_ohc=Bk3Q6NOPIo4AX_SWUb4&#038;_nc_ht=scontent-ort2-1.cdninstagram.com&#038;oh=3df26628b6ec8d9539ef98400f23c744&#038;oe=5F766FCF" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-ort2-1.cdninstagram.com\/v\/t51.29350-15\/118499896_335419647507854_5258497719834086815_n.jpg?_nc_cat=111&amp;_nc_sid=8ae9d6&amp;_nc_ohc=Bk3Q6NOPIo4AX_SWUb4&amp;_nc_ht=scontent-ort2-1.cdninstagram.com&amp;oh=3df26628b6ec8d9539ef98400f23c744&amp;oe=5F766FCF&quot;,&quot;150&quot;:&quot;https:\/\/www.instagram.com\/p\/CEhRkuIJuZe\/media\/?size=t&quot;,&quot;320&quot;:&quot;https:\/\/www.instagram.com\/p\/CEhRkuIJuZe\/media\/?size=m&quot;,&quot;640&quot;:&quot;https:\/\/scontent-ort2-1.cdninstagram.com\/v\/t51.29350-15\/118499896_335419647507854_5258497719834086815_n.jpg?_nc_cat=111&amp;_nc_sid=8ae9d6&amp;_nc_ohc=Bk3Q6NOPIo4AX_SWUb4&amp;_nc_ht=scontent-ort2-1.cdninstagram.com&amp;oh=3df26628b6ec8d9539ef98400f23c744&amp;oe=5F766FCF&quot;}">
-            <span class="sbi-screenreader">Leave a 💗 if you love 🍪cookies!!
-
-And these </span>
-            	                    <img src="https://purelypope.com/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Leave a 💗 if you love 🍪cookies!!
-
-And these are SUPERFOOD, calming 🙏🏼🧘🏼‍♀️chocolate chip cookies to be exact 🙃..think we could all use some more calmness, no?!
-
-Even better, these were created by my friend @nourishedbypri by her new company @remedifoods !! They’re also vegan, organic &amp; GF! You can grab them on her website - I would highly suggest checking them out!! Love 💗 🙏🏼using food as medicine!
-
-Also - lets all share our fave small biz below!! I’m in a shopping 🛍 mood lol Xx #PurelyPope">
-        </a>
-    </div>
-</div><div class="sbi_item sbi_type_carousel sbi_new sbi_transition" id="sbi_17885778490689714" data-date="1598625669">
-    <div class="sbi_photo_wrap">
-        <a class="sbi_photo" href="https://www.instagram.com/p/CEb8uQtpiV-/" target="_blank" rel="noopener nofollow noreferrer" data-full-res="https://scontent-ort2-1.cdninstagram.com/v/t51.29350-15/118381715_3362161327232153_8145394005324237226_n.jpg?_nc_cat=101&#038;_nc_sid=8ae9d6&#038;_nc_ohc=UbjImupgqCIAX-JREJ6&#038;_nc_ht=scontent-ort2-1.cdninstagram.com&#038;oh=e7057b8d6f5d6ae50a5aa4137ba66a2a&#038;oe=5F767917" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-ort2-1.cdninstagram.com\/v\/t51.29350-15\/118381715_3362161327232153_8145394005324237226_n.jpg?_nc_cat=101&amp;_nc_sid=8ae9d6&amp;_nc_ohc=UbjImupgqCIAX-JREJ6&amp;_nc_ht=scontent-ort2-1.cdninstagram.com&amp;oh=e7057b8d6f5d6ae50a5aa4137ba66a2a&amp;oe=5F767917&quot;,&quot;150&quot;:&quot;https:\/\/www.instagram.com\/p\/CEb8uQtpiV-\/media\/?size=t&quot;,&quot;320&quot;:&quot;https:\/\/www.instagram.com\/p\/CEb8uQtpiV-\/media\/?size=m&quot;,&quot;640&quot;:&quot;https:\/\/www.instagram.com\/p\/CEb8uQtpiV-\/media\/?size=l&quot;}">
-            <span class="sbi-screenreader">GIVEAWAY!! 🤩💕🍫Involving chocolate &amp; groce</span>
+        <a class="sbi_photo" href="https://www.instagram.com/p/CI6vkktJPRa/" target="_blank" rel="noopener nofollow noreferrer" data-full-res="https://scontent-ort2-1.cdninstagram.com/v/t51.29350-15/131552442_396723154980081_5747540122370278327_n.jpg?_nc_cat=102&#038;ccb=2&#038;_nc_sid=8ae9d6&#038;_nc_ohc=soRrmEfa6qIAX-syGBg&#038;_nc_ht=scontent-ort2-1.cdninstagram.com&#038;oh=c35c18e6a0b0a632b62b68e0a7b9c3f8&#038;oe=6009AE71" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-ort2-1.cdninstagram.com\/v\/t51.29350-15\/131552442_396723154980081_5747540122370278327_n.jpg?_nc_cat=102&amp;ccb=2&amp;_nc_sid=8ae9d6&amp;_nc_ohc=soRrmEfa6qIAX-syGBg&amp;_nc_ht=scontent-ort2-1.cdninstagram.com&amp;oh=c35c18e6a0b0a632b62b68e0a7b9c3f8&amp;oe=6009AE71&quot;,&quot;150&quot;:&quot;https:\/\/www.instagram.com\/p\/CI6vkktJPRa\/media\/?size=t&quot;,&quot;320&quot;:&quot;https:\/\/www.instagram.com\/p\/CI6vkktJPRa\/media\/?size=m&quot;,&quot;640&quot;:&quot;https:\/\/www.instagram.com\/p\/CI6vkktJPRa\/media\/?size=l&quot;}">
+            <span class="sbi-screenreader"></span>
             <svg class="svg-inline--fa fa-clone fa-w-16 sbi_lightbox_carousel_icon" aria-hidden="true" aria-label="Clone" data-fa-proƒcessed="" data-prefix="far" data-icon="clone" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
 	                <path fill="currentColor" d="M464 0H144c-26.51 0-48 21.49-48 48v48H48c-26.51 0-48 21.49-48 48v320c0 26.51 21.49 48 48 48h320c26.51 0 48-21.49 48-48v-48h48c26.51 0 48-21.49 48-48V48c0-26.51-21.49-48-48-48zM362 464H54a6 6 0 0 1-6-6V150a6 6 0 0 1 6-6h42v224c0 26.51 21.49 48 48 48h224v42a6 6 0 0 1-6 6zm96-96H150a6 6 0 0 1-6-6V54a6 6 0 0 1 6-6h308a6 6 0 0 1 6 6v308a6 6 0 0 1-6 6z"></path>
-	            </svg>	                    <img src="https://purelypope.com/wp-content/plugins/instagram-feed/img/placeholder.png" alt="GIVEAWAY!! 🤩💕🍫Involving chocolate &amp; groceries 🛒 ..what&#039;s not to love?!
+	            </svg>	                    <img src="https://purelypope.com/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Not one, but TWO✌🏻🍸🍹healthy holiday 💕cocktails for ya!!
 
-#ad You all know I&#039;m a HUGE @Lilys_Sweets 🍫🙏🏼 fan and you know I love a good grocery haul (especially at @sprouts !) And I&#039;m all about spreading the love💗, so this giveaway is for a $100 giftcard🤑 to Sprouts!! I&#039;m already excited thinking about all of the baking 👩🏼‍🍳possibilities this gives the lucky winner! Sooo here&#039;s how to enter:
+Because let’s have double the fun right?! I’m about to teach a virtual happy hour and we’re diving into both of these drinks! Here’s how ya do it:
 
-1. Follow myself, @lilys_sweets &amp; @sprouts
-2. Comment what you plan to bake with your Lily&#039;s!
-3. Tag a friend you plan to share your baked goodies 🍪🍩 with!
+ONE 1️⃣🍷- HEALTHY HOLIDAY SANGRIA:
+1 bottle white or red wine
+1 1/2 c orange flavored sparkling water
+1/2 c orange liqueur
+1 medium orange, juiced (or 1/4 c orange juice)
+1 orange, sliced
+1/2 c cranberries
+Few sprigs rosemary
 
-And that&#039;s all! Giveaway is open to US only &amp; closes next Friday. Good luck babes!! &amp; happy freaking Friday!! 💕🙃xx #PurelyPope #SproutsFarmersMarket #Lilysatsprouts #LilysPartner">
+HOW TO: Simply mix everything together 👩🏼‍🍳, add garnishes and allow to chill/marinate for a few hours! Serve over ice!
+
+TWO 2️⃣🍹VERY MERRY ❄️MOJITO:
+1 c white or coconut rum
+1 c of coconut water (unsweetened)
+3/4 c sparkling water
+1/4 c lime juice
+1/4 c of mint leaves, packed
+1/4 c monk fruit sweetener
+1/4 c pomegranate seeds
+Fresh mint, for garnish!
+For Rim:
+1 tbsp unsweetened coconut flakes, finely shredded
+1 tbsp monk fruit sweetener
+~1/2 tbsp water + 1/2 tbsp lime juice, separate
+
+HOW TO: Blend the rum, coconut 🥥 milk in a blender. Separately, middle the mint, monk fruit and lime juice in a large pitcher. Add sparkling water, then the rum/coconut blend and mix well. Take your glass and dip in the rum liquid, then in the coconut flakes and monk fruit. Add pom seeds to monitor and serve over ice!
+
+And ENJOY!! Who is going to make one of these?! LMK below! Happy holidays loves! Xo #PurelyPope 💕">
         </a>
     </div>
-</div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_17868900133915655" data-date="1598541072">
+</div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_17894628556739008" data-date="1608164521">
     <div class="sbi_photo_wrap">
-        <a class="sbi_photo" href="https://www.instagram.com/p/CEZbXj0p765/" target="_blank" rel="noopener nofollow noreferrer" data-full-res="https://scontent-ort2-1.cdninstagram.com/v/t51.29350-15/118397241_303511537610214_2299853143390062615_n.jpg?_nc_cat=111&#038;_nc_sid=8ae9d6&#038;_nc_ohc=KGTZ_yo28xoAX8RClrT&#038;_nc_ht=scontent-ort2-1.cdninstagram.com&#038;oh=edae0ec66681146618fa1409b8c67770&#038;oe=5F782210" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-ort2-1.cdninstagram.com\/v\/t51.29350-15\/118397241_303511537610214_2299853143390062615_n.jpg?_nc_cat=111&amp;_nc_sid=8ae9d6&amp;_nc_ohc=KGTZ_yo28xoAX8RClrT&amp;_nc_ht=scontent-ort2-1.cdninstagram.com&amp;oh=edae0ec66681146618fa1409b8c67770&amp;oe=5F782210&quot;,&quot;150&quot;:&quot;https:\/\/www.instagram.com\/p\/CEZbXj0p765\/media\/?size=t&quot;,&quot;320&quot;:&quot;https:\/\/www.instagram.com\/p\/CEZbXj0p765\/media\/?size=m&quot;,&quot;640&quot;:&quot;https:\/\/scontent-ort2-1.cdninstagram.com\/v\/t51.29350-15\/118397241_303511537610214_2299853143390062615_n.jpg?_nc_cat=111&amp;_nc_sid=8ae9d6&amp;_nc_ohc=KGTZ_yo28xoAX8RClrT&amp;_nc_ht=scontent-ort2-1.cdninstagram.com&amp;oh=edae0ec66681146618fa1409b8c67770&amp;oe=5F782210&quot;}">
-            <span class="sbi-screenreader">Raise your hand 🙋🏼‍♀️ if you love 💕</span>
-            	                    <img src="https://purelypope.com/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Raise your hand 🙋🏼‍♀️ if you love 💕 waffles 🧇 🙃!!!
+        <a class="sbi_photo" href="https://www.instagram.com/p/CI4Oo9Sn5c3/" target="_blank" rel="noopener nofollow noreferrer" data-full-res="https://scontent-ort2-1.cdninstagram.com/v/t51.29350-15/131023443_1109207389496991_1871994984062863702_n.jpg?_nc_cat=105&#038;ccb=2&#038;_nc_sid=8ae9d6&#038;_nc_ohc=F-XKD1B9aTgAX_vKvcj&#038;_nc_ht=scontent-ort2-1.cdninstagram.com&#038;oh=caf7bd20104809d5488e6078e6c984a8&#038;oe=60082B9F" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-ort2-1.cdninstagram.com\/v\/t51.29350-15\/131023443_1109207389496991_1871994984062863702_n.jpg?_nc_cat=105&amp;ccb=2&amp;_nc_sid=8ae9d6&amp;_nc_ohc=F-XKD1B9aTgAX_vKvcj&amp;_nc_ht=scontent-ort2-1.cdninstagram.com&amp;oh=caf7bd20104809d5488e6078e6c984a8&amp;oe=60082B9F&quot;,&quot;150&quot;:&quot;https:\/\/www.instagram.com\/p\/CI4Oo9Sn5c3\/media\/?size=t&quot;,&quot;320&quot;:&quot;https:\/\/www.instagram.com\/p\/CI4Oo9Sn5c3\/media\/?size=m&quot;,&quot;640&quot;:&quot;https:\/\/scontent-ort2-1.cdninstagram.com\/v\/t51.29350-15\/131023443_1109207389496991_1871994984062863702_n.jpg?_nc_cat=105&amp;ccb=2&amp;_nc_sid=8ae9d6&amp;_nc_ohc=F-XKD1B9aTgAX_vKvcj&amp;_nc_ht=scontent-ort2-1.cdninstagram.com&amp;oh=caf7bd20104809d5488e6078e6c984a8&amp;oe=60082B9F&quot;}">
+            <span class="sbi-screenreader">I JUST LAUNCHED 🎉🥳my first ever GROUP 💕co</span>
+            	                    <img src="https://purelypope.com/wp-content/plugins/instagram-feed/img/placeholder.png" alt="I JUST LAUNCHED 🎉🥳my first ever GROUP 💕coaching program!
 
-Oh and if you love cake 🍰 too, cuz these are 🥕 carrot cake protein waffles and they’re my FAVE! These are an oldie but goodie recipe of mine and they’re blender waffles which mean they’re easy 👩🏼‍🍳 AF to make as well! Here’s what you need:
+And I’m soooo excited!! 🤩💃🏼The program is ~8 weeks and there are only 6 spots available. The program is called “New Year, BEST You”, and I did that for a reason!
 
-Eggs
-Carrots
-Chia seeds
-Flaxseed meal
-Monk fruit sweetener
-Coconut flour
-Cinnamon
-Vanilla extract
-Baking powder
+We don’t need to become a new version of ourselves, but rather I believe that we can always strive, every day, to show up as the best version 😍 of ourselves, and this program is geared to help you do just that!
 
-I love doubling the batch and topping with some delicious maple 🍁 syrup, fresh fruit and my fave @eatnuttzo !! Grab the full recipe breakdown on my website - linked in stories!! Xx #PurelyPope 💕">
+It will include 8 group coaching 👩🏼‍💻 sessions, a weeks worth of recipes 🥙 (15!), an accountability partner, printable guides and 24/7 texting 💬 access to me as your coach!
+
+We will cover everything from nutrition 🥑 to habit building to mindset 🧘🏼‍♀️ to food freedom and beyond! Peep the full curriculum in my stories!!
+
+As always, I want this to be as accessible as possible, and this is the MOST AFFORDABLE 💰 coaching program I&#039;ve ever offered, and I will only be offering this 1️⃣ time in 2021!
+
+Did I mention that it&#039;s less than $25/week?! Get more info in my stories or bio!! Xoxox #PurelyPope 💕">
         </a>
     </div>
-</div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_17886398530678206" data-date="1598476427">
+</div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_18120759226165999" data-date="1608078899">
     <div class="sbi_photo_wrap">
-        <a class="sbi_photo" href="https://www.instagram.com/p/CEXgET4pRFu/" target="_blank" rel="noopener nofollow noreferrer" data-full-res="https://scontent-ort2-1.cdninstagram.com/v/t51.29350-15/117952818_159892029054120_8574192836695255971_n.jpg?_nc_cat=105&#038;_nc_sid=8ae9d6&#038;_nc_ohc=6m6iyTVvCa4AX-ehr9t&#038;_nc_ht=scontent-ort2-1.cdninstagram.com&#038;oh=33911a9a669bc503184c00305ec482ae&#038;oe=5F796732" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-ort2-1.cdninstagram.com\/v\/t51.29350-15\/117952818_159892029054120_8574192836695255971_n.jpg?_nc_cat=105&amp;_nc_sid=8ae9d6&amp;_nc_ohc=6m6iyTVvCa4AX-ehr9t&amp;_nc_ht=scontent-ort2-1.cdninstagram.com&amp;oh=33911a9a669bc503184c00305ec482ae&amp;oe=5F796732&quot;,&quot;150&quot;:&quot;https:\/\/www.instagram.com\/p\/CEXgET4pRFu\/media\/?size=t&quot;,&quot;320&quot;:&quot;https:\/\/www.instagram.com\/p\/CEXgET4pRFu\/media\/?size=m&quot;,&quot;640&quot;:&quot;https:\/\/scontent-ort2-1.cdninstagram.com\/v\/t51.29350-15\/117952818_159892029054120_8574192836695255971_n.jpg?_nc_cat=105&amp;_nc_sid=8ae9d6&amp;_nc_ohc=6m6iyTVvCa4AX-ehr9t&amp;_nc_ht=scontent-ort2-1.cdninstagram.com&amp;oh=33911a9a669bc503184c00305ec482ae&amp;oe=5F796732&quot;}">
-            <span class="sbi-screenreader">Healthy 💕 &gt; EVERYTHING
+        <a class="sbi_photo" href="https://www.instagram.com/p/CI1rVBlHZrx/" target="_blank" rel="noopener nofollow noreferrer" data-full-res="https://scontent-ort2-1.cdninstagram.com/v/t51.29350-15/131389696_246186016895320_4096754497579362079_n.jpg?_nc_cat=109&#038;ccb=2&#038;_nc_sid=8ae9d6&#038;_nc_ohc=HMFz3B---NkAX_2eMZA&#038;_nc_ht=scontent-ort2-1.cdninstagram.com&#038;oh=9cbb1e7fff8115e24005499566cff168&#038;oe=60066A7A" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-ort2-1.cdninstagram.com\/v\/t51.29350-15\/131389696_246186016895320_4096754497579362079_n.jpg?_nc_cat=109&amp;ccb=2&amp;_nc_sid=8ae9d6&amp;_nc_ohc=HMFz3B---NkAX_2eMZA&amp;_nc_ht=scontent-ort2-1.cdninstagram.com&amp;oh=9cbb1e7fff8115e24005499566cff168&amp;oe=60066A7A&quot;,&quot;150&quot;:&quot;https:\/\/www.instagram.com\/p\/CI1rVBlHZrx\/media\/?size=t&quot;,&quot;320&quot;:&quot;https:\/\/www.instagram.com\/p\/CI1rVBlHZrx\/media\/?size=m&quot;,&quot;640&quot;:&quot;https:\/\/scontent-ort2-1.cdninstagram.com\/v\/t51.29350-15\/131389696_246186016895320_4096754497579362079_n.jpg?_nc_cat=109&amp;ccb=2&amp;_nc_sid=8ae9d6&amp;_nc_ohc=HMFz3B---NkAX_2eMZA&amp;_nc_ht=scontent-ort2-1.cdninstagram.com&amp;oh=9cbb1e7fff8115e24005499566cff168&amp;oe=60066A7A&quot;}">
+            <span class="sbi-screenreader">HOLIDAY POMEGRANATE 🥗🎄💕 SALAD!
 
-And what does healthy m</span>
-            	                    <img src="https://purelypope.com/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Healthy 💕 &gt; EVERYTHING
+Aka one o</span>
+            	                    <img src="https://purelypope.com/wp-content/plugins/instagram-feed/img/placeholder.png" alt="HOLIDAY POMEGRANATE 🥗🎄💕 SALAD!
 
-And what does healthy mean? 🧐To me, it first and foremost means having a healthy mindset. 🙏🏼 Having positive self talk. Having a good relationship with myself and those most important to me and making a difference in the world in a positive way. It means moving my body and fueling my body with food that makes me feel damn good!
+Aka one of my fave obsessions this holiday season! I love 😍👩🏼‍🍳adding in a delicious roasted veggie into a salad to add some volume, and this is no exception! Here we go:
 
-What doesn’t 🙅🏼‍♀️ healthy mean? It doesn’t mean skinny, it doesn’t mean perfect, it doesn’t mean being free of cellulite (hi, we all f*cking have it). Those are all things I USED to think were important. I used to think when I had those things everything else would be perfect. But I’m here to tell you that’s DEF not the case.
+WHAT YA NEED:
+4 cups arugula
+1 c Brussel sprouts, shredded
+¼ c Pomegranate seeds
+¼ c pistachios, shelled
+For the Squash:
+2 c butternut squash, roasted
+1 tbsp avocado or extra virgin olive oil
+1 tsp monk fruit sweetener
+1 tsp sea salt
+1 tsp vanilla extract
+1/4 tsp cinnamon
+For the Dressing:
+3 tbsp extra virgin olive oil
+2 tbsp apple cider vinegar
+2 tbsp dijon mustard
+1 tbsp maple syrup
+1 tsp cinnamon
+Salt &amp; pepper, to taste
 
-I’m happier 🥰💗 and healthier now than I have ever been in my life. And here’s to normalizing that healthy will look different for ALL of us - we don’t have to squeeze into some box that society has created. Let’s break through that damn box 😉👊🏻💃🏼 xx #PurelyPope">
+METHOD:
+1. Preheat the oven to 350 degrees.
+2. Add all butternut squash ingredients to a bowl and mix well.
+3. Once mixed, place on a parchment lined pan and place in the oven for ~30 minutes.
+4. While squash is roasting, remove the stems for your brussel sprouts, and then shred them in a food processor or blender.
+5. In a large bowl, toss the arugula and the brussel sprouts together well and set aside.
+6. Add all dressing ingredients to a small bowl and whisk well, set aside.
+7. Once squash is done, allow to cool completely or place in the freezer to cool for about 10 minutes if enjoying immediately.
+8. Once cool, top your greens with the squash, toppings and dressing and mix well.
+9. Enjoy on it’s own with a protein or have as a side or starter dish!
+
+And enjoy!!! What’s your fave savory dish for the holidays?! LMK below! Xx #PurelyPope 💕">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_17862496778240681" data-date="1607990642">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/CIzC_hSn9Lu/" target="_blank" rel="noopener nofollow noreferrer" data-full-res="https://scontent-ort2-1.cdninstagram.com/v/t51.29350-15/131071570_107779287865438_2860701239436915917_n.jpg?_nc_cat=106&#038;ccb=2&#038;_nc_sid=8ae9d6&#038;_nc_ohc=1ur9g6YHqh8AX-QCpqr&#038;_nc_ht=scontent-ort2-1.cdninstagram.com&#038;oh=55ee778b525fdf5923a6ecd6baaca854&#038;oe=60088E97" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-ort2-1.cdninstagram.com\/v\/t51.29350-15\/131071570_107779287865438_2860701239436915917_n.jpg?_nc_cat=106&amp;ccb=2&amp;_nc_sid=8ae9d6&amp;_nc_ohc=1ur9g6YHqh8AX-QCpqr&amp;_nc_ht=scontent-ort2-1.cdninstagram.com&amp;oh=55ee778b525fdf5923a6ecd6baaca854&amp;oe=60088E97&quot;,&quot;150&quot;:&quot;https:\/\/www.instagram.com\/p\/CIzC_hSn9Lu\/media\/?size=t&quot;,&quot;320&quot;:&quot;https:\/\/www.instagram.com\/p\/CIzC_hSn9Lu\/media\/?size=m&quot;,&quot;640&quot;:&quot;https:\/\/scontent-ort2-1.cdninstagram.com\/v\/t51.29350-15\/131071570_107779287865438_2860701239436915917_n.jpg?_nc_cat=106&amp;ccb=2&amp;_nc_sid=8ae9d6&amp;_nc_ohc=1ur9g6YHqh8AX-QCpqr&amp;_nc_ht=scontent-ort2-1.cdninstagram.com&amp;oh=55ee778b525fdf5923a6ecd6baaca854&amp;oe=60088E97&quot;}">
+            <span class="sbi-screenreader">The best hot chocolate🙃🎄🍫💕 ya need rig</span>
+            	                    <img src="https://purelypope.com/wp-content/plugins/instagram-feed/img/placeholder.png" alt="The best hot chocolate🙃🎄🍫💕 ya need right now!
+
+Cuz I mean, nothing screams 😍 holidays like a cozy cup of cocoa right?! Here’s what ya need:
+
+1 cup unsweetened almond milk
+½ c full fat coconut milk
+2 tbsp monk fruit sweetener
+2 tbsp raw cocoa powder
+1 tbsp vegan chocolate chips
+1 tsp pure vanilla extract
+¼ tsp sea salt
+
+Simply combine all the ingredients over low heat in a sauce pan and whisk 👩🏼‍🍳until well combined/to desired temp! 🔥☕️ and enjoy!
+
+I made this last night and we cozied up watched the crown 👑! What shows are you watching RN? ⬇️ I need some inspo!
+
+Linking the blog post in my stories where you can see all my fave products to make it!! Xx #PurelyPope 💕">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_carousel sbi_new sbi_transition" id="sbi_17899148653659785" data-date="1607907607">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/CIwknaWpIEv/" target="_blank" rel="noopener nofollow noreferrer" data-full-res="https://scontent-ort2-1.cdninstagram.com/v/t51.2885-15/130852765_2819687041634108_5660910059085696831_n.jpg?_nc_cat=105&#038;ccb=2&#038;_nc_sid=8ae9d6&#038;_nc_ohc=_sFhRd-jkAMAX9_dvv-&#038;_nc_ht=scontent-ort2-1.cdninstagram.com&#038;oh=54482fda4f9b71afb6f0e92dbebcb31a&#038;oe=6009CA2A" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-ort2-1.cdninstagram.com\/v\/t51.2885-15\/130852765_2819687041634108_5660910059085696831_n.jpg?_nc_cat=105&amp;ccb=2&amp;_nc_sid=8ae9d6&amp;_nc_ohc=_sFhRd-jkAMAX9_dvv-&amp;_nc_ht=scontent-ort2-1.cdninstagram.com&amp;oh=54482fda4f9b71afb6f0e92dbebcb31a&amp;oe=6009CA2A&quot;,&quot;150&quot;:&quot;https:\/\/www.instagram.com\/p\/CIwknaWpIEv\/media\/?size=t&quot;,&quot;320&quot;:&quot;https:\/\/www.instagram.com\/p\/CIwknaWpIEv\/media\/?size=m&quot;,&quot;640&quot;:&quot;https:\/\/www.instagram.com\/p\/CIwknaWpIEv\/media\/?size=l&quot;}">
+            <span class="sbi-screenreader"></span>
+            <svg class="svg-inline--fa fa-clone fa-w-16 sbi_lightbox_carousel_icon" aria-hidden="true" aria-label="Clone" data-fa-proƒcessed="" data-prefix="far" data-icon="clone" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+	                <path fill="currentColor" d="M464 0H144c-26.51 0-48 21.49-48 48v48H48c-26.51 0-48 21.49-48 48v320c0 26.51 21.49 48 48 48h320c26.51 0 48-21.49 48-48v-48h48c26.51 0 48-21.49 48-48V48c0-26.51-21.49-48-48-48zM362 464H54a6 6 0 0 1-6-6V150a6 6 0 0 1 6-6h42v224c0 26.51 21.49 48 48 48h224v42a6 6 0 0 1-6 6zm96-96H150a6 6 0 0 1-6-6V54a6 6 0 0 1 6-6h308a6 6 0 0 1 6 6v308a6 6 0 0 1-6 6z"></path>
+	            </svg>	                    <img src="https://purelypope.com/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Let’s chat holiday🎄🎉💕😖 anxiety!
+
+It’s no secret that this time of year can be stressful, and this year looks a lot different than years past, which is a huge stress in and of itself!
+
+You guys know that I’m all for anything that can keep anxiety at bay..cue my morning routine, meditation, movement and...CBD!
+
+More specifically, @eatonhemp CBD tinctures. Here’s why I love it:
+
+1. They own their own organic hemp farm in NY that helps to rejuvenates the soil, purify our air and make huge strides towards a healthier 🌍 planet!
+2. Transparency! They have 3rd party page results available on their website &amp; on the bottle to QR scan so you know what you’re getting.
+3. It’s the highest quality, full spectrum CBD, and is infused with organic hempseed oil (similar benefits to fish oil) and works with our bodies natural systems to calm us the F down! 🤪 Lol!
+
+But truly, I also love this because it WORKS🙏🏼! I use it before bed all of the time and I sleep like a baby. You can use it any time that anxiety creeps in, and you can get 20% off with code &#039;ALYSIA20&#039;!
+
+This is a great gift to give too!! Are you a CBD fan? LMK below! Xx #PurelyPope 💕#EatonHempPartner">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_carousel sbi_new sbi_transition" id="sbi_17894247271736827" data-date="1607705375">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/CIqi43Lp3lm/" target="_blank" rel="noopener nofollow noreferrer" data-full-res="https://scontent-ort2-1.cdninstagram.com/v/t51.29350-15/130295231_218859699756409_2886378524864327097_n.jpg?_nc_cat=101&#038;ccb=2&#038;_nc_sid=8ae9d6&#038;_nc_ohc=xIQDTvcbGBkAX_BIsCW&#038;_nc_oc=AQmB9pU0CxLPCltiqsY-uirntDH0mGe0gQQnLkqrvBmjYOsmWn42xRudsJ2cfv6BHok&#038;_nc_ht=scontent-ort2-1.cdninstagram.com&#038;oh=ff3028734356d0735807f9c4e6f669df&#038;oe=60065729" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-ort2-1.cdninstagram.com\/v\/t51.29350-15\/130295231_218859699756409_2886378524864327097_n.jpg?_nc_cat=101&amp;ccb=2&amp;_nc_sid=8ae9d6&amp;_nc_ohc=xIQDTvcbGBkAX_BIsCW&amp;_nc_oc=AQmB9pU0CxLPCltiqsY-uirntDH0mGe0gQQnLkqrvBmjYOsmWn42xRudsJ2cfv6BHok&amp;_nc_ht=scontent-ort2-1.cdninstagram.com&amp;oh=ff3028734356d0735807f9c4e6f669df&amp;oe=60065729&quot;,&quot;150&quot;:&quot;https:\/\/www.instagram.com\/p\/CIqi43Lp3lm\/media\/?size=t&quot;,&quot;320&quot;:&quot;https:\/\/www.instagram.com\/p\/CIqi43Lp3lm\/media\/?size=m&quot;,&quot;640&quot;:&quot;https:\/\/www.instagram.com\/p\/CIqi43Lp3lm\/media\/?size=l&quot;}">
+            <span class="sbi-screenreader">White chocolate 🍫 🎄peppermint cookies!!
+
+Dou</span>
+            <svg class="svg-inline--fa fa-clone fa-w-16 sbi_lightbox_carousel_icon" aria-hidden="true" aria-label="Clone" data-fa-proƒcessed="" data-prefix="far" data-icon="clone" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+	                <path fill="currentColor" d="M464 0H144c-26.51 0-48 21.49-48 48v48H48c-26.51 0-48 21.49-48 48v320c0 26.51 21.49 48 48 48h320c26.51 0 48-21.49 48-48v-48h48c26.51 0 48-21.49 48-48V48c0-26.51-21.49-48-48-48zM362 464H54a6 6 0 0 1-6-6V150a6 6 0 0 1 6-6h42v224c0 26.51 21.49 48 48 48h224v42a6 6 0 0 1-6 6zm96-96H150a6 6 0 0 1-6-6V54a6 6 0 0 1 6-6h308a6 6 0 0 1 6 6v308a6 6 0 0 1-6 6z"></path>
+	            </svg>	                    <img src="https://purelypope.com/wp-content/plugins/instagram-feed/img/placeholder.png" alt="White chocolate 🍫 🎄peppermint cookies!!
+
+Double the chocolate, double the fun 🎉🥳, right?! I made these for a cooking class next week and so excited to share with you! Here’s how ya do it:
+
+INGREDIENTS:
+Wet Ingredients:
+1/2 c coconut oil, melted
+1/2 c + 2 tbsp granulated monk fruit sweetener
+2 eggs
+1 tsp pure vanilla extract
+1 tsp pure peppermint extract
+Dry Ingredients:
+1 ½ c almond flour
+½ c unsweetened cocoa powder
+2 tbsp tapioca starch or flour
+1 tsp sea salt
+½ tsp baking powder
+½ tsp baking soda
+1 (80g) white chocolate bar, chopped or 1/4 c white chocolate chips I used @lilys_sweets)
+For Topping:
+~3 candy canes, crushed
+1/4 c white chocolate + 1 tsp coconut oil
+
+DIRECTIONS:
+1. Preheat the oven to 350 degrees.
+Add all wet ingredients to a medium bowl.
+2. Once in the bowl, beat with a hand mixer or immersion blender until well combined, set aside.
+3. In a large separate bowl, add in all dry ingredients except for the white chocolate and whisk together until well combined.
+4. Combine the wet with the dry and mix well.
+5. Once combined, fold in the chopped white chocolate.
+6. Cover a baking sheet with parchment paper and roll dough into cookies (~1 tbsp each) and place on the tray. Once spaced on the tray, flatten the cookies gently with your hands.
+7. Bake for ~10-12 minutes.
+Once cookies are done, immediately add crushed peppermint on top of the cookies and gently press into each cookie.
+8. While cookies are cooling, melt your white chocolate and coconut oil by placing in a microwave safe bowl and microwave on 10 second increments, stirring between until melted completely.
+9. After melted, use a fork to drizzle over the cookies. Let cool and enjoy!
+
+Now, LMK - what’s your fave holiday cookie?! 🍪🎅I wanna make some more! Xx #PurelyPope">
         </a>
     </div>
 </div>    </div>
@@ -2152,15 +2262,15 @@ I’m happier 🥰💗 and healthier now than I have ever been in my life. And h
             <span class="sbi_btn_text">Load More...</span>
             <span class="sbi_loader sbi_hidden" style="background-color: rgb(255, 255, 255);"></span>
         </a>
-
+	
 	    <span class="sbi_follow_btn">
         <a href="https://www.instagram.com/purelypope/" target="_blank" rel="noopener nofollow noreferrer"><svg class="svg-inline--fa fa-instagram fa-w-14" aria-hidden="true" data-fa-processed="" aria-label="Instagram" data-prefix="fab" data-icon="instagram" role="img" viewBox="0 0 448 512">
 	                <path fill="currentColor" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path>
 	            </svg>Follow on Instagram</a>
     </span>
-
+	
 </div>
-	    <span class="sbi_resized_image_data" data-feed-id="sbi_purelypope#8" data-resized="{&quot;17886398530678206&quot;:{&quot;id&quot;:&quot;117952818_159892029054120_8574192836695255971_n&quot;,&quot;ratio&quot;:&quot;0.80&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}},&quot;17868900133915655&quot;:{&quot;id&quot;:&quot;118397241_303511537610214_2299853143390062615_n&quot;,&quot;ratio&quot;:&quot;0.80&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}},&quot;17885778490689714&quot;:{&quot;id&quot;:&quot;118381715_3362161327232153_8145394005324237226_n&quot;,&quot;ratio&quot;:&quot;0.80&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}},&quot;17905643287510993&quot;:{&quot;id&quot;:&quot;118499896_335419647507854_5258497719834086815_n&quot;,&quot;ratio&quot;:&quot;0.80&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}},&quot;18160998172059447&quot;:{&quot;id&quot;:&quot;118493592_3227239104036121_6367311578186557684_n&quot;,&quot;ratio&quot;:&quot;0.84&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}},&quot;17927650693413458&quot;:{&quot;id&quot;:&quot;118617305_830509821091710_62679590165760727_n&quot;,&quot;ratio&quot;:&quot;1.00&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}},&quot;18132119551105510&quot;:{&quot;id&quot;:&quot;118673186_311760500104531_720576564832776608_n&quot;,&quot;ratio&quot;:&quot;1.00&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}},&quot;17865067385045995&quot;:{&quot;id&quot;:&quot;118707391_722000768348733_7586690661787220283_n&quot;,&quot;ratio&quot;:&quot;0.87&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}}}">
+	    <span class="sbi_resized_image_data" data-feed-id="sbi_purelypope#8" data-resized="{&quot;17865509192221173&quot;:{&quot;id&quot;:&quot;131552442_396723154980081_5747540122370278327_n&quot;,&quot;ratio&quot;:&quot;0.80&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}},&quot;17894628556739008&quot;:{&quot;id&quot;:&quot;131023443_1109207389496991_1871994984062863702_n&quot;,&quot;ratio&quot;:&quot;0.80&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}},&quot;18120759226165999&quot;:{&quot;id&quot;:&quot;131389696_246186016895320_4096754497579362079_n&quot;,&quot;ratio&quot;:&quot;0.80&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}},&quot;17894247271736827&quot;:{&quot;id&quot;:&quot;130295231_218859699756409_2886378524864327097_n&quot;,&quot;ratio&quot;:&quot;0.80&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}},&quot;17899148653659785&quot;:{&quot;id&quot;:&quot;130852765_2819687041634108_5660910059085696831_n&quot;,&quot;ratio&quot;:&quot;0.80&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}},&quot;17862496778240681&quot;:{&quot;id&quot;:&quot;131071570_107779287865438_2860701239436915917_n&quot;,&quot;ratio&quot;:&quot;0.80&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}},&quot;18022002718295504&quot;:{&quot;id&quot;:&quot;131914946_214836080177738_991934842306369852_n&quot;,&quot;ratio&quot;:&quot;0.80&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}},&quot;17843055023509142&quot;:{&quot;id&quot;:&quot;131994802_999151893827963_5581442216681989642_n&quot;,&quot;ratio&quot;:&quot;0.80&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}}}">
 	</span>
 	</div>
 
@@ -2180,8 +2290,8 @@ I’m happier 🥰💗 and healthier now than I have ever been in my life. And h
 																																																																																																																													</ul>
 				</div>
 										<div class="footer-logo-copyright footer-not-logo">
-
-
+				
+				
 									<div id="footer-copyright">
 						<p>@2020 PurelyPope. All Right Reserved.</p>
 					</div>
@@ -2211,7 +2321,18 @@ if (urlFields) {
 <script type="text/javascript">
 var sbiajaxurl = "https://purelypope.com/wp-admin/admin-ajax.php";
 </script>
-	<script type="text/javascript">
+<!--Enhanced Ecommerce Google Analytics Plugin for Woocommerce by Tatvic Plugin Version:2.3.6-->			<!-- Facebook Pixel Code -->
+			<noscript>
+				<img
+					height="1"
+					width="1"
+					style="display:none"
+					alt="fbpx"
+					src="https://www.facebook.com/tr?id=1260433617688727&ev=PageView&noscript=1"
+				/>
+			</noscript>
+			<!-- End Facebook Pixel Code -->
+				<script type="text/javascript">
 		var c = document.body.className;
 		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
 		document.body.className = c;
@@ -2224,7 +2345,7 @@ var sbiajaxurl = "https://purelypope.com/wp-admin/admin-ajax.php";
 var wpcf7 = {"apiSettings":{"root":"https:\/\/purelypope.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://purelypope.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.2.1' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://purelypope.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.3.2' id='contact-form-7-js'></script>
 <script type='text/javascript' id='jpibfi-script-js-extra'>
 /* <![CDATA[ */
 var jpibfi_options = {"hover":{"siteTitle":"PurelyPope","image_selector":".jpibfi_container img","disabled_classes":"wp-smiley;nopin","enabled_classes":"","min_image_height":0,"min_image_height_small":0,"min_image_width":0,"min_image_width_small":0,"show_on":"[front],[home],[single],[page],[archive],[search],[category]","disable_on":"","show_button":"hover","button_margin_bottom":20,"button_margin_top":20,"button_margin_left":20,"button_margin_right":20,"button_position":"top-left","description_option":["img_title","img_alt","post_title"],"transparency_value":0.200000000000000011102230246251565404236316680908203125,"pin_image":"default","pin_image_button":"round","pin_image_icon":"circle","pin_image_size":"normal","custom_image_url":"","scale_pin_image":false,"pin_linked_url":true,"pinImageHeight":54,"pinImageWidth":54,"scroll_selector":"","support_srcset":false}};
@@ -2260,7 +2381,7 @@ var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax
 			}
 			jQuery( 'body' ).get( 0 ).dispatchEvent( jetpackLazyImagesLoadEvent );
 		} );
-
+	
 </script>
 <script type='text/javascript' id='spu-public-js-extra'>
 /* <![CDATA[ */
@@ -2274,7 +2395,7 @@ var spuvar_social = [];
 <script type='text/javascript' src='https://purelypope.com/wp-content/themes/soledad/js/main.js?ver=5.1' id='main-scripts-js'></script>
 <script type='text/javascript' id='penci_ajax_like_post-js-extra'>
 /* <![CDATA[ */
-var ajax_var = {"url":"https:\/\/purelypope.com\/wp-admin\/admin-ajax.php","nonce":"bf5dfe39da"};
+var ajax_var = {"url":"https:\/\/purelypope.com\/wp-admin\/admin-ajax.php","nonce":"9aafe78dee"};
 /* ]]> */
 </script>
 <script type='text/javascript' src='https://purelypope.com/wp-content/themes/soledad/js/post-like.js?ver=5.1' id='penci_ajax_like_post-js'></script>
@@ -2288,6 +2409,14 @@ var sb_instagram_js_options = {"font_method":"svg","resized_url":"https:\/\/pure
 </script>
 <script type='text/javascript' src='https://purelypope.com/wp-content/plugins/instagram-feed/js/sb-instagram-2-2.min.js?ver=2.4.6' id='sb_instagram_scripts-js'></script>
 <script type='text/javascript' src='https://purelypope.com/wp-content/plugins/mailchimp-for-wp/assets/js/forms.min.js?ver=4.8' id='mc4wp-forms-api-js'></script>
+<!-- WooCommerce JavaScript -->
+<script type="text/javascript">
+jQuery(function($) { 
+tvc_lc="USD";
+
+tvc_smd={"tvc_wcv":"4.4.1","tvc_wpv":"5.5","tvc_eev":"2.3.6","tvc_cnf":{"t_ee":"on","t_df":false,"t_gUser":false,"t_UAen":null,"t_thr":"6","t_IPA":false,"t_OptOut":false,"t_PrivacyPolicy":true}};
+ });
+</script>
 
 
 </body>

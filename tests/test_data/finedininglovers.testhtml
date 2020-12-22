@@ -1,19 +1,20 @@
 <!DOCTYPE html>
-<html  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
   <head>
     <meta charset="utf-8" />
-<meta name="title" content="Zucchini Raw Vegan Lasagna" />
 <link rel="canonical" href="https://www.finedininglovers.com/recipes/main-course/zucchini-raw-vegan-lasagna" />
-<meta name="description" content="An easy raw vegan lasagna recipe made with zucchini, basil pesto and macadamia cheese: a tasty dish, perfect whether you follow a vegan or a raw food diet. Yum!" />
 <meta property="og:type" content="website" />
+<meta name="description" content="An easy raw vegan lasagna recipe made with zucchini, basil pesto and macadamia cheese: a tasty dish, perfect whether you follow a vegan or a raw food diet. Yum!" />
+<meta name="google-site-verification" content="IhUaZvAPdO9SiLoj_9HHaR8R-LZI-LiFt3lyo6gateM" />
 <meta name="keywords" content="Gourmet Recipes,Gourmet Recipes, Vegan Food, Vegetarian Food, Raw Food,Vegan,," />
 <meta property="og:title" content="Zucchini Raw Vegan Lasagna" />
-<meta name="google-site-verification" content="IhUaZvAPdO9SiLoj_9HHaR8R-LZI-LiFt3lyo6gateM" />
+<meta property="og:description" content="An easy raw vegan lasagna recipe made with zucchini, basil pesto and macadamia cheese: a tasty dish, perfect whether you follow a vegan or a raw food diet. Yum!" />
+<meta property="og:image" content="https://www.finedininglovers.com/sites/g/files/xknfdk626/files/styles/open_graph_image/public/Original_2242_zucchini-lasagna-raw-vegan.jpg?itok=MacTV8A0" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
 <meta name="MobileOptimized" content="width" />
 <meta name="HandheldFriendly" content="true" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<script> var __ncp_gtm = { id: 'GTM-NJGJX4' }; var __ncp_ghostery = { cid: 2020, nid: 8107 };</script>
-<meta name="google-site-verification" content="" />
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 <script type="application/ld+json">{
     "@context": "https://schema.org",
     "@graph": [
@@ -23,6 +24,14 @@
             "description": "An easy raw vegan lasagna recipe made with zucchini, basil pesto and macadamia cheese: a tasty dish, perfect whether you follow a vegan or a raw food diet. Yum!",
             "recipeYield": "4",
             "totalTime": "P0DT0H50M0S",
+            "recipeInstructions": [
+                "For the macadamia cheese Pour all ingredients in a blender and mix until a thick cream. Set aside.\nFor the tomato cream Pour all ingredients into a blender and mix until creamy. Set aside.\nFor the basil pesto Pour all ingredients into a blender and mix until creamy. Set aside. Wash zucchini and cut them into very thin slices. Make the raw vegan lasagna alternating a layer of zucchini",
+                "a layer of macadamia cheese",
+                "a layer of zucchini",
+                "a layer of tomato sauce",
+                "a layer of zucchini",
+                "a layer of basil pesto. Keep the lasagna in the fridge and serve decorated with fresh basil and pine nuts."
+            ],
             "recipeIngredient": [
                 "zucchini",
                 "basil",
@@ -41,156 +50,116 @@
                 "Macadamia nuts",
                 "Yeast flakes",
                 "salt",
-                "lime",
-                "water"
+                "Lime"
             ],
             "recipeCategory": [
                 "Main Course"
             ],
+            "author": {
+                "@type": "Person",
+                "name": "Uno Cookbook"
+            },
             "image": {
                 "@type": "ImageObject",
                 "representativeOfPage": "True",
                 "url": "https://www.finedininglovers.com/sites/g/files/xknfdk626/files/Original_2242_zucchini-lasagna-raw-vegan.jpg"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "55.6522",
+                "ratingCount": "23",
+                "bestRating": "5",
+                "worstRating": "1"
             }
         }
     ]
 }</script>
+<meta http-equiv="x-ua-compatible" content="ie=edge" /><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={licenseKey:"0484fef455",applicationID:"530374992"};window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var i=t[n]={exports:{}};e[n][0].call(i.exports,function(t){var i=e[n][1][t];return r(i||t)},i,i.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(e,t,n){function r(){}function i(e,t,n){return function(){return o(e,[u.now()].concat(c(arguments)),t?null:this,n),t?void 0:this}}var o=e("handle"),a=e(6),c=e(7),f=e("ee").get("tracer"),u=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",l=p+"ixn-";a(d,function(e,t){s[t]=i(p+t,!0,"api")}),s.addPageAction=i(p+"addPageAction",!0),s.setCurrentRouteName=i(p+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,i="function"==typeof t;return o(l+"tracer",[u.now(),e,n],r),function(){if(f.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return t.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],n),e}finally{f.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=i(l+t)}),newrelic.noticeError=function(e,t){"string"==typeof e&&(e=new Error(e)),o("err",[e,u.now(),!1,t])}},{}],2:[function(e,t,n){function r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=e(8);t.exports=r,t.exports.offset=a,t.exports.getLastTimestamp=i},{}],3:[function(e,t,n){function r(e,t){var n=e.getEntries();n.forEach(function(e){"first-paint"===e.name?d("timing",["fp",Math.floor(e.startTime)]):"first-contentful-paint"===e.name&&d("timing",["fcp",Math.floor(e.startTime)])})}function i(e,t){var n=e.getEntries();n.length>0&&d("lcp",[n[n.length-1]])}function o(e){e.getEntries().forEach(function(e){e.hadRecentInput||d("cls",[e])})}function a(e){if(e instanceof m&&!g){var t=Math.round(e.timeStamp),n={type:e.type};t<=p.now()?n.fid=p.now()-t:t>p.offset&&t<=Date.now()?(t-=p.offset,n.fid=p.now()-t):t=p.now(),g=!0,d("timing",["fi",t,n])}}function c(e){d("pageHide",[p.now(),e])}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var f,u,s,d=e("handle"),p=e("loader"),l=e(5),m=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){f=new PerformanceObserver(r);try{f.observe({entryTypes:["paint"]})}catch(v){}u=new PerformanceObserver(i);try{u.observe({entryTypes:["largest-contentful-paint"]})}catch(v){}s=new PerformanceObserver(o);try{s.observe({type:"layout-shift",buffered:!0})}catch(v){}}if("addEventListener"in document){var g=!1,y=["click","keydown","mousedown","pointerdown","touchstart"];y.forEach(function(e){document.addEventListener(e,a,!1)})}l(c)}},{}],4:[function(e,t,n){function r(e,t){if(!i)return!1;if(e!==i)return!1;if(!t)return!0;if(!o)return!1;for(var n=o.split("."),r=t.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,f=c.match(a);f&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(i="Safari",o=f[1])}t.exports={agent:i,version:o,match:r}},{}],5:[function(e,t,n){function r(e){function t(){e(a&&document[a]?document[a]:document[i]?"hidden":"visible")}"addEventListener"in document&&o&&document.addEventListener(o,t,!1)}t.exports=r;var i,o,a;"undefined"!=typeof document.hidden?(i="hidden",o="visibilitychange",a="visibilityState"):"undefined"!=typeof document.msHidden?(i="msHidden",o="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(i="webkitHidden",o="webkitvisibilitychange",a="webkitVisibilityState")},{}],6:[function(e,t,n){function r(e,t){var n=[],r="",o=0;for(r in e)i.call(e,r)&&(n[o]=t(r,e[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;t.exports=r},{}],7:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,i=n-t||0,o=Array(i<0?0:i);++r<i;)o[r]=e[t+r];return o}t.exports=r},{}],8:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function i(e){function t(e){return e&&e instanceof r?e:e?f(e,c,o):o()}function n(n,r,i,o){if(!p.aborted||o){e&&e(n,r,i);for(var a=t(i),c=v(n),f=c.length,u=0;u<f;u++)c[u].apply(a,r);var d=s[w[n]];return d&&d.push([b,n,r,a]),a}}function l(e,t){h[e]=v(e).concat(t)}function m(e,t){var n=h[e];if(n)for(var r=0;r<n.length;r++)n[r]===t&&n.splice(r,1)}function v(e){return h[e]||[]}function g(e){return d[e]=d[e]||i(n)}function y(e,t){u(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var h={},w={},b={on:l,addEventListener:l,removeEventListener:m,emit:n,get:g,listeners:v,context:t,buffer:y,abort:a,aborted:!1};return b}function o(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var c="nr@context",f=e("gos"),u=e(6),s={},d={},p=t.exports=i();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(i.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return e[t]=r,r}var i=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){i.buffer([e],r),i.emit(e,t,n)}var i=e("ee").get("handle");t.exports=r,r.ee=i},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,o,function(){return i++})}var i=1,o="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!E++){var e=b.info=NREUM.info,t=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return u.abort();f(h,function(t,n){e[t]||(e[t]=n)});var n=a();c("mark",["onload",n+b.offset],null,"api"),c("timing",["load",n]);var r=p.createElement("script");r.src="https://"+e.agent,t.parentNode.insertBefore(r,t)}}function i(){"complete"===p.readyState&&o()}function o(){c("mark",["domContent",a()+b.offset],null,"api")}var a=e(2),c=e("handle"),f=e(6),u=e("ee"),s=e(4),d=window,p=d.document,l="addEventListener",m="attachEvent",v=d.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:v,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var y=""+location,h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1184.min.js"},w=v&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),b=t.exports={offset:a.getLastTimestamp(),now:a,origin:y,features:{},xhrWrappable:w,userAgent:s};e(1),e(3),p[l]?(p[l]("DOMContentLoaded",o,!1),d[l]("load",r,!1)):(p[m]("onreadystatechange",i),d[m]("onload",r)),c("mark",["firstbyte",a.getLastTimestamp()],null,"api");var E=0},{}],"wrap-function":[function(e,t,n){function r(e){return!(e&&e instanceof Function&&e.apply&&!e[a])}var i=e("ee"),o=e(7),a="nr@original",c=Object.prototype.hasOwnProperty,f=!1;t.exports=function(e,t){function n(e,t,n,i){function nrWrapper(){var r,a,c,f;try{a=this,r=o(arguments),c="function"==typeof n?n(r,a):n||{}}catch(u){p([u,"",[r,a,i],c])}s(t+"start",[r,a,i],c);try{return f=e.apply(a,r)}catch(d){throw s(t+"err",[r,a,d],c),d}finally{s(t+"end",[r,a,f],c)}}return r(e)?e:(t||(t=""),nrWrapper[a]=e,d(e,nrWrapper),nrWrapper)}function u(e,t,i,o){i||(i="");var a,c,f,u="-"===i.charAt(0);for(f=0;f<t.length;f++)c=t[f],a=e[c],r(a)||(e[c]=n(a,u?c+i:i,o,c))}function s(n,r,i){if(!f||t){var o=f;f=!0;try{e.emit(n,r,i,t)}catch(a){p([a,n,r,i])}f=o}}function d(e,t){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(e);return n.forEach(function(n){Object.defineProperty(t,n,{get:function(){return e[n]},set:function(t){return e[n]=t,t}})}),t}catch(r){p([r])}for(var i in e)c.call(e,i)&&(t[i]=e[i]);return t}function p(t){try{e.emit("internal-error",t)}catch(n){}}return e||(e=i),n.inPlace=u,n.flag=a,n}},{}]},{},["loader"]);</script>
 <link rel="shortcut icon" href="/themes/custom/fdl/favicon.ico" type="image/vnd.microsoft.icon" />
-<link rel="alternate" hreflang="en" href="https://www.finedininglovers.com/recipes/main-course/zucchini-raw-vegan-lasagna" />
 <link rel="revision" href="https://www.finedininglovers.com/recipes/main-course/zucchini-raw-vegan-lasagna" />
 <link rel="amphtml" href="https://www.finedininglovers.com/recipes/main-course/zucchini-raw-vegan-lasagna?amp" />
+<script src="/sites/g/files/xknfdk626/files/google_tag/default/google_tag.script.js?qlr68q" defer></script>
 <script>window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};</script>
 
     <title>Zucchini Raw Vegan Lasagna</title>
-    <link rel="stylesheet" media="all" href="/sites/g/files/xknfdk626/files/css/css_VnTga5-NlwUZ0q3LLtSSSVwKXl1CCBNSL1vSXjH1H9g.css?pzf38c" />
-<link rel="stylesheet" media="all" href="/sites/g/files/xknfdk626/files/css/css_ryb5dDQYkV1pxsXumqKVnrDr9ISjRFJVWSoP_ssAHlU.css?pzf38c" />
-<link rel="stylesheet" media="all" href="//cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.css" />
-<link rel="stylesheet" media="all" href="//cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick-theme.min.css" />
+    <link rel="stylesheet" media="all" href="/sites/g/files/xknfdk626/files/css/css_6rDG4dFREZfpoZOYVzcxQOHD3ip25mt116Ugb3UTQ0s.css" />
+<link rel="stylesheet" media="all" href="/sites/g/files/xknfdk626/files/css/css_OzR0eLWY4sRmzUXNRkxYY9tmwOA8l79q1nGGzZSpc-Y.css" />
+<link rel="stylesheet" media="print" href="/sites/g/files/xknfdk626/files/css/css_Y4H_4BqmgyCtG7E7YdseTs2qvy9C34c51kBamDdgark.css" />
+<link rel="stylesheet" media="all" href="/sites/g/files/xknfdk626/files/css/css_NQq_6J_UHLhMg8CMYCzl_krX7M_BovL4tqR8kRwEYgU.css" />
+<link rel="stylesheet" media="all" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.css" />
+<link rel="stylesheet" media="all" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick-theme.min.css" />
 
-
+    
 <!--[if lte IE 8]>
 <script src="/sites/g/files/xknfdk626/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
 <![endif]-->
-<script src="/sites/g/files/xknfdk626/files/js/js_B7pS3ddmNLFYOJi3j28odiodelMu-EhaOeKlHZ8E6y0.js"></script>
+<script src="/sites/g/files/xknfdk626/files/js/js_QHqjxhGPGgZFwOfW92tmrVpssmC1sbO0zDG4TgLmaEI.js"></script>
 
-          <script type="text/javascript" src="/modules/contrib/seckit/js/seckit.document_write.js"></script>
-        <link type="text/css" rel="stylesheet" id="seckit-clickjacking-no-body" media="all" href="/modules/contrib/seckit/css/seckit.no_body.css" />
-        <!-- stop SecKit protection -->
-        <noscript>
-        <link type="text/css" rel="stylesheet" id="seckit-clickjacking-noscript-tag" media="all" href="/modules/contrib/seckit/css/seckit.noscript_tag.css" />
-        <div id="seckit-noscript-tag">
-          Sorry, you need to enable JavaScript to visit this website.
-        </div>
-        </noscript></head>
-  <body class="path-node page-node-type-nw-recipe has-glyphicons">
+  </head>
+  <body class="layout-no-sidebars page-node-90241 path-node node--type-nw-recipe">
     <a href="#main-content" class="visually-hidden focusable skip-link">
       Skip to main content
     </a>
-    <script>
-<!-- Ghostery Script -->
-if(__ncp_ghostery!=null&&typeof(__ncp_ghostery)!='undefined')
-{
-(function(id,cid,cb){
-  var d=document,s=d.createElement('script'),ts=d.getElementsByTagName('script')[0];
-  s.type='text/javascript';s.async=true;
-  s.setAttribute('data-ev-noticeid',id);
-  s.setAttribute('data-ev-coid',cid);
-  s.setAttribute('data-ev-consent-callback',cb);
-  s.setAttribute('data-ev-consent-type','cnsp');
-  s.src='//c.betrad.com/pub/gdprnotice.js';
-  ts.parentNode.insertBefore(s,ts);
-
-  if(d.getElementById('_bapw-link')){
-      var ev=d.createElement('script'),st=d.getElementsByTagName('script')[0];
-      ev.type='text/javascript';
-      ev.async=true;ev.setAttribute('data-ev-tag-pid',id);
-      ev.setAttribute('data-ev-tag-ocid',cid);
-      ev.src='//c.betrad.com/pub/tag.js';
-      st.parentNode.insertBefore(ev,st);}
-})
-
-(__ncp_ghostery.nid,__ncp_ghostery.cid,'g_consentGiven');
-
-function gtm(w,d,s,l,i){w[l]=w[l]||[];w[l].push({
-  'gtm.start':new Date().getTime(),event:'gtm.js'
-});
-
-var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
-j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;
-f.parentNode.insertBefore(j,f);
-};
-
-function ghosteryAddScript(u,cb){
-
-  var d=document,sn='script',f=d.getElementsByTagName(sn)[0]||d.head,s=d.createElement(sn);
-  s.async=true;s.src=u;
-  console.log(u);
-  if(cb){s.onload=function(){cb();
-  }}f.parentNode.insertBefore(s,f);}
-
-  function g_consentGiven(){
-  if(__ncp_gtm!=null&&typeof(__ncp_gtm)!='undefined'){
-      gtm(window,document,'script','dataLayer',__ncp_gtm.id);
-  }
-
-
-  }
-}
-
-
-
-
-<!-- End Ghostery Script --></script>
-
+    <noscript aria-hidden="true"><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NJGJX4" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
               <div class="banner-area">
       <div class="top-banner active"></div>
       <div class="top-banner-mobile active"></div>
       <div class="close-search"></div>
     </div>
-    <header class="navbar navbar-default container" id="navbar" role="banner">
+    <header class="navbar navbar-expand-md navbar-default container" id="navbar-main" id="navbar" role="banner">
               <div class="navbar-header">
+          
 
 
 
-
-  <div class="region region-navigation">
+  <div class="row region region-navigation">
     <div class="header-top">
       <div class="menu-trigger"></div>
       <div class="inside">
         <div class="left-head">
-          <section class="views-element-container block block-views block-views-blocksocial-social-mini clearfix" id="block-views-block-social-social-mini" data-block-plugin-id="views_block:social-social_mini">
-
-
-
-      <div class="form-group"><div class="view view-social view-id-social view-display-id-social_mini js-view-dom-id-58535bd662d5181f208108a577d7b2ee4db2e273b4bc4fb44e6dd155449f19c2">
-
-
-
-      <div class="view-content">
+          <div class="views-element-container block block-views block-views-blocksocial-social-mini" id="block-views-block-social-social-mini" data-block-plugin-id="views_block:social-social_mini">
+  
+    
+      <div class="content">
+      <div><div class="view view-social view-id-social view-display-id-social_mini js-view-dom-id-938293a9084d9d0148f08a0c5ef4fbd9164373142ae7e2026692a3898895b600">
+  
+    
+      
+      <div class="view-content row">
           <div class="views-row">
-<a href="https://www.instagram.com/finedininglovers/" target="_blank"><img src="/sites/g/files/xknfdk626/files/2019-07/instagram-w_1.svg" alt=""></a>
-</div>
+    
+<a href="https://www.instagram.com/finedininglovers/" target="_blank"><img src="/sites/g/files/xknfdk626/files/2019-07/instagram-w_1.svg" alt="Instagram"></a>
+
+  </div>
     <div class="views-row">
-<a href="https://www.facebook.com/FineDiningLovers" target="_blank"><img src="/sites/g/files/xknfdk626/files/2019-07/facebook-logo-w.svg" alt=""></a>
-</div>
+    
+<a href="https://www.facebook.com/FineDiningLovers" target="_blank"><img src="/sites/g/files/xknfdk626/files/2019-07/facebook-logo-w.svg" alt="Facebook"></a>
+
+  </div>
     <div class="views-row">
-<a href="https://twitter.com/finedininglover" target="_blank"><img src="/sites/g/files/xknfdk626/files/2019-07/twitter-logo-silhouette-w.svg" alt=""></a>
-</div>
+    
+<a href="https://twitter.com/finedininglover" target="_blank"><img src="/sites/g/files/xknfdk626/files/2019-07/twitter-logo-silhouette-w.svg" alt="Twitter"></a>
+
+  </div>
     <div class="views-row">
-<a href="https://www.youtube.com/finedininglovers" target="_blank"><img src="/sites/g/files/xknfdk626/files/2019-07/youtube-w.svg" alt=""></a>
-</div>
+    
+<a href="https://www.youtube.com/finedininglovers" target="_blank"><img src="/sites/g/files/xknfdk626/files/2019-07/youtube-w.svg" alt="YouTube"></a>
+
+  </div>
     <div class="views-row">
-<a href="https://www.pinterest.com/finedininglover/" target="_blank"><img src="/sites/g/files/xknfdk626/files/2019-07/pinterest-w.svg" alt=""></a>
-</div>
+    
+<a href="https://www.pinterest.com/finedininglover/" target="_blank"><img src="/sites/g/files/xknfdk626/files/2019-07/pinterest-w.svg" alt="Pinterest"></a>
+
+  </div>
 
     </div>
-
+  
           </div>
 </div>
 
-  </section>
-
+    </div>
+  </div>
 
         </div>
         <div class="middle-head">
@@ -200,12 +169,12 @@ function ghosteryAddScript(u,cb){
         </div>
         <div class="right-head">
           <nav role="navigation" aria-labelledby="block-utilitymenu-menu" id="block-utilitymenu" data-block-plugin-id="system_menu_block:utility-menu">
+            
+  <p class="visually-hidden" id="block-utilitymenu-menu">Utility Menu</p>
+  
 
-  <h2 class="visually-hidden" id="block-utilitymenu-menu">Utility Menu</h2>
-
-
-
-      <ul class="menu menu--utility-menu nav">
+        
+      <ul block="block-utilitymenu" class="clearfix menu menu--utility-menu nav">
                       <li class="first">
                                         <a href="/contacts" class="mailico" data-drupal-link-system-path="node/97976">Mail</a>
               </li>
@@ -213,28 +182,25 @@ function ghosteryAddScript(u,cb){
                                         <a href="/" class="searchico" data-drupal-link-system-path="&lt;front&gt;">Search </a>
               </li>
         </ul>
-
+  
 
   </nav>
 
-
-
-<section class="views-exposed-form component--search block block-views block-views-exposed-filter-blocksearch-solr-search-page clearfix bgrandom-1" data-drupal-selector="views-exposed-form-search-solr-search-page" id="block-exposedformsearch-solrsearch-page" data-block-plugin-id="views_exposed_filter_block:search_solr-search_page">
+          
+          
+<section class="views-exposed-form component--search block block-views block-views-exposed-filter-blocksearch-solr-search-page clearfix bgrandom-2" data-drupal-selector="views-exposed-form-search-solr-search-page" id="block-exposedformsearch-solrsearch-page" data-block-plugin-id="views_exposed_filter_block:search_solr-search_page">
       <a itemprop="url" class="search-logo" href="/" title="Fine Dining Lovers" rel="home">
       <img src="/themes/custom/fdl/images/fdl-logo.png" class="search-logo" alt="Fine Dining Lovers" />
     </a>
     <div class="close-search"></div>
-    <form action="/search" method="get" id="views-exposed-form-search-solr-search-page" accept-charset="UTF-8">
-  <div class="form--inline form-inline clearfix">
-  <div class="form-item js-form-item form-type-textfield js-form-type-textfield form-item-rendered-item js-form-item-rendered-item form-no-label form-group">
+    
+<form action="/search" method="get" id="views-exposed-form-search-solr-search-page" accept-charset="UTF-8">
+  <div class="form-row">
+  <div class="js-form-item form-item js-form-type-textfield form-item-rendered-item js-form-item-rendered-item form-no-label">
+        <input data-drupal-selector="edit-rendered-item" type="text" id="edit-rendered-item" name="rendered_item" value="" size="30" maxlength="128" class="form-text form-control" />
 
-
-  <input data-drupal-selector="edit-rendered-item" class="form-text form-control" type="text" id="edit-rendered-item" name="rendered_item" value="" size="30" maxlength="128" />
-
-
-
-  </div>
-<div data-drupal-selector="edit-actions" class="form-actions form-group js-form-wrapper form-wrapper" id="edit-actions"><button data-drupal-selector="edit-submit-search-solr" class="button js-form-submit form-submit btn-info btn" type="submit" id="edit-submit-search-solr" value="Apply" name="">Apply</button></div>
+        </div><div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-group" id="edit-actions"><input data-drupal-selector="edit-submit-search-solr" type="submit" id="edit-submit-search-solr" value="Apply" class="button js-form-submit form-submit btn btn-primary form-control" />
+</div>
 
 </div>
 
@@ -242,85 +208,146 @@ function ghosteryAddScript(u,cb){
 
   </section>
 
+          
+          <nav role="navigation" aria-labelledby="block-loggedoutmenu-menu" id="block-loggedoutmenu" data-block-plugin-id="system_menu_block:logged-out-menu" class="block block-menu navigation menu--logged-out-menu">
+            
+  <p class="sr-only" id="block-loggedoutmenu-menu">Logged Out Menu</p>
+  
+
+        
+
+  <div id="accountphoto"></div>
+      <ul block="block-loggedoutmenu" class="clearfix menu menu--logged-out-menu nav">
+                              <li class="expanded dropdown first last">
+                                                      <div class="cavx"><span class="cavx-el"></span></div>
+                                          <span>FDL+ Account</span>
+                        <div id="accountphoto"></div>
+      <ul block="block-loggedoutmenu" class="clearfix dropdown-menu">
+                              <li class="first last">
+                                                  <span class="login-popup">Login or Sign Up</span>
+                  </li>
+          </ul>
+  
+                  </li>
+          </ul>
+  
+
+  </nav>
+
         </div>
       </div>
     </div>
     <div class="header-bottom">
       <div class="inside">
+        
+        <nav role="navigation" aria-labelledby="block-loggedoutmenu-menu" id="block-loggedoutmenu" data-block-plugin-id="system_menu_block:logged-out-menu" class="block block-menu navigation menu--logged-out-menu">
+            
+  <p class="sr-only" id="block-loggedoutmenu-menu">Logged Out Menu</p>
+  
 
+        
+
+  <div id="accountphoto"></div>
+      <ul block="block-loggedoutmenu" class="clearfix menu menu--logged-out-menu nav">
+                              <li class="expanded dropdown first last">
+                                                      <div class="cavx"><span class="cavx-el"></span></div>
+                                          <span>FDL+ Account</span>
+                        <div id="accountphoto"></div>
+      <ul block="block-loggedoutmenu" class="clearfix dropdown-menu">
+                              <li class="first last">
+                                                  <span class="login-popup">Login or Sign Up</span>
+                  </li>
+          </ul>
+  
+                  </li>
+          </ul>
+  
+
+  </nav>
+
+        
         <nav role="navigation" aria-labelledby="block-primarynavigation-2-menu" id="block-primarynavigation-2" data-block-plugin-id="system_menu_block:primary-navigation">
+            
+  <p class="visually-hidden" id="block-primarynavigation-2-menu">Primary Navigation</p>
+  
 
-  <h2 class="visually-hidden" id="block-primarynavigation-2-menu">Primary Navigation</h2>
-
-
-
-      <ul class="menu menu--primary-navigation nav">
+        
+      <ul block="block-primarynavigation-2" class="clearfix menu menu--primary-navigation nav">
                       <li class="expanded dropdown first">
                                             <div class="cav"><span class="cav-el"></span></div>
                                   <a href="/whats-hot" data-drupal-link-system-path="node/98061">What&#039;s Hot</a>
-                        <ul class="dropdown-menu">
+                        <ul block="block-primarynavigation-2" class="clearfix dropdown-menu">
                       <li class="first">
-                                        <a href="/tag/spellegrino-young-chef" data-drupal-link-system-path="taxonomy/term/48216">S.Pellegrino Young Chef</a>
+                                        <a href="https://www.finedininglovers.com/TurningTheTables" title="Watch the Full Talks on the Future of Gastronomy">Turning The Tables</a>
+              </li>
+                      <li>
+                                        <a href="https://www.finedininglovers.com/coronavirus-restaurant-resources" target="_self" title="A Collection of Content for Chefs, Cooks and Restaurant Owners.">Coronavirus: Restaurant Resources</a>
               </li>
                       <li>
                                         <a href="/tag/food-sustainability" data-drupal-link-system-path="taxonomy/term/39361">Food Sustainability</a>
               </li>
                       <li>
-                                        <a href="/tag/female-chefs" data-drupal-link-system-path="taxonomy/term/35616">Female Chefs</a>
+                                        <a href="https://www.finedininglovers.com/tag/food-society" target="_self">Food Society</a>
               </li>
                       <li class="last">
-                                        <a href="https://www.finedininglovers.com/recipes/summer">Summer Recipes</a>
+                                        <a href="/tag/female-chefs" data-drupal-link-system-path="taxonomy/term/35616">Female Chefs</a>
               </li>
         </ul>
-
+  
               </li>
                       <li class="expanded dropdown">
                                             <div class="cav"><span class="cav-el"></span></div>
                                   <a href="/trends" data-drupal-link-system-path="node/98006">Trends</a>
-                        <ul class="dropdown-menu">
+                        <ul block="block-primarynavigation-2" class="clearfix dropdown-menu">
                       <li class="first">
-                                        <a href="/tag/food-culture" data-drupal-link-system-path="taxonomy/term/45641">Food Culture</a>
-              </li>
-                      <li>
-                                        <a href="/tag/food-science" data-drupal-link-system-path="taxonomy/term/45796">Food Science</a>
-              </li>
-                      <li>
-                                        <a href="/tag/food-technology" data-drupal-link-system-path="taxonomy/term/45826">Food Technology</a>
-              </li>
-                      <li class="last">
                                         <a href="/tag/kitchen-culture" data-drupal-link-system-path="taxonomy/term/40246">Kitchen Culture</a>
               </li>
+                      <li>
+                                        <a href="/tag/coronavirus-news" data-drupal-link-system-path="taxonomy/term/50606">Coronavirus News</a>
+              </li>
+                      <li>
+                                        <a href="https://www.finedininglovers.com/tag/food-gifts">Food Gifts</a>
+              </li>
+                      <li>
+                                        <a href="/tag/food-culture" data-drupal-link-system-path="taxonomy/term/45641">Food Culture</a>
+              </li>
+                      <li class="last">
+                                        <a href="/tag/food-science" data-drupal-link-system-path="taxonomy/term/45796">Food Science</a>
+              </li>
         </ul>
-
+  
               </li>
                       <li class="expanded dropdown">
                                             <div class="cav"><span class="cav-el"></span></div>
                                   <a href="/food-and-drinks" data-drupal-link-system-path="node/98011">Food &amp; Drinks</a>
-                        <ul class="dropdown-menu">
+                        <ul block="block-primarynavigation-2" class="clearfix dropdown-menu">
                       <li class="first">
                                         <a href="/recipes" data-drupal-link-system-path="node/98041">Recipes</a>
+              </li>
+                      <li>
+                                        <a href="/tag/inspirational-dishes" data-drupal-link-system-path="taxonomy/term/49606">Inspirational Dishes</a>
               </li>
                       <li>
                                         <a href="/tag/food-facts-z" data-drupal-link-system-path="taxonomy/term/41156">Food Facts A to Z</a>
               </li>
                       <li>
-                                        <a href="/tag/science-food" data-drupal-link-system-path="taxonomy/term/41176">The Science of Food</a>
+                                        <a href="https://www.finedininglovers.com/tag/food-mythbusters">Food Mythbusters</a>
               </li>
                       <li class="last">
-                                        <a href="/tag/inspirational-dishes" data-drupal-link-system-path="taxonomy/term/49606">Inspirational Dishes</a>
+                                        <a href="https://www.finedininglovers.com/home-cooking-suggestion" title="Great chefs tips, ingredients substitutes, fermentation and preservation">Home Cooking Suggestions</a>
               </li>
         </ul>
-
+  
               </li>
                       <li class="expanded dropdown">
                                             <div class="cav"><span class="cav-el"></span></div>
                                   <a href="/people" data-drupal-link-system-path="node/98016">People</a>
-                        <ul class="dropdown-menu">
+                        <ul block="block-primarynavigation-2" class="clearfix dropdown-menu">
                       <li class="first">
                                         <a href="/tag/points-view" data-drupal-link-system-path="taxonomy/term/41196">Points of View</a>
               </li>
                       <li>
-                                        <a href="/tag/famous-chefs" data-drupal-link-system-path="taxonomy/term/45436">Famous Chefs</a>
+                                        <a href="https://www.finedininglovers.com/tag/best-chefs-world">Best Chefs in the World</a>
               </li>
                       <li>
                                         <a href="/tag/young-chefs" data-drupal-link-system-path="taxonomy/term/49611">Young Chefs</a>
@@ -329,17 +356,20 @@ function ghosteryAddScript(u,cb){
                                         <a href="/who-is-who" data-drupal-link-system-path="node/97971">Who is Who</a>
               </li>
         </ul>
-
+  
               </li>
                       <li class="expanded dropdown">
                                             <div class="cav"><span class="cav-el"></span></div>
                                   <a href="/places" data-drupal-link-system-path="node/98021">Places</a>
-                        <ul class="dropdown-menu">
+                        <ul block="block-primarynavigation-2" class="clearfix dropdown-menu">
                       <li class="first">
                                         <a href="/tag/culinary-stops" data-drupal-link-system-path="taxonomy/term/49661">Culinary Stops</a>
               </li>
                       <li>
-                                        <a href="/tag/city-tasting-tour" data-drupal-link-system-path="taxonomy/term/31436">City Tasting Tour</a>
+                                        <a href="https://www.finedininglovers.com/tag/city-tasting-tour" title="Best Restaurants around the World">City Tasting Tours</a>
+              </li>
+                      <li>
+                                        <a href="/world-best-restaurarants-maps" data-drupal-link-system-path="node/107106">Restaurants Maps</a>
               </li>
                       <li>
                                         <a href="/tag/affordable-luxury" data-drupal-link-system-path="taxonomy/term/41181">Affordable Luxury</a>
@@ -348,12 +378,12 @@ function ghosteryAddScript(u,cb){
                                         <a href="/top-destinations" data-drupal-link-system-path="node/97966">Top Destinations</a>
               </li>
         </ul>
-
+  
               </li>
                       <li class="expanded dropdown last">
                                             <div class="cav"><span class="cav-el"></span></div>
                                   <a href="/events" data-drupal-link-system-path="node/98026">Events</a>
-                        <ul class="dropdown-menu">
+                        <ul block="block-primarynavigation-2" class="clearfix dropdown-menu">
                       <li class="first">
                                         <a href="/worldwide-calendar" data-drupal-link-system-path="node/98001">Worldwide Calendar</a>
               </li>
@@ -361,84 +391,109 @@ function ghosteryAddScript(u,cb){
                                         <a href="/tag/spellegrino-young-chef" data-drupal-link-system-path="taxonomy/term/48216">S.Pellegrino Young Chef</a>
               </li>
                       <li>
-                                        <a href="/tag/latin-america-50-best-restaurants" data-drupal-link-system-path="taxonomy/term/46951">Latin America&#039;s 50 Best Restaurants</a>
-              </li>
-                      <li class="last">
                                         <a href="/tag/food-festivals" data-drupal-link-system-path="taxonomy/term/45686">Food Festivals</a>
               </li>
-        </ul>
-
+                      <li class="last">
+                                        <a href="https://www.finedininglovers.com/tag/asia-50-best-restaurants">Asia&#039;s 50 Best Restaurants</a>
               </li>
         </ul>
-
+  
+              </li>
+        </ul>
+  
 
   </nav>
 
         <nav role="navigation" aria-labelledby="block-secondarynavigation-2-menu" id="block-secondarynavigation-2" data-block-plugin-id="system_menu_block:secondary-navigation">
+            
+  <p class="visually-hidden" id="block-secondarynavigation-2-menu">Secondary Navigation</p>
+  
 
-  <h2 class="visually-hidden" id="block-secondarynavigation-2-menu">Secondary Navigation</h2>
-
-
-
-      <ul class="menu menu--secondary-navigation nav">
+        
+      <ul block="block-secondarynavigation-2" class="clearfix menu menu--secondary-navigation nav">
                       <li class="first">
                                         <a href="/galleries" data-drupal-link-system-path="node/98031">GALLERIES</a>
               </li>
-                      <li class="last">
+                      <li>
                                         <a href="/videos" data-drupal-link-system-path="node/98051">VIDEOS</a>
               </li>
+                      <li>
+                                        <a href="/podcasts" data-drupal-link-system-path="node/115556">PODCASTS</a>
+              </li>
+                      <li class="last">
+                                        <a href="https://www.finedininglovers.com/tag/food-maps">FOOD MAPS</a>
+              </li>
         </ul>
-
+  
 
   </nav>
 
         <nav role="navigation" aria-labelledby="block-tertiarynavigation-menu" id="block-tertiarynavigation" data-block-plugin-id="system_menu_block:tertiary-navigation">
+            
+  <p class="visually-hidden" id="block-tertiarynavigation-menu">Tertiary Navigation</p>
+  
 
-  <h2 class="visually-hidden" id="block-tertiarynavigation-menu">Tertiary Navigation</h2>
-
-
-
-      <ul class="menu menu--tertiary-navigation nav">
-                      <li class="first last">
+        
+      <ul block="block-tertiarynavigation" class="clearfix menu menu--tertiary-navigation nav">
+                      <li class="first">
                                         <a href="/contacts" data-drupal-link-system-path="node/97976">Contacts</a>
               </li>
+                      <li>
+                                        <a href="https://www.finedininglovers.it/" target="_blank">Italian Edition</a>
+              </li>
+                      <li>
+                                        <a href="https://www.finedininglovers.fr/">French Edition</a>
+              </li>
+                      <li class="last">
+                                        <a href="https://www.finedininglovers.com/es/">Spanish Edition</a>
+              </li>
         </ul>
-
+  
 
   </nav>
 
-        <section class="views-element-container block block-views block-views-blocksocial-social-mobile clearfix" id="block-views-block-social-social-mobile" data-block-plugin-id="views_block:social-social_mobile">
-
-
-
-      <div class="form-group"><div class="view view-social view-id-social view-display-id-social_mobile js-view-dom-id-657cb32a285c75452a0a665f9bfccf2f7ec7b874e5bac53d5af499e4ee01e975">
-
-
-
-      <div class="view-content">
+        <div class="views-element-container block block-views block-views-blocksocial-social-mobile" id="block-views-block-social-social-mobile" data-block-plugin-id="views_block:social-social_mobile">
+  
+    
+      <div class="content">
+      <div><div class="view view-social view-id-social view-display-id-social_mobile js-view-dom-id-e0324bc2f91a12312566a700adc8075415fe4771cb736ec9d6bff76e6282fb20">
+  
+    
+      
+      <div class="view-content row">
           <div class="views-row">
-<a href="https://www.instagram.com/finedininglovers/" target="_blank"><img src="/sites/g/files/xknfdk626/files/2019-07/instagram-w_2.svg" alt=""></a>
-</div>
+    
+<a href="https://www.instagram.com/finedininglovers/" target="_blank"><img src="/sites/g/files/xknfdk626/files/2019-07/instagram-w_2.svg" alt="Instagram"></a>
+
+  </div>
     <div class="views-row">
-<a href="https://www.facebook.com/FineDiningLovers" target="_blank"><img src="/sites/g/files/xknfdk626/files/2019-07/facebook-logo-w_0.svg" alt=""></a>
-</div>
+    
+<a href="https://www.facebook.com/FineDiningLovers" target="_blank"><img src="/sites/g/files/xknfdk626/files/2019-07/facebook-logo-w_0.svg" alt="Facebook"></a>
+
+  </div>
     <div class="views-row">
-<a href="https://twitter.com/finedininglover" target="_blank"><img src="/sites/g/files/xknfdk626/files/2019-07/twitter-logo-silhouette-w_0.svg" alt=""></a>
-</div>
+    
+<a href="https://twitter.com/finedininglover" target="_blank"><img src="/sites/g/files/xknfdk626/files/2019-07/twitter-logo-silhouette-w_0.svg" alt="Twitter"></a>
+
+  </div>
     <div class="views-row">
-<a href="https://www.youtube.com/finedininglovers" target="_blank"><img src="/sites/g/files/xknfdk626/files/2019-07/youtube-w_0.svg" alt=""></a>
-</div>
+    
+<a href="https://www.youtube.com/finedininglovers" target="_blank"><img src="/sites/g/files/xknfdk626/files/2019-07/youtube-w_0.svg" alt="YouTube"></a>
+
+  </div>
     <div class="views-row">
-<a href="https://www.pinterest.com/finedininglover/" target="_blank"><img src="/sites/g/files/xknfdk626/files/2019-07/pinterest-w_0.svg" alt=""></a>
-</div>
+    
+<a href="https://www.pinterest.com/finedininglover/" target="_blank"><img src="/sites/g/files/xknfdk626/files/2019-07/pinterest-w_0.svg" alt="Pinterest"></a>
+
+  </div>
 
     </div>
-
+  
           </div>
 </div>
 
-  </section>
-
+    </div>
+  </div>
 
       </div>
     </div>
@@ -456,20 +511,20 @@ function ghosteryAddScript(u,cb){
     <div role="main" class="main-container container js-quickedit-main-content">
       <div class="row">
 
+                
+                        <section class="main-content col col-sm-12 full-width" id="content" role="main">
 
-                        <section class="col-sm-12 full-width">
+                                              <div class="highlighted">  <div data-drupal-messages-fallback class="hidden"></div>
 
-                                              <div class="highlighted">  <div class="region region-highlighted">
-    <div data-drupal-messages-fallback class="hidden"></div>
-
-  </div>
 </div>
-
-
+                      
+                    
                                 <a id="main-content"></a>
-              <div class="region region-content">
-        <h1 class="page-header">Zucchini Raw Vegan Lasagna</h1>
-
+              <div id="block-fdl-content" data-block-plugin-id="system_main_block" class="block block-system block-system-main-block">
+  
+    
+      <div class="content">
+      
 
 
 
@@ -478,73 +533,121 @@ function ghosteryAddScript(u,cb){
     <div class="upper-zone row">
       <div class="info col-sm-12">
         <div class="image-zone left-side">
+          
+            <div data-blazy="" class="blazy blazy--field blazy--field-fdl-content-image blazy--field-fdl-content-image--default field field--name-field-fdl-content-image field--type-image field--label-hidden field__item">
 
-            <div class="blazy field field--name-field-fdl-content-image field--type-image field--label-hidden field--item" data-blazy="">
 
 
-
-                    <div class="media media--blazy media--loading media--responsive media--image">
+                    <div class="media media--bundle--nw-recipe media--blazy media--loading media--responsive media--image">
+      
+      
+      
         <picture>
-                <!--[if IE 9]><video style="display: none;"><![endif]-->
-              <source media="all and (min-width: 768px)" type="image/jpeg" data-srcset="/sites/g/files/xknfdk626/files/styles/recipe_full_desktop/public/Original_2242_zucchini-lasagna-raw-vegan.jpg?itok=RW8L9J7f 1x, /sites/g/files/xknfdk626/files/styles/recipe_full_desktop/public/Original_2242_zucchini-lasagna-raw-vegan.jpg?itok=RW8L9J7f 2x"/>
-              <source media="all and (max-width: 767px)" type="image/jpeg" data-srcset="/sites/g/files/xknfdk626/files/styles/recipe_full_mobile/public/Original_2242_zucchini-lasagna-raw-vegan.jpg?itok=eYW9Fm7L 1x, /sites/g/files/xknfdk626/files/styles/recipe_full_mobile/public/Original_2242_zucchini-lasagna-raw-vegan.jpg?itok=eYW9Fm7L 2x"/>
-            <!--[if IE 9]></video><![endif]-->
-            <img class="media__image media__element b-lazy b-responsive img-responsive" data-src="/sites/g/files/xknfdk626/files/styles/recipe_full_desktop/public/Original_2242_zucchini-lasagna-raw-vegan.jpg?itok=RW8L9J7f" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Zucchini Raw Vegan Lasagna" typeof="foaf:Image" />
+                  <source media="all and (min-width: 75em)" type="image/jpeg" data-srcset="/sites/g/files/xknfdk626/files/styles/recipe_full_desktop/public/Original_2242_zucchini-lasagna-raw-vegan.jpg?itok=RW8L9J7f 1x"/>
+              <source media="all and (min-width: 62em) and (max-width: 74.99em)" type="image/jpeg" data-srcset="/sites/g/files/xknfdk626/files/styles/recipe_full_desktop/public/Original_2242_zucchini-lasagna-raw-vegan.jpg?itok=RW8L9J7f 1x"/>
+              <source media="all and (min-width: 48em) and (max-width: 61.99em)" type="image/jpeg" data-srcset="/sites/g/files/xknfdk626/files/styles/recipe_full_desktop/public/Original_2242_zucchini-lasagna-raw-vegan.jpg?itok=RW8L9J7f 1x"/>
+              <source media="all and (min-width: 34em) and (max-width: 47.99em)" type="image/jpeg" data-srcset="/sites/g/files/xknfdk626/files/styles/recipe_full_mobile/public/Original_2242_zucchini-lasagna-raw-vegan.jpg?itok=eYW9Fm7L 1x"/>
+                  <img class="media__image media__element b-lazy b-responsive img-responsive" loading="lazy" data-src="/sites/g/files/xknfdk626/files/styles/recipe_full_desktop/public/Original_2242_zucchini-lasagna-raw-vegan.jpg?itok=RW8L9J7f" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D&#039;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&#039; viewBox%3D&#039;0 0 570 380&#039;%2F%3E" alt="Zucchini Raw Vegan Lasagna" typeof="foaf:Image" />
 
   </picture>
 
+      
+                  
+      
 
-
+            
+      
     </div>
+        
+  
+  
 
 
 </div>
-
-
+      
+          
         </div>
         <div class="content-zone">
                       <div class="field--name-field-recipe-ref-cat">
-            <div class="field field--name-field-tag-primary field--type-entity-reference field--label-hidden field--item"><a href="/tag/gourmet-recipes" hreflang="en">Gourmet Recipes</a></div>
+            <div class="field field--name-field-tag-primary field--type-entity-reference field--label-hidden field__item"><a href="/tag/gourmet-recipes" hreflang="en">Gourmet Recipes</a></div>
       </div>
-                    <div class="gallery-social"><div class="share-container a2a_kit" data-a2a-icon-color="white, black">
+                    <div class="gallery-social gallery-custom-mobile">
+            <div class="mobile-open"></div>
+              <div class="social-share">
+                <div class="share-container a2a_kit" data-a2a-icon-color="white, black">
   <a class="a2a_button_facebook"></a>
 <a class="a2a_button_twitter"></a>
 <a class="a2a_button_pinterest"></a>
 <a class="a2a_button_linkedin"></a>
 </div>
-</div>
-          <h3>Zucchini Raw Vegan Lasagna</h3>
 
-            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><p>An easy raw vegan lasagna recipe made with zucchini, basil pesto and macadamia cheese: a tasty dish, perfect whether you follow a vegan or a raw food diet. Yum!</p>
-</div>
-
-          <div class="author">
-
+              </div>
+              <div class="line"></div>
+              <div class="bookmark">
+                                  <a class="use-ajax bookmark-add" href="/bookmark/add/node/90241"><img src="/themes/custom/fdl/images/bookmark.svg"></a>
+                              </div>
           </div>
-          <div class="date">July 20, 2012</div>
+          <h1 class="recipe-full-class">Zucchini Raw Vegan Lasagna</h1>
+          
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>An easy raw vegan lasagna recipe made with zucchini, basil pesto and macadamia cheese: a tasty dish, perfect whether you follow a vegan or a raw food diet. Yum!</p>
+</div>
+      
+          <div class="author">
+            
+            <div class="field field--name-field-author field--type-entity-reference field--label-hidden field__item"><div class="author-details">
+    
+  <div class="author-name">
+    <span>BY</span><a  class="link-unstyled" >Uno Cookbook<span class="detail-comma">,</span></a>
+  </div>
+  
+            <div class="field field--name-field-tag-primary field--type-entity-reference field--label-hidden field__item"><a href="/tag/journalist" hreflang="en">Journalist</a></div>
+      
+</div>
+</div>
+      
+          </div>
+          <div class="date">20 July, 2012</div>
+          
+            <div class="field field--name-field-fivestar-rating field--type-fivestar field--label-hidden field__item">
+<form class="fivestar-form-1" id="vote" data-drupal-selector="fivestar-form-1" action="/recipes/main-course/zucchini-raw-vegan-lasagna" method="post" accept-charset="UTF-8">
+  <div class="clearfix fivestar-average-text fivestar-average-stars fivestar-form-item fivestar-basic"><div class="js-form-item form-item js-form-type-fivestar form-item-vote js-form-item-vote form-no-label">
+        <div class="js-form-item form-item js-form-type-select form-item-vote js-form-item-vote form-no-label">
+        
+<select class="vote form-select" data-drupal-selector="edit-vote" aria-describedby="edit-vote--2--description" id="edit-vote--2" name="vote"><option value="-">Select rating</option><option value="20">Give it 1/5</option><option value="40">Give it 2/5</option><option value="60" selected="selected">Give it 3/5</option><option value="80">Give it 4/5</option><option value="100">Give it 5/5</option></select>
+            <div id="edit-vote--2--description" class="description">
+      <div class="fivestar-summary fivestar-summary-average-count"><span class="average-rating">Average: <span >2.8</span></span> <span class="total-votes">(23 votes)</span></div>
+    </div>
+  </div>
+        </div></div><input style="display:none" data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="op" value="Rate" class="button js-form-submit form-submit btn btn-primary form-control" />
+<input autocomplete="off" data-drupal-selector="form-ymkw9ugnpy7gi0tchsjg5j0lfxgyj226gvppjmuyx2m" type="hidden" name="form_build_id" value="form-YMKW9uGnPy7gI0tcHSjG5J0LfXgYJ226gVPpJmuYX2M" class="form-control" />
+<input data-drupal-selector="edit-fivestar-form-1" type="hidden" name="form_id" value="fivestar_form_1" class="form-control" />
+
+</form>
+</div>
+      
         </div>
       </div>
       <div class="timeline col-sm-12">
-
-
+        
+        
                   <div class="col">
-            <h4>Dietary Consideration</h4>
-
-            <div class="field field--name-field-recipe-ref-diet field--type-entity-reference field--label-hidden field--item"><a href="/recipes/vegan" hreflang="en">Vegan</a></div>
-
+            <h3>Dietary Consideration</h3>
+            
+            <div class="field field--name-field-recipe-ref-diet field--type-entity-reference field--label-hidden field__item"><a href="/recipes/vegan" hreflang="en">Vegan</a></div>
+      
           </div>
-
-
-
+        
+        
+        
                   <div class="col">
-            <h4>serves for</h4>
-
-            <div class="field field--name-field-recipe-serving-num field--type-integer field--label-hidden field--item">4</div>
-
+            <h3>serves for</h3>
+            
+            <div class="field field--name-field-recipe-serving-num field--type-integer field--label-hidden field__item">4</div>
+      
           </div>
-
+        
                 <div class="col">
-          <h4>total time</h4>
+          <h3>total time</h3>
           <div class="timing">
                           0
               <span>HR</span>
@@ -558,295 +661,277 @@ function ghosteryAddScript(u,cb){
     <div class="bottom-zone row">
       <div class="right-zone col-sm-4">
         <div class="ingredients-box bgrandom-1">
-          <div class="title-section">
-            <h4>ingredients</h4>
+          <div class="title-section recipe-heading">
+            <h3>ingredients</h3>
           </div>
+          
+      <div class="field field--name-field-recipe-para-ingredients field--type-entity-reference-revisions field--label-hidden field__items">
+              <div class="field__item">
 
-      <div class="field field--name-field-recipe-para-ingredients field--type-entity-reference-revisions field--label-hidden field--items">
-              <div class="field--item">
-
-  <div class="clearfix paragraph paragraph--type--recipe-ingredient paragraph--view-mode--default">
-
-            <div class="field field--name-field-recipe-ref-ingredient field--type-entity-reference field--label-hidden field--item">zucchini</div>
-
-
-            <div class="field field--name-field-recipe-ingredient-quantity field--type-string field--label-hidden field--item">4 each, large</div>
-
+  <div class="clearfix paragraph--213696 paragraph paragraph--type--recipe-ingredient paragraph--view-mode--default">
+                
+            <div class="field field--name-field-recipe-ref-ingredient field--type-entity-reference field--label-hidden field__item">zucchini</div>
+      
+            
+            <div class="field field--name-field-recipe-ingredient-quantity field--type-string field--label-hidden field__item">4 each, large</div>
+      
       </div>
 </div>
-              <div class="field--item">
+              <div class="field__item">
 
-  <div class="clearfix paragraph paragraph--type--recipe-ingredient paragraph--view-mode--default">
-
-            <div class="field field--name-field-recipe-ref-ingredient field--type-entity-reference field--label-hidden field--item">basil</div>
-
-
-            <div class="field field--name-field-recipe-ingredient-quantity field--type-string field--label-hidden field--item">20 g, fresh</div>
-
+  <div class="clearfix paragraph--213701 paragraph paragraph--type--recipe-ingredient paragraph--view-mode--default">
+                
+            <div class="field field--name-field-recipe-ref-ingredient field--type-entity-reference field--label-hidden field__item">basil</div>
+      
+            
+            <div class="field field--name-field-recipe-ingredient-quantity field--type-string field--label-hidden field__item">20 g, fresh</div>
+      
       </div>
 </div>
-              <div class="field--item">
+              <div class="field__item">
 
-  <div class="clearfix paragraph paragraph--type--recipe-ingredient paragraph--view-mode--default">
-
-            <div class="field field--name-field-recipe-ref-ingredient field--type-entity-reference field--label-hidden field--item">Pine nuts</div>
-
-
-            <div class="field field--name-field-recipe-ingredient-quantity field--type-string field--label-hidden field--item">70 g</div>
-
+  <div class="clearfix paragraph--213706 paragraph paragraph--type--recipe-ingredient paragraph--view-mode--default">
+                
+            <div class="field field--name-field-recipe-ref-ingredient field--type-entity-reference field--label-hidden field__item">Pine nuts</div>
+      
+            
+            <div class="field field--name-field-recipe-ingredient-quantity field--type-string field--label-hidden field__item">70 g</div>
+      
       </div>
 </div>
-              <div class="field--item">
+              <div class="field__item">
 
-  <div class="clearfix paragraph paragraph--type--recipe-ingredient paragraph--view-mode--default">
-
-            <div class="field field--name-field-recipe-ref-ingredient field--type-entity-reference field--label-hidden field--item">Extra-virgin olive oil</div>
-
-
-            <div class="field field--name-field-recipe-ingredient-quantity field--type-string field--label-hidden field--item">120 ml</div>
-
+  <div class="clearfix paragraph--213711 paragraph paragraph--type--recipe-ingredient paragraph--view-mode--default">
+                
+            <div class="field field--name-field-recipe-ref-ingredient field--type-entity-reference field--label-hidden field__item">Extra-virgin olive oil</div>
+      
+            
+            <div class="field field--name-field-recipe-ingredient-quantity field--type-string field--label-hidden field__item">120 ml</div>
+      
       </div>
 </div>
-              <div class="field--item">
+              <div class="field__item">
 
-  <div class="clearfix paragraph paragraph--type--recipe-ingredient paragraph--view-mode--default">
-
-            <div class="field field--name-field-recipe-ref-ingredient field--type-entity-reference field--label-hidden field--item">Yeast flakes</div>
-
-
-            <div class="field field--name-field-recipe-ingredient-quantity field--type-string field--label-hidden field--item">6 g</div>
-
+  <div class="clearfix paragraph--213716 paragraph paragraph--type--recipe-ingredient paragraph--view-mode--default">
+                
+            <div class="field field--name-field-recipe-ref-ingredient field--type-entity-reference field--label-hidden field__item">Yeast flakes</div>
+      
+            
+            <div class="field field--name-field-recipe-ingredient-quantity field--type-string field--label-hidden field__item">6 g</div>
+      
       </div>
 </div>
-              <div class="field--item">
+              <div class="field__item">
 
-  <div class="clearfix paragraph paragraph--type--recipe-ingredient paragraph--view-mode--default">
-
-            <div class="field field--name-field-recipe-ref-ingredient field--type-entity-reference field--label-hidden field--item">Garlic</div>
-
-
-            <div class="field field--name-field-recipe-ingredient-quantity field--type-string field--label-hidden field--item">1/2 clove</div>
-
+  <div class="clearfix paragraph--213721 paragraph paragraph--type--recipe-ingredient paragraph--view-mode--default">
+                
+            <div class="field field--name-field-recipe-ref-ingredient field--type-entity-reference field--label-hidden field__item">Garlic</div>
+      
+            
+            <div class="field field--name-field-recipe-ingredient-quantity field--type-string field--label-hidden field__item">1/2 clove</div>
+      
       </div>
 </div>
-              <div class="field--item">
+              <div class="field__item">
 
-  <div class="clearfix paragraph paragraph--type--recipe-ingredient paragraph--view-mode--default">
-
-            <div class="field field--name-field-recipe-ref-ingredient field--type-entity-reference field--label-hidden field--item">salt</div>
-
-
-            <div class="field field--name-field-recipe-ingredient-quantity field--type-string field--label-hidden field--item">1 pinch</div>
-
+  <div class="clearfix paragraph--213726 paragraph paragraph--type--recipe-ingredient paragraph--view-mode--default">
+                
+            <div class="field field--name-field-recipe-ref-ingredient field--type-entity-reference field--label-hidden field__item">salt</div>
+      
+            
+            <div class="field field--name-field-recipe-ingredient-quantity field--type-string field--label-hidden field__item">1 pinch</div>
+      
       </div>
 </div>
-              <div class="field--item">
+              <div class="field__item">
 
-  <div class="clearfix paragraph paragraph--type--recipe-ingredient paragraph--view-mode--default">
-
-            <div class="field field--name-field-recipe-ref-ingredient field--type-entity-reference field--label-hidden field--item">Tomato</div>
-
-
-            <div class="field field--name-field-recipe-ingredient-quantity field--type-string field--label-hidden field--item">200 g</div>
-
+  <div class="clearfix paragraph--213731 paragraph paragraph--type--recipe-ingredient paragraph--view-mode--default">
+                
+            <div class="field field--name-field-recipe-ref-ingredient field--type-entity-reference field--label-hidden field__item">Tomato</div>
+      
+            
+            <div class="field field--name-field-recipe-ingredient-quantity field--type-string field--label-hidden field__item">200 g</div>
+      
       </div>
 </div>
-              <div class="field--item">
+              <div class="field__item">
 
-  <div class="clearfix paragraph paragraph--type--recipe-ingredient paragraph--view-mode--default">
-
-            <div class="field field--name-field-recipe-ref-ingredient field--type-entity-reference field--label-hidden field--item">Sundried tomato</div>
-
-
-            <div class="field field--name-field-recipe-ingredient-quantity field--type-string field--label-hidden field--item">4 each</div>
-
+  <div class="clearfix paragraph--213736 paragraph paragraph--type--recipe-ingredient paragraph--view-mode--default">
+                
+            <div class="field field--name-field-recipe-ref-ingredient field--type-entity-reference field--label-hidden field__item">Sundried tomato</div>
+      
+            
+            <div class="field field--name-field-recipe-ingredient-quantity field--type-string field--label-hidden field__item">4 each</div>
+      
       </div>
 </div>
-              <div class="field--item">
+              <div class="field__item">
 
-  <div class="clearfix paragraph paragraph--type--recipe-ingredient paragraph--view-mode--default">
-
-            <div class="field field--name-field-recipe-ref-ingredient field--type-entity-reference field--label-hidden field--item">Extra-virgin olive oil</div>
-
-
-            <div class="field field--name-field-recipe-ingredient-quantity field--type-string field--label-hidden field--item">30 ml</div>
-
+  <div class="clearfix paragraph--213741 paragraph paragraph--type--recipe-ingredient paragraph--view-mode--default">
+                
+            <div class="field field--name-field-recipe-ref-ingredient field--type-entity-reference field--label-hidden field__item">Extra-virgin olive oil</div>
+      
+            
+            <div class="field field--name-field-recipe-ingredient-quantity field--type-string field--label-hidden field__item">30 ml</div>
+      
       </div>
 </div>
-              <div class="field--item">
+              <div class="field__item">
 
-  <div class="clearfix paragraph paragraph--type--recipe-ingredient paragraph--view-mode--default">
-
-            <div class="field field--name-field-recipe-ref-ingredient field--type-entity-reference field--label-hidden field--item">salt</div>
-
-
-            <div class="field field--name-field-recipe-ingredient-quantity field--type-string field--label-hidden field--item">1 pinch</div>
-
+  <div class="clearfix paragraph--213746 paragraph paragraph--type--recipe-ingredient paragraph--view-mode--default">
+                
+            <div class="field field--name-field-recipe-ref-ingredient field--type-entity-reference field--label-hidden field__item">salt</div>
+      
+            
+            <div class="field field--name-field-recipe-ingredient-quantity field--type-string field--label-hidden field__item">1 pinch</div>
+      
       </div>
 </div>
-              <div class="field--item">
+              <div class="field__item">
 
-  <div class="clearfix paragraph paragraph--type--recipe-ingredient paragraph--view-mode--default">
-
-            <div class="field field--name-field-recipe-ref-ingredient field--type-entity-reference field--label-hidden field--item">Pepper</div>
-
-
-            <div class="field field--name-field-recipe-ingredient-quantity field--type-string field--label-hidden field--item">1 pinch</div>
-
+  <div class="clearfix paragraph--213751 paragraph paragraph--type--recipe-ingredient paragraph--view-mode--default">
+                
+            <div class="field field--name-field-recipe-ref-ingredient field--type-entity-reference field--label-hidden field__item">Pepper</div>
+      
+            
+            <div class="field field--name-field-recipe-ingredient-quantity field--type-string field--label-hidden field__item">1 pinch</div>
+      
       </div>
 </div>
-              <div class="field--item">
+              <div class="field__item">
 
-  <div class="clearfix paragraph paragraph--type--recipe-ingredient paragraph--view-mode--default">
-
-            <div class="field field--name-field-recipe-ref-ingredient field--type-entity-reference field--label-hidden field--item">Brown sugar</div>
-
-
-            <div class="field field--name-field-recipe-ingredient-quantity field--type-string field--label-hidden field--item">1 pinch</div>
-
+  <div class="clearfix paragraph--213756 paragraph paragraph--type--recipe-ingredient paragraph--view-mode--default">
+                
+            <div class="field field--name-field-recipe-ref-ingredient field--type-entity-reference field--label-hidden field__item">Brown sugar</div>
+      
+            
+            <div class="field field--name-field-recipe-ingredient-quantity field--type-string field--label-hidden field__item">1 pinch</div>
+      
       </div>
 </div>
-              <div class="field--item">
+              <div class="field__item">
 
-  <div class="clearfix paragraph paragraph--type--recipe-ingredient paragraph--view-mode--default">
-
-            <div class="field field--name-field-recipe-ref-ingredient field--type-entity-reference field--label-hidden field--item">Dried oregano</div>
-
-
-            <div class="field field--name-field-recipe-ingredient-quantity field--type-string field--label-hidden field--item">to taste</div>
-
+  <div class="clearfix paragraph--213761 paragraph paragraph--type--recipe-ingredient paragraph--view-mode--default">
+                
+            <div class="field field--name-field-recipe-ref-ingredient field--type-entity-reference field--label-hidden field__item">Dried oregano</div>
+      
+            
+            <div class="field field--name-field-recipe-ingredient-quantity field--type-string field--label-hidden field__item">to taste</div>
+      
       </div>
 </div>
-              <div class="field--item">
+              <div class="field__item">
 
-  <div class="clearfix paragraph paragraph--type--recipe-ingredient paragraph--view-mode--default">
-
-            <div class="field field--name-field-recipe-ref-ingredient field--type-entity-reference field--label-hidden field--item">Macadamia nuts</div>
-
-
-            <div class="field field--name-field-recipe-ingredient-quantity field--type-string field--label-hidden field--item">150 g (not roasted, unsalted)</div>
-
+  <div class="clearfix paragraph--213766 paragraph paragraph--type--recipe-ingredient paragraph--view-mode--default">
+                
+            <div class="field field--name-field-recipe-ref-ingredient field--type-entity-reference field--label-hidden field__item">Macadamia nuts</div>
+      
+            
+            <div class="field field--name-field-recipe-ingredient-quantity field--type-string field--label-hidden field__item">150 g (not roasted, unsalted)</div>
+      
       </div>
 </div>
-              <div class="field--item">
+              <div class="field__item">
 
-  <div class="clearfix paragraph paragraph--type--recipe-ingredient paragraph--view-mode--default">
-
-            <div class="field field--name-field-recipe-ref-ingredient field--type-entity-reference field--label-hidden field--item">Yeast flakes</div>
-
-
-            <div class="field field--name-field-recipe-ingredient-quantity field--type-string field--label-hidden field--item">6 g</div>
-
+  <div class="clearfix paragraph--213771 paragraph paragraph--type--recipe-ingredient paragraph--view-mode--default">
+                
+            <div class="field field--name-field-recipe-ref-ingredient field--type-entity-reference field--label-hidden field__item">Yeast flakes</div>
+      
+            
+            <div class="field field--name-field-recipe-ingredient-quantity field--type-string field--label-hidden field__item">6 g</div>
+      
       </div>
 </div>
-              <div class="field--item">
+              <div class="field__item">
 
-  <div class="clearfix paragraph paragraph--type--recipe-ingredient paragraph--view-mode--default">
-
-            <div class="field field--name-field-recipe-ref-ingredient field--type-entity-reference field--label-hidden field--item">salt</div>
-
-
-            <div class="field field--name-field-recipe-ingredient-quantity field--type-string field--label-hidden field--item">1 pinch</div>
-
+  <div class="clearfix paragraph--213776 paragraph paragraph--type--recipe-ingredient paragraph--view-mode--default">
+                
+            <div class="field field--name-field-recipe-ref-ingredient field--type-entity-reference field--label-hidden field__item">salt</div>
+      
+            
+            <div class="field field--name-field-recipe-ingredient-quantity field--type-string field--label-hidden field__item">1 pinch</div>
+      
       </div>
 </div>
-              <div class="field--item">
+              <div class="field__item">
 
-  <div class="clearfix paragraph paragraph--type--recipe-ingredient paragraph--view-mode--default">
-
-            <div class="field field--name-field-recipe-ref-ingredient field--type-entity-reference field--label-hidden field--item">lime</div>
-
-
-            <div class="field field--name-field-recipe-ingredient-quantity field--type-string field--label-hidden field--item">1 (juice only, filtered)</div>
-
+  <div class="clearfix paragraph--213781 paragraph paragraph--type--recipe-ingredient paragraph--view-mode--default">
+                
+            <div class="field field--name-field-recipe-ref-ingredient field--type-entity-reference field--label-hidden field__item">Lime</div>
+      
+            
+            <div class="field field--name-field-recipe-ingredient-quantity field--type-string field--label-hidden field__item">1 (juice only, filtered)</div>
+      
       </div>
 </div>
-              <div class="field--item">
+              <div class="field__item">
 
-  <div class="clearfix paragraph paragraph--type--recipe-ingredient paragraph--view-mode--default">
-
-            <div class="field field--name-field-recipe-ref-ingredient field--type-entity-reference field--label-hidden field--item">water</div>
-
-
-            <div class="field field--name-field-recipe-ingredient-quantity field--type-string field--label-hidden field--item">50 ml (filtered)</div>
-
+  <div class="clearfix paragraph--213786 paragraph paragraph--type--recipe-ingredient paragraph--view-mode--default">
+                  <div class="field--name-field-recipe-ref-ingredient">
+          <a href=""></a>
+        </div>
+            
+            <div class="field field--name-field-recipe-ingredient-quantity field--type-string field--label-hidden field__item">50 ml (filtered)</div>
+      
       </div>
 </div>
           </div>
-
+  
         </div>
       </div>
       <div class="left-zone col-sm-8">
         <div class="ante-body">
-          <h3>Preparation</h3>
-
+          <h2 class="node-recipe-title">Preparation</h2>
+          
         </div>
-
+        
 
       <div class="field field--name-field-recipe-para-steps field--type-entity-reference-revisions field--label-hidden field--items">
-              <div class="steps">
+              <h2 class="steps">
           <span class="step">Step</span>
           <span class="currentstep">01</span>
-        </div>
+        </h2>
         <div class="field--item">
 
-<div class="clearfix paragraph paragraph--type--recipe-step paragraph--view-mode--default">
-  <div class="image-zone">
-    <div class="image-wrap">
-
-
-    </div>
-  </div>
-
-            <div class="field field--name-field-body field--type-text-long field--label-hidden field--item"><p><strong>For the macadamia cheese</strong></p>
+<div class="clearfix paragraph--302716 paragraph paragraph--type--recipe-step paragraph--view-mode--default">
+    
+            <div class="clearfix text-formatted field field--name-field-body field--type-text-long field--label-hidden field__item"><p><strong>For the macadamia cheese</strong></p>
 <ul>
 <li>Pour all<strong> ingredients</strong> in a blender and mix until a thick <strong>cream</strong>.</li>
 <li>Set aside.</li>
 </ul>
 </div>
-
+      
 </div>
 
 </div>
-              <div class="steps">
+              <h2 class="steps">
           <span class="step">Step</span>
           <span class="currentstep">02</span>
-        </div>
+        </h2>
         <div class="field--item">
 
-<div class="clearfix paragraph paragraph--type--recipe-step paragraph--view-mode--default">
-  <div class="image-zone">
-    <div class="image-wrap">
-
-
-    </div>
-  </div>
-
-            <div class="field field--name-field-body field--type-text-long field--label-hidden field--item"><p><strong>For the tomato cream</strong></p>
+<div class="clearfix paragraph--302721 paragraph paragraph--type--recipe-step paragraph--view-mode--default">
+    
+            <div class="clearfix text-formatted field field--name-field-body field--type-text-long field--label-hidden field__item"><p><strong>For the tomato cream</strong></p>
 <ul>
 <li>Pour all <strong>ingredients </strong>into a blender and mix until <strong>creamy</strong>.</li>
 <li>Set aside.</li>
 </ul>
 </div>
-
+      
 </div>
 
 </div>
-              <div class="steps">
+              <h2 class="steps">
           <span class="step">Step</span>
           <span class="currentstep">03</span>
-        </div>
+        </h2>
         <div class="field--item">
 
-<div class="clearfix paragraph paragraph--type--recipe-step paragraph--view-mode--default">
-  <div class="image-zone">
-    <div class="image-wrap">
-
-
-    </div>
-  </div>
-
-            <div class="field field--name-field-body field--type-text-long field--label-hidden field--item"><p><strong>For the basil pesto</strong></p>
+<div class="clearfix paragraph--302726 paragraph paragraph--type--recipe-step paragraph--view-mode--default">
+    
+            <div class="clearfix text-formatted field field--name-field-body field--type-text-long field--label-hidden field__item"><p><strong>For the basil pesto</strong></p>
 <ul>
 <li>Pour all <strong>ingredients</strong> into a blender and mix until <strong>creamy</strong>. Set aside.</li>
 <li>Wash<strong> zucchini</strong> and cut them into very thin slices.</li>
@@ -854,162 +939,207 @@ function ghosteryAddScript(u,cb){
 <li>Keep the lasagna in the fridge and serve decorated with<strong> fresh basil</strong> and <strong>pine nuts</strong>.</li>
 </ul>
 </div>
-
+      
 </div>
 
 </div>
           </div>
-
+  
       </div>
     </div>
   </div>
   <div class="body-components">
-
-      <div class="field field--name-field-components field--type-entity-reference-revisions field--label-hidden field--items">
-              <div class="field--item">  <div class="clearfix paragraph paragraph--type--from-library paragraph--view-mode--default">
-
-            <div class="field field--name-paragraphs field--type-entity-reference-revisions field--label-hidden field--item">  <div class="clearfix paragraph paragraph--type--multiple-component-container paragraph--view-mode--default">
-
-      <div class="field field--name-field-mcc-components field--type-entity-reference-revisions field--label-hidden field--items">
-              <div class="field--item">  <div class="clearfix paragraph paragraph--type--nwc-ctr-people paragraph--view-mode--default">
-
+    
+      <div class="field field--name-field-components field--type-entity-reference-revisions field--label-hidden field__items">
+              <div class="field__item">  <div class="clearfix paragraph--304606 paragraph paragraph--type--from-library paragraph--view-mode--default">
+          
+            <div class="field field--name-paragraphs field--type-entity-reference-revisions field--label-hidden field__item">  <div class="clearfix paragraph--1767 paragraph paragraph--type--multiple-component-container paragraph--view-mode--default">
+          
+      <div class="field field--name-field-mcc-components field--type-entity-reference-revisions field--label-hidden field__items">
+              <div class="field__item">  <div class="clearfix paragraph--303031 paragraph paragraph--type--nwc-ctr-people paragraph--view-mode--default">
+          
       </div>
 </div>
-              <div class="field--item">
+              <div class="field__item">
 
-  <div class="clearfix component--ctf-list paragraph paragraph--type--nwc-ctf-list paragraph--view-mode--default">
+
+
+  
+  
+  <div class="clearfix paragraph--303041 component--ctf-list paragraph paragraph--type--nwc-ctf-list paragraph--view-mode--default">
     <div class="background_white background-style_3_col">
                   <div class="title-section">
-          <h3 class="carousel-title">
-                          Related
-                      </h3>
-        </div>
-            <div class="ctf-list-wrapper style-3_col video-  ">
-
-
-<article role="article" about="/recipes/penne-al-gorgonzola-oysters-and-japanese-aromas-recipe">
+                        <p class="carousel-title">
+                                  Related
+                              </p>
+                    </div>
+            <div class="ctf-list-wrapper style-3_col video-false no-gallery ">
+          
+<article role="article" about="/recipes/main-course/spaghetti-clams-original-recipe">
   <div class="teaser-image">
-    <a  href="/recipes/penne-al-gorgonzola-oysters-and-japanese-aromas-recipe" >
+    <a  href="/recipes/main-course/spaghetti-clams-original-recipe" >
+              
+            <div data-blazy="" class="blazy blazy--field blazy--field-fdl-content-image blazy--field-fdl-content-image--teaser field field--name-field-fdl-content-image field--type-image field--label-hidden field__item">
 
-            <div class="blazy field field--name-field-fdl-content-image field--type-image field--label-hidden field--item" data-blazy="">
 
 
-
-                    <div class="media media--blazy media--loading media--responsive media--image">
+                    <div class="media media--bundle--nw-recipe media--blazy media--loading media--responsive media--image">
+      
+      
+      
         <picture>
-                <!--[if IE 9]><video style="display: none;"><![endif]-->
-              <source media="all and (min-width: 768px)" type="image/jpeg" data-srcset="/sites/g/files/xknfdk626/files/styles/general_reference_desktop/public/2019-10/Winner-dish.jpg?itok=osyjWU94 1x, /sites/g/files/xknfdk626/files/styles/general_reference_desktop/public/2019-10/Winner-dish.jpg?itok=osyjWU94 2x"/>
-              <source media="all and (max-width: 767px)" type="image/jpeg" data-srcset="/sites/g/files/xknfdk626/files/styles/general_reference_mobile/public/2019-10/Winner-dish.jpg?itok=Mh3NzC8F 1x, /sites/g/files/xknfdk626/files/styles/general_reference_mobile/public/2019-10/Winner-dish.jpg?itok=Mh3NzC8F 2x"/>
-            <!--[if IE 9]></video><![endif]-->
-            <img class="media__image media__element b-lazy b-responsive img-responsive" data-src="/sites/g/files/xknfdk626/files/styles/general_reference_desktop/public/2019-10/Winner-dish.jpg?itok=osyjWU94" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Penne gorgonzola profumo giapponese by  Keito Yuge" typeof="foaf:Image" />
+                  <source media="all and (min-width: 75em)" type="image/jpeg" data-srcset="/sites/g/files/xknfdk626/files/styles/general_reference_desktop/public/2020-12/spaghetti%20with%20clams.jpg?itok=HvGs1aWF 1x"/>
+              <source media="all and (min-width: 62em) and (max-width: 74.99em)" type="image/jpeg" data-srcset="/sites/g/files/xknfdk626/files/styles/general_reference_desktop/public/2020-12/spaghetti%20with%20clams.jpg?itok=HvGs1aWF 1x"/>
+              <source media="all and (min-width: 48em) and (max-width: 61.99em)" type="image/jpeg" data-srcset="/sites/g/files/xknfdk626/files/styles/general_reference_desktop/public/2020-12/spaghetti%20with%20clams.jpg?itok=HvGs1aWF 1x"/>
+              <source media="all and (min-width: 34em) and (max-width: 47.99em)" type="image/jpeg" data-srcset="/sites/g/files/xknfdk626/files/styles/general_reference_mobile/public/2020-12/spaghetti%20with%20clams.jpg?itok=l3kiXVJG 1x"/>
+                  <img class="media__image media__element b-lazy b-responsive img-responsive" loading="lazy" data-src="/sites/g/files/xknfdk626/files/styles/general_reference_desktop/public/2020-12/spaghetti%20with%20clams.jpg?itok=HvGs1aWF" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D&#039;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&#039; viewBox%3D&#039;0 0 570 570&#039;%2F%3E" alt="Spaghetti with Clams" typeof="foaf:Image" />
 
   </picture>
 
+      
+                  
+      
 
-
+            
+      
     </div>
+        
+  
+  
 
 
 </div>
-
+      
           </a>
   </div>
   <div class="description">
     <div class="teaser-type search-topic">Recipe</div>
           <div class="teaser-type">
-            <div class="field field--name-field-tag-primary field--type-entity-reference field--label-hidden field--item"><a href="/tag/gourmet-recipes" hreflang="en">Gourmet Recipes</a></div>
+            <div class="field field--name-field-tag-primary field--type-entity-reference field--label-hidden field__item"><a href="/tag/gourmet-recipes" hreflang="en">Gourmet Recipes</a></div>
       </div>
-        <h2><a  href="/recipes/penne-al-gorgonzola-oysters-and-japanese-aromas-recipe" >Penne al Gorgonzola with oysters and Japanese Aromas</a></h2>
+            <p><a  href="/recipes/main-course/spaghetti-clams-original-recipe" >Spaghetti with Clams, the original recipe</a></p>
     <div class="teaser-body">
-            Re-discover the winning signature dish of &quot;Penne gorgonzola profumo giapponese&quot; by  Keito Yuge at the Barilla Pasta World Championship 2019.
+            Find out how to prepare the recipe for spaghetti with clams, in its tomato-less version.
+ 
 
+      </div>
+    <div class="teaser-url">
 
+  <div class="inline__links"><nav class="links inline nav links-inline"><span class="node-readmore nav-link"><a href="/recipes/main-course/spaghetti-clams-original-recipe" rel="tag" title="Spaghetti with Clams, the original recipe" hreflang="en">Read more<span class="visually-hidden"> about Spaghetti with Clams, the original recipe</span></a></span></nav>
+  </div>
 </div>
-    <div class="teaser-url"><ul class="links inline list-inline"><li class="node-readmore"><a href="/recipes/penne-al-gorgonzola-oysters-and-japanese-aromas-recipe" rel="tag" title="Penne al Gorgonzola with oysters and Japanese Aromas" hreflang="en">Read more<span class="visually-hidden"> about Penne al Gorgonzola with oysters and Japanese Aromas</span></a></li></ul></div>
   </div>
 </article>
-
-
-<article role="article" about="/recipes/dessert/kaju-katli-cashew-fudge-slices-recipe">
+  
+<article role="article" about="/recipes/dessert/tiramisu">
   <div class="teaser-image">
-    <a  href="/recipes/dessert/kaju-katli-cashew-fudge-slices-recipe" >
+    <a  href="/recipes/dessert/tiramisu" >
+              
+            <div data-blazy="" class="blazy blazy--field blazy--field-fdl-content-image blazy--field-fdl-content-image--teaser field field--name-field-fdl-content-image field--type-image field--label-hidden field__item">
 
-            <div class="blazy field field--name-field-fdl-content-image field--type-image field--label-hidden field--item" data-blazy="">
 
 
-
-                    <div class="media media--blazy media--loading media--responsive media--image">
+                    <div class="media media--bundle--nw-recipe media--blazy media--loading media--responsive media--image">
+      
+      
+      
         <picture>
-                <!--[if IE 9]><video style="display: none;"><![endif]-->
-              <source media="all and (min-width: 768px)" type="image/jpeg" data-srcset="/sites/g/files/xknfdk626/files/styles/general_reference_desktop/public/2019-10/kaju-katli-tp.jpg?itok=-EXkMjCk 1x, /sites/g/files/xknfdk626/files/styles/general_reference_desktop/public/2019-10/kaju-katli-tp.jpg?itok=-EXkMjCk 2x"/>
-              <source media="all and (max-width: 767px)" type="image/jpeg" data-srcset="/sites/g/files/xknfdk626/files/styles/general_reference_mobile/public/2019-10/kaju-katli-tp.jpg?itok=KD0pL-za 1x, /sites/g/files/xknfdk626/files/styles/general_reference_mobile/public/2019-10/kaju-katli-tp.jpg?itok=KD0pL-za 2x"/>
-            <!--[if IE 9]></video><![endif]-->
-            <img class="media__image media__element b-lazy b-responsive img-responsive" data-src="/sites/g/files/xknfdk626/files/styles/general_reference_desktop/public/2019-10/kaju-katli-tp.jpg?itok=-EXkMjCk" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="kaju katli" typeof="foaf:Image" />
+                  <source media="all and (min-width: 75em)" type="image/jpeg" data-srcset="/sites/g/files/xknfdk626/files/styles/general_reference_desktop/public/2020-12/Tiramisu_recipe.jpg?itok=a2B04jze 1x"/>
+              <source media="all and (min-width: 62em) and (max-width: 74.99em)" type="image/jpeg" data-srcset="/sites/g/files/xknfdk626/files/styles/general_reference_desktop/public/2020-12/Tiramisu_recipe.jpg?itok=a2B04jze 1x"/>
+              <source media="all and (min-width: 48em) and (max-width: 61.99em)" type="image/jpeg" data-srcset="/sites/g/files/xknfdk626/files/styles/general_reference_desktop/public/2020-12/Tiramisu_recipe.jpg?itok=a2B04jze 1x"/>
+              <source media="all and (min-width: 34em) and (max-width: 47.99em)" type="image/jpeg" data-srcset="/sites/g/files/xknfdk626/files/styles/general_reference_mobile/public/2020-12/Tiramisu_recipe.jpg?itok=FkVt7O0c 1x"/>
+                  <img class="media__image media__element b-lazy b-responsive img-responsive" loading="lazy" data-src="/sites/g/files/xknfdk626/files/styles/general_reference_desktop/public/2020-12/Tiramisu_recipe.jpg?itok=a2B04jze" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D&#039;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&#039; viewBox%3D&#039;0 0 570 570&#039;%2F%3E" alt="Tiramisu" typeof="foaf:Image" />
 
   </picture>
 
+      
+                  
+      
 
-
+            
+      
     </div>
+        
+  
+  
 
 
 </div>
-
+      
           </a>
   </div>
   <div class="description">
     <div class="teaser-type search-topic">Recipe</div>
           <div class="teaser-type">
-            <div class="field field--name-field-tag-primary field--type-entity-reference field--label-hidden field--item"><a href="/tag/diwali-food" hreflang="en">Diwali Food</a></div>
+            <div class="field field--name-field-tag-primary field--type-entity-reference field--label-hidden field__item"><a href="/tag/italian-cuisine" hreflang="en">Italian Cuisine</a></div>
       </div>
-        <h2><a  href="/recipes/dessert/kaju-katli-cashew-fudge-slices-recipe" >Kaju katli, cashew fudge slices recipe</a></h2>
+            <p><a  href="/recipes/dessert/tiramisu" >Tiramisu, the recipe for Italy’s world-famous dessert</a></p>
     <div class="teaser-body">
-            Kaju Katli literally means &quot;cashew slices&quot;, and that’s what these super popular Indian sweets are: thin, cashew fudge slices.
+            Mascarpone, eggs, cocoa and coffee: discover the original recipe for tiramisu and all the secrets for turning it into a memorable treat.
+ 
 
+      </div>
+    <div class="teaser-url">
+
+  <div class="inline__links"><nav class="links inline nav links-inline"><span class="node-readmore nav-link"><a href="/recipes/dessert/tiramisu" rel="tag" title="Tiramisu, the recipe for Italy’s world-famous dessert" hreflang="en">Read more<span class="visually-hidden"> about Tiramisu, the recipe for Italy’s world-famous dessert</span></a></span></nav>
+  </div>
 </div>
-    <div class="teaser-url"><ul class="links inline list-inline"><li class="node-readmore"><a href="/recipes/dessert/kaju-katli-cashew-fudge-slices-recipe" rel="tag" title="Kaju katli, cashew fudge slices recipe" hreflang="en">Read more<span class="visually-hidden"> about Kaju katli, cashew fudge slices recipe</span></a></li></ul></div>
   </div>
 </article>
-
-
-<article role="article" about="/recipes/dessert/sweet-spongy-rasgulla-recipe">
+  
+<article role="article" about="/recipes/main-course/pumpkin-soup-apples-curry-thyme">
   <div class="teaser-image">
-    <a  href="/recipes/dessert/sweet-spongy-rasgulla-recipe" >
+    <a  href="/recipes/main-course/pumpkin-soup-apples-curry-thyme" >
+              
+            <div data-blazy="" class="blazy blazy--field blazy--field-fdl-content-image blazy--field-fdl-content-image--teaser field field--name-field-fdl-content-image field--type-image field--label-hidden field__item">
 
-            <div class="blazy field field--name-field-fdl-content-image field--type-image field--label-hidden field--item" data-blazy="">
 
 
-
-                    <div class="media media--blazy media--loading media--responsive media--image">
+                    <div class="media media--bundle--nw-recipe media--blazy media--loading media--responsive media--image">
+      
+      
+      
         <picture>
-                <!--[if IE 9]><video style="display: none;"><![endif]-->
-              <source media="all and (min-width: 768px)" type="image/jpeg" data-srcset="/sites/g/files/xknfdk626/files/styles/general_reference_desktop/public/2019-10/rasgulla.jpg?itok=A2yZMSeX 1x, /sites/g/files/xknfdk626/files/styles/general_reference_desktop/public/2019-10/rasgulla.jpg?itok=A2yZMSeX 2x"/>
-              <source media="all and (max-width: 767px)" type="image/jpeg" data-srcset="/sites/g/files/xknfdk626/files/styles/general_reference_mobile/public/2019-10/rasgulla.jpg?itok=dLlI9SX_ 1x, /sites/g/files/xknfdk626/files/styles/general_reference_mobile/public/2019-10/rasgulla.jpg?itok=dLlI9SX_ 2x"/>
-            <!--[if IE 9]></video><![endif]-->
-            <img class="media__image media__element b-lazy b-responsive img-responsive" data-src="/sites/g/files/xknfdk626/files/styles/general_reference_desktop/public/2019-10/rasgulla.jpg?itok=A2yZMSeX" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="rasgulla recipe" typeof="foaf:Image" />
+                  <source media="all and (min-width: 75em)" type="image/jpeg" data-srcset="/sites/g/files/xknfdk626/files/styles/general_reference_desktop/public/2020-12/Pumpkin%20veloute%CC%81%20soup.jpg?itok=c3lymk2I 1x"/>
+              <source media="all and (min-width: 62em) and (max-width: 74.99em)" type="image/jpeg" data-srcset="/sites/g/files/xknfdk626/files/styles/general_reference_desktop/public/2020-12/Pumpkin%20veloute%CC%81%20soup.jpg?itok=c3lymk2I 1x"/>
+              <source media="all and (min-width: 48em) and (max-width: 61.99em)" type="image/jpeg" data-srcset="/sites/g/files/xknfdk626/files/styles/general_reference_desktop/public/2020-12/Pumpkin%20veloute%CC%81%20soup.jpg?itok=c3lymk2I 1x"/>
+              <source media="all and (min-width: 34em) and (max-width: 47.99em)" type="image/jpeg" data-srcset="/sites/g/files/xknfdk626/files/styles/general_reference_mobile/public/2020-12/Pumpkin%20veloute%CC%81%20soup.jpg?itok=zczu8pFe 1x"/>
+                  <img class="media__image media__element b-lazy b-responsive img-responsive" loading="lazy" data-src="/sites/g/files/xknfdk626/files/styles/general_reference_desktop/public/2020-12/Pumpkin%20veloute%CC%81%20soup.jpg?itok=c3lymk2I" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D&#039;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&#039; viewBox%3D&#039;0 0 570 570&#039;%2F%3E" alt="Pumpkin velouté soup" typeof="foaf:Image" />
 
   </picture>
 
+      
+                  
+      
 
-
+            
+      
     </div>
+        
+  
+  
 
 
 </div>
-
+      
           </a>
   </div>
   <div class="description">
     <div class="teaser-type search-topic">Recipe</div>
           <div class="teaser-type">
-            <div class="field field--name-field-tag-primary field--type-entity-reference field--label-hidden field--item"><a href="/tag/diwali-food" hreflang="en">Diwali Food</a></div>
+            <div class="field field--name-field-tag-primary field--type-entity-reference field--label-hidden field__item"><a href="/tag/gourmet-recipes" hreflang="en">Gourmet Recipes</a></div>
       </div>
-        <h2><a  href="/recipes/dessert/sweet-spongy-rasgulla-recipe" >Sweet, spongy rasgulla recipe</a></h2>
+            <p><a  href="/recipes/main-course/pumpkin-soup-apples-curry-thyme" >Pumpkin velouté soup, with apple and curry, the perfect comfort food</a></p>
     <div class="teaser-body">
-            Rasgulla is a popular Bengali sweet made of milk and sugar, often found as part of the desserts spread at Diwali.
+            Spicy yet delicately flavoured: discover the easy recipe for pumpkin velouté soup with apple and curry.
+ 
 
+      </div>
+    <div class="teaser-url">
+
+  <div class="inline__links"><nav class="links inline nav links-inline"><span class="node-readmore nav-link"><a href="/recipes/main-course/pumpkin-soup-apples-curry-thyme" rel="tag" title="Pumpkin velouté soup, with apple and curry, the perfect comfort food" hreflang="en">Read more<span class="visually-hidden"> about Pumpkin velouté soup, with apple and curry, the perfect comfort food</span></a></span></nav>
+  </div>
 </div>
-    <div class="teaser-url"><ul class="links inline list-inline"><li class="node-readmore"><a href="/recipes/dessert/sweet-spongy-rasgulla-recipe" rel="tag" title="Sweet, spongy rasgulla recipe" hreflang="en">Read more<span class="visually-hidden"> about Sweet, spongy rasgulla recipe</span></a></li></ul></div>
   </div>
 </article>
 
@@ -1017,14 +1147,14 @@ function ghosteryAddScript(u,cb){
               </div>
   </div>
 </div>
-              <div class="field--item">
+              <div class="field__item">
 
 
 
-<div class="component--subsearch Textured Background bgrandom-2">
+<div class="component--subsearch Textured Background bgrandom-3">
   <div class="inside">
     <div class="title-section">
-      <h3>Search Recipes</h3>
+      <p>Search Recipes</p>
     </div>
     <form>
       <div class="form--inline">
@@ -1043,19 +1173,21 @@ function ghosteryAddScript(u,cb){
       </div>
     </form>
 
-          <div class="extra-info"><span>or</span> <a class="button-cta button--A" href="/recipes">Browse by Category</a></div>
-      </div>
+          <div class="extra-info"><span>OR</span> <a class="button-cta button--A" data-search-page="/recipes" href="/recipes">Browse by Category</a></div>
+    
+  </div>
 </div>
+
 </div>
           </div>
-
+  
       </div>
 </div>
-
+      
       </div>
 </div>
           </div>
-
+  
   </div>
 </section>
 
@@ -1065,30 +1197,41 @@ function ghosteryAddScript(u,cb){
 
 <section role="article" about="/recipes/main-course/kung-pao-chinese-spicy-chicken-peanuts-and-chili" class="component--recipe-full-next clearfix" data-nid="90051">
   <div class="image">
-            <div class="blazy field field--name-field-fdl-content-image field--type-image field--label-hidden field--item" data-blazy="">
+            <div data-blazy="" class="blazy blazy--field blazy--field-fdl-content-image blazy--field-fdl-content-image--next-recipe field field--name-field-fdl-content-image field--type-image field--label-hidden field__item">
 
 
 
-                    <div class="media media--blazy media--loading media--image">
-      <img height="170" width="170" class="b-lazy media__image media__element img-responsive" data-src="/sites/g/files/xknfdk626/files/styles/im_square_12/public/Original_1776_kung-pao-chicken-00244261-CUT1.jpg?itok=-txphXhF" alt="Kung Pao - Chinese Spicy Chicken With Peanuts And Chili" title="Kung Pao - Chinese Spicy Chicken With Peanuts And Chili" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" typeof="foaf:Image" />
+                    <div class="media media--bundle--nw-recipe media--blazy media--loading media--image">
+      
+      
+      
+      <img alt="Kung Pao - Chinese Spicy Chicken With Peanuts And Chili" title="Kung Pao - Chinese Spicy Chicken With Peanuts And Chili" class="media__image media__element b-lazy img-responsive" loading="lazy" data-src="/sites/g/files/xknfdk626/files/styles/im_square_12/public/Original_1776_kung-pao-chicken-00244261-CUT1.jpg?itok=-txphXhF" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D&#039;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&#039; viewBox%3D&#039;0 0 170 170&#039;%2F%3E" width="170" height="170" typeof="foaf:Image" />
 
+      
+                  
+      
 
-
+            
+      
     </div>
+        
+  
+  
 
 
 </div>
       </div>
-
-            <div class="field field--name-field-tag-primary field--type-entity-reference field--label-hidden field--item"><a href="/tag/gourmet-recipes" hreflang="en">Gourmet Recipes</a></div>
-
-  <h4>Kung Pao - Chinese Spicy Chicken With Peanuts And Chili</h4>
-  <a href="/recipes/main-course/kung-pao-chinese-spicy-chicken-peanuts-and-chili" class="button-cta button--A"> Next Recipe </a>
+  
+            <div class="field field--name-field-tag-primary field--type-entity-reference field--label-hidden field__item"><a href="/tag/gourmet-recipes" hreflang="en">Gourmet Recipes</a></div>
+      
+  <p>Kung Pao - Chinese Spicy Chicken With Peanuts And Chili</p>
+  <a href="/recipes/main-course/kung-pao-chinese-spicy-chicken-peanuts-and-chili" class="button-cta button--A">Next Recipe </a>
 </section>
 
 
-
+    </div>
   </div>
+
 
                   </section>
 
@@ -1098,80 +1241,89 @@ function ghosteryAddScript(u,cb){
   </div>
 
       <footer id="footer" class="footer container" role="contentinfo">
-        <div class="region region-footer">
+        <section class="row region region-footer">
     <nav role="navigation" aria-labelledby="block-primarynavigation-menu" id="block-primarynavigation" data-block-plugin-id="system_menu_block:primary-navigation">
+            
+  <p class="visually-hidden" id="block-primarynavigation-menu">Primary Navigation</p>
+  
 
-  <h2 class="visually-hidden" id="block-primarynavigation-menu">Primary Navigation</h2>
-
-
-
-      <ul class="menu menu--primary-navigation nav">
+        
+      <ul block="block-primarynavigation" class="clearfix menu menu--primary-navigation nav">
                       <li class="expanded dropdown first">
                                             <div class="cav"><span class="cav-el"></span></div>
                                   <a href="/whats-hot" data-drupal-link-system-path="node/98061">What&#039;s Hot</a>
-                        <ul class="dropdown-menu">
+                        <ul block="block-primarynavigation" class="clearfix dropdown-menu">
                       <li class="first">
-                                        <a href="/tag/spellegrino-young-chef" data-drupal-link-system-path="taxonomy/term/48216">S.Pellegrino Young Chef</a>
+                                        <a href="https://www.finedininglovers.com/TurningTheTables" title="Watch the Full Talks on the Future of Gastronomy">Turning The Tables</a>
+              </li>
+                      <li>
+                                        <a href="https://www.finedininglovers.com/coronavirus-restaurant-resources" target="_self" title="A Collection of Content for Chefs, Cooks and Restaurant Owners.">Coronavirus: Restaurant Resources</a>
               </li>
                       <li>
                                         <a href="/tag/food-sustainability" data-drupal-link-system-path="taxonomy/term/39361">Food Sustainability</a>
               </li>
                       <li>
-                                        <a href="/tag/female-chefs" data-drupal-link-system-path="taxonomy/term/35616">Female Chefs</a>
+                                        <a href="https://www.finedininglovers.com/tag/food-society" target="_self">Food Society</a>
               </li>
                       <li class="last">
-                                        <a href="https://www.finedininglovers.com/recipes/summer">Summer Recipes</a>
+                                        <a href="/tag/female-chefs" data-drupal-link-system-path="taxonomy/term/35616">Female Chefs</a>
               </li>
         </ul>
-
+  
               </li>
                       <li class="expanded dropdown">
                                             <div class="cav"><span class="cav-el"></span></div>
                                   <a href="/trends" data-drupal-link-system-path="node/98006">Trends</a>
-                        <ul class="dropdown-menu">
+                        <ul block="block-primarynavigation" class="clearfix dropdown-menu">
                       <li class="first">
-                                        <a href="/tag/food-culture" data-drupal-link-system-path="taxonomy/term/45641">Food Culture</a>
-              </li>
-                      <li>
-                                        <a href="/tag/food-science" data-drupal-link-system-path="taxonomy/term/45796">Food Science</a>
-              </li>
-                      <li>
-                                        <a href="/tag/food-technology" data-drupal-link-system-path="taxonomy/term/45826">Food Technology</a>
-              </li>
-                      <li class="last">
                                         <a href="/tag/kitchen-culture" data-drupal-link-system-path="taxonomy/term/40246">Kitchen Culture</a>
               </li>
+                      <li>
+                                        <a href="/tag/coronavirus-news" data-drupal-link-system-path="taxonomy/term/50606">Coronavirus News</a>
+              </li>
+                      <li>
+                                        <a href="https://www.finedininglovers.com/tag/food-gifts">Food Gifts</a>
+              </li>
+                      <li>
+                                        <a href="/tag/food-culture" data-drupal-link-system-path="taxonomy/term/45641">Food Culture</a>
+              </li>
+                      <li class="last">
+                                        <a href="/tag/food-science" data-drupal-link-system-path="taxonomy/term/45796">Food Science</a>
+              </li>
         </ul>
-
+  
               </li>
                       <li class="expanded dropdown">
                                             <div class="cav"><span class="cav-el"></span></div>
                                   <a href="/food-and-drinks" data-drupal-link-system-path="node/98011">Food &amp; Drinks</a>
-                        <ul class="dropdown-menu">
+                        <ul block="block-primarynavigation" class="clearfix dropdown-menu">
                       <li class="first">
                                         <a href="/recipes" data-drupal-link-system-path="node/98041">Recipes</a>
+              </li>
+                      <li>
+                                        <a href="/tag/inspirational-dishes" data-drupal-link-system-path="taxonomy/term/49606">Inspirational Dishes</a>
               </li>
                       <li>
                                         <a href="/tag/food-facts-z" data-drupal-link-system-path="taxonomy/term/41156">Food Facts A to Z</a>
               </li>
                       <li>
-                                        <a href="/tag/science-food" data-drupal-link-system-path="taxonomy/term/41176">The Science of Food</a>
+                                        <a href="https://www.finedininglovers.com/tag/food-mythbusters">Food Mythbusters</a>
               </li>
                       <li class="last">
-                                        <a href="/tag/inspirational-dishes" data-drupal-link-system-path="taxonomy/term/49606">Inspirational Dishes</a>
+                                        <a href="https://www.finedininglovers.com/home-cooking-suggestion" title="Great chefs tips, ingredients substitutes, fermentation and preservation">Home Cooking Suggestions</a>
               </li>
         </ul>
-
+  
               </li>
                       <li class="expanded dropdown">
                                             <div class="cav"><span class="cav-el"></span></div>
                                   <a href="/people" data-drupal-link-system-path="node/98016">People</a>
-                        <ul class="dropdown-menu">
+                        <ul block="block-primarynavigation" class="clearfix dropdown-menu">
                       <li class="first">
                                         <a href="/tag/points-view" data-drupal-link-system-path="taxonomy/term/41196">Points of View</a>
               </li>
                       <li>
-                                        <a href="/tag/famous-chefs" data-drupal-link-system-path="taxonomy/term/45436">Famous Chefs</a>
+                                        <a href="https://www.finedininglovers.com/tag/best-chefs-world">Best Chefs in the World</a>
               </li>
                       <li>
                                         <a href="/tag/young-chefs" data-drupal-link-system-path="taxonomy/term/49611">Young Chefs</a>
@@ -1180,17 +1332,20 @@ function ghosteryAddScript(u,cb){
                                         <a href="/who-is-who" data-drupal-link-system-path="node/97971">Who is Who</a>
               </li>
         </ul>
-
+  
               </li>
                       <li class="expanded dropdown">
                                             <div class="cav"><span class="cav-el"></span></div>
                                   <a href="/places" data-drupal-link-system-path="node/98021">Places</a>
-                        <ul class="dropdown-menu">
+                        <ul block="block-primarynavigation" class="clearfix dropdown-menu">
                       <li class="first">
                                         <a href="/tag/culinary-stops" data-drupal-link-system-path="taxonomy/term/49661">Culinary Stops</a>
               </li>
                       <li>
-                                        <a href="/tag/city-tasting-tour" data-drupal-link-system-path="taxonomy/term/31436">City Tasting Tour</a>
+                                        <a href="https://www.finedininglovers.com/tag/city-tasting-tour" title="Best Restaurants around the World">City Tasting Tours</a>
+              </li>
+                      <li>
+                                        <a href="/world-best-restaurarants-maps" data-drupal-link-system-path="node/107106">Restaurants Maps</a>
               </li>
                       <li>
                                         <a href="/tag/affordable-luxury" data-drupal-link-system-path="taxonomy/term/41181">Affordable Luxury</a>
@@ -1199,12 +1354,12 @@ function ghosteryAddScript(u,cb){
                                         <a href="/top-destinations" data-drupal-link-system-path="node/97966">Top Destinations</a>
               </li>
         </ul>
-
+  
               </li>
                       <li class="expanded dropdown last">
                                             <div class="cav"><span class="cav-el"></span></div>
                                   <a href="/events" data-drupal-link-system-path="node/98026">Events</a>
-                        <ul class="dropdown-menu">
+                        <ul block="block-primarynavigation" class="clearfix dropdown-menu">
                       <li class="first">
                                         <a href="/worldwide-calendar" data-drupal-link-system-path="node/98001">Worldwide Calendar</a>
               </li>
@@ -1212,90 +1367,103 @@ function ghosteryAddScript(u,cb){
                                         <a href="/tag/spellegrino-young-chef" data-drupal-link-system-path="taxonomy/term/48216">S.Pellegrino Young Chef</a>
               </li>
                       <li>
-                                        <a href="/tag/latin-america-50-best-restaurants" data-drupal-link-system-path="taxonomy/term/46951">Latin America&#039;s 50 Best Restaurants</a>
-              </li>
-                      <li class="last">
                                         <a href="/tag/food-festivals" data-drupal-link-system-path="taxonomy/term/45686">Food Festivals</a>
               </li>
-        </ul>
-
+                      <li class="last">
+                                        <a href="https://www.finedininglovers.com/tag/asia-50-best-restaurants">Asia&#039;s 50 Best Restaurants</a>
               </li>
         </ul>
-
+  
+              </li>
+        </ul>
+  
 
   </nav>
 <section class="views-element-container social_footer clearfix" id="block-views-block-social-social-footer" data-block-plugin-id="views_block:social-social_footer">
   <a itemprop="url" class="footer-logo" href="/" title="Fine Dining Lovers" rel="home">
     <img itemprop="logo" data-defsrc="" src="/themes/custom/fdl/logo.png" alt="Fine Dining Lovers" />
   </a>
-      <div class="form-group"><div class="view view-social view-id-social view-display-id-social_footer js-view-dom-id-c737e9adfdb39b624bf2121a5b6be7f9ddc60b836cf3b81baede7b25d54deddf">
-
-
-
-      <div class="view-content">
+      <div><div class="view view-social view-id-social view-display-id-social_footer js-view-dom-id-10f5df60a24d2b036785a92d1d3aa22eb7a1a66be828fcfb71938230df6ec942">
+  
+    
+      
+      <div class="view-content row">
           <div class="views-row">
-<a href="https://www.instagram.com/finedininglovers/" target="_blank"><img src="/sites/g/files/xknfdk626/files/2019-07/instagram-w_1.svg" alt=""></a>
-</div>
+    
+<a href="https://www.instagram.com/finedininglovers/" target="_blank"><img src="/sites/g/files/xknfdk626/files/2019-07/instagram-w_1.svg" alt="Instagram"></a>
+
+  </div>
     <div class="views-row">
-<a href="https://www.facebook.com/FineDiningLovers" target="_blank"><img src="/sites/g/files/xknfdk626/files/2019-07/facebook-logo-w.svg" alt=""></a>
-</div>
+    
+<a href="https://www.facebook.com/FineDiningLovers" target="_blank"><img src="/sites/g/files/xknfdk626/files/2019-07/facebook-logo-w.svg" alt="Facebook"></a>
+
+  </div>
     <div class="views-row">
-<a href="https://twitter.com/finedininglover" target="_blank"><img src="/sites/g/files/xknfdk626/files/2019-07/twitter-logo-silhouette-w.svg" alt=""></a>
-</div>
+    
+<a href="https://twitter.com/finedininglover" target="_blank"><img src="/sites/g/files/xknfdk626/files/2019-07/twitter-logo-silhouette-w.svg" alt="Twitter"></a>
+
+  </div>
     <div class="views-row">
-<a href="https://www.youtube.com/finedininglovers" target="_blank"><img src="/sites/g/files/xknfdk626/files/2019-07/youtube-w.svg" alt=""></a>
-</div>
+    
+<a href="https://www.youtube.com/finedininglovers" target="_blank"><img src="/sites/g/files/xknfdk626/files/2019-07/youtube-w.svg" alt="YouTube"></a>
+
+  </div>
     <div class="views-row">
-<a href="https://www.pinterest.com/finedininglover/" target="_blank"><img src="/sites/g/files/xknfdk626/files/2019-07/pinterest-w.svg" alt=""></a>
-</div>
+    
+<a href="https://www.pinterest.com/finedininglover/" target="_blank"><img src="/sites/g/files/xknfdk626/files/2019-07/pinterest-w.svg" alt="Pinterest"></a>
+
+  </div>
 
     </div>
-
+  
           </div>
 </div>
 
   </section>
 
 <nav role="navigation" aria-labelledby="block-footer-menu" id="block-footer" data-block-plugin-id="system_menu_block:footer">
+            
+  <p class="visually-hidden" id="block-footer-menu">Footer</p>
+  
 
-  <h2 class="visually-hidden" id="block-footer-menu">Footer</h2>
-
-
-
-      <ul class="menu menu--footer nav">
-                      <li class="first">
-                                        <a href="/legal" data-drupal-link-system-path="node/97981">Legal</a>
+        
+              <ul block="block-footer" class="clearfix nav navbar-nav">
+                    <li class="nav-item">
+                <a href="/legal" class="nav-link nav-link--legal" data-drupal-link-system-path="node/97981">Legal</a>
               </li>
-                      <li>
-                                        <a href="/cookies" data-drupal-link-system-path="node/97986">Cookies</a>
+                <li class="nav-item">
+                <a href="/cookies" class="nav-link nav-link--cookies" data-drupal-link-system-path="node/97986">Cookies</a>
               </li>
-                      <li>
-                                        <a href="/community-policy" data-drupal-link-system-path="node/97991">Community Policy</a>
+                <li class="nav-item">
+                <a href="/community-policy" class="nav-link nav-link--community-policy" data-drupal-link-system-path="node/97991">Community Policy</a>
               </li>
-                      <li>
-                                        <a href="/contacts" data-drupal-link-system-path="node/97976">Contacts</a>
+                <li class="nav-item">
+                <a href="/contacts" class="nav-link nav-link--contacts" data-drupal-link-system-path="node/97976">Contacts</a>
               </li>
-                      <li class="last">
-                                        <a href="/sitemap" data-drupal-link-system-path="node/97961">Sitemap</a>
+                <li class="nav-item">
+                <a href="/sitemap" class="nav-link nav-link--sitemap" data-drupal-link-system-path="node/97961">Sitemap</a>
               </li>
         </ul>
+  
 
 
   </nav>
 
-  </div>
+  </section>
 
     </footer>
-
+  
   </div>
 
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/90241","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en","currentQuery":{"_wrapper_format":"html"}},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"addtoany\/addtoany,blazy\/load,bootstrap_barrio\/form,bootstrap_barrio\/global-styling,bootstrap_barrio\/links,core\/drupal.dialog.ajax,core\/html5shiv,core\/jquery.form,core\/picturefill,dsu_c_slider\/slide,elf\/elf_css,fdl\/account-menu,fdl\/ctf_list,fdl\/framework,fdl\/header,fdl\/recipe_stars,fdl\/subsearch,fivestar\/basic,fivestar\/fivestar.base,gigya\/drupalGigya,gigya_raas\/gigyaRaas,hww_gigya\/hww_gigya,nw_recipe_extension\/next-recipe,paragraphs\/drupal.paragraphs.unpublished,smart_content_paragraphs\/personalization,system\/base,views\/views.module","theme":"fdl","theme_token":null},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true,"\/recipes\/main-course\/zucchini-raw-vegan-lasagna?_wrapper_format=html\u0026ajax_form=1":true,"\/search":true},"jquery":{"ui":{"datepicker":{"isRTL":false,"firstDay":1}}},"gigya":{"globalParameters":{"bypassCookiePolicy":"never","enabledProviders":"*","sessionExpiration":-1,"rememberSessionExpiration":"20000000"},"apiKey":"3_e_dZLLGdFEgYe7OCRi8m5roS9euhlCh0js4Iuv5bS42mQc164E_UmiJ0nilcNNqu","dataCenter":"eu1.gigya.com","lang":"en","enableRaaS":true,"raas":{"login":{"screenSet":"finedininglovers_int-RegistrationLogin","mobileScreenSet":"","startScreen":"gigya-login-screen","sessionExpiration":-1,"rememberSessionExpiration":"20000000","include":"id_token"},"register":{"screenSet":"finedininglovers_int-RegistrationLogin","mobileScreenSet":"","startScreen":"gigya-register-screen","sessionExpiration":-1,"rememberSessionExpiration":"20000000","include":"id_token"},"customScreenSets":[],"resetScreenSets":[],"customScreens":null}},"gigyaExtra":{"loginRedirect":"\/","logoutRedirect":"\/","isLogin":false,"session_type":"dynamic","session_time":"1800","remember_me_session_time":"1800"},"blazy":{"loadInvisible":false,"offset":100,"saveViewportOffsetDelay":50},"blazyIo":{"enabled":false,"disconnect":false,"rootMargin":"0px","threshold":[0]},"smart_content_paragraphs":{"personalization":{"cloudflare_country_code":"PL","nid":["90241"]}},"ajax":{"edit-submit":{"event":"click","callback":"::fivestarAjaxVote","method":"replaceWith","wrapper":"vote","effect":"fade","url":"\/recipes\/main-course\/zucchini-raw-vegan-lasagna?_wrapper_format=html\u0026ajax_form=1","dialogType":"ajax","submit":{"_triggering_element_name":"op","_triggering_element_value":"Rate"}}},"user":{"uid":0,"permissionsHash":"f90c62ef082bbc20bb58d2988c01d3e40200bee51a3a253992034c7f4521555e"}}</script>
+<script src="/sites/g/files/xknfdk626/files/js/js_A1HNY-pmlJIRJrkG2zTu2ILAGhwYKaEZ4DpLba7pvIQ.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+<script src="/sites/g/files/xknfdk626/files/js/js_aISreqfR1dUPpW1DYxStT6jBFBgbbRh-gqJpK1wShWM.js"></script>
+<script src="https://static.addtoany.com/menu/page.js" async></script>
+<script src="/sites/g/files/xknfdk626/files/js/js_kZThJWa-aWOZR1P_JEpCxjakJQ-xdAgE3gcXFMNwTXA.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js"></script>
+<script src="/sites/g/files/xknfdk626/files/js/js_U6JkvQbVMaYqTUKbdG7CVDszj4G6206G8gHM6sVWirA.js"></script>
 
-    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/90241","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","ajaxPageState":{"libraries":"addtoany\/addtoany,blazy\/load,bootstrap\/popover,bootstrap\/tooltip,core\/html5shiv,core\/picturefill,dsu_c_slider\/slide,fdl\/ctf_list,fdl\/header,fdl\/subsearch,nw_recipe_extension\/next-recipe,paragraphs\/drupal.paragraphs.unpublished,system\/base,views\/views.module","theme":"fdl","theme_token":null},"ajaxTrustedUrl":{"\/search":true},"bootstrap":{"forms_has_error_value_toggle":1,"modal_animation":1,"modal_backdrop":"true","modal_focus_input":1,"modal_keyboard":1,"modal_select_text":1,"modal_show":1,"modal_size":"","popover_enabled":1,"popover_animation":1,"popover_auto_close":1,"popover_container":"body","popover_content":"","popover_delay":"0","popover_html":0,"popover_placement":"right","popover_selector":"","popover_title":"","popover_trigger":"click","tooltip_enabled":1,"tooltip_animation":1,"tooltip_container":"body","tooltip_delay":"0","tooltip_html":0,"tooltip_placement":"auto left","tooltip_selector":"","tooltip_trigger":"hover"},"blazy":{"loadInvisible":false,"offset":100,"saveViewportOffsetDelay":50},"ajax":[],"user":{"uid":0,"permissionsHash":"f90c62ef082bbc20bb58d2988c01d3e40200bee51a3a253992034c7f4521555e"}}</script>
-<script src="/sites/g/files/xknfdk626/files/js/js_Oj-xV_ow7yfy9wTDUSYgOtvcgg5bmONkvHcS13WKT3g.js"></script>
-<script src="//static.addtoany.com/menu/page.js" async></script>
-<script src="/sites/g/files/xknfdk626/files/js/js_GREs-jvAv9eTWUZ5ncjRr_UkX7LOVZdvsfT_9ZEz8yY.js"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js"></script>
-<script src="/sites/g/files/xknfdk626/files/js/js_rjUxgCAvT6ZBiHqtnmA864zYoJHEURkbgLaHjNFNSYQ.js"></script>
-
-  </body>
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam-cell.nr-data.net","licenseKey":"0484fef455","applicationID":"530374992","transactionName":"NlcGZkRQW0AFABJbVw8dJVFCWFpdSycUR0gAXjhcWVVQbycMCEZKDl4IV0Rte1wABjBbXRZxC1xCQ1pfCAYUHwYXWwFF","queueTime":0,"applicationTime":953,"atts":"GhAFEAxKSE4=","errorBeacon":"bam-cell.nr-data.net","agent":""}</script></body>
 </html>

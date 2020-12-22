@@ -12,8 +12,8 @@
 <head prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# profile: http://ogp.me/ns/profile# book: http://ogp.me/ns/book#">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <!--[if lt IE 9]>
-    <script src="https://static.flockler.com/assets/html5shiv/html5shiv-3.7.2-8595d9d9f7305aba0f5da6ebfcfff21fba920b79d9a0086ade600097d56aa4a7.js"></script>
-    <script src="https://static.flockler.com/assets/iepp-f43306fdfef22cd411dc399f9eb4a318afaa612a99fe5d90ac8320d914f040c4.js"></script>
+    <script src="https://fl-1.cdn.flockler.com/assets/html5shiv/html5shiv-3.7.2-8595d9d9f7305aba0f5da6ebfcfff21fba920b79d9a0086ade600097d56aa4a7.js"></script>
+    <script src="https://fl-1.cdn.flockler.com/assets/iepp-f43306fdfef22cd411dc399f9eb4a318afaa612a99fe5d90ac8320d914f040c4.js"></script>
   <![endif]-->
   <meta charset="utf-8"/>
   <meta name="msvalidate.01" content="B8854D1E0980F0B95AA79C08AFBFCDA3" />
@@ -35,20 +35,18 @@
 <meta property="twitter:card" content="summary_large_image" />
 <meta property="twitter:site" content="@TheHappyFoodie" />
 
-  <link rel="apple-touch-icon-precomposed" sizes="57x57"   href="https://static.flockler.com/assets/the_happy_foodie/images/icons/apple-home-57x57-cf45b347668c1998f173196a136a0f8c4007740a12edaca0249413b626399e83.png" />
-  <link rel="apple-touch-icon-precomposed" sizes="60x60"   href="https://static.flockler.com/assets/the_happy_foodie/images/icons/apple-home-60x60-bc87039811ddef95eecbce9d361af6b384bc0092db071852400c5951cc0fa411.png" />
-  <link rel="apple-touch-icon-precomposed" sizes="72x72"   href="https://static.flockler.com/assets/the_happy_foodie/images/icons/apple-home-72x72-cf2f085ed6671f421e455429fb96d896e09f419b775e539e53716969b6353a3c.png" />
-  <link rel="apple-touch-icon-precomposed" sizes="76x76"   href="https://static.flockler.com/assets/the_happy_foodie/images/icons/apple-home-76x76-e21c2208cb577dde9acc62da7eb06560da1c5a9afe96ff229e3f80e453609659.png" />
-  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://static.flockler.com/assets/the_happy_foodie/images/icons/apple-home-114x114-f5a94bb1ffad948b302f0ca66cb5d8851502439f132c9ad8fa487bfce345df57.png" />
-  <link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://static.flockler.com/assets/the_happy_foodie/images/icons/apple-home-120x120-687f8a2a47c124e93a44f0e72989f23e66853bf5cb0e063cdd2a02fe82011ab0.png" />
-  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://static.flockler.com/assets/the_happy_foodie/images/icons/apple-home-144x144-8d581030f0097a764d3a937f36d4ab57ad5beb40110d6cd4888eba49d4d5ab58.png" />
-  <link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://static.flockler.com/assets/the_happy_foodie/images/icons/apple-home-152x152-07162373f3a00fef01a2ee734888c0cb83932aa1785582645cb57cf94dba6053.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="57x57"   href="https://fl-1.cdn.flockler.com/assets/the_happy_foodie/images/icons/apple-home-57x57-cf45b347668c1998f173196a136a0f8c4007740a12edaca0249413b626399e83.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="60x60"   href="https://fl-1.cdn.flockler.com/assets/the_happy_foodie/images/icons/apple-home-60x60-bc87039811ddef95eecbce9d361af6b384bc0092db071852400c5951cc0fa411.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="72x72"   href="https://fl-1.cdn.flockler.com/assets/the_happy_foodie/images/icons/apple-home-72x72-cf2f085ed6671f421e455429fb96d896e09f419b775e539e53716969b6353a3c.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="76x76"   href="https://fl-1.cdn.flockler.com/assets/the_happy_foodie/images/icons/apple-home-76x76-e21c2208cb577dde9acc62da7eb06560da1c5a9afe96ff229e3f80e453609659.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://fl-1.cdn.flockler.com/assets/the_happy_foodie/images/icons/apple-home-114x114-f5a94bb1ffad948b302f0ca66cb5d8851502439f132c9ad8fa487bfce345df57.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://fl-1.cdn.flockler.com/assets/the_happy_foodie/images/icons/apple-home-120x120-687f8a2a47c124e93a44f0e72989f23e66853bf5cb0e063cdd2a02fe82011ab0.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://fl-1.cdn.flockler.com/assets/the_happy_foodie/images/icons/apple-home-144x144-8d581030f0097a764d3a937f36d4ab57ad5beb40110d6cd4888eba49d4d5ab58.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://fl-1.cdn.flockler.com/assets/the_happy_foodie/images/icons/apple-home-152x152-07162373f3a00fef01a2ee734888c0cb83932aa1785582645cb57cf94dba6053.png" />
 
 
-  <link rel="shortcut icon" href="https://static.flockler.com/assets/the_happy_foodie/images/favicon-6df97addbdda2c99116e9bf6054c237cb5538f2aec0897e74b15242870dc0264.ico">
-  <link rel="stylesheet" media="screen" href="https://static.flockler.com/assets/the_happy_foodie/stylesheets/application-45415ca94a3b5671b56f354221d136baaf4b603661644159a508bf95493f4dfe.css" />
-  <link rel="stylesheet" media="print" href="https://static.flockler.com/assets/the_happy_foodie/stylesheets/application-print-a4817ae449539e27c1951edabe33b4ac70771dead9048bc86c40d3b09f5d464f.css" />
-  <!--[if IE 7]><link rel="stylesheet" href="https://static.flockler.com/assets/the_happy_foodie/stylesheets/fonts/the-happy-foodie-icons-ie7-ffff305341a7afc715f085fd084dfd1b729b03e64e24d0b90caa59f9529e50e8.css"><![endif]-->
+  <link rel="shortcut icon" href="https://fl-1.cdn.flockler.com/thumbs/sites/192/favicon-5fec67c0-8a97-4a84-b847-1efe45336060.png">
+
   <script>
   var _prum = [['id', '5211c8c1abe53dca49000001'],
                ['mark', 'firstbyte', (new Date()).getTime()]];
@@ -64,14 +62,28 @@
   <meta name="google-site-verification" content="_-wlIw7gLX0h5J8UhWg0-KyoRNCHk3lb7unzUblqHpI" />
   <meta name="google-site-verification" content="myjRAxy73XMhBMy6gatIMeb2kgpUZBLJnt5NwmtbR30" />
 
+  <style>.has-floated-elements,.clearfix,.recipes-container{*zoom:1}.has-floated-elements:before,.clearfix:before,.recipes-container:before,.has-floated-elements:after,.clearfix:after,.recipes-container:after{content:"";display:table}.has-floated-elements:after,.clearfix:after,.recipes-container:after{clear:both}@font-face{font-family:'the-happy-foodie-icons';src:url(https://fl-1.cdn.flockler.com/assets/the_happy_foodie/fonts/the-happy-foodie-icons-1e37c068bac775cd158146c73aa45b67983b8caa3320c63aa175ee5da05ef94d.eot);src:url("https://fl-1.cdn.flockler.com/assets/the_happy_foodie/fonts/the-happy-foodie-icons-1e37c068bac775cd158146c73aa45b67983b8caa3320c63aa175ee5da05ef94d.eot#iefix") format("embedded-opentype"),url(https://fl-1.cdn.flockler.com/assets/the_happy_foodie/fonts/the-happy-foodie-icons-a16bb5f3f7db293ed4d04794b76bc8f6f86d12acdbbda39ff11bed0ea4b8535e.woff) format("woff"),url(https://fl-1.cdn.flockler.com/assets/the_happy_foodie/fonts/the-happy-foodie-icons-655dc0b815628d13cc39b838f18fc37125b78b045da28ef079ee96a23be6e9eb.ttf) format("truetype"),url("https://fl-1.cdn.flockler.com/assets/the_happy_foodie/fonts/the-happy-foodie-icons-f65b6be0fc797140c7d5d2b4a06665e893ed8070b7510c411a31048729e80c11.svg#the-happy-foodie-icons") format("svg");font-weight:normal;font-style:normal}[class^="icon-"]:before,[class*=" icon-"]:before{font-family:"the-happy-foodie-icons";font-style:normal;font-weight:normal;speak:none;display:inline-block;text-decoration:inherit;width:1em;margin-right:.2em;text-align:center;font-variant:normal;text-transform:none;line-height:1em;margin-left:.2em}.icon-right::before{content:'\e809'}.icon-mail::before{content:'\e803'}.icon-close::before{content:'\e80c'}.icon-pinterest-light::before{content:'\e808'}.icon-info::before{content:'\e800'}.icon-eye::before{content:'\e80d'}.icon-print::before{content:'\e80e'}.icon-twitter-light::before{content:'\e807'}.icon-facebook-light::before{content:'\e806'}.icon-menu::before{content:'\e80b'}.icon-pinterest::before{content:'\e805'}.icon-rss::before{content:'\e804'}.icon-play::before{content:'\e80a'}.icon-twitter::before{content:'\e802'}.icon-facebook::before{content:'\e801'}.icon-search::before{content:'\e80f'}.icon-youtube::before{content:'\e810'}.icon-instagram::before{content:'\e811'}/*! normalize.css v2.1.2 | MIT License | git.io/normalize */article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,summary{display:block}audio,canvas,video{display:inline-block}audio:not([controls]){display:none;height:0}[hidden]{display:none}html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}a:focus{outline:thin dotted}a:active,a:hover{outline:0}h1{font-size:2em;margin:0.67em 0}abbr[title]{border-bottom:1px dotted}b,strong{font-weight:bold}dfn{font-style:italic}hr{-moz-box-sizing:content-box;box-sizing:content-box;height:0}mark{background:#ff0;color:#000}code,kbd,pre,samp{font-family:monospace, serif;font-size:1em}pre{white-space:pre-wrap}q{quotes:"\201C" "\201D" "\2018" "\2019"}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sup{top:-0.5em}sub{bottom:-0.25em}img{border:0;-ms-interpolation-mode:bicubic}svg:not(:root){overflow:hidden}figure{margin:0}fieldset{border:1px solid #c0c0c0;margin:0 2px;padding:0.35em 0.625em 0.75em}legend{border:0;padding:0}button,input,select,textarea{font-family:inherit;font-size:100%;margin:0}button,input{line-height:normal}button,select{text-transform:none}button,html input[type="button"],input[type="reset"],input[type="submit"]{-webkit-appearance:button;cursor:pointer}button[disabled],html input[disabled]{cursor:default}input[type="checkbox"],input[type="radio"]{box-sizing:border-box;padding:0}input[type="search"]{-webkit-appearance:textfield;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;box-sizing:content-box}input[type="search"]::-webkit-search-cancel-button,input[type="search"]::-webkit-search-decoration{-webkit-appearance:none}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}textarea{overflow:auto;vertical-align:top}table{border-collapse:collapse;border-spacing:0}html,body{margin:0;padding:0}html{height:100%}body{-webkit-tap-highlight-color:transparent}@media (min-width: 984px){body{height:100%;overflow:auto;position:relative}}body.mfp-zoom-out-cur{overflow:hidden}@media (min-width: 984px){.wrapper{padding-left:30%}}.content{margin:0 auto;padding:2em}@media (min-width: 768px){.content{padding:2em 0 0}}@media (min-width: 984px){.content{padding:2em 0 0}}@media (min-width: 1100px){.content{padding:2em 0 0}}@media (min-width: 1240px){.content{padding:2.5em 0 0}}@media (min-width: 768px){.content-wrapper{padding:0 2.25em}}@media (min-width: 984px){.content-wrapper{padding:0 3.75em}}@media (min-width: 1100px){.content-wrapper{padding:0 4.5em}}@media (min-width: 1240px){.content-wrapper{max-width:42em;padding:0 5.5em}}.hr-content-end{display:block;background:#eee;width:1.25em;height:0.375em;border:none;margin:0 0 2em;clear:both}.hr-width-full{width:100%}.hr-dashed-border{background:none;border:none;border-bottom:1px dashed #ddd;height:1px;margin:1em 0;width:100%}.featured-content{margin-bottom:2em}.has-floated-elements{overflow:hidden}.hidden{display:none}@media (min-width: 568px){.media{display:-webkit-box;display:-webkit-flex;display:-moz-flex;display:-ms-flexbox;display:flex;-webkit-box-align:start;-ms-flex-align:start;-webkit-align-items:flex-start;-moz-align-items:flex-start;align-items:flex-start}}@media (min-width: 568px){.media .body{-webkit-box-flex:1;-webkit-flex:1;-moz-box-flex:1;-moz-flex:1;-ms-flex:1;flex:1}}.media .body>:last-child{margin-bottom:0}@media (min-width: 568px){.img{margin-right:1em}}.img img{display:block}::selection{background:#d25118;color:#fff}::-moz-selection{background:#d25118;color:#fff}body{font-size:16px;font-family:"Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;color:#555;-webkit-text-size-adjust:none;text-size-adjust:none}@media (min-width: 1400px){body{font-size:17px}}@media (min-width: 1640px){body{font-size:20px}}article a,.has-branded-links a{color:#555;text-decoration:none;border-bottom:1px solid #555;-webkit-transition:all 0.2s linear;-moz-transition:all 0.2s linear;-ms-transition:all 0.2s linear;transition:all 0.2s linear}article a:focus,article a:hover,.has-branded-links a:focus,.has-branded-links a:hover{color:#d25118;border-bottom:1px solid #e55b1f;text-decoration:none}.uppercase-branded-link{font-size:0.6875em;font-weight:600;text-transform:uppercase;border-bottom:1px solid transparent;color:#e55b1f;text-decoration:none}.uppercase-branded-link:focus,.uppercase-branded-link:hover{color:#d25118;border-bottom:1px solid #e55b1f;text-decoration:none}.header-link{display:none;position:absolute;top:26px;right:0;color:#E95B00;text-decoration:none;text-transform:uppercase;font-size:0.75em;font-weight:700;padding:4px 12px;background:transparent;-webkit-border-radius:20px;-moz-border-radius:20px;border-radius:20px}@media (min-width: 768px){.header-link{display:block}}@media (min-width: 984px){.header-link{top:2em}}.header-link:hover{background:#d25118;color:#fff}.footer-link-container{text-align:center;padding:15px 0;clear:both;margin-top:25px;border-top:1px dashed #ddd}@media (min-width: 768px){.footer-link-container{display:none}}.footer-link-container--all-screens{border-top:1px dashed #ddd;clear:both;margin-top:25px;padding:15px 0;text-align:center}.footer-link{font-size:0.75em;font-weight:400;color:#999;text-decoration:none;text-transform:uppercase;padding:2px 0;border-bottom:1px dashed #ddd;-webkit-transition:all 0.2s linear;-moz-transition:all 0.2s linear;-ms-transition:all 0.2s linear;transition:all 0.2s linear}.footer-link:focus,.footer-link:hover{color:#d25118;border-color:#e55b1f}h1,h2,h3,h4,h5,h6{line-height:1.1;margin-bottom:0 0 1.5em;font-weight:700}h1.has-border,h2.has-border,h3.has-border,h4.has-border,h5.has-border,h6.has-border{padding-bottom:0.5em;border-bottom:1px dashed #ddd}h1,h2{font-family:"Montserrat", "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;letter-spacing:-1px}.main-title{font-size:1.75em;color:#e55b1f}@media (min-width: 768px){.main-title{font-size:2.25em;letter-spacing:-2px}}@media (min-width: 768px){.nav+.main-title{margin-top:0}}.main-title.smaller{font-size:1.5em}@media (min-width: 768px){.main-title.smaller{font-size:1.75em;letter-spacing:-1px}}h1.strapline{margin-bottom:0}h2.strapline{font-size:1.25em;font-weight:400;line-height:1.35;margin-bottom:1.875em}.section-head{font-size:0.75em;font-weight:400;line-height:1;margin:0 0 2em;color:#999;text-transform:uppercase}.ampersand{font-family:'Goudy Old Style', Baskerville, Palatino, 'Palatino Linotype', 'Book Antiqua', serif !important;font-style:italic;font-weight:400;margin-right:0.1em}p{font-size:1em;line-height:1.45;margin:0 0 1.5em}@media (min-width: 768px){p{font-size:1.0625em;text-align:justify}}b,strong{color:#484848}.special-head{text-transform:uppercase;text-align:center;font-size:0.8125em;font-weight:400;letter-spacing:0;padding:15px;background:#e55b1f;color:white;margin-bottom:0;-webkit-border-radius:4px 4px 0 0;-moz-border-radius:4px 4px 0 0;border-radius:4px 4px 0 0}.cookie-nag{background:#fff;border-bottom:8px solid #f5f5f5;font-size:16px;padding:1.875em;text-align:center}.cookie-nag.hidden{display:none}.cookie-nag a{color:#e55b1f;display:inline-block}.cookie-nag__wrapper{margin:0 auto;max-width:680px}.cookie-nag__wrapper button{background:#e55b1f;border:0;border-radius:4px;color:#fff;padding:.5em 1.5em .65em}.nav-container{position:absolute;top:60px;right:0;z-index:100;height:0;width:100%}@media (min-width: 768px){.nav-container{top:75px}}@media (min-width: 984px){.nav-container{display:none}}.nav-search{background:transparent;border:0;color:#fff;font-size:22px;height:60px;line-height:60px;margin:0;padding:0 10px;position:absolute;top:-60px;left:0}@media (min-width: 768px){.nav-search{top:-70px;left:10px}}.nav-toggle{position:absolute;top:-60px;right:0;border:0;padding:0 10px;margin:0;background:transparent;color:#fff;font-size:26px;height:60px;line-height:60px;-webkit-appearance:none;-moz-appearance:none;appearance:none}@media (min-width: 768px){.nav-toggle{top:-70px;right:10px}}.nav{height:0px;width:100%;overflow:hidden}@media (min-width: 984px){.nav{overflow:visible}}.nav-container .nav{background:url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyNpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDE0IDc5LjE1MTQ4MSwgMjAxMy8wMy8xMy0xMjowOToxNSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChNYWNpbnRvc2gpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjAzOUY5MTc5RUM4OTExRTJCREJEQTUyOThDQUY2NEVBIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOjAzOUY5MTdBRUM4OTExRTJCREJEQTUyOThDQUY2NEVBIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6MDM5RjkxNzdFQzg5MTFFMkJEQkRBNTI5OENBRjY0RUEiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6MDM5RjkxNzhFQzg5MTFFMkJEQkRBNTI5OENBRjY0RUEiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz4xzU7MAAAAD0lEQVR42mJgYGDwBQgwAABSAE5RZV5PAAAAAElFTkSuQmCC");float:right;-webkit-transition:opacity 0.2s ease-in;-moz-transition:opacity 0.2s ease-in;-ms-transition:opacity 0.2s ease-in;transition:opacity 0.2s ease-in;opacity:0;-webkit-transform:translate3d(0, 0, 0);-moz-transform:translate3d(0, 0, 0);-ms-transform:translate3d(0, 0, 0);-o-transform:translate3d(0, 0, 0);transform:translate3d(0, 0, 0)}.nav-toggle.is-open+.nav{display:block;height:auto;min-height:100%;background:url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyNpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDE0IDc5LjE1MTQ4MSwgMjAxMy8wMy8xMy0xMjowOToxNSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChNYWNpbnRvc2gpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjAzOUY5MTc5RUM4OTExRTJCREJEQTUyOThDQUY2NEVBIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOjAzOUY5MTdBRUM4OTExRTJCREJEQTUyOThDQUY2NEVBIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6MDM5RjkxNzdFQzg5MTFFMkJEQkRBNTI5OENBRjY0RUEiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6MDM5RjkxNzhFQzg5MTFFMkJEQkRBNTI5OENBRjY0RUEiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz4xzU7MAAAAD0lEQVR42mJgYGDwBQgwAABSAE5RZV5PAAAAAElFTkSuQmCC");opacity:1}@media (min-width: 984px){.content .nav{display:block;height:70px;position:absolute;top:0;left:0;text-align:center;margin-bottom:10px;display:block;position:relative;width:auto;text-align:left}}.nav-items{list-style:none;margin:0;padding:3px 6px;overflow:hidden;width:100%}@media (min-width: 984px){.nav-items{overflow:visible}}.nav-container .nav-items{width:auto;margin:10px auto;display:inline-block}@media (min-width: 600px){.nav-container .nav-items{margin:20px auto}}@media (min-width: 768px){.nav-container .nav-items{margin:30px auto}}@media (min-width: 984px){.nav-items{padding:0;height:50px}}.nav-container .nav-item{float:left;width:50%;padding:3px;opacity:0;-webkit-transform:scale3d(0.1, 0.1, 1);-moz-transform:scale3d(0.1, 0.1, 1);-ms-transform:scale3d(0.1, 0.1, 1);-o-transform:scale3d(0.1, 0.1, 1);transform:scale3d(0.1, 0.1, 1);-webkit-box-sizing:border-box;-moz-box-sizing:border-box;-o-box-sizing:border-box;box-sizing:border-box;-webkit-transition:all 0.2s linear;-moz-transition:all 0.2s linear;-ms-transition:all 0.2s linear;transition:all 0.2s linear}.nav-toggle.is-open+nav .nav-item{-webkit-transform:scale3d(1, 1, 1);-moz-transform:scale3d(1, 1, 1);-ms-transform:scale3d(1, 1, 1);-o-transform:scale3d(1, 1, 1);transform:scale3d(1, 1, 1);opacity:1}.nav-toggle.is-open+nav .nav-item:nth-child(1){-webkit-transition-delay:0.025s;-moz-transition-delay:0.025s;-ms-transition-delay:0.025s;transition-delay:0.025s}.nav-toggle.is-open+nav .nav-item:nth-child(2){-webkit-transition-delay:0.05s;-moz-transition-delay:0.05s;-ms-transition-delay:0.05s;transition-delay:0.05s}.nav-toggle.is-open+nav .nav-item:nth-child(3){-webkit-transition-delay:0.075s;-moz-transition-delay:0.075s;-ms-transition-delay:0.075s;transition-delay:0.075s}.nav-toggle.is-open+nav .nav-item:nth-child(4){-webkit-transition-delay:0.1s;-moz-transition-delay:0.1s;-ms-transition-delay:0.1s;transition-delay:0.1s}.nav-toggle.is-open+nav .nav-item:nth-child(5){-webkit-transition-delay:0.125s;-moz-transition-delay:0.125s;-ms-transition-delay:0.125s;transition-delay:0.125s}.nav-toggle.is-open+nav .nav-item:nth-child(6){-webkit-transition-delay:0.15s;-moz-transition-delay:0.15s;-ms-transition-delay:0.15s;transition-delay:0.15s}.nav-toggle.is-open+nav .nav-item:nth-child(7){-webkit-transition-delay:0.175s;-moz-transition-delay:0.175s;-ms-transition-delay:0.175s;transition-delay:0.175s}.nav-toggle.is-open+nav .nav-item:nth-child(8){-webkit-transition-delay:0.2s;-moz-transition-delay:0.2s;-ms-transition-delay:0.2s;transition-delay:0.2s}.nav-toggle.is-open+nav .nav-item:nth-child(9){-webkit-transition-delay:0.225s;-moz-transition-delay:0.225s;-ms-transition-delay:0.225s;transition-delay:0.225s}.nav-toggle.is-open+nav .nav-item:nth-child(10){-webkit-transition-delay:0.25s;-moz-transition-delay:0.25s;-ms-transition-delay:0.25s;transition-delay:0.25s}.nav-toggle.is-open+nav .nav-item:nth-child(11){-webkit-transition-delay:0.275s;-moz-transition-delay:0.275s;-ms-transition-delay:0.275s;transition-delay:0.275s}.nav-toggle.is-open+nav .nav-item:nth-child(12){-webkit-transition-delay:0.3s;-moz-transition-delay:0.3s;-ms-transition-delay:0.3s;transition-delay:0.3s}.nav-toggle.is-open+nav .nav-item:nth-child(13){-webkit-transition-delay:0.325s;-moz-transition-delay:0.325s;-ms-transition-delay:0.325s;transition-delay:0.325s}.nav-toggle.is-open+nav .nav-item:nth-child(14){-webkit-transition-delay:0.35s;-moz-transition-delay:0.35s;-ms-transition-delay:0.35s;transition-delay:0.35s}.nav-toggle.is-open+nav .nav-item:nth-child(15){-webkit-transition-delay:0.375s;-moz-transition-delay:0.375s;-ms-transition-delay:0.375s;transition-delay:0.375s}.nav-toggle.is-open+nav .nav-item:nth-child(16){-webkit-transition-delay:0.4s;-moz-transition-delay:0.4s;-ms-transition-delay:0.4s;transition-delay:0.4s}.nav-toggle.is-open+nav .nav-item:nth-child(17){-webkit-transition-delay:0.425s;-moz-transition-delay:0.425s;-ms-transition-delay:0.425s;transition-delay:0.425s}.nav-toggle.is-open+nav .nav-item:nth-child(18){-webkit-transition-delay:0.45s;-moz-transition-delay:0.45s;-ms-transition-delay:0.45s;transition-delay:0.45s}.nav-toggle.is-open+nav .nav-item:nth-child(19){-webkit-transition-delay:0.475s;-moz-transition-delay:0.475s;-ms-transition-delay:0.475s;transition-delay:0.475s}@media (min-width: 984px){.nav-item{float:left;margin-right:0.1em;padding-bottom:20px}.nav-item.verbose{display:none}}.nav-item-link{text-transform:uppercase}.nav-container .nav-item-link{background:#fff;padding:15px 10px;display:block;font-size:0.8125em;font-weight:600;text-decoration:none;color:#e55b1f}.nav-container .nav-item-link:focus,.nav-container .nav-item-link:hover{background:#e55b1f;color:#fff}.nav-container .nav-item-link .verbose{display:none}@media (min-width: 600px){.nav-container .nav-item-link{font-size:0.875em}}@media (min-width: 984px){.nav-item-link{background:#fff;border:2px solid #eee;padding:0.625em 0.6875em 0.5625em;line-height:1;color:#555;font-family:"Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;font-size:0.875em;text-decoration:none;text-transform:none;-webkit-border-radius:2em;-moz-border-radius:2em;border-radius:2em;display:inline-block}.nav-item-link:focus,.nav-item-link:hover,.nav-item-link.active{border-color:#d25118;background:#e55b1f;color:#fff;outline:none}.nav-item--search .nav-item-link{color:#999;min-width:100px}.nav-item--search .nav-item-link:focus,.nav-item--search .nav-item-link:hover,.nav-item--search .nav-item-link.active{border-color:#eee;background-color:#fff;color:#999;cursor:text}}@media (min-width: 1100px){.nav-item-link{padding:0.625em 0.875em 0.5625em}}@media (min-width: 1240px){.nav-item-link{padding:0.5625em 1em 0.5625em;margin:0 0.1875em 0 0;font-size:0.875em}}@media (min-width: 984px){.nav-item-special{float:right;margin-right:0}}@media (min-width: 984px){.nav-item-link-special{color:#fff;border-color:transparent;background:transparent;padding:0}.nav-item-link-special img{margin-top:5px;width:170px;height:22px}.nav-item-link-special:focus,.nav-item-link-special:hover{border-color:transparent;background:transparent;color:#fff}}@media (min-width: 1150px){.nav-item-link-special img{margin-top:0;width:215px;height:27px}}@media (min-width: 1400px){.nav-item-link-special img{width:227px;height:29px}}.nav-item--highlight a{border-color:#e55b1f}.nav-item__search{background:#fff;height:0;overflow:hidden;position:absolute;top:0;left:0;width:100%;opacity:0;-webkit-transition:opacity 0.3s ease;-moz-transition:opacity 0.3s ease;-ms-transition:opacity 0.3s ease;transition:opacity 0.3s ease}@media (min-width: 984px){.nav-item__search--visible{height:auto;z-index:2;opacity:1}}.nav-item--search .nav-item-link i{color:#555;margin-left:-2px;position:relative;top:-1px}@media (max-width: 983px){.nav-item--search .nav-item-link i{display:none}}@media (min-width: 1100px){.nav-item--search .nav-item-link i{margin-left:-6px}}@media (min-width: 1240px){.nav-item--search .nav-item-link i{margin-left:-8px}}.nav-item--recipes{position:relative}.nav__subnav{display:none}@media (min-width: 984px){.nav-item--recipes:hover .nav__subnav{-webkit-transform:translate3d(-50%, 0, 0);-moz-transform:translate3d(-50%, 0, 0);-ms-transform:translate3d(-50%, 0, 0);-o-transform:translate3d(-50%, 0, 0);transform:translate3d(-50%, 0, 0);background:#fff;border:2px solid #eee;border-radius:6px;box-shadow:0 20px 35px rgba(0,0,0,0.1);display:block;font-size:16px;line-height:1.75;overflow:hidden;padding:1em;position:absolute;left:66%;top:50px;text-align:center;width:680px;z-index:100}.nav-item--recipes:hover .nav__subnav strong{color:#e55b1f;display:block;font-size:12px;letter-spacing:.05em;margin-bottom:.5em}.nav-item--recipes:hover .nav__subnav a{color:#777;text-decoration:none}.nav-item--recipes:hover .nav__subnav a:hover{color:#e55b1f;text-decoration:underline}}.nav__subnav__items{display:inline-block;margin:1em;text-align:left;vertical-align:top}.nav__subnav__items+.nav__subnav__items{margin-left:2em}.social-promo{margin-top:2rem;text-align:center}.social-promo p{text-align:center}.social-promo a{text-decoration:none}.social-promo div{display:-webkit-box;display:-webkit-flex;display:-moz-flex;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;-webkit-align-items:center;-moz-align-items:center;align-items:center;-webkit-box-pack:justify;-ms-flex-pack:justify;-webkit-justify-content:space-between;-moz-justify-content:space-between;justify-content:space-between;margin:0 auto;width:260px}.footer{border-top:8px solid #f5f5f5;clear:both;font-size:13px;line-height:1.5;margin-top:3.75em;padding:2.5em 0.625em;position:relative}@media (min-width: 768px){.footer{display:-webkit-box;display:-webkit-flex;display:-moz-flex;display:-ms-flexbox;display:flex;-webkit-box-align:start;-ms-flex-align:start;-webkit-align-items:flex-start;-moz-align-items:flex-start;align-items:flex-start;-webkit-box-pack:justify;-ms-flex-pack:justify;-webkit-justify-content:space-between;-moz-justify-content:space-between;justify-content:space-between;padding:3.75em 2.5em}}.footer a{color:#e55b1f;display:inline-block}.footer__left{display:-webkit-box;display:-webkit-flex;display:-moz-flex;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;-webkit-align-items:center;-moz-align-items:center;align-items:center}.footer__logo{margin-right:2em;width:150px}.footer__logo svg{height:73.21429px;width:150px}.footer__right{margin-top:30px}@media (min-width: 768px){.footer__right{margin-top:0;max-width:360px;text-align:right}}.footer__links-wrapper{display:inline-block;max-width:185px}.footer__copyright{color:#888;margin-top:1em}.footer__cookie{background:#fff;font-size:16px;padding:1.875em;position:absolute;top:0;left:0;right:0;bottom:0;text-align:center}.footer__cookie.hidden{display:none}.footer__cookie__wrapper{margin:0 auto;max-width:680px}.footer__cookie__wrapper button{background:#e55b1f;border:0;border-radius:4px;color:#fff;padding:.5em 1.5em .65em}.hero{position:relative;background:#e55b1f;width:100%;padding-top:58%;padding-bottom:60px;height:0;text-align:center;z-index:1;-webkit-transform:translate3d(0, 0, 0);-moz-transform:translate3d(0, 0, 0);-ms-transform:translate3d(0, 0, 0);-o-transform:translate3d(0, 0, 0);transform:translate3d(0, 0, 0)}.view--search-show .hero{padding-top:0}@media (min-width: 984px){.hero{position:fixed;top:0;left:0;padding-top:0;padding-bottom:0;width:30%;height:100%;border-right:10px solid #f5f5f5;overflow:hidden}}.hero.has-no-image{padding-top:0;height:0}@media (min-width: 984px){.hero.has-no-image{height:100%}}.hero-background,.hero-content{position:absolute;top:0;left:0;z-index:1;width:100%}.hero-background{background:url(https://fl-1.cdn.flockler.com/assets/the_happy_foodie/images/hero/hero-bg-pattern-2x-7124f0ce47998e59cabae1c5a970edb5977438d8ff7c89bf5e9d3dfdef08db6a.png);background-size:70px 70px;width:100%;height:100%;overflow:hidden;padding-top:60px;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;-o-box-sizing:border-box;box-sizing:border-box}.hero-background>span{display:block;height:100%}.has-no-image .hero-background{height:0}@media (min-width: 768px){.hero-background{padding-top:75px}}@media (min-width: 984px){.hero-background{padding-top:0;top:0;height:100%}.has-no-image .hero-background{height:100%}}.hero-background .img{position:relative;top:60px}@media (min-width: 768px){.hero-background .img{top:75px}}@media (min-width: 984px){.hero-background .img{top:0}}.hero-background img{opacity:0}.hero-background img.is-loaded{opacity:1;-webkit-transition:opacity 0.6s linear;-moz-transition:opacity 0.6s linear;-ms-transition:opacity 0.6s linear;transition:opacity 0.6s linear;-webkit-transform:translate3d(0, 0, 0);-moz-transform:translate3d(0, 0, 0);-ms-transform:translate3d(0, 0, 0);-o-transform:translate3d(0, 0, 0);transform:translate3d(0, 0, 0)}.hero-background__default--vertical,.hero-background__default--horizontal{background-position:50% 50%;background-size:cover;height:100%;width:100%}.hero-background__default--vertical{display:none}@media (min-width: 984px){.hero-background__default--vertical{display:block}}.hero-background__default--horizontal{display:block}@media (min-width: 984px){.hero-background__default--horizontal{display:none}}.hero-content{background:#e55b1f;z-index:2;height:60px;-webkit-transform:translateZ(0);-moz-transform:translateZ(0);-ms-transform:translateZ(0);-o-transform:translateZ(0);transform:translateZ(0)}@media (min-width: 768px){.hero-content{height:75px}}@media (min-width: 984px){.hero-content{background:transparent;overflow:hidden;height:100%}}.hero-nav{display:none}@media (min-width: 984px){.hero-nav{display:block;margin-top:2.0625em}}@media (min-width: 1240px){.hero-nav{margin-top:2.5em}}.hero-nav-item{background:#e55b1f;font-size:0.875em;font-weight:600;color:#fff;text-decoration:none;text-transform:uppercase;width:10em;height:1.5em;line-height:1.5em;padding:0.25em 0;border:2px solid white;-webkit-border-radius:2em;-moz-border-radius:2em;border-radius:2em;-webkit-box-shadow:0 0 1em rgba(0,0,0,0.3);-moz-box-shadow:0 0 1em rgba(0,0,0,0.3);-o-box-shadow:0 0 1em rgba(0,0,0,0.3);box-shadow:0 0 1em rgba(0,0,0,0.3);display:inline-block}.hero-nav-item:focus,.hero-nav-item:hover{background:#bb4816;color:#fff;outline:none}@media (min-width: 984px){.hero-logo-container{width:100%;background:-moz-linear-gradient(top, rgba(0,0,0,0.45) 50%, transparent);background:-webkit-linear-gradient(top, rgba(0,0,0,0.45) 50%, transparent);background:linear-gradient(to bottom, rgba(0,0,0,0.45) 50%, transparent);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#8c000000', endColorstr='#00000000',GradientType=0 );position:absolute;top:0;left:0;text-align:center}}.hero-logo-link{display:inline-block;width:110px;margin-top:7px}.hero-logo-link img{width:100%;max-width:100%;height:auto}@media (min-width: 768px){.hero-logo-link{width:150px}}@media (min-width: 984px){.hero-logo-link{max-width:303px;width:80%;margin-top:25px}}.hero-some-container{display:none}@media (min-width: 984px){.hero-some-container{display:block;position:absolute;bottom:0;left:0;padding-bottom:50px;text-align:center;width:100%;background:-moz-linear-gradient(top, transparent, rgba(0,0,0,0.35));background:-webkit-linear-gradient(top, transparent, rgba(0,0,0,0.35));background:linear-gradient(to bottom, transparent, rgba(0,0,0,0.35));filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#8c000000',GradientType=0 )}}@media (min-width: 984px){.hero-newsletter-link{width:90%;display:block;margin:0 auto;max-width:337px}.hero-newsletter-link img{width:100%;height:auto}}@media (min-width: 984px){.hero-some{-webkit-box-align:center;-ms-flex-align:center;-webkit-align-items:center;-moz-align-items:center;align-items:center;-webkit-border-radius:30px;-moz-border-radius:30px;border-radius:30px;-webkit-box-shadow:0 0 10px rgba(0,0,0,0.3);-moz-box-shadow:0 0 10px rgba(0,0,0,0.3);-o-box-shadow:0 0 10px rgba(0,0,0,0.3);box-shadow:0 0 10px rgba(0,0,0,0.3);display:-webkit-inline-box;display:-webkit-inline-flex;display:-moz-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;-moz-justify-content:center;justify-content:center;background:#e55b1f;border:1px solid #fff;max-width:300px;overflow:hidden;padding:0.3em;position:relative;text-align:center;top:-10px}}.hero-some-title{font-size:12px;font-weight:700;text-transform:uppercase;color:#fff;margin:0 18px 0 24px;position:relative;top:-1px}.hero-some-link{line-height:1;margin-left:0.2em}.hero-some-link svg{vertical-align:middle}.recipe{border-bottom:4px solid #eee;padding:0 0 1.25em}.recipe>*+*{margin-top:2em}.recipe .recipe__pinterest-button-wrapper+*{margin-top:.5em}.recipe__meta{border:1px dashed #ccc;border-width:1px 0;font-size:13px;line-height:1.4;padding:1em 0}@media (min-width: 600px){.recipe__meta{display:-webkit-box;display:-webkit-flex;display:-moz-flex;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;-webkit-align-items:center;-moz-align-items:center;align-items:center}}@media (min-width: 1240px){.recipe__meta{font-size:14px}}.recipe__meta *,.recipe__meta *::before,.recipe__meta *::after{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}.recipe__meta>*{margin-top:1em}@media (min-width: 600px){.recipe__meta>*{margin-top:0;padding-right:1.5em}}.recipe__meta strong{display:block;line-height:1;margin-bottom:.25em}.recipe__meta__author-image{display:none;width:80px}@media (min-width: 600px){.recipe__meta__author-image{-webkit-box-ordinal-group:1;-webkit-order:0;-moz-order:0;-ms-flex-order:0;order:0;display:block}}.recipe__meta__author-image img{border-radius:100%;display:block;width:100%}.recipe__meta__book__details{overflow:hidden}@media (min-width: 600px){.recipe__meta__book__details{-webkit-box-flex:0;-webkit-flex:0 1 auto;-moz-box-flex:0;-moz-flex:0 1 auto;-ms-flex:0 1 auto;flex:0 1 auto;-webkit-box-ordinal-group:4;-webkit-order:3;-moz-order:3;-ms-flex-order:3;order:3;max-width:250px}}.recipe__meta__authors{overflow:hidden}@media (min-width: 600px){.recipe__meta__authors{-webkit-box-flex:0;-webkit-flex:0 1 auto;-moz-box-flex:0;-moz-flex:0 1 auto;-ms-flex:0 1 auto;flex:0 1 auto;-webkit-box-ordinal-group:2;-webkit-order:1;-moz-order:1;-ms-flex-order:1;order:1}}.recipe__meta__book__purchase{min-width:110px}@media (min-width: 600px){.recipe__meta__book__purchase{-webkit-box-ordinal-group:6;-webkit-order:5;-moz-order:5;-ms-flex-order:5;order:5;margin-left:1em}}.recipe__meta__book-cover{float:left;margin:0 1em 0 0}.recipe__meta__book-cover a{border:none}@media (min-width: 600px){.recipe__meta__book-cover{-webkit-box-ordinal-group:3;-webkit-order:2;-moz-order:2;-ms-flex-order:2;order:2;float:none;height:80px;margin:0}.recipe__meta__book-cover img{display:block;height:100%;width:auto}}.recipe__summary__cover{float:right;max-width:20%;overflow:hidden;padding:0 0 1.5em 2.5em;width:200px}@media (max-width: 767px){.recipe__summary__cover{display:none}}.recipe__summary__cover img{display:block;height:auto;width:100%}.recipe__data{background:#fbfbfb;border:1px dashed #ccc;border-radius:6px;color:#666;font-size:12px;font-weight:600;padding:1em}@media (min-width: 800px){.recipe__data{text-align:center}}@media (min-width: 984px){.recipe__data{text-align:left}}@media (min-width: 1640px){.recipe__data{font-size:14px;text-align:center}}.recipe__data>*{display:inline-block}.recipe__data__field{display:inline-block;margin:5px 0;text-align:left;width:100%}@media (min-width: 540px){.recipe__data__field{width:44%}}@media (min-width: 768px){.recipe__data__field{width:29%}}@media (min-width: 879px){.recipe__data__field{margin:5px 10px;width:auto}}@media (min-width: 984px){.recipe__data__field{margin:5px 0;width:44%}}@media (min-width: 1100px){.recipe__data__field{width:29%}}@media (min-width: 1640px){.recipe__data__field{margin:5px 10px;width:auto}}.recipe__data__icon{color:#333;display:inline-block;min-width:40px;text-align:center}.recipe__data__icon svg{height:1.4em;position:relative;top:-.1em;vertical-align:middle}.recipe__ingredients-table{font-size:13px;table-layout:fixed;width:100%}@media (min-width: 768px){.recipe__ingredients-table{font-size:15px}}.recipe__ingredients-table td{padding:.6em;word-wrap:break-word}@media (min-width: 768px){.recipe__ingredients-table td{padding:.875em}}.recipe__ingredients-table tr{border-left:2px solid #fff}.recipe__ingredients-table tr+tr{border-top:1px dashed #ccc}.recipe__ingredients-table tr:hover{border-left-color:#e55b1f}.recipe__ingredients-table tr:nth-child(2n){background:#fbfbfb}.recipe__ingredients__amount{font-weight:600;width:30%}.recipe__ingredients__name{width:70%}.recipe__instructions img{max-width:100%}.recipe__mobile-clipper{overflow:hidden;position:relative}.recipe__mobile-clipper.is-open{max-height:none}.recipe__mobile-clipper.is-open::after,.recipe__mobile-clipper.is-open button{display:none}.recipe__mobile-clipper button{background:#fff;border:2px solid #ddd;border-radius:4px;color:#888;display:block;font-family:inherit;font-size:11px;font-weight:600;padding:8px 5px;position:absolute;bottom:0;left:5%;text-transform:uppercase;width:90%;z-index:2}@media (min-width: 768px){.recipe__mobile-clipper button{display:none}}.recipe__mobile-clipper::after{background-image:-webkit-linear-gradient(rgba(255,255,255,0), white 60%);background-image:linear-gradient(rgba(255,255,255,0), white 60%);content:'';display:block;height:5em;position:absolute;bottom:0;left:0;width:100%;z-index:1}@media (min-width: 768px){.recipe__mobile-clipper::after{display:none}}.recipe__mobile-clipper--intro{max-height:7em}@media (min-width: 768px){.recipe__mobile-clipper--intro{max-height:none}}.recipe__mobile-clipper--summary{max-height:13em}@media (min-width: 768px){.recipe__mobile-clipper--summary{max-height:none}}.recipe__mobile-clipper--ingredients{max-height:24em}@media (min-width: 768px){.recipe__mobile-clipper--ingredients{max-height:none}}.recipe__mobile-clipper--instructions{max-height:44em}@media (min-width: 768px){.recipe__mobile-clipper--instructions{max-height:none}}.recipe-category-promo-button{background:#e55b1f;border:0;border-radius:4px;color:#fff;display:inline-block;font-family:"Montserrat", "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;font-size:12px;font-weight:400;line-height:1;padding:1em 2em;text-transform:uppercase}.recipe-category-promo-button:focus,.recipe-category-promo-button:hover{border:0;color:#fff}.recipe__meta-alt{border:1px dashed #ccc;border-width:1px 0;font-size:14px;line-height:1.4;padding:1em 0}.recipe__meta-alt *,.recipe__meta-alt *::before,.recipe__meta-alt *::after{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}.recipe__meta-alt.recipe__meta-alt--no-border{border:none}.recipe__meta-alt__from-the-book-container{position:relative}.recipe__meta-alt__from-the-book-button{background:#fff;border:2px solid #fff;border-radius:100%;box-shadow:0 3px 10px rgba(0,0,0,0.1);display:none;height:2rem;padding:0;position:absolute;top:45%;transform:translate3d(0, -50%, 0) scale(1);transition:all .3s ease-in-out;width:2rem;z-index:1}.recipe__meta-alt__from-the-book-button:hover{transform:translate3d(0, -50%, 0) scale(1.1)}.recipe__meta-alt__from-the-book-button[disabled]{display:none}@media (min-width: 984px){.recipe__meta-alt__from-the-book-button{display:block}.recipe__meta-alt__from-the-book-button.hidden{display:none}}.recipe__meta-alt__from-the-book-button--left{left:1em}.recipe__meta-alt__from-the-book-button--right{right:1em}.recipe__meta-alt__from-the-book-wrapper{margin:0 -30px;position:relative}.recipe__meta-alt__from-the-book-wrapper::after{background:linear-gradient(to right, rgba(255,255,255,0), white);content:'';position:absolute;top:0;bottom:0;right:0;width:30px}.recipe__meta-alt__from-the-book-wrapper::before{background:linear-gradient(to left, rgba(255,255,255,0), white);content:'';position:absolute;top:0;bottom:0;left:0;width:30px}.recipe__meta-alt__from-the-book{-ms-overflow-style:none;-webkit-overflow-scrolling:touch;overflow-x:auto;overflow-y:hidden;padding:0 30px;white-space:nowrap}@media (min-width: 984px){.recipe__meta-alt__from-the-book{overflow:hidden}}.recipe__meta-alt__from-the-book__page{display:inline-block;padding-right:10px;vertical-align:top}@media (min-width: 768px){.recipe__meta-alt__from-the-book__page{cursor:pointer}}.recipe__meta-alt__from-the-book__page img{height:240px;width:auto}.recipe__meta-alt__from-the-book__page figcaption{font-size:13px;margin:.5em 0 1em;min-width:100%;text-align:center;white-space:normal;width:0}.newsletter-bar{background:#e55b1f;box-shadow:inset 0 0 5px rgba(0,0,0,0.1);color:#fff;margin:-2em -2em 2.5em;padding:1em 2em;text-align:center}@media (min-width: 390px){.newsletter-bar{text-align:left}}@media (min-width: 768px){.newsletter-bar{margin:-2em auto 2.5em;padding:1em 0}}@media (min-width: 984px){.newsletter-bar{margin-top:0}}.newsletter-bar .content-wrapper{position:relative}.newsletter-bar a{color:#fff;display:block;text-decoration:none}.newsletter-bar form{display:none;font-size:0;margin:10px 0 0;max-width:400px}@media (min-width: 1060px){.newsletter-bar form{margin-left:0}}.newsletter-bar form.visible{display:block}.newsletter-bar input[type="email"]{background:#fff;border:none;border-radius:3px 0 0 3px;box-shadow:none;box-sizing:border-box;display:inline-block;font-size:14px;line-height:32px;padding:0 10px;vertical-align:top;width:65%}.newsletter-bar input[type="submit"]{background:#b14414;border:none;border-radius:0 3px 3px 0;box-shadow:none;box-sizing:border-box;color:#fff;display:inline-block;font-size:11px;font-weight:600;letter-spacing:.05em;line-height:32px;padding:0 10px;position:relative;left:-.3em;overflow:hidden;text-overflow:ellipsis;text-transform:uppercase;-webkit-transition:background 0.2s linear;-moz-transition:background 0.2s linear;-ms-transition:background 0.2s linear;transition:background 0.2s linear;vertical-align:top;width:35%}.newsletter-bar input[type="submit"]:hover{background:#963c14}.newsletter-bar__text{font-size:.9em;margin:0 auto;max-width:200px}@media (min-width: 390px){.newsletter-bar__text{margin:0}}@media (min-width: 520px){.newsletter-bar__text{max-width:none}}@media (min-width: 984px){.newsletter-bar__text{max-width:340px}}@media (min-width: 1090px){.newsletter-bar__text{max-width:none}}@media (min-width: 1380px){.newsletter-bar__text{font-size:1em}}.newsletter-bar__text__desktop{display:none}@media (min-width: 730px){.newsletter-bar__text__desktop{display:inline}}.newsletter-bar__text__mobile{font-weight:700}@media (min-width: 730px){.newsletter-bar__text__mobile{display:none}}.newsletter-bar__cta{background:#e55b1f;border:2px solid #fff;border-radius:6px;color:#fff;font-family:inherit;font-size:.85em;font-weight:700;line-height:1;margin:1em auto 0;padding:.5em 1em .6em;text-align:center;text-decoration:none;width:100px}@media (min-width: 390px){.newsletter-bar__cta{-webkit-transform:translate3d(0, -50%, 0) rotate(-15deg);-moz-transform:translate3d(0, -50%, 0) rotate(-15deg);-ms-transform:translate3d(0, -50%, 0) rotate(-15deg);-o-transform:translate3d(0, -50%, 0) rotate(-15deg);transform:translate3d(0, -50%, 0) rotate(-15deg);border-radius:100%;box-shadow:0 0 15px rgba(0,0,0,0.1);font-size:.8em;height:80px;line-height:74px;margin:0;padding:0;position:absolute;top:50%;right:0;width:80px;z-index:2}}@media (min-width: 768px){.newsletter-bar__cta{right:1.5em}}@media (min-width: 1080px){.newsletter-bar__cta{font-size:.9em;height:100px;line-height:96px;width:100px}}.newsletter-bar__terms{display:none;font-size:13px;margin-top:10px;opacity:.8}.newsletter-bar__terms a{display:inline;text-decoration:underline}form.visible+.newsletter-bar__terms{display:block}.book-features .has-floated-elements{font-size:0}.book-feature{font-size:16px;width:48%;margin:0 1% 2em;text-align:center;display:inline-block;vertical-align:bottom}.search-results .book-feature{width:47%}@media (min-width: 568px){.book-feature{width:31%}.search-results .book-feature{width:30%}}@media (min-width: 1400px){.book-feature{font-size:17px}}@media (min-width: 600px){.book-feature{width:23%}.search-results .book-feature{width:22%}}@media (min-width: 1640px){.book-feature{font-size:20px}}.book-feature img{display:block;width:100%;height:auto;margin-bottom:10px}.book-feature-buy{color:#d25118;border-bottom:1px solid #e55b1f;text-decoration:none}.book-feature-see-link{background:#e55b1f;border-bottom:2px solid #d25118;display:block;padding:8px 0 6px;font-size:12px;font-weight:600;text-transform:uppercase;text-decoration:none;color:#FFF;-webkit-border-radius:4px 4px 0 0;-moz-border-radius:4px 4px 0 0;border-radius:4px 4px 0 0}.chef-feature{float:left;position:relative;width:48%;height:0;padding-top:48%;margin:1%}@media (min-width: 600px){.chef-feature{width:23%;padding-top:23%}}.chef-feature-cover{position:absolute;margin-top:-100%;width:100%;height:100%;overflow:hidden;-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px}.chef-feature-cover-img{width:100%;height:auto}.chef-feature-name{position:absolute;left:3%;bottom:3%;z-index:1;background:#FFF;width:94%;font-size:0.8125em;font-weight:400;text-align:center;color:#555;padding:6px 0;opacity:0.9;-webkit-box-shadow:0 1px 3px rgba(0,0,0,0.2);-moz-box-shadow:0 1px 3px rgba(0,0,0,0.2);-o-box-shadow:0 1px 3px rgba(0,0,0,0.2);box-shadow:0 1px 3px rgba(0,0,0,0.2);-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px}@media (min-width: 768px){.chef-feature-name{font-size:0.8125em}}.recipe-features{position:relative;overflow:hidden}.recipe-feature{width:100%;margin-bottom:1.5em;background:#f5f5f5;border-bottom:2px solid #eee;overflow:hidden;-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px}@media (min-width: 568px){.recipe-feature{float:left;width:47.5%;margin:0 2.5% 2.5% 0}.recipe-feature:nth-of-type(2n),.recipe-feature:nth-of-type(2n+1){width:48.75%}.recipe-feature:nth-of-type(2n){margin-right:0}}.recipe-feature-cover{position:relative;background:#e55b1f url(https://fl-1.cdn.flockler.com/assets/the_happy_foodie/images/hero/hero-bg-pattern-2x-7124f0ce47998e59cabae1c5a970edb5977438d8ff7c89bf5e9d3dfdef08db6a.png);background-size:70px 70px;width:100%;height:0;max-height:200px;padding-top:58%;overflow:hidden}.recipe-feature-cover img{position:absolute;top:0;left:0;display:block;width:100%;height:auto}.recipe-feature-title{text-align:center;padding:0.875em}.recipe-feature-recipe-name{font-family:"Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;font-size:1em;font-weight:600;line-height:1.3;margin:0 0 0.3125em;letter-spacing:0}.recipe-feature-chef-name{font-size:0.6875em;font-weight:700;color:#e55b1f;text-transform:uppercase}
+</style>
+
     <script src="//assets.adobedtm.com/728c4c54f9d7c89d573d84820d40aaef5cb67c98/satelliteLib-c06c35a004e5693216355c64daa593f50cba5f98.js"></script>
+
+  <script type="text/javascript">
+    var CaptchaCallbacks = [];
+    var CaptchaCallback = function() {
+      for(var i = 0;i<CaptchaCallbacks.length;i++) {
+        grecaptcha.render(CaptchaCallbacks[i].id, CaptchaCallbacks[i].data);
+      }
+    };
+  </script>
 </head>
-<body class="view--recipes view--recipes-show">
+<body class="view--recipes view--recipes-show ">
+
+
   <div class="cookie-nag hidden">
   <div class="wrapper">
     <div class="cookie-nag__wrapper">
       <p class="cookie-nag__copy">
-        We use cookies on this site and by continuing to browse it you agree to sending us your cookies. For more information on our cookies and changing your settings, click <a href="https://www.penguinrandomhouse.co.uk/terms-of-use/" target="_blank" rel="noopener noreferrer">here</a>.
+        We use cookies on this site and by continuing to browse it you agree to sending us your cookies. For more information on our cookies and changing your settings, click <a href="https://www.penguin.co.uk/company/about-us/notices/cookies-policy.html" target="_blank" rel="noopener noreferrer">here</a>.
       </p>
       <button type="button" class="cookie-nag__dismiss">Accept</button>
     </div>
@@ -79,27 +91,27 @@
 </div>
 
 
-  <div class="wrapper">
-    <div class="hero" role="banner">
+    <div class="wrapper">
+      <div class="hero" role="banner">
   <div class="hero-background">
 
         <span data-picture class="hero-background-img-loading" data-alt="Poulet rôti au vin rouge (Roast Red Wine Chicken)" data-bg-pos-left="50" data-bg-pos-top="0">
-          <span data-src="https://flockler.com/thumbs/sites/192/9780718177478_roast_red_wine_chicken_s640x0_c3840x2243_l0x1385_q70_noupscale.jpg"></span>
-          <span data-src="https://flockler.com/thumbs/sites/192/9780718177478_roast_red_wine_chicken_s984x0_c3840x2243_l0x1385_q70_noupscale.jpg"
+          <span data-src="https://flockler.com/thumbs/sites/192/9780718177478_roast_red_wine_chicken_s640x0_c3840x2243_l0x1385_q70.jpg"></span>
+          <span data-src="https://flockler.com/thumbs/sites/192/9780718177478_roast_red_wine_chicken_s984x0_c3840x2243_l0x1385_q70.jpg"
                 data-media="(min-width:640px)"></span>
-          <span data-src="https://flockler.com/thumbs/sites/192/9780718177478_roast_red_wine_chicken_s0x768_q60_noupscale.jpg"
+          <span data-src="https://flockler.com/thumbs/sites/192/9780718177478_roast_red_wine_chicken_s0x768_q60.jpg"
                 data-media="(min-width:984px)"></span>
-          <span data-src="https://flockler.com/thumbs/sites/192/9780718177478_roast_red_wine_chicken_s0x1000_q60_noupscale.jpg"
+          <span data-src="https://flockler.com/thumbs/sites/192/9780718177478_roast_red_wine_chicken_s0x1000_q60.jpg"
                 data-media="(min-width:984px) and (min-height:768px)"></span>
-          <span data-src="https://flockler.com/thumbs/sites/192/9780718177478_roast_red_wine_chicken_s0x1200_q60_noupscale.jpg"
+          <span data-src="https://flockler.com/thumbs/sites/192/9780718177478_roast_red_wine_chicken_s0x1200_q60.jpg"
                 data-media="(min-width:984px) and (min-height:1000px)"></span>
-          <span data-src="https://flockler.com/thumbs/sites/192/9780718177478_roast_red_wine_chicken_s0x1500_q60_noupscale.jpg"
+          <span data-src="https://flockler.com/thumbs/sites/192/9780718177478_roast_red_wine_chicken_s0x1500_q60.jpg"
                 data-media="(min-width:984px) and (min-height:1200px)"></span>
           <!--[if (lt IE 9) & (!IEMobile)]>
-              <span data-src="https://flockler.com/thumbs/sites/192/9780718177478_roast_red_wine_chicken_s0x768_q60_noupscale.jpg"></span>
+              <span data-src="https://flockler.com/thumbs/sites/192/9780718177478_roast_red_wine_chicken_s0x768_q60.jpg"></span>
           <![endif]-->
           <noscript>
-            <img src="https://flockler.com/thumbs/sites/192/9780718177478_roast_red_wine_chicken_s0x768_q60_noupscale.jpg" alt="Poulet rôti au vin rouge (Roast Red Wine Chicken)">
+            <img loading="lazy" src="https://flockler.com/thumbs/sites/192/9780718177478_roast_red_wine_chicken_s0x768_q60.jpg" alt="Poulet rôti au vin rouge (Roast Red Wine Chicken)">
           </noscript>
         </span>
 
@@ -173,7 +185,7 @@
       <li class="nav-item">
         <a tabindex="3" role="menuitem" class="nav-item-link" href="/chefs">Chefs</a>      </li>
       <li class="nav-item">
-        <a tabindex="3" role="menuitem" class="nav-item-link" href="/competitions">Win</a>      </li>
+        <a tabindex="3" role="menuitem" class="nav-item-link" href="https://thehappyfoodie.co.uk/articles/ultimate-christmas-recipes">Christmas</a>      </li>
       <li class="nav-item nav-item--search">
         <div class="nav-item__search">
           <form action="https://thehappyfoodie.co.uk/search" method="get" class="search-form">
@@ -221,13 +233,9 @@
 
 
     <div class="hero-logo-container">
-      <a tabindex="1" class="hero-logo-link" href="/">        <span data-picture data-alt="The Happy Foodie">
-          <span data-src="https://static.flockler.com/assets/the_happy_foodie/images/logo-white-8d8ebba54b48590da1744380cd1a52c31edc2bedeb284a2517fcf15a25e771ac.png"></span>
-          <span data-src="https://static.flockler.com/assets/the_happy_foodie/images/logo-white-2x-25f45d04d4007e6a04553a2b4437b6aa9d2ccb169e6d8b69493f301ec4b00d41.png" data-media="(-webkit-min-device-pixel-ratio: 1.5), (min-resolution:192dpi), (min-resolution:2dppx)"></span>
-          <noscript>
-            <img src="https://static.flockler.com/assets/the_happy_foodie/images/logo-white-8d8ebba54b48590da1744380cd1a52c31edc2bedeb284a2517fcf15a25e771ac.png" alt="The Happy Foodie">
-          </noscript>
-        </span>
+      <a tabindex="1" class="hero-logo-link" href="/">        <img loading="lazy" src="https://fl-1.cdn.flockler.com/assets/the_happy_foodie/images/logo-white-8d8ebba54b48590da1744380cd1a52c31edc2bedeb284a2517fcf15a25e771ac.png" alt="The Happy Foodie"
+             srcset="https://fl-1.cdn.flockler.com/assets/the_happy_foodie/images/logo-white-8d8ebba54b48590da1744380cd1a52c31edc2bedeb284a2517fcf15a25e771ac.png 299w,
+                     https://fl-1.cdn.flockler.com/assets/the_happy_foodie/images/logo-white-2x-25f45d04d4007e6a04553a2b4437b6aa9d2ccb169e6d8b69493f301ec4b00d41.png 598w">
 </a>    </div>
 
     <div class="hero-some-container">
@@ -270,14 +278,14 @@
 
     <div class="hero__pinterest">
 
-          <a data-pin-config="none" data-pin-height="28" data-pin-color="white" href="//pinterest.com/pin/create/button/?url=https%3A%2F%2Fthehappyfoodie.co.uk%2Frecipes%2Fpoulet-roti-au-vin-rouge-roast-red-wine-chicken&media=https%3A%2F%2Fflockler.com%2Fthumbs%2Fsites%2F192%2F9780718177478_roast_red_wine_chicken_s1200x0_q75_noupscale.jpg&description=Poulet%20r%C3%B4ti%20au%20vin%20rouge%20%28Roast%20Red%20Wine%20Chicken%29%20-%20The%20Happy%20Foodie">
-              <img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_white_28.png" />
+          <a data-pin-config="none" data-pin-height="28" data-pin-color="white" href="//pinterest.com/pin/create/button/?url=https%3A%2F%2Fthehappyfoodie.co.uk%2Frecipes%2Fpoulet-roti-au-vin-rouge-roast-red-wine-chicken&media=https%3A%2F%2Fflockler.com%2Fthumbs%2Fsites%2F192%2F9780718177478_roast_red_wine_chicken_s1200x0_q75.jpg&description=Poulet%20r%C3%B4ti%20au%20vin%20rouge%20%28Roast%20Red%20Wine%20Chicken%29%20-%20The%20Happy%20Foodie">
+              <img loading="lazy" src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_white_28.png" />
 </a>    </div>
   </div>
 </div>
 
-    <div class="content" role="main">
-      <div class="content-wrapper">
+      <div class="content" role="main">
+        <div class="content-wrapper">
 
 
   <nav class="nav" role="navigation">
@@ -342,7 +350,7 @@
       <li class="nav-item">
         <a tabindex="3" role="menuitem" class="nav-item-link" href="/chefs">Chefs</a>      </li>
       <li class="nav-item">
-        <a tabindex="3" role="menuitem" class="nav-item-link" href="/competitions">Win</a>      </li>
+        <a tabindex="3" role="menuitem" class="nav-item-link" href="https://thehappyfoodie.co.uk/articles/ultimate-christmas-recipes">Christmas</a>      </li>
       <li class="nav-item nav-item--search">
         <div class="nav-item__search">
           <form action="https://thehappyfoodie.co.uk/search" method="get" class="search-form">
@@ -385,9 +393,10 @@
   </nav>
 
 
-      </div>
+        </div>
 
-        <script>
+
+  <script>
     var storageAvailable = function (type) {
       var storage, x;
       try {
@@ -420,6 +429,16 @@
       </button>
 
       <script type="text/javascript">
+        var newsletterBarCaptchaCompeleted = false;
+
+        var completeNewsletterBarCaptcha = function () {
+          newsletterBarCaptchaCompeleted = true;
+        };
+
+        var expireNewsletterBarCaptcha = function () {
+          newsletterBarCaptchaCompeleted = false;
+        };
+
         (function () {
           var ck_email = /^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/i;
           var gaEventSent = false;
@@ -428,6 +447,11 @@
             var email = form.querySelector('[type="email"]').value;
             var errors = [];
             var formType;
+
+            if (!newsletterBarCaptchaCompeleted) {
+              alert('Please verify that you are not a robot first.')
+              return false;
+            }
 
             if (!ck_email.test(email)) {
               errors[errors.length] = "You must enter a valid email address.";
@@ -441,8 +465,14 @@
             if ( typeof _gaq === 'object' && gaEventSent == false) {
 
               gaEventSent = true;
-              _gaq.push(['t1._set','hitCallback', function() { submitModalNewsletterForm(form); }]);
-              _gaq.push(['t1._trackEvent', 'The Happy Foodie Newsletter banner', 'Submit form']);
+              _gaq.push(['_set','hitCallback', function() { submitModalNewsletterForm(form); }]);
+              _gaq.push(['_trackEvent', 'The Happy Foodie Newsletter banner', 'Submit form']);
+
+              if (storageAvailable('sessionStorage')) {
+                window.sessionStorage.setItem('thf_banner_subscribed', true);
+              }
+            } else {
+              submitModalNewsletterForm(form);
 
               if (storageAvailable('sessionStorage')) {
                 window.sessionStorage.setItem('thf_banner_subscribed', true);
@@ -455,20 +485,36 @@
           function submitModalNewsletterForm(form) {
             var $form = $(form);
             var url = $form.attr('action');
-            var $inputs = $form.find('input[type="text"], input[type="email"], input[type="hidden"]');
-            var http = new XMLHttpRequest();
+            var $inputs = $form.find('input[type="text"], input[type="email"], input[type="hidden"], textarea[name="g-recaptcha-response"]');
+            var $button = $form.find('[name="submit"]');
+            var xhr = new XMLHttpRequest();
             var params = [];
+
+            $button.prop('disabled', true);
+            $button.val('Sending…');
 
             $inputs.each(function () {
               params.push($(this).attr('name') + '=' + encodeURIComponent( $(this).val() ));
             });
 
-            http.open('POST', url, true);
-            http.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
-            http.send(params.join('&'));
+            xhr.open('POST', url, true);
+            xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
 
-            $form.hide();
-            $form.next('.newsletter-bar__thanks').removeClass('hidden');
+            xhr.onreadystatechange = function () {
+              if (xhr.readyState === XMLHttpRequest.DONE) {
+                if (xhr.status === 200) {
+                  $form.parent().find('.newsletter-bar__thanks').removeClass('hidden');
+                  $form.parent().find('.newsletter-bar__terms').hide();
+                  $form.hide();
+                } else {
+                  alert('Could not sign up for newsletter. Please try again.');
+                  $button.val('Submit');
+                  $button.prop('disabled', false);
+                }
+              }
+            };
+
+            xhr.send(params.join('&'));
 
             return false;
           };
@@ -485,17 +531,36 @@
         })();
       </script>
 
-      <form action="https://penguin-group.msgfocus.com/k/Penguin-Group/the_happy_foodie_newsletter_banners" method="post" accept-charset="UTF-8" onsubmit="return validateBannerForm(this);">
+      <form action="/newsletters/banner" method="post" accept-charset="UTF-8" onsubmit="return validateBannerForm(this);">
         <input type="email" required placeholder="Your email address here" name="email_1837" value="" maxlength="255" onkeyup="if (this.length>255) this.value=this.value.substr(0, 255)" onblur="this.value=this.value.substr(0, 255)">
         <input type="hidden" class="" name="source_banner_popup_1838" value="banner">
         <input type="submit" class="button" name="submit" id="submit" value="Submit">
+
+        <div style="margin: 20px 0;">
+          <div id="newsletterBarCaptcha" class="g-recaptcha"></div>
+          <script>
+            CaptchaCallbacks.push({
+              id: 'newsletterBarCaptcha',
+              data: {
+                'callback': 'completeNewsletterBarCaptcha',
+                'expired-callback': 'expireNewsletterBarCaptcha',
+                'sitekey': '6LdvdCUUAAAAAKp_zIqdD5bsG_i6IqdRFBjxKjVW',
+                'theme': 'white'
+              }
+            });
+          </script>
+        </div>
       </form>
 
-      <div class="newsletter-bar__thanks hidden">Thanks for signing up!</div>
+      <div class="newsletter-bar__terms">
+        By clicking SUBMIT, I consent to you using my details to send me The Happy Foodie newsletters and confirm that I have read and understood Penguin Random House's <a href="https://www.penguinrandomhouse.co.uk/PrivacyPolicy/" target="_blank" rel="noopener noreferrer">Privacy Policy</a>.
+      </div>
+
+      <div class="newsletter-bar__thanks hidden" style="margin-top: 1em; font-weight: 700;">Thanks for signing up!</div>
     </div>
   </aside>
 
-      <div class="content-wrapper">
+        <div class="content-wrapper">
 
 <article class="recipe" itemscope itemtype="http://schema.org/Recipe">
 
@@ -509,61 +574,685 @@
   <div class="recipe__intro" style="overflow: hidden;">
       <figure class="recipe__summary__cover">
           <meta itemprop="image" content="https://flockler.com/thumbs/sites/192/9780718177478_roast_red_wine_chicken_s600x600_c3840x2243_l0x1385.jpg">
-          <img src="https://flockler.com/thumbs/sites/192/9780718177478_roast_red_wine_chicken_s600x600_c3840x2243_l0x1385.jpg" class="u-photo">
+          <img loading="lazy" src="https://flockler.com/thumbs/sites/192/9780718177478_roast_red_wine_chicken_s600x600_c3840x2243_l0x1385.jpg" class="u-photo">
       </figure>
     <span itemprop="description"><p>Looking for a recipe to make for family and friends at the weekend? This roast chicken with red wine and potatoes from Rachel Khoo is wholesome and delicious.</p></span>
   </div>
 
 
 
-  <div class="recipe__meta">
-      <figure class="recipe__meta__book-cover">
-        <a href="/books/my-little-french-kitchen">
-          <img src="https://flockler.com/thumbs/sites/192/9780718177478_My_Little_French_Kitchen_Jacket_s0x150.jpg"
-              srcset="https://flockler.com/thumbs/sites/192/9780718177478_My_Little_French_Kitchen_Jacket_s0x150.jpg 1x,
-                      https://flockler.com/thumbs/sites/192/9780718177478_My_Little_French_Kitchen_Jacket_s0x300.jpg 2x"
-                  alt="My Little French Kitchen">
-</a>      </figure>
+  <div class="from-the-book-modal">
+  <div class="from-the-book-modal__card">
+    <button type="button" class="from-the-book-modal__close" onclick="document.body.classList.remove('from-the-book-modal-visible'); return false;">
+      <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+        <path fill-rule="evenodd" d="M25.6057228,4.39350913 C19.7490864,-1.46450304 10.251214,-1.46450304 4.39337768,4.39350913 C-1.46445923,10.2503213 -1.46445923,19.7484789 4.39337768,25.6064911 C10.250014,31.464503 19.7478865,31.464503 25.6057228,25.6064911 C31.4647591,19.7472789 31.4647591,10.2503213 25.6057228,4.39350913 Z M22.9550721,20.3025706 L20.3044214,22.9544709 L15.0006602,17.6505504 L9.69689894,22.9544709 L7.04624826,20.3025706 L12.3500095,14.9986501 L7.04624826,9.69472965 L9.69689894,7.04282941 L15.0006602,12.3467499 L20.3044214,7.04282941 L22.9550721,9.69472965 L17.6513109,14.9986501 L22.9550721,20.3025706 Z"/>
+      </svg>
+    </button>
+    <div class="from-the-book-modal__card__content">
+      <div class="from-the-book-modal__gallery">
+        <script>
+          (function () {
+            'use strict';
 
-      <div class="recipe__meta__book__details">
-        <strong>From the book</strong>
-        <a href="/books/my-little-french-kitchen">My Little French Kitchen</a>
+            var currentIndex = 0;
+            var img;
+            var caption;
+            var images = [{"caption":"My Little French Kitchen","url":"https://flockler.com/thumbs/sites/192/9780718177478_My_Little_French_Kitchen_Jacket_s640x800_contain.jpg"},{"caption":"A whirlwind tour of classic French cooking","url":"https://flockler.com/thumbs/sites/192/little-french-kitchen-1-0852fb23-3e95-4ec6-91ec-c1129493e952_s640x800_q80_noupscale_contain.jpg"},{"caption":"Simple recipes for comforting classics","url":"https://flockler.com/thumbs/sites/192/little-french-kitchen-3-e62a1fbb-1f8d-4f4f-b802-d307901a8c38_s640x800_q80_noupscale_contain.jpg"},{"caption":"Desserts that will delight any sweet tooth","url":"https://flockler.com/thumbs/sites/192/little-french-kitchen-3-07c6377a-a08d-46c3-9fac-f501ee26f0ed_s640x800_q80_noupscale_contain.jpg"}];
+
+            images.forEach(function (image) {
+              var link = document.createElement('link');
+              link.as = 'image';
+              link.rel = 'preload';
+              link.href = image.url;
+              document.head.appendChild(link);
+            });
+
+            window.renderFromTheBookModalPic = function (i) {
+              var buttonLeft = document.querySelector('.from-the-book-modal__gallery__button[data-direction="left"]');
+              var buttonRight = document.querySelector('.from-the-book-modal__gallery__button[data-direction="right"]');
+
+              currentIndex = i;
+
+              if (!img) {
+                img = document.querySelector('.from-the-book-modal__gallery figure img');
+                caption = document.querySelector('.from-the-book-modal__gallery figure figcaption');
+              }
+
+              img.src = images[i].url;
+              caption.innerText = images[i].caption;
+
+              if (currentIndex === images.length - 1) {
+                buttonRight.disabled = true;
+              } else {
+                buttonRight.disabled = false;
+              }
+
+              if (currentIndex === 0) {
+                buttonLeft.disabled = true;
+              } else {
+                buttonLeft.disabled = false;
+              }
+
+              document.body.classList.add('from-the-book-modal-visible');
+            };
+
+            window.navigateFromTheBookModalPic = function (el) {
+              var direction = el.dataset.direction;
+              if (direction === 'left' && currentIndex > 0) {
+                currentIndex--;
+                renderFromTheBookModalPic(currentIndex);
+              } else if (direction === 'right' && currentIndex < images.length - 1) {
+                currentIndex++;
+                renderFromTheBookModalPic(currentIndex);
+              }
+
+              return false;
+            };
+          })();
+        </script>
+
+        <button disabled type="button" onclick="navigateFromTheBookModalPic(this);" class="from-the-book-modal__gallery__button" data-direction="left">
+          <svg xmlns="http://www.w3.org/2000/svg" width="23" height="40" viewBox="0 0 23 40">
+            <polygon fill-rule="evenodd" points="20.144 0 2.856 17.164 2.856 17.162 0 19.998 0 20.002 2.856 22.838 2.856 22.836 20.144 40 23 37.164 5.713 20 23 2.836"/>
+          </svg>
+        </button>
+
+        <figure>
+          <img loading="lazy" data-pin-nopin="true"/>
+          <figcaption></figcaption>
+        </figure>
+
+        <button type="button" onclick="navigateFromTheBookModalPic(this);" class="from-the-book-modal__gallery__button" data-direction="right">
+          <svg xmlns="http://www.w3.org/2000/svg" width="23" height="40" viewBox="0 0 23 40">
+            <polygon fill-rule="evenodd" points="20.144 0 2.856 17.164 2.856 17.162 0 19.998 0 20.002 2.856 22.838 2.856 22.836 20.144 40 23 37.164 5.713 20 23 2.836" transform="matrix(-1 0 0 1 23 0)"/>
+          </svg>
+        </button>
       </div>
+    </div>
 
-      <figure class="recipe__meta__author-image">
-          <a href="/chefs/rachel-khoo">
 
-        <img src="https://flockler.com/thumbs/sites/192/rachel-khoo-headshot_s65x65.jpg"
-            srcset="https://flockler.com/thumbs/sites/192/rachel-khoo-headshot_s65x65.jpg 1x,
-                    https://flockler.com/thumbs/sites/192/rachel-khoo-headshot_s130x130.jpg 2x"
-                alt="Rachel Khoo">
-
-        </a>
-      </figure>
-
-      <div class="recipe__meta__authors">
-        <strong>By</strong>
-        <a itemprop="author" href="/chefs/rachel-khoo">Rachel Khoo</a>
-      </div>
-
-      <div class="recipe__meta__book__purchase">
-        <div class="buy-button-wrapper">
+<div class="buy-button-wrapper">
   <button type="button" class="buy-button"
     onclick="this.parentNode.classList.toggle('buy-button-wrapper--open'); return false;">
-    Buy now
+    Buy the book
     <svg style="margin-left: .25em; position: relative; top: -1px;" xmlns="http://www.w3.org/2000/svg" width="11" height="7" viewBox="0 0 16 10">
       <path fill="#FFF" fill-rule="evenodd" d="M8.00188201,9.99996888 C7.58378315,9.99936055 7.18568289,9.82614919 6.90695032,9.52288268 L0.430601501,2.65224393 C0.15249293,2.35627436 -0.00124035338,1.96913191 7.53791036e-06,1.56800236 C7.53791036e-06,1.33887216 0.048754544,1.11218465 0.143747924,0.902518145 C0.375603733,0.358577019 0.920573754,0.00304946829 1.52552359,0 L14.4734214,0 C15.0783712,0.00303857733 15.6233413,0.358577019 15.8551971,0.902518145 C16.1245479,1.48960302 16.0120598,2.17576451 15.5683371,2.65222837 L9.09566818,9.52473414 C8.81693561,9.82678709 8.41945931,9.99939322 8.0020004,10 L8.00188201,9.99996888 Z"/>
     </svg>
   </button>
   <div class="buy-button__links">
       <a href="http://www.amazon.co.uk/My-Little-French-Kitchen-mountains/dp/0718177479/?tag=prh10143-21" class="js-buy-book-amazon" target="_blank" rel="noopener noreferrer">Amazon</a>
-      <a href="https://www.waterstones.com/book/the-little-paris-kitchen/rachel-khoo/9780718158118" class="js-buy-book-waterstones" target="_blank" rel="noopener noreferrer">Waterstones</a>
-      <a href="http://www.hive.co.uk/book/my-little-french-kitchen-over-100-recipes-from-the-mountains-market-squares-and-shores-of-france/16490938/" class="js-buy-book-hive" target="_blank" rel="noopener noreferrer">Hive</a>
+      <a href="https://www.waterstones.com/book/the-little-paris-kitchen/rachel-khoo/9780718158118" class="js-buy-book-amazon" target="_blank" rel="noopener noreferrer">Waterstones</a>
+      <a href="http://www.hive.co.uk/book/my-little-french-kitchen-over-100-recipes-from-the-mountains-market-squares-and-shores-of-france/16490938/" class="js-buy-book-amazon" target="_blank" rel="noopener noreferrer">Hive</a>
   </div>
 </div>
 
-      </div>
   </div>
+</div>
+
+
+<div class="recipe__meta-alt ">
+    <div style="margin-bottom: 20px;">
+      <h2>From the book</h2>
+      <a href="/books/my-little-french-kitchen">My Little French Kitchen</a>
+      by <a itemprop="author" href="/chefs/rachel-khoo">Rachel Khoo</a>
+    </div>
+
+  <div class="recipe__meta-alt__from-the-book-container">
+    <script>
+      (function() {
+        'use strict';
+
+        // polyfill
+        function polyfill() {
+          // aliases
+          var w = window;
+          var d = document;
+
+          // return if scroll behavior is supported and polyfill is not forced
+          if (
+            'scrollBehavior' in d.documentElement.style &&
+            w.__forceSmoothScrollPolyfill__ !== true
+          ) {
+            return;
+          }
+
+          // globals
+          var Element = w.HTMLElement || w.Element;
+          var SCROLL_TIME = 468;
+
+          // object gathering original scroll methods
+          var original = {
+            scroll: w.scroll || w.scrollTo,
+            scrollBy: w.scrollBy,
+            elementScroll: Element.prototype.scroll || scrollElement,
+            scrollIntoView: Element.prototype.scrollIntoView
+          };
+
+          // define timing method
+          var now =
+            w.performance && w.performance.now
+              ? w.performance.now.bind(w.performance)
+              : Date.now;
+
+          /**
+           * indicates if a the current browser is made by Microsoft
+           * @method isMicrosoftBrowser
+           * @param {String} userAgent
+           * @returns {Boolean}
+           */
+          function isMicrosoftBrowser(userAgent) {
+            var userAgentPatterns = ['MSIE ', 'Trident/', 'Edge/'];
+
+            return new RegExp(userAgentPatterns.join('|')).test(userAgent);
+          }
+
+          /*
+          * IE has rounding bug rounding down clientHeight and clientWidth and
+          * rounding up scrollHeight and scrollWidth causing false positives
+          * on hasScrollableSpace
+          */
+          var ROUNDING_TOLERANCE = isMicrosoftBrowser(w.navigator.userAgent) ? 1 : 0;
+
+          /**
+           * changes scroll position inside an element
+           * @method scrollElement
+           * @param {Number} x
+           * @param {Number} y
+           * @returns {undefined}
+           */
+          function scrollElement(x, y) {
+            this.scrollLeft = x;
+            this.scrollTop = y;
+          }
+
+          /**
+           * returns result of applying ease math function to a number
+           * @method ease
+           * @param {Number} k
+           * @returns {Number}
+           */
+          function ease(k) {
+            return 0.5 * (1 - Math.cos(Math.PI * k));
+          }
+
+          /**
+           * indicates if a smooth behavior should be applied
+           * @method shouldBailOut
+           * @param {Number|Object} firstArg
+           * @returns {Boolean}
+           */
+          function shouldBailOut(firstArg) {
+            if (
+              firstArg === null ||
+              typeof firstArg !== 'object' ||
+              firstArg.behavior === undefined ||
+              firstArg.behavior === 'auto' ||
+              firstArg.behavior === 'instant'
+            ) {
+              // first argument is not an object/null
+              // or behavior is auto, instant or undefined
+              return true;
+            }
+
+            if (typeof firstArg === 'object' && firstArg.behavior === 'smooth') {
+              // first argument is an object and behavior is smooth
+              return false;
+            }
+
+            // throw error when behavior is not supported
+            throw new TypeError(
+              'behavior member of ScrollOptions ' +
+                firstArg.behavior +
+                ' is not a valid value for enumeration ScrollBehavior.'
+            );
+          }
+
+          /**
+           * indicates if an element has scrollable space in the provided axis
+           * @method hasScrollableSpace
+           * @param {Node} el
+           * @param {String} axis
+           * @returns {Boolean}
+           */
+          function hasScrollableSpace(el, axis) {
+            if (axis === 'Y') {
+              return el.clientHeight + ROUNDING_TOLERANCE < el.scrollHeight;
+            }
+
+            if (axis === 'X') {
+              return el.clientWidth + ROUNDING_TOLERANCE < el.scrollWidth;
+            }
+          }
+
+          /**
+           * indicates if an element has a scrollable overflow property in the axis
+           * @method canOverflow
+           * @param {Node} el
+           * @param {String} axis
+           * @returns {Boolean}
+           */
+          function canOverflow(el, axis) {
+            var overflowValue = w.getComputedStyle(el, null)['overflow' + axis];
+
+            return overflowValue === 'auto' || overflowValue === 'scroll';
+          }
+
+          /**
+           * indicates if an element can be scrolled in either axis
+           * @method isScrollable
+           * @param {Node} el
+           * @param {String} axis
+           * @returns {Boolean}
+           */
+          function isScrollable(el) {
+            var isScrollableY = hasScrollableSpace(el, 'Y') && canOverflow(el, 'Y');
+            var isScrollableX = hasScrollableSpace(el, 'X') && canOverflow(el, 'X');
+
+            return isScrollableY || isScrollableX;
+          }
+
+          /**
+           * finds scrollable parent of an element
+           * @method findScrollableParent
+           * @param {Node} el
+           * @returns {Node} el
+           */
+          function findScrollableParent(el) {
+            var isBody;
+
+            do {
+              el = el.parentNode;
+
+              isBody = el === d.body;
+            } while (isBody === false && isScrollable(el) === false);
+
+            isBody = null;
+
+            return el;
+          }
+
+          /**
+           * self invoked function that, given a context, steps through scrolling
+           * @method step
+           * @param {Object} context
+           * @returns {undefined}
+           */
+          function step(context) {
+            var time = now();
+            var value;
+            var currentX;
+            var currentY;
+            var elapsed = (time - context.startTime) / SCROLL_TIME;
+
+            // avoid elapsed times higher than one
+            elapsed = elapsed > 1 ? 1 : elapsed;
+
+            // apply easing to elapsed time
+            value = ease(elapsed);
+
+            currentX = context.startX + (context.x - context.startX) * value;
+            currentY = context.startY + (context.y - context.startY) * value;
+
+            context.method.call(context.scrollable, currentX, currentY);
+
+            // scroll more if we have not reached our destination
+            if (currentX !== context.x || currentY !== context.y) {
+              w.requestAnimationFrame(step.bind(w, context));
+            }
+          }
+
+          /**
+           * scrolls window or element with a smooth behavior
+           * @method smoothScroll
+           * @param {Object|Node} el
+           * @param {Number} x
+           * @param {Number} y
+           * @returns {undefined}
+           */
+          function smoothScroll(el, x, y) {
+            var scrollable;
+            var startX;
+            var startY;
+            var method;
+            var startTime = now();
+
+            // define scroll context
+            if (el === d.body) {
+              scrollable = w;
+              startX = w.scrollX || w.pageXOffset;
+              startY = w.scrollY || w.pageYOffset;
+              method = original.scroll;
+            } else {
+              scrollable = el;
+              startX = el.scrollLeft;
+              startY = el.scrollTop;
+              method = scrollElement;
+            }
+
+            // scroll looping over a frame
+            step({
+              scrollable: scrollable,
+              method: method,
+              startTime: startTime,
+              startX: startX,
+              startY: startY,
+              x: x,
+              y: y
+            });
+          }
+
+          // ORIGINAL METHODS OVERRIDES
+          // w.scroll and w.scrollTo
+          w.scroll = w.scrollTo = function() {
+            // avoid action when no arguments are passed
+            if (arguments[0] === undefined) {
+              return;
+            }
+
+            // avoid smooth behavior if not required
+            if (shouldBailOut(arguments[0]) === true) {
+              original.scroll.call(
+                w,
+                arguments[0].left !== undefined
+                  ? arguments[0].left
+                  : typeof arguments[0] !== 'object'
+                    ? arguments[0]
+                    : w.scrollX || w.pageXOffset,
+                // use top prop, second argument if present or fallback to scrollY
+                arguments[0].top !== undefined
+                  ? arguments[0].top
+                  : arguments[1] !== undefined
+                    ? arguments[1]
+                    : w.scrollY || w.pageYOffset
+              );
+
+              return;
+            }
+
+            // LET THE SMOOTHNESS BEGIN!
+            smoothScroll.call(
+              w,
+              d.body,
+              arguments[0].left !== undefined
+                ? ~~arguments[0].left
+                : w.scrollX || w.pageXOffset,
+              arguments[0].top !== undefined
+                ? ~~arguments[0].top
+                : w.scrollY || w.pageYOffset
+            );
+          };
+
+          // w.scrollBy
+          w.scrollBy = function() {
+            // avoid action when no arguments are passed
+            if (arguments[0] === undefined) {
+              return;
+            }
+
+            // avoid smooth behavior if not required
+            if (shouldBailOut(arguments[0])) {
+              original.scrollBy.call(
+                w,
+                arguments[0].left !== undefined
+                  ? arguments[0].left
+                  : typeof arguments[0] !== 'object' ? arguments[0] : 0,
+                arguments[0].top !== undefined
+                  ? arguments[0].top
+                  : arguments[1] !== undefined ? arguments[1] : 0
+              );
+
+              return;
+            }
+
+            // LET THE SMOOTHNESS BEGIN!
+            smoothScroll.call(
+              w,
+              d.body,
+              ~~arguments[0].left + (w.scrollX || w.pageXOffset),
+              ~~arguments[0].top + (w.scrollY || w.pageYOffset)
+            );
+          };
+
+          // Element.prototype.scroll and Element.prototype.scrollTo
+          Element.prototype.scroll = Element.prototype.scrollTo = function() {
+            // avoid action when no arguments are passed
+            if (arguments[0] === undefined) {
+              return;
+            }
+
+            // avoid smooth behavior if not required
+            if (shouldBailOut(arguments[0]) === true) {
+              // if one number is passed, throw error to match Firefox implementation
+              if (typeof arguments[0] === 'number' && arguments[1] === undefined) {
+                throw new SyntaxError('Value could not be converted');
+              }
+
+              original.elementScroll.call(
+                this,
+                // use left prop, first number argument or fallback to scrollLeft
+                arguments[0].left !== undefined
+                  ? ~~arguments[0].left
+                  : typeof arguments[0] !== 'object' ? ~~arguments[0] : this.scrollLeft,
+                // use top prop, second argument or fallback to scrollTop
+                arguments[0].top !== undefined
+                  ? ~~arguments[0].top
+                  : arguments[1] !== undefined ? ~~arguments[1] : this.scrollTop
+              );
+
+              return;
+            }
+
+            var left = arguments[0].left;
+            var top = arguments[0].top;
+
+            // LET THE SMOOTHNESS BEGIN!
+            smoothScroll.call(
+              this,
+              this,
+              typeof left === 'undefined' ? this.scrollLeft : ~~left,
+              typeof top === 'undefined' ? this.scrollTop : ~~top
+            );
+          };
+
+          // Element.prototype.scrollBy
+          Element.prototype.scrollBy = function() {
+            // avoid action when no arguments are passed
+            if (arguments[0] === undefined) {
+              return;
+            }
+
+            // avoid smooth behavior if not required
+            if (shouldBailOut(arguments[0]) === true) {
+              original.elementScroll.call(
+                this,
+                arguments[0].left !== undefined
+                  ? ~~arguments[0].left + this.scrollLeft
+                  : ~~arguments[0] + this.scrollLeft,
+                arguments[0].top !== undefined
+                  ? ~~arguments[0].top + this.scrollTop
+                  : ~~arguments[1] + this.scrollTop
+              );
+
+              return;
+            }
+
+            this.scroll({
+              left: ~~arguments[0].left + this.scrollLeft,
+              top: ~~arguments[0].top + this.scrollTop,
+              behavior: arguments[0].behavior
+            });
+          };
+
+          // Element.prototype.scrollIntoView
+          Element.prototype.scrollIntoView = function() {
+            // avoid smooth behavior if not required
+            if (shouldBailOut(arguments[0]) === true) {
+              original.scrollIntoView.call(
+                this,
+                arguments[0] === undefined ? true : arguments[0]
+              );
+
+              return;
+            }
+
+            // LET THE SMOOTHNESS BEGIN!
+            var scrollableParent = findScrollableParent(this);
+            var parentRects = scrollableParent.getBoundingClientRect();
+            var clientRects = this.getBoundingClientRect();
+
+            if (scrollableParent !== d.body) {
+              // reveal element inside parent
+              smoothScroll.call(
+                this,
+                scrollableParent,
+                scrollableParent.scrollLeft + clientRects.left - parentRects.left,
+                scrollableParent.scrollTop + clientRects.top - parentRects.top
+              );
+
+              // reveal parent in viewport unless is fixed
+              if (w.getComputedStyle(scrollableParent).position !== 'fixed') {
+                w.scrollBy({
+                  left: parentRects.left,
+                  top: parentRects.top,
+                  behavior: 'smooth'
+                });
+              }
+            } else {
+              // reveal element in viewport
+              w.scrollBy({
+                left: clientRects.left,
+                top: clientRects.top,
+                behavior: 'smooth'
+              });
+            }
+          };
+        }
+
+        if (typeof exports === 'object' && typeof module !== 'undefined') {
+          // commonjs
+          module.exports = { polyfill: polyfill };
+        } else {
+          // global
+          polyfill();
+        }
+      })();
+
+      (function(){
+        'use strict';
+
+        var initialized = false;
+        var buttonLeft, buttonRight, container, pageCount;
+
+        var scrollLeft = function () {
+          var newPos = container.scrollLeft - document.querySelector('.recipe__meta-alt__from-the-book__page').scrollWidth;
+          container.scrollTo({ top: 0, left: newPos, behavior: 'smooth' });
+          buttonRight.disabled = false;
+
+          if (container.scrollLeft === 0) {
+            buttonLeft.disabled = true;
+          }
+        };
+
+        var scrollRight = function () {
+          var newPos = container.scrollLeft + document.querySelector('.recipe__meta-alt__from-the-book__page').scrollWidth;
+          container.scrollTo({ top: 0, left: newPos, behavior: 'smooth' });
+          buttonLeft.disabled = false;
+
+          if (container.scrollLeft === container.scrollWidth - container.clientWidth) {
+            buttonRight.disabled = true;
+          }
+        };
+
+        var checkScroll = function () {
+          if (!initialized) {
+            initialized = true;
+            buttonLeft = document.querySelector('.recipe__meta-alt__from-the-book-button--left');
+            buttonRight = document.querySelector('.recipe__meta-alt__from-the-book-button--right');
+            container = document.querySelector('.recipe__meta-alt__from-the-book');
+            pageCount = document.querySelectorAll('.recipe__meta-alt__from-the-book__page').length;
+          }
+
+          if (container.scrollWidth > container.clientWidth) {
+            buttonLeft.classList.remove('hidden');
+            buttonRight.classList.remove('hidden');
+          } else {
+            buttonLeft.classList.add('hidden');
+            buttonRight.classList.add('hidden');
+          }
+
+          buttonLeft.onclick = scrollLeft;
+          buttonRight.onclick = scrollRight;
+        }
+
+        window.checkSITBScroll = checkScroll;
+      })();
+    </script>
+    <button class="recipe__meta-alt__from-the-book-button recipe__meta-alt__from-the-book-button--left" disabled>
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="#e15d3b" d="M12,0A12,12,0,1,0,24,12,12.013,12.013,0,0,0,12,0Zm3.223,8.255a.5.5,0,0,1-.193.395L10.977,11.8a.249.249,0,0,0,0,.394L15.03,15.35a.5.5,0,0,1,.193.395v2.687a.5.5,0,0,1-.82.385L6.684,12.384a.5.5,0,0,1,0-.768L14.4,5.183a.5.5,0,0,1,.82.385Z"></path></svg>
+    </button>
+    <button class="recipe__meta-alt__from-the-book-button recipe__meta-alt__from-the-book-button--right">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="#e15d3b" d="M12,0A12,12,0,1,0,24,12,12.013,12.013,0,0,0,12,0Zm5.316,12.384L9.6,18.817a.5.5,0,0,1-.82-.385V15.745a.5.5,0,0,1,.193-.395L13.023,12.2a.249.249,0,0,0,0-.394L8.97,8.65a.5.5,0,0,1-.193-.395V5.568a.5.5,0,0,1,.82-.385l7.719,6.433A.5.5,0,0,1,17.316,12.384Z"></path></svg>
+    </button>
+    <div class="recipe__meta-alt__from-the-book-wrapper">
+      <div class="recipe__meta-alt__from-the-book">
+          <figure class="recipe__meta-alt__from-the-book__page" onclick="renderFromTheBookModalPic(0);">
+            <img loading="lazy" src="https://flockler.com/thumbs/sites/192/9780718177478_My_Little_French_Kitchen_Jacket_s0x240.jpg"
+              srcset="https://flockler.com/thumbs/sites/192/9780718177478_My_Little_French_Kitchen_Jacket_s0x240.jpg 1x,
+                      https://flockler.com/thumbs/sites/192/9780718177478_My_Little_French_Kitchen_Jacket_s0x480.jpg 2x"
+                  alt="" data-pin-nopin="true" onload="window.checkSITBScroll();">
+            <figcaption>
+              My Little French Kitchen
+            </figcaption>
+          </figure>
+          <figure class="recipe__meta-alt__from-the-book__page" onclick="renderFromTheBookModalPic(1);">
+            <img loading="lazy" src="https://flockler.com/thumbs/sites/192/little-french-kitchen-1-0852fb23-3e95-4ec6-91ec-c1129493e952_s0x240_q80_noupscale.jpg"
+              srcset="https://flockler.com/thumbs/sites/192/little-french-kitchen-1-0852fb23-3e95-4ec6-91ec-c1129493e952_s0x240_q80_noupscale.jpg 1x,
+                      https://flockler.com/thumbs/sites/192/little-french-kitchen-1-0852fb23-3e95-4ec6-91ec-c1129493e952_s0x480_q80_noupscale.jpg 2x"
+                  alt="" data-pin-nopin="true" onload="window.checkSITBScroll();">
+            <figcaption>
+              A whirlwind tour of classic French cooking
+            </figcaption>
+          </figure>
+          <figure class="recipe__meta-alt__from-the-book__page" onclick="renderFromTheBookModalPic(2);">
+            <img loading="lazy" src="https://flockler.com/thumbs/sites/192/little-french-kitchen-3-e62a1fbb-1f8d-4f4f-b802-d307901a8c38_s0x240_q80_noupscale.jpg"
+              srcset="https://flockler.com/thumbs/sites/192/little-french-kitchen-3-e62a1fbb-1f8d-4f4f-b802-d307901a8c38_s0x240_q80_noupscale.jpg 1x,
+                      https://flockler.com/thumbs/sites/192/little-french-kitchen-3-e62a1fbb-1f8d-4f4f-b802-d307901a8c38_s0x480_q80_noupscale.jpg 2x"
+                  alt="" data-pin-nopin="true" onload="window.checkSITBScroll();">
+            <figcaption>
+              Simple recipes for comforting classics
+            </figcaption>
+          </figure>
+          <figure class="recipe__meta-alt__from-the-book__page" onclick="renderFromTheBookModalPic(3);">
+            <img loading="lazy" src="https://flockler.com/thumbs/sites/192/little-french-kitchen-3-07c6377a-a08d-46c3-9fac-f501ee26f0ed_s0x240_q80_noupscale.jpg"
+              srcset="https://flockler.com/thumbs/sites/192/little-french-kitchen-3-07c6377a-a08d-46c3-9fac-f501ee26f0ed_s0x240_q80_noupscale.jpg 1x,
+                      https://flockler.com/thumbs/sites/192/little-french-kitchen-3-07c6377a-a08d-46c3-9fac-f501ee26f0ed_s0x480_q80_noupscale.jpg 2x"
+                  alt="" data-pin-nopin="true" onload="window.checkSITBScroll();">
+            <figcaption>
+              Desserts that will delight any sweet tooth
+            </figcaption>
+          </figure>
+      </div>
+    </div>
+  </div>
+
+<div class="buy-button-wrapper">
+  <button type="button" class="buy-button"
+    onclick="this.parentNode.classList.toggle('buy-button-wrapper--open'); return false;">
+    Buy the book
+    <svg style="margin-left: .25em; position: relative; top: -1px;" xmlns="http://www.w3.org/2000/svg" width="11" height="7" viewBox="0 0 16 10">
+      <path fill="#FFF" fill-rule="evenodd" d="M8.00188201,9.99996888 C7.58378315,9.99936055 7.18568289,9.82614919 6.90695032,9.52288268 L0.430601501,2.65224393 C0.15249293,2.35627436 -0.00124035338,1.96913191 7.53791036e-06,1.56800236 C7.53791036e-06,1.33887216 0.048754544,1.11218465 0.143747924,0.902518145 C0.375603733,0.358577019 0.920573754,0.00304946829 1.52552359,0 L14.4734214,0 C15.0783712,0.00303857733 15.6233413,0.358577019 15.8551971,0.902518145 C16.1245479,1.48960302 16.0120598,2.17576451 15.5683371,2.65222837 L9.09566818,9.52473414 C8.81693561,9.82678709 8.41945931,9.99939322 8.0020004,10 L8.00188201,9.99996888 Z"/>
+    </svg>
+  </button>
+  <div class="buy-button__links">
+      <a href="http://www.amazon.co.uk/My-Little-French-Kitchen-mountains/dp/0718177479/?tag=prh10143-21" class="js-buy-book-amazon" target="_blank" rel="noopener noreferrer">Amazon</a>
+      <a href="https://www.waterstones.com/book/the-little-paris-kitchen/rachel-khoo/9780718158118" class="js-buy-book-amazon" target="_blank" rel="noopener noreferrer">Waterstones</a>
+      <a href="http://www.hive.co.uk/book/my-little-french-kitchen-over-100-recipes-from-the-mountains-market-squares-and-shores-of-france/16490938/" class="js-buy-book-amazon" target="_blank" rel="noopener noreferrer">Hive</a>
+  </div>
+</div>
+
+
+</div>
+
 
 
     <div class="recipe__mobile-clipper recipe__mobile-clipper--summary">
@@ -584,7 +1273,9 @@
             <path d="M39.6804,21.1955 L41.0978824,21.1955 L41.0978824,21.8955 C41.0928235,21.9395 41.0928235,21.9835 41.0978824,22.0275 L41.0978824,29.5995 L39.6804,29.5995 L39.6804,21.1955 Z M21.2576824,11.391 C24.3966824,11.391 26.9260941,13.891 26.9260941,16.993 C26.9260941,20.096 24.3966824,22.596 21.2576824,22.596 C18.1181765,22.596 15.5887647,20.096 15.5887647,16.993 C15.5887647,13.891 18.1181765,11.391 21.2576824,11.391 Z M21.2576824,9.99 C17.3527765,9.99 14.1717882,13.134 14.1717882,16.993 C14.1717882,20.853 17.3527765,23.997 21.2576824,23.997 C25.1625882,23.997 28.3425647,20.853 28.3425647,16.993 C28.3425647,13.134 25.1625882,9.99 21.2576824,9.99 Z M26.3944118,7.1885 C26.0109529,7.265 25.7625647,7.6345 25.8394588,8.0135 C25.8824588,8.225 26.0215765,8.4055 26.2173529,8.502 C28.4958471,9.802 30.1419882,11.943 30.8234118,14.455 C30.9316706,14.83 31.3267647,15.048 31.7066824,14.9405 C32.0860941,14.834 32.3061529,14.4435 32.1978941,14.068 C32.1973882,14.0655 32.1968824,14.063 32.1958706,14.061 C31.4173176,11.1905 29.5298706,8.762 26.9260941,7.2765 C26.7672471,7.179 26.5760235,7.1475 26.3944118,7.1885 Z M21.2576824,5.0875 C27.9181294,5.0875 33.3032471,10.4095 33.3032471,16.993 C33.3032471,23.577 27.9181294,28.8995 21.2576824,28.8995 C14.5962235,28.8995 9.21161176,23.577 9.21161176,16.993 C9.21161176,10.4095 14.5962235,5.0875 21.2576824,5.0875 Z M21.2576824,3.687 C13.8303176,3.687 7.79412941,9.653 7.79412941,16.993 C7.79412941,24.334 13.8303176,30.3 21.2576824,30.3 C28.6840353,30.3 34.7202235,24.334 34.7202235,16.993 C34.7202235,9.653 28.6840353,3.687 21.2576824,3.687 Z M41.0978824,1.7175 L41.0978824,19.795 L38.2634235,19.795 L38.2634235,5.263 C38.2634235,3.601 39.4345412,2.217 41.0978824,1.7175 Z M2.83445882,9.99 L4.25194118,9.99 L4.25194118,1.586 L2.83445882,1.586 L2.83445882,9.99 Z M0,1.586 L0,10.6905 C0.00758823529,10.8735 0.0865058824,11.046 0.221576471,11.172 L1.41748235,12.354 L1.41748235,30.3 C1.41748235,30.6865 1.73467059,31 2.12521176,31 L4.96017647,31 C5.35122353,31 5.66841176,30.6865 5.66891765,30.3 L5.66891765,12.354 L6.86381176,11.172 C6.99888235,11.046 7.07830588,10.8735 7.08589412,10.6905 L7.08589412,1.586 L5.66891765,1.586 L5.66891765,10.384 L4.47301176,11.566 C4.32681176,11.702 4.24688235,11.893 4.25143529,12.0915 L4.25143529,29.5995 L2.83445882,29.5995 L2.83445882,12.0915 C2.83901176,11.893 2.75807059,11.702 2.61288235,11.566 L1.41748235,10.384 L1.41748235,1.586 L0,1.586 Z M42.4258235,0.098 C42.1364588,0.098 41.8632824,0.146 41.5850471,0.1855 C41.5698706,0.185 41.5552,0.185 41.5405294,0.1855 C38.9018471,0.5795 36.8459412,2.662 36.8459412,5.263 L36.8459412,21.1955 L38.2634235,21.1955 L38.2634235,30.3 C38.2634235,30.6865 38.5806118,31 38.9716588,31 L41.8061176,31 C42.1976706,31 42.5148588,30.6865 42.5148588,30.3 L42.5148588,21.9395 L42.5148588,21.8955 L42.5148588,20.495 C42.5189059,20.4515 42.5189059,20.407 42.5148588,20.364 L42.5148588,0.8855 C42.5254824,0.7485 42.4941176,0.6115 42.4258235,0.4915 L42.4258235,0.098 L42.4258235,0.098 Z" stroke="none" fill="currentColor" fill-rule="evenodd"></path>
           </svg>
         </span>
-        Serves 4-6
+        <span itemprop="recipeYield">
+          Serves 4-6
+        </span>
       </div>
 
 
@@ -654,43 +1345,43 @@
   <div class="recipe__ingredients">
   <h2 class="has-border">Ingredients</h2>
   <table class="recipe__ingredients-table">
-      <tr itemprop="ingredients">
+      <tr itemprop="recipeIngredient">
         <td class="recipe__ingredients__amount">150ml </td>
         <td class="recipe__ingredients__name"> red wine</td>
       </tr>
-      <tr itemprop="ingredients">
+      <tr itemprop="recipeIngredient">
         <td class="recipe__ingredients__amount">100g </td>
         <td class="recipe__ingredients__name"> tomato paste</td>
       </tr>
-      <tr itemprop="ingredients">
+      <tr itemprop="recipeIngredient">
         <td class="recipe__ingredients__amount">3 </td>
         <td class="recipe__ingredients__name"> sprigs of thyme, leaves picked</td>
       </tr>
-      <tr itemprop="ingredients">
+      <tr itemprop="recipeIngredient">
         <td class="recipe__ingredients__amount">3 </td>
         <td class="recipe__ingredients__name"> sprigs of marjoram, leaves picked, or ½ teaspoon dried</td>
       </tr>
-      <tr itemprop="ingredients">
+      <tr itemprop="recipeIngredient">
         <td class="recipe__ingredients__amount">100ml </td>
         <td class="recipe__ingredients__name"> red wine vinegar</td>
       </tr>
-      <tr itemprop="ingredients">
+      <tr itemprop="recipeIngredient">
         <td class="recipe__ingredients__amount">1 </td>
         <td class="recipe__ingredients__name"> whole chicken cut into 8 pieces (approx. 1.5kg)</td>
       </tr>
-      <tr itemprop="ingredients">
+      <tr itemprop="recipeIngredient">
         <td class="recipe__ingredients__amount"> </td>
         <td class="recipe__ingredients__name"> Salt and ground black pepper</td>
       </tr>
-      <tr itemprop="ingredients">
+      <tr itemprop="recipeIngredient">
         <td class="recipe__ingredients__amount">500g </td>
         <td class="recipe__ingredients__name"> baby potatoes, washed</td>
       </tr>
-      <tr itemprop="ingredients">
+      <tr itemprop="recipeIngredient">
         <td class="recipe__ingredients__amount">3 </td>
         <td class="recipe__ingredients__name"> onions, peeled and cut into quarters</td>
       </tr>
-      <tr itemprop="ingredients">
+      <tr itemprop="recipeIngredient">
         <td class="recipe__ingredients__amount">6 </td>
         <td class="recipe__ingredients__name"> carrots, peeled and cut into quarters lengthways</td>
       </tr>
@@ -703,7 +1394,8 @@
   <div class="recipe__mobile-clipper recipe__mobile-clipper--instructions">
     <div class="recipe__instructions">
       <h2 class="has-border">Instructions</h2>
-      <p>Mix together the red wine, tomato paste, herbs and red wine vinegar. Season the chicken pieces with plenty of salt and pepper then place in a bag with the marinade. Shake the bag to make sure each piece is well coated. Place in the fridge for at least 30 minutes.</p>
+      <div itemprop="recipeInstructions">
+        <p>Mix together the red wine, tomato paste, herbs and red wine vinegar. Season the chicken pieces with plenty of salt and pepper then place in a bag with the marinade. Shake the bag to make sure each piece is well coated. Place in the fridge for at least 30 minutes.</p>
 
 <p>In the meantime, place the potatoes in a pan of cold water, put the lid on top and bring up to the boil. Boil for 1–2 minutes, then drain in a colander. Place the onions, carrots and potatoes in a large baking dish or tray (big enough to fit the chicken and the vegetables) and pour over 125ml of water. Preheat the oven to 200°C. Remove the chicken from the fridge and arrange the pieces, skin side up, in a layer on top of the vegetables in the dish. Pour the rest of the marinade over the chicken. Cover with a sheet of baking paper or foil and roast in the preheated oven for 30 minutes. Remove the baking paper or foil and baste the chicken with the cooking liquid. Roast, uncovered, for another 15 minutes or until the skin is crisp. Serve immediately.</p>
 
@@ -712,6 +1404,7 @@
 <p>Faire en avance – get ahead: The veg and chicken can be prepared up to a day in advance, then simply pop it all in the baking tray and cook as indicated in the recipe.</p>
 
 <p>Marinating time: 30 minutes – overnight</p>
+      </div>
     </div>
     <button type="button">
       See full instructions
@@ -733,7 +1426,7 @@
     <span class="share-link-label">Twitter</span>
   </a>
 
-  <a data-href="//pinterest.com/pin/create/button/?url=https%3A%2F%2Fthehappyfoodie.co.uk%2Frecipes%2Fpoulet-roti-au-vin-rouge-roast-red-wine-chicken&media=https%3A%2F%2Fflockler.com%2Fthumbs%2Fsites%2F192%2F9780718177478_roast_red_wine_chicken_s1200x0_q75_noupscale.jpg&description=Poulet%20r%C3%B4ti%20au%20vin%20rouge%20%28Roast%20Red%20Wine%20Chicken%29" onclick="window.open('//pinterest.com/pin/create/button/?url=https%3A%2F%2Fthehappyfoodie.co.uk%2Frecipes%2Fpoulet-roti-au-vin-rouge-roast-red-wine-chicken&media=https%3A%2F%2Fflockler.com%2Fthumbs%2Fsites%2F192%2F9780718177478_roast_red_wine_chicken_s1200x0_q75_noupscale.jpg&description=Poulet%20r%C3%B4ti%20au%20vin%20rouge%20%28Roast%20Red%20Wine%20Chicken%29', '', 'width=626,height=436');return false;" target="_blank" rel="nofollow" class="share-link js-share-to-pinterest">
+  <a data-href="//pinterest.com/pin/create/button/?url=https%3A%2F%2Fthehappyfoodie.co.uk%2Frecipes%2Fpoulet-roti-au-vin-rouge-roast-red-wine-chicken&media=https%3A%2F%2Fflockler.com%2Fthumbs%2Fsites%2F192%2F9780718177478_roast_red_wine_chicken_s1200x0_q75.jpg&description=Poulet%20r%C3%B4ti%20au%20vin%20rouge%20%28Roast%20Red%20Wine%20Chicken%29" onclick="window.open('//pinterest.com/pin/create/button/?url=https%3A%2F%2Fthehappyfoodie.co.uk%2Frecipes%2Fpoulet-roti-au-vin-rouge-roast-red-wine-chicken&media=https%3A%2F%2Fflockler.com%2Fthumbs%2Fsites%2F192%2F9780718177478_roast_red_wine_chicken_s1200x0_q75.jpg&description=Poulet%20r%C3%B4ti%20au%20vin%20rouge%20%28Roast%20Red%20Wine%20Chicken%29', '', 'width=626,height=436');return false;" target="_blank" rel="nofollow" class="share-link js-share-to-pinterest">
     <i class="icon-pinterest"></i>
     <span class="share-link-label">Pinterest</span>
   </a>
@@ -753,18 +1446,18 @@
     <h2 class="has-border">More Recipes by Rachel Khoo</h2>
   <div class="has-floated-elements">
 
-<article class="recipe-feature" data-id="82" >
-  <a class="feature-link recipe-feature-link" href="/recipes/asperges-blanches-habillees-white-asparagus-in-blankets">    <figure class="recipe-feature-cover">
-        <span data-picture data-alt="Asperges blanches habillées (White asparagus in blankets)">
-          <span data-src="https://flockler.com/thumbs/sites/192/9780718177478_white_aspargus_in_blankets_s300x0_c3774x2205_l0x1213_q60_noupscale.jpg"></span>
-          <span data-src="https://flockler.com/thumbs/sites/192/9780718177478_white_aspargus_in_blankets_s600x0_c3774x2205_l0x1213_q40_noupscale.jpg"
+<article class="recipe-feature" data-id="385" >
+  <a class="feature-link recipe-feature-link" href="/recipes/pistachio-and-pomegranate-cake">    <figure class="recipe-feature-cover">
+        <span data-picture data-alt="Pistachio and Pomegranate Cake">
+          <span data-src="https://flockler.com/thumbs/sites/192/rkcake_s300x0_c577x336_l0x53_q60.png"></span>
+          <span data-src="https://flockler.com/thumbs/sites/192/rkcake_s600x0_c577x336_l0x53_q40.png"
                 data-media="(-webkit-min-device-pixel-ratio: 1.5), (min-resolution:192dpi), (min-resolution:2dppx)"></span>
-          <span data-src="https://flockler.com/thumbs/sites/192/9780718177478_white_aspargus_in_blankets_s440x0_c3774x2205_l0x1213_q60_noupscale.jpg"
+          <span data-src="https://flockler.com/thumbs/sites/192/rkcake_s440x0_c577x336_l0x53_q60.png"
                 data-media="(min-width:1640px)"></span>
-          <span data-src="https://flockler.com/thumbs/sites/192/9780718177478_white_aspargus_in_blankets_s880x0_c3774x2205_l0x1213_q40_noupscale.jpg"
+          <span data-src="https://flockler.com/thumbs/sites/192/rkcake_s880x0_c577x336_l0x53_q40.png"
                 data-media="(min-width:1640px) and (-webkit-min-device-pixel-ratio: 1.5), (min-width:1640px) and (min-resolution:192dpi), (min-width:1640px) and (min-resolution:2dppx)"></span>
           <noscript>
-            <img src="https://flockler.com/thumbs/sites/192/9780718177478_white_aspargus_in_blankets_s300x0_c3774x2205_l0x1213_q60_noupscale.jpg" alt="Asperges blanches habillées (White asparagus in blankets)">
+            <img loading="lazy" src="https://flockler.com/thumbs/sites/192/rkcake_s300x0_c577x336_l0x53_q60.png" alt="Pistachio and Pomegranate Cake">
           </noscript>
         </span>
       <div class="feature-cover-overlay recipe-feature-cover-overlay">
@@ -772,25 +1465,25 @@
       </div>
     </figure>
     <div class="recipe-feature-title">
-      <h1 class="recipe-feature-recipe-name">Asperges blanches habillées (White asparagus in&nbsp;blankets)</h1>
+      <h1 class="recipe-feature-recipe-name">Pistachio and Pomegranate&nbsp;Cake</h1>
         <span class="recipe-feature-chef-name">&mdash; Rachel Khoo &mdash;</span>
     </div>
 </a></article>
 
 
 
-<article class="recipe-feature" data-id="1562" >
-  <a class="feature-link recipe-feature-link" href="/recipes/gratin-au-poisson-fume-smoky-fish-bake">    <figure class="recipe-feature-cover">
-        <span data-picture data-alt="Gratin Au Poisson Fumé (Smoky Fish Bake)">
-          <span data-src="https://flockler.com/thumbs/sites/192/little_paris_kitchen_2_51_img_s300x0_c2267x1324_l0x546_q60_noupscale.jpg"></span>
-          <span data-src="https://flockler.com/thumbs/sites/192/little_paris_kitchen_2_51_img_s600x0_c2267x1324_l0x546_q40_noupscale.jpg"
+<article class="recipe-feature" data-id="1730" >
+  <a class="feature-link recipe-feature-link" href="/recipes/salt-beef-with-horse-radish-mash">    <figure class="recipe-feature-cover">
+        <span data-picture data-alt="Salt Beef with Horseradish Mash">
+          <span data-src="https://flockler.com/thumbs/sites/192/rachel_khoos_kitchen_notebook_2_81_img_s300x0_c2071x1210_l0x963_q60.jpg"></span>
+          <span data-src="https://flockler.com/thumbs/sites/192/rachel_khoos_kitchen_notebook_2_81_img_s600x0_c2071x1210_l0x963_q40.jpg"
                 data-media="(-webkit-min-device-pixel-ratio: 1.5), (min-resolution:192dpi), (min-resolution:2dppx)"></span>
-          <span data-src="https://flockler.com/thumbs/sites/192/little_paris_kitchen_2_51_img_s440x0_c2267x1324_l0x546_q60_noupscale.jpg"
+          <span data-src="https://flockler.com/thumbs/sites/192/rachel_khoos_kitchen_notebook_2_81_img_s440x0_c2071x1210_l0x963_q60.jpg"
                 data-media="(min-width:1640px)"></span>
-          <span data-src="https://flockler.com/thumbs/sites/192/little_paris_kitchen_2_51_img_s880x0_c2267x1324_l0x546_q40_noupscale.jpg"
+          <span data-src="https://flockler.com/thumbs/sites/192/rachel_khoos_kitchen_notebook_2_81_img_s880x0_c2071x1210_l0x963_q40.jpg"
                 data-media="(min-width:1640px) and (-webkit-min-device-pixel-ratio: 1.5), (min-width:1640px) and (min-resolution:192dpi), (min-width:1640px) and (min-resolution:2dppx)"></span>
           <noscript>
-            <img src="https://flockler.com/thumbs/sites/192/little_paris_kitchen_2_51_img_s300x0_c2267x1324_l0x546_q60_noupscale.jpg" alt="Gratin Au Poisson Fumé (Smoky Fish Bake)">
+            <img loading="lazy" src="https://flockler.com/thumbs/sites/192/rachel_khoos_kitchen_notebook_2_81_img_s300x0_c2071x1210_l0x963_q60.jpg" alt="Salt Beef with Horseradish Mash">
           </noscript>
         </span>
       <div class="feature-cover-overlay recipe-feature-cover-overlay">
@@ -798,7 +1491,7 @@
       </div>
     </figure>
     <div class="recipe-feature-title">
-      <h1 class="recipe-feature-recipe-name">Gratin Au Poisson Fumé (Smoky Fish&nbsp;Bake)</h1>
+      <h1 class="recipe-feature-recipe-name">Salt Beef with Horseradish&nbsp;Mash</h1>
         <span class="recipe-feature-chef-name">&mdash; Rachel Khoo &mdash;</span>
     </div>
 </a></article>
@@ -818,18 +1511,18 @@
     <h2 class="has-border">More Chicken Recipes</h2>
   <div class="has-floated-elements">
 
-<article class="recipe-feature" data-id="68" >
-  <a class="feature-link recipe-feature-link" href="/recipes/hot-chicken-salad-with-sweetmustard-dressing">    <figure class="recipe-feature-cover">
-        <span data-picture data-alt="Hot Chicken Salad with Sweet Mustard Dressing">
-          <span data-src="https://flockler.com/thumbs/sites/192/hotchicken_s300x0_c2330x1362_l0x1156_q60_noupscale.jpg"></span>
-          <span data-src="https://flockler.com/thumbs/sites/192/hotchicken_s600x0_c2330x1362_l0x1156_q40_noupscale.jpg"
+<article class="recipe-feature" data-id="637" >
+  <a class="feature-link recipe-feature-link" href="/recipes/coriander-chutney-chicken-lilli-chatni-anna-murghi-kari">    <figure class="recipe-feature-cover">
+        <span data-picture data-alt="Coriander Chutney Chicken (Lilli Chatni Anna Murghi Kari) from Meera Sodha&#39;s Made in India">
+          <span data-src="https://flockler.com/thumbs/sites/192/meerachicken_s300x0_c2686x1563_l0x1093_q60.jpg"></span>
+          <span data-src="https://flockler.com/thumbs/sites/192/meerachicken_s600x0_c2686x1563_l0x1093_q40.jpg"
                 data-media="(-webkit-min-device-pixel-ratio: 1.5), (min-resolution:192dpi), (min-resolution:2dppx)"></span>
-          <span data-src="https://flockler.com/thumbs/sites/192/hotchicken_s440x0_c2330x1362_l0x1156_q60_noupscale.jpg"
+          <span data-src="https://flockler.com/thumbs/sites/192/meerachicken_s440x0_c2686x1563_l0x1093_q60.jpg"
                 data-media="(min-width:1640px)"></span>
-          <span data-src="https://flockler.com/thumbs/sites/192/hotchicken_s880x0_c2330x1362_l0x1156_q40_noupscale.jpg"
+          <span data-src="https://flockler.com/thumbs/sites/192/meerachicken_s880x0_c2686x1563_l0x1093_q40.jpg"
                 data-media="(min-width:1640px) and (-webkit-min-device-pixel-ratio: 1.5), (min-width:1640px) and (min-resolution:192dpi), (min-width:1640px) and (min-resolution:2dppx)"></span>
           <noscript>
-            <img src="https://flockler.com/thumbs/sites/192/hotchicken_s300x0_c2330x1362_l0x1156_q60_noupscale.jpg" alt="Hot Chicken Salad with Sweet Mustard Dressing">
+            <img loading="lazy" src="https://flockler.com/thumbs/sites/192/meerachicken_s300x0_c2686x1563_l0x1093_q60.jpg" alt="Coriander Chutney Chicken (Lilli Chatni Anna Murghi Kari) from Meera Sodha&#39;s Made in India">
           </noscript>
         </span>
       <div class="feature-cover-overlay recipe-feature-cover-overlay">
@@ -837,25 +1530,25 @@
       </div>
     </figure>
     <div class="recipe-feature-title">
-      <h1 class="recipe-feature-recipe-name">Hot Chicken Salad with Sweet Mustard&nbsp;Dressing</h1>
-        <span class="recipe-feature-chef-name">&mdash; Simon Hopkinson &mdash;</span>
+      <h1 class="recipe-feature-recipe-name">Coriander Chutney Chicken (Lilli Chatni Anna Murghi&nbsp;Kari)</h1>
+        <span class="recipe-feature-chef-name">&mdash; Meera Sodha &mdash;</span>
     </div>
 </a></article>
 
 
 
-<article class="recipe-feature" data-id="2465" >
-  <a class="feature-link recipe-feature-link" href="/recipes/crispy-chicken-with-sweet-potato-fries-and-barbecue-beans">    <figure class="recipe-feature-cover">
-        <span data-picture data-alt="Crispy Chicken with Sweet Potato Fries and Barbecue Beans">
-          <span data-src="https://flockler.com/thumbs/sites/192/chicken--78f8m53054_s300x0_c1000x584_l0x468_q60_noupscale.jpg"></span>
-          <span data-src="https://flockler.com/thumbs/sites/192/chicken--78f8m53054_s600x0_c1000x584_l0x468_q40_noupscale.jpg"
+<article class="recipe-feature" data-id="2901" >
+  <a class="feature-link recipe-feature-link" href="/recipes/nadiya-hussains-not-prawn-toast">    <figure class="recipe-feature-cover">
+        <span data-picture data-alt="Nadiya Hussain&#39;s Not Prawn Toast Recipe | Family Favourites BBC 2">
+          <span data-src="https://flockler.com/thumbs/sites/192/nadiya-hussain-s-not-prawn-toast-a39483f1-2c1e-4b9a-97d7-b025b376267a_s300x0_c1710x999_l0x496_q60.jpg"></span>
+          <span data-src="https://flockler.com/thumbs/sites/192/nadiya-hussain-s-not-prawn-toast-a39483f1-2c1e-4b9a-97d7-b025b376267a_s600x0_c1710x999_l0x496_q40.jpg"
                 data-media="(-webkit-min-device-pixel-ratio: 1.5), (min-resolution:192dpi), (min-resolution:2dppx)"></span>
-          <span data-src="https://flockler.com/thumbs/sites/192/chicken--78f8m53054_s440x0_c1000x584_l0x468_q60_noupscale.jpg"
+          <span data-src="https://flockler.com/thumbs/sites/192/nadiya-hussain-s-not-prawn-toast-a39483f1-2c1e-4b9a-97d7-b025b376267a_s440x0_c1710x999_l0x496_q60.jpg"
                 data-media="(min-width:1640px)"></span>
-          <span data-src="https://flockler.com/thumbs/sites/192/chicken--78f8m53054_s880x0_c1000x584_l0x468_q40_noupscale.jpg"
+          <span data-src="https://flockler.com/thumbs/sites/192/nadiya-hussain-s-not-prawn-toast-a39483f1-2c1e-4b9a-97d7-b025b376267a_s880x0_c1710x999_l0x496_q40.jpg"
                 data-media="(min-width:1640px) and (-webkit-min-device-pixel-ratio: 1.5), (min-width:1640px) and (min-resolution:192dpi), (min-width:1640px) and (min-resolution:2dppx)"></span>
           <noscript>
-            <img src="https://flockler.com/thumbs/sites/192/chicken--78f8m53054_s300x0_c1000x584_l0x468_q60_noupscale.jpg" alt="Crispy Chicken with Sweet Potato Fries and Barbecue Beans">
+            <img loading="lazy" src="https://flockler.com/thumbs/sites/192/nadiya-hussain-s-not-prawn-toast-a39483f1-2c1e-4b9a-97d7-b025b376267a_s300x0_c1710x999_l0x496_q60.jpg" alt="Nadiya Hussain&#39;s Not Prawn Toast Recipe | Family Favourites BBC 2">
           </noscript>
         </span>
       <div class="feature-cover-overlay recipe-feature-cover-overlay">
@@ -863,7 +1556,7 @@
       </div>
     </figure>
     <div class="recipe-feature-title">
-      <h1 class="recipe-feature-recipe-name">Crispy Chicken with Sweet Potato Fries and Barbecue&nbsp;Beans</h1>
+      <h1 class="recipe-feature-recipe-name">Nadiya Hussain's Not Prawn&nbsp;Toast</h1>
         <span class="recipe-feature-chef-name">&mdash; Nadiya Hussain &mdash;</span>
     </div>
 </a></article>
@@ -883,18 +1576,18 @@
     <h2 class="has-border">More Roast Recipes</h2>
   <div class="has-floated-elements">
 
-<article class="recipe-feature" data-id="12" >
-  <a class="feature-link recipe-feature-link" href="/recipes/roast-fillet-of-beef-with-herbed-horseradish-sauce">    <figure class="recipe-feature-cover">
-        <span data-picture data-alt="Roast Fillet of Beef with Herbed Horseradish Sauce">
-          <span data-src="https://flockler.com/thumbs/sites/192/beef_roast_fillet_mary_berry_s300x0_c2195x1282_l0x946_q60_noupscale.jpg"></span>
-          <span data-src="https://flockler.com/thumbs/sites/192/beef_roast_fillet_mary_berry_s600x0_c2195x1282_l0x946_q40_noupscale.jpg"
+<article class="recipe-feature" data-id="1522" >
+  <a class="feature-link recipe-feature-link" href="/recipes/cyruss-honey-roasted-chicken-with-outstanding-roasties">    <figure class="recipe-feature-cover">
+        <span data-picture data-alt="Honey-roasted Chicken with Outstanding Roasties">
+          <span data-src="https://flockler.com/thumbs/sites/192/incredible_spice_men_3_112_img_s300x0_c2080x1214_l0x537_q60.png"></span>
+          <span data-src="https://flockler.com/thumbs/sites/192/incredible_spice_men_3_112_img_s600x0_c2080x1214_l0x537_q40.png"
                 data-media="(-webkit-min-device-pixel-ratio: 1.5), (min-resolution:192dpi), (min-resolution:2dppx)"></span>
-          <span data-src="https://flockler.com/thumbs/sites/192/beef_roast_fillet_mary_berry_s440x0_c2195x1282_l0x946_q60_noupscale.jpg"
+          <span data-src="https://flockler.com/thumbs/sites/192/incredible_spice_men_3_112_img_s440x0_c2080x1214_l0x537_q60.png"
                 data-media="(min-width:1640px)"></span>
-          <span data-src="https://flockler.com/thumbs/sites/192/beef_roast_fillet_mary_berry_s880x0_c2195x1282_l0x946_q40_noupscale.jpg"
+          <span data-src="https://flockler.com/thumbs/sites/192/incredible_spice_men_3_112_img_s880x0_c2080x1214_l0x537_q40.png"
                 data-media="(min-width:1640px) and (-webkit-min-device-pixel-ratio: 1.5), (min-width:1640px) and (min-resolution:192dpi), (min-width:1640px) and (min-resolution:2dppx)"></span>
           <noscript>
-            <img src="https://flockler.com/thumbs/sites/192/beef_roast_fillet_mary_berry_s300x0_c2195x1282_l0x946_q60_noupscale.jpg" alt="Roast Fillet of Beef with Herbed Horseradish Sauce">
+            <img loading="lazy" src="https://flockler.com/thumbs/sites/192/incredible_spice_men_3_112_img_s300x0_c2080x1214_l0x537_q60.png" alt="Honey-roasted Chicken with Outstanding Roasties">
           </noscript>
         </span>
       <div class="feature-cover-overlay recipe-feature-cover-overlay">
@@ -902,25 +1595,25 @@
       </div>
     </figure>
     <div class="recipe-feature-title">
-      <h1 class="recipe-feature-recipe-name">Roast Fillet of Beef with Herbed Horseradish&nbsp;Sauce</h1>
-        <span class="recipe-feature-chef-name">&mdash; Mary Berry &mdash;</span>
+      <h1 class="recipe-feature-recipe-name">Cyrus’s Honey-Roasted Chicken with Outstanding&nbsp;Roasties</h1>
+        <span class="recipe-feature-chef-name">&mdash; Cyrus Todiwala and Tony Singh &mdash;</span>
     </div>
 </a></article>
 
 
 
-<article class="recipe-feature" data-id="2074" >
-  <a class="feature-link recipe-feature-link" href="/recipes/butternut-squash-gratin-with-penne">    <figure class="recipe-feature-cover">
-        <span data-picture data-alt="Butternut Squash Gratin with Penne">
-          <span data-src="https://flockler.com/thumbs/sites/192/mkt_100_family_meals_5_122_img_s300x0_c1559x911_l0x575_q60_noupscale.jpg"></span>
-          <span data-src="https://flockler.com/thumbs/sites/192/mkt_100_family_meals_5_122_img_s600x0_c1559x911_l0x575_q40_noupscale.jpg"
+<article class="recipe-feature" data-id="1438" >
+  <a class="feature-link recipe-feature-link" href="/recipes/kenis-peking-duck">    <figure class="recipe-feature-cover">
+        <span data-picture data-alt="">
+          <span data-src="https://flockler.com/thumbs/sites/192/exploring_china_8_234_img--cykuvy6xtn_s300x0_c2084x1217_l0x388_q60.jpg"></span>
+          <span data-src="https://flockler.com/thumbs/sites/192/exploring_china_8_234_img--cykuvy6xtn_s600x0_c2084x1217_l0x388_q40.jpg"
                 data-media="(-webkit-min-device-pixel-ratio: 1.5), (min-resolution:192dpi), (min-resolution:2dppx)"></span>
-          <span data-src="https://flockler.com/thumbs/sites/192/mkt_100_family_meals_5_122_img_s440x0_c1559x911_l0x575_q60_noupscale.jpg"
+          <span data-src="https://flockler.com/thumbs/sites/192/exploring_china_8_234_img--cykuvy6xtn_s440x0_c2084x1217_l0x388_q60.jpg"
                 data-media="(min-width:1640px)"></span>
-          <span data-src="https://flockler.com/thumbs/sites/192/mkt_100_family_meals_5_122_img_s880x0_c1559x911_l0x575_q40_noupscale.jpg"
+          <span data-src="https://flockler.com/thumbs/sites/192/exploring_china_8_234_img--cykuvy6xtn_s880x0_c2084x1217_l0x388_q40.jpg"
                 data-media="(min-width:1640px) and (-webkit-min-device-pixel-ratio: 1.5), (min-width:1640px) and (min-resolution:192dpi), (min-width:1640px) and (min-resolution:2dppx)"></span>
           <noscript>
-            <img src="https://flockler.com/thumbs/sites/192/mkt_100_family_meals_5_122_img_s300x0_c1559x911_l0x575_q60_noupscale.jpg" alt="Butternut Squash Gratin with Penne">
+            <img loading="lazy" src="https://flockler.com/thumbs/sites/192/exploring_china_8_234_img--cykuvy6xtn_s300x0_c2084x1217_l0x388_q60.jpg" alt="">
           </noscript>
         </span>
       <div class="feature-cover-overlay recipe-feature-cover-overlay">
@@ -928,8 +1621,8 @@
       </div>
     </figure>
     <div class="recipe-feature-title">
-      <h1 class="recipe-feature-recipe-name">Butternut Squash Gratin with&nbsp;Penne</h1>
-        <span class="recipe-feature-chef-name">&mdash; Annabel Karmel &mdash;</span>
+      <h1 class="recipe-feature-recipe-name">Ken Hom's Classic Peking&nbsp;Duck</h1>
+        <span class="recipe-feature-chef-name">&mdash; Ken Hom and Ching-He Huang &mdash;</span>
     </div>
 </a></article>
 
@@ -950,13 +1643,8 @@
   <meta itemprop="description" content="The official follow-up to Rachel Khoo&#39;s first book.">
 
   <figure class="img book-promo-cover">
-    <a href="/books/my-little-french-kitchen">      <span data-picture data-alt="Cover of My Little French Kitchen">
-        <span data-src="https://flockler.com/thumbs/sites/192/9780718177478_My_Little_French_Kitchen_Jacket_s260x0_q70_noupscale.jpg"></span>
-        <span data-src="https://flockler.com/thumbs/sites/192/9780718177478_My_Little_French_Kitchen_Jacket_s520x0_q30_noupscale.jpg" data-media="(-webkit-min-device-pixel-ratio: 1.5), (min-resolution:192dpi), (min-resolution:2dppx)"></span>
-        <noscript>
-          <img src="https://flockler.com/thumbs/sites/192/9780718177478_My_Little_French_Kitchen_Jacket_s260x0_q70_noupscale.jpg" alt="Cover of My Little French Kitchen" itemprop="image">
-        </noscript>
-      </span>
+    <a href="/books/my-little-french-kitchen">      <img loading="lazy" src="https://flockler.com/thumbs/sites/192/9780718177478_My_Little_French_Kitchen_Jacket_s260x0_q70.jpg" alt="Cover of My Little French Kitchen" itemprop="image"
+           srcset="https://flockler.com/thumbs/sites/192/9780718177478_My_Little_French_Kitchen_Jacket_s260x0_q70.jpg 260w, https://flockler.com/thumbs/sites/192/9780718177478_My_Little_French_Kitchen_Jacket_s520x0_q30.jpg 520w">
 </a>  </figure>
 
   <div class="body book-promo-body">
@@ -964,7 +1652,8 @@
     <h1 class="book-promo-name" itemprop="name"><a itemprop="url" href="/books/my-little-french-kitchen">My Little French Kitchen</a></h1>
         <p itemprop="description">The official follow-up to Rachel Khoo's first book.</p>
     <div>
-      <div class="buy-button-wrapper">
+
+<div class="buy-button-wrapper">
   <button type="button" class="buy-button"
     onclick="this.parentNode.classList.toggle('buy-button-wrapper--open'); return false;">
     Buy now
@@ -974,8 +1663,8 @@
   </button>
   <div class="buy-button__links">
       <a href="http://www.amazon.co.uk/My-Little-French-Kitchen-mountains/dp/0718177479/?tag=prh10143-21" class="js-buy-book-amazon" target="_blank" rel="noopener noreferrer">Amazon</a>
-      <a href="https://www.waterstones.com/book/the-little-paris-kitchen/rachel-khoo/9780718158118" class="js-buy-book-waterstones" target="_blank" rel="noopener noreferrer">Waterstones</a>
-      <a href="http://www.hive.co.uk/book/my-little-french-kitchen-over-100-recipes-from-the-mountains-market-squares-and-shores-of-france/16490938/" class="js-buy-book-hive" target="_blank" rel="noopener noreferrer">Hive</a>
+      <a href="https://www.waterstones.com/book/the-little-paris-kitchen/rachel-khoo/9780718158118" class="js-buy-book-amazon" target="_blank" rel="noopener noreferrer">Waterstones</a>
+      <a href="http://www.hive.co.uk/book/my-little-french-kitchen-over-100-recipes-from-the-mountains-market-squares-and-shores-of-france/16490938/" class="js-buy-book-amazon" target="_blank" rel="noopener noreferrer">Hive</a>
   </div>
 </div>
 
@@ -989,10 +1678,10 @@
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-54903be66e31daa4" async="async"></script>
 
-      </div>
+        </div>
 
-      <aside class="social-promo">
-  <img src="https://static.flockler.com/assets/the_happy_foodie/images/icons/icon-chef-hat-2x-65f999d365bcfa1a57f149beb0d55710a189ca3e9e65d4441db8558f395468b6.png" width="28">
+        <aside class="social-promo">
+  <img loading="lazy" src="https://fl-1.cdn.flockler.com/assets/the_happy_foodie/images/icons/icon-chef-hat-2x-65f999d365bcfa1a57f149beb0d55710a189ca3e9e65d4441db8558f395468b6.png" width="28">
   <p style="margin: 1em 0">Join The Happy Foodie community</p>
   <div class="social-promo__links">
     <a href="https://twitter.com/thehappyfoodie" target="_blank" rel="noopener noreferrer" class="js-twitter-page"><svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
@@ -1100,16 +1789,16 @@
       <a href="https://thehappyfoodie.co.uk/about" target="_blank" rel="noopener noreferrer">About</a> |
       <a href="https://www.penguinrandomhouse.co.uk/PrivacyPolicy/" onclick="document.querySelector('.footer__cookie').classList.remove('hidden');return false;" target="_blank" rel="noopener noreferrer">Cookie Policy</a>
       <a href="https://www.penguinrandomhouse.co.uk/PrivacyPolicy/" target="_blank" rel="noopener noreferrer">Privacy Policy</a> |
-      <a href="https://www.penguinrandomhouse.co.uk/terms-of-use/" target="_blank" rel="noopener noreferrer">Terms of Service</a>
+      <a href="https://www.penguin.co.uk/company/about-us/notices/cookies-policy.html" target="_blank" rel="noopener noreferrer">Terms of Service</a>
     </div>
     <div class="footer__copyright">
-      © 1995-2018 Penguin Books Ltd. Registered number: 861590 England. Registered office: 80 Strand, London, WC2R 0RL UK
+      © 1995-2020 Penguin Books Ltd. Registered number: 861590 England. Registered office: 20 Vauxhall Bridge Road, London, SW1V 2SA, UK
     </div>
   </div>
 
   <div class="footer__cookie hidden">
     <div class="footer__cookie__wrapper">
-      We use cookies on this site and by continuing to browse it you agree to sending us your cookies. For more information on our cookies and changing your settings, click <a href="https://www.penguinrandomhouse.co.uk/terms-of-use/" target="_blank" rel="noopener noreferrer">here</a>.
+      We use cookies on this site and by continuing to browse it you agree to sending us your cookies. For more information on our cookies and changing your settings, click <a href="https://www.penguin.co.uk/company/about-us/notices/cookies-policy.html" target="_blank" rel="noopener noreferrer">here</a>.
       <div style="margin-top: 1em;">
         <button type="button" onclick="document.querySelector('.footer__cookie').classList.add('hidden');return false;">Accept</button>
       </div>
@@ -1117,10 +1806,21 @@
   </div>
 </footer>
 
+      </div>
     </div>
-  </div>
 
-  <script type="text/javascript">
+
+<script type="text/javascript">
+  var newsletterBannerCaptchaCompeleted = false;
+
+  var completeNewsletterBannerCaptcha = function () {
+    newsletterBannerCaptchaCompeleted = true;
+  };
+
+  var expireNewsletterBannerCaptcha = function () {
+    newsletterBannerCaptchaCompeleted = false;
+  };
+
   (function () {
     var ck_email = /^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/i;
     var gaEventSent = false;
@@ -1129,6 +1829,11 @@
       var email = form.querySelector('[type="email"]').value;
       var errors = [];
       var formType;
+
+      if (!newsletterBannerCaptchaCompeleted) {
+        alert('Please verify that you are not a robot first.')
+        return false;
+      }
 
       if (!ck_email.test(email)) {
         errors[errors.length] = "You must enter a valid email address.";
@@ -1143,8 +1848,10 @@
         formType = form.getAttribute('data-type');
 
         gaEventSent = true;
-        _gaq.push(['t1._set','hitCallback', function() { submitModalNewsletterForm(form); }]);
-        _gaq.push(['t1._trackEvent', 'The Happy Foodie Newsletter ' + formType + ' popup', 'Submit form']);
+        _gaq.push(['_set','hitCallback', function() { submitModalNewsletterForm(form); }]);
+        _gaq.push(['_trackEvent', 'The Happy Foodie Newsletter ' + formType + ' popup', 'Submit form']);
+      } else {
+        submitModalNewsletterForm(form);
       }
 
       return false;
@@ -1153,20 +1860,35 @@
     function submitModalNewsletterForm(form) {
       var $form = $(form);
       var url = $form.attr('action');
-      var $inputs = $form.find('input[type="text"], input[type="email"], input[type="hidden"]');
-      var http = new XMLHttpRequest();
+      var $inputs = $form.find('input[type="text"], input[type="email"], input[type="hidden"], textarea[name="g-recaptcha-response"]');
+      var $button = $form.find('[name="submit"]');
+      var xhr = new XMLHttpRequest();
       var params = [];
+
+      $button.prop('disabled', true);
+      $button.val('Sending…');
 
       $inputs.each(function () {
         params.push($(this).attr('name') + '=' + encodeURIComponent( $(this).val() ));
       });
 
-      http.open('POST', url, true);
-      http.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
-      http.send(params.join('&'));
+      xhr.open('POST', url, true);
+      xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
 
-      $form.hide();
-      $form.next('.newsletter-banner__thanks').removeClass('hidden');
+      xhr.onreadystatechange = function () {
+        if (xhr.readyState === XMLHttpRequest.DONE) {
+          if (xhr.status === 200) {
+            $form.hide();
+            $form.next('.newsletter-banner__thanks').removeClass('hidden');
+          } else {
+            alert('Could not sign up for newsletter. Please try again.');
+            $button.val('Submit');
+            $button.prop('disabled', false);
+          }
+        }
+      };
+
+      xhr.send(params.join('&'));
 
       return false;
     };
@@ -1213,29 +1935,48 @@
 
     <div class="newsletter-banner__photos">
       <figure class="newsletter-banner__photo">
-        <img src="https://static.flockler.com/assets/the_happy_foodie/images/banner/recipe-1-de0e7602801ffd9787174af4022fdd4e10092d38ea015effb933b32e0945f140.jpg" width="100%" height="100%" alt="Image of a random recipe">
+        <img loading="lazy" src="https://fl-1.cdn.flockler.com/assets/the_happy_foodie/images/banner/recipe-1-de0e7602801ffd9787174af4022fdd4e10092d38ea015effb933b32e0945f140.jpg" width="100%" height="100%" alt="Image of a random recipe">
       </figure>
       <figure class="newsletter-banner__photo">
-        <img src="https://static.flockler.com/assets/the_happy_foodie/images/banner/recipe-2-b5912aaaa0f205ef5fb70175e0d17e0aeaad150bb9406892ef1320d9d7a5d3f5.jpg" width="100%" height="100%" alt="Image of a random recipe">
+        <img loading="lazy" src="https://fl-1.cdn.flockler.com/assets/the_happy_foodie/images/banner/recipe-2-b5912aaaa0f205ef5fb70175e0d17e0aeaad150bb9406892ef1320d9d7a5d3f5.jpg" width="100%" height="100%" alt="Image of a random recipe">
       </figure>
       <figure class="newsletter-banner__photo">
-        <img src="https://static.flockler.com/assets/the_happy_foodie/images/banner/recipe-3-4134bff23acf4babe4b1a4eb90e3407229fe45636e3da6f772daa430b77852eb.jpg" width="100%" height="100%" alt="Image of a random recipe">
+        <img loading="lazy" src="https://fl-1.cdn.flockler.com/assets/the_happy_foodie/images/banner/recipe-3-4134bff23acf4babe4b1a4eb90e3407229fe45636e3da6f772daa430b77852eb.jpg" width="100%" height="100%" alt="Image of a random recipe">
       </figure>
       <figure class="newsletter-banner__photo">
-        <img src="https://static.flockler.com/assets/the_happy_foodie/images/banner/recipe-4-87609535655aeb4fdd597a77af1ae92a849645e6565835cce846c2b41c56a3df.jpg" width="100%" height="100%" alt="Image of a random recipe">
+        <img loading="lazy" src="https://fl-1.cdn.flockler.com/assets/the_happy_foodie/images/banner/recipe-4-87609535655aeb4fdd597a77af1ae92a849645e6565835cce846c2b41c56a3df.jpg" width="100%" height="100%" alt="Image of a random recipe">
       </figure>
       <figure class="newsletter-banner__photo">
-        <img src="https://static.flockler.com/assets/the_happy_foodie/images/banner/recipe-5-d711ff0bbed794708dce1c20c98fb9042181479fd7140892f6ced0e58339c998.jpg" width="100%" height="100%" alt="Image of a random recipe">
+        <img loading="lazy" src="https://fl-1.cdn.flockler.com/assets/the_happy_foodie/images/banner/recipe-5-d711ff0bbed794708dce1c20c98fb9042181479fd7140892f6ced0e58339c998.jpg" width="100%" height="100%" alt="Image of a random recipe">
       </figure>
       <figure class="newsletter-banner__photo">
-        <img src="https://static.flockler.com/assets/the_happy_foodie/images/banner/recipe-6-b198368c2ca80661f5f9a2f8a98c920e77e09053159145caf59b8c995712fb82.jpg" width="100%" height="100%" alt="Image of a random recipe">
+        <img loading="lazy" src="https://fl-1.cdn.flockler.com/assets/the_happy_foodie/images/banner/recipe-6-b198368c2ca80661f5f9a2f8a98c920e77e09053159145caf59b8c995712fb82.jpg" width="100%" height="100%" alt="Image of a random recipe">
       </figure>
     </div>
 
-    <form data-type="recipes" action="https://penguin-group.msgfocus.com/k/Penguin-Group/the_happy_foodie_newsletter_banners_popups" method="post" accept-charset="UTF-8" onsubmit="return validatePopupForm(this);">
+    <form data-type="recipes" action="/newsletters/popup" method="post" accept-charset="UTF-8" onsubmit="return validatePopupForm(this);">
       <input type="email" required placeholder="jane.smith@example.org" name="email_1800" value="" maxlength="255" onkeyup="if (this.length>255) this.value=this.value.substr(0, 255)" onblur="this.value=this.value.substr(0, 255)">
       <input type="hidden" class="" name="source_banner_popup_1803" value="popup">
       <input type="submit" class="button" name="submit" id="submit" value="Submit">
+
+      <div style="margin: 20px 0;">
+        <div id="newsletterBannerCaptcha--recipes" class="g-recaptcha"></div>
+        <script>
+          CaptchaCallbacks.push({
+            id: 'newsletterBannerCaptcha--recipes',
+            data: {
+              'callback': 'completeNewsletterBannerCaptcha',
+              'expired-callback': 'expireNewsletterBannerCaptcha',
+              'sitekey': '6LdvdCUUAAAAAKp_zIqdD5bsG_i6IqdRFBjxKjVW',
+              'theme': 'white'
+            }
+          });
+        </script>
+      </div>
+
+      <div class="newsletter-banner__terms">
+        By clicking SUBMIT, I consent to you using my details to send me The Happy Foodie newsletters and confirm that I have read and understood Penguin Random House's <a href="https://www.penguinrandomhouse.co.uk/PrivacyPolicy/" target="_blank" rel="noopener noreferrer">Privacy Policy</a>.
+      </div>
     </form>
 
     <div class="newsletter-banner__thanks hidden">Thanks for signing up!</div>
@@ -1252,29 +1993,48 @@
 
     <div class="newsletter-banner__photos">
       <figure class="newsletter-banner__photo">
-        <img src="https://static.flockler.com/assets/the_happy_foodie/images/banner/chef-1-eb3c9d2bfc0ee3538ffe51d8b23c2906592bf5d473d53fe023c150b327669b22.jpg" width="100%" height="100%" alt="Image of Rick Stein">
+        <img loading="lazy" src="https://fl-1.cdn.flockler.com/assets/the_happy_foodie/images/banner/chef-1-eb3c9d2bfc0ee3538ffe51d8b23c2906592bf5d473d53fe023c150b327669b22.jpg" width="100%" height="100%" alt="Image of Rick Stein">
       </figure>
       <figure class="newsletter-banner__photo">
-        <img src="https://static.flockler.com/assets/the_happy_foodie/images/banner/chef-2-4b2c419a1dfcdca677bb662e10ea6b2202a04aba4be683667c4f00f6b64cc677.jpg" width="100%" height="100%" alt="Image of Nigella Lawson">
+        <img loading="lazy" src="https://fl-1.cdn.flockler.com/assets/the_happy_foodie/images/banner/chef-2-4b2c419a1dfcdca677bb662e10ea6b2202a04aba4be683667c4f00f6b64cc677.jpg" width="100%" height="100%" alt="Image of Nigella Lawson">
       </figure>
       <figure class="newsletter-banner__photo">
-        <img src="https://static.flockler.com/assets/the_happy_foodie/images/banner/chef-3-edec1a95add39d61da3eb3db4e0d2a4c1288a6904195cd0425143423131a5984.jpg" width="100%" height="100%" alt="Image of Jamie Oliver">
+        <img loading="lazy" src="https://fl-1.cdn.flockler.com/assets/the_happy_foodie/images/banner/chef-3-edec1a95add39d61da3eb3db4e0d2a4c1288a6904195cd0425143423131a5984.jpg" width="100%" height="100%" alt="Image of Jamie Oliver">
       </figure>
       <figure class="newsletter-banner__photo">
-        <img src="https://static.flockler.com/assets/the_happy_foodie/images/banner/chef-4-ae9ee79c15ec401ed015bf7bc0c28141f8dedf53d8ab1cba8477fba04370604a.jpg" width="100%" height="100%" alt="Image of Mary Berry">
+        <img loading="lazy" src="https://fl-1.cdn.flockler.com/assets/the_happy_foodie/images/banner/chef-4-ae9ee79c15ec401ed015bf7bc0c28141f8dedf53d8ab1cba8477fba04370604a.jpg" width="100%" height="100%" alt="Image of Mary Berry">
       </figure>
       <figure class="newsletter-banner__photo">
-        <img src="https://static.flockler.com/assets/the_happy_foodie/images/banner/chef-5-fe32ec091745067e36152d247c22f37c05cccfc8f433ef02116f154a7de7cb1f.jpg" width="100%" height="100%" alt="Image of Nadiya Hussain">
+        <img loading="lazy" src="https://fl-1.cdn.flockler.com/assets/the_happy_foodie/images/banner/chef-5-fe32ec091745067e36152d247c22f37c05cccfc8f433ef02116f154a7de7cb1f.jpg" width="100%" height="100%" alt="Image of Nadiya Hussain">
       </figure>
       <figure class="newsletter-banner__photo">
-        <img src="https://static.flockler.com/assets/the_happy_foodie/images/banner/chef-6-14de8db9cc9dd2d49f5bbe5bee9623354f116037053959fc5e9e479b55550c08.jpg" width="100%" height="100%" alt="Image of Yotam Ottolenghi">
+        <img loading="lazy" src="https://fl-1.cdn.flockler.com/assets/the_happy_foodie/images/banner/chef-6-14de8db9cc9dd2d49f5bbe5bee9623354f116037053959fc5e9e479b55550c08.jpg" width="100%" height="100%" alt="Image of Yotam Ottolenghi">
       </figure>
     </div>
 
-    <form data-type="chefs" action="https://penguin-group.msgfocus.com/k/Penguin-Group/the_happy_foodie_newsletter_banners_popups" method="post" accept-charset="UTF-8" onsubmit="return validatePopupForm(this);">
+    <form data-type="chefs" action="/newsletters/popup" method="post" accept-charset="UTF-8" onsubmit="return validatePopupForm(this);">
       <input type="email" required placeholder="jane.smith@example.org" name="email_1800" value="" maxlength="255" onkeyup="if (this.length>255) this.value=this.value.substr(0, 255)" onblur="this.value=this.value.substr(0, 255)">
       <input type="hidden" class="" name="source_banner_popup_1803" value="popup">
       <input type="submit" class="button" name="submit" id="submit" value="Submit">
+
+      <div style="margin: 20px 0;">
+        <div id="newsletterBannerCaptcha--chefs" class="g-recaptcha"></div>
+        <script>
+          CaptchaCallbacks.push({
+            id: 'newsletterBannerCaptcha--chefs',
+            data: {
+              'callback': 'completeNewsletterBannerCaptcha',
+              'expired-callback': 'expireNewsletterBannerCaptcha',
+              'sitekey': '6LdvdCUUAAAAAKp_zIqdD5bsG_i6IqdRFBjxKjVW',
+              'theme': 'white'
+            }
+          });
+        </script>
+      </div>
+
+      <div class="newsletter-banner__terms">
+        By clicking SUBMIT, I consent to you using my details to send me The Happy Foodie newsletters and confirm that I have read and understood Penguin Random House's <a href="https://www.penguinrandomhouse.co.uk/PrivacyPolicy/" target="_blank" rel="noopener noreferrer">Privacy Policy</a>.
+      </div>
     </form>
 
     <div class="newsletter-banner__thanks hidden">Thanks for signing up!</div>
@@ -1282,14 +2042,7 @@
 </div>
 
 
-    <script>
-    Settings = {
-      APIURL: 'https://flockler.com/api',
-      SITE_ID: 192,
-      SECTION_ID: null,
-      LOAD_MORE_COUNT: 10
-    };
-  </script>
+  <link rel="stylesheet" media="screen" href="https://fl-1.cdn.flockler.com/assets/the_happy_foodie/stylesheets/application-e01f51ed9b3593e2091e206aa68e1f69d1b233a2645f8a48a8bb488d3b0ae451.css" />
 
   <script type="text/javascript">
   WebFontConfig = {
@@ -1314,10 +2067,10 @@
     f.parentNode.insertBefore(p, f);
   }(document));
 </script>
-<script src="https://static.flockler.com/assets/the_happy_foodie/javascripts/application-8c3b89a0f32355c933ec15971720ba2681061746e6b9fe591d487615d7b90b6e.js"></script>
+<script src="https://fl-1.cdn.flockler.com/assets/the_happy_foodie/javascripts/application-86529d72f5a0ba5f5c1083de52bf56a00092b81bc0fa2e81304dd47aaeb08435.js"></script>
 
 <script>
-  window.Analytics.setGoogleAnalyticsCodes( ["UA-15911025-14","UA-42801603-1"] );
+  window.Analytics.setGoogleAnalyticsCodes( ["UA-42801603-1"] );
   window.Analytics.trackPageView();
 
   (function() {
@@ -1333,5 +2086,8 @@
 
     <script type="text/javascript">_satellite.pageBottom();</script>
     <script src="https://www.dwin2.com/pub.440305.min.js"></script>
+  <link rel="stylesheet" media="print" href="https://fl-1.cdn.flockler.com/assets/the_happy_foodie/stylesheets/application-print-6ac8ebe9b75ba2ed35d909155ebfb4444cce212573aae9a9e8bd778512717ada.css" />
+
+  <script src="https://www.google.com/recaptcha/api.js?hl=en-GB&onload=CaptchaCallback&render=explicit" async defer></script>
 </body>
 </html>

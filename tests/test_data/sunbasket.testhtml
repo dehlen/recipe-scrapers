@@ -23,8 +23,11 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"
           integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
 
+
   <script src="//cdn.optimizely.com/js/779320009.js"></script>
-  <script src="/resources/js/sunbasket.js?v=4.18.1"
+    <!-- Intellimize -->
+      <script src="https://api.intellimize.co/client/117234114.js"></script>
+    <script src="/resources/js/sunbasket.js?v=4.30.0"
           type="text/javascript"></script>
   <script id="sunbasket-script-top" type="text/javascript">
     window.sunbasket = window.sunbasket || {};
@@ -36,7 +39,7 @@
     window.sunbasket.appleAuthCallbackUrl = '/auth/apple';
     window.sunbasket.appleSignInClientId = 'com.sunbasket.sunbasket.auth';
 
-    window.sunbasket.absoluteUrl = function(path) {
+    window.sunbasket.absoluteUrl = function (path) {
       return '' + document.location.origin + path;
     };
 
@@ -50,36 +53,63 @@
 <!-- Data Layer for Google Tag Manager -->
   <script>
 
-      dataLayer = [{
-          'userID': '',
-          'menuType': '',
-          'mealPlanType': '',
-          'recipesPerWeek': '',
-          'promoCode': '',
-          'orderTotal': '',
-          'recipeID': '1530',
-          'rafRegistration': '0',
-          'rafConversion': '0',
-          'userCity': '',
-          'userState': '',
-          'userPhone': '',
-          'userName': ''
-      }];
+    dataLayer = [{
+      'userID': '',
+      'menuType': '',
+      'mealPlanType': '',
+      'recipesPerWeek': '',
+      'promoCode': '',
+      'orderTotal': '',
+      'recipeID': '1530',
+      'rafRegistration': '0',
+      'rafConversion': '0',
+      'userCity': '',
+      'userState': '',
+      'userPhone': '',
+      'userName': ''
+    }];
   </script>
   <!-- End Google Tag Manager -->
 
   <!-- Segment (it will load GTM to process dataLayer -->
   <script type="text/javascript">
-      !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t,e){var n=document.createElement("script");n.type="text/javascript";n.async=!0;n.src="https://cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(n,a);analytics._loadOptions=e};analytics.SNIPPET_VERSION="4.1.0";
-        analytics.load("tjammJyflOTrfU0zTXDUW4dGOLEyQ2lK");
+      !function () {
+        var analytics = window.analytics = window.analytics || [];
+        if (!analytics.initialize) if (analytics.invoked) window.console && console.error && console.error("Segment snippet included twice."); else {
+          analytics.invoked = !0;
+          analytics.methods = ["trackSubmit", "trackClick", "trackLink", "trackForm", "pageview", "identify", "reset", "group", "track", "ready", "alias", "debug", "page", "once", "off", "on"];
+          analytics.factory = function (t) {
+            return function () {
+              var e = Array.prototype.slice.call(arguments);
+              e.unshift(t);
+              analytics.push(e);
+              return analytics
+            }
+          };
+          for (var t = 0; t < analytics.methods.length; t++) {
+            var e = analytics.methods[t];
+            analytics[e] = analytics.factory(e)
+          }
+          analytics.load = function (t, e) {
+            var n = document.createElement("script");
+            n.type = "text/javascript";
+            n.async = !0;
+            n.src = "https://cdn.segment.com/analytics.js/v1/" + t + "/analytics.min.js";
+            var a = document.getElementsByTagName("script")[0];
+            a.parentNode.insertBefore(n, a);
+            analytics._loadOptions = e
+          };
+          analytics.SNIPPET_VERSION = "4.1.0";
+          analytics.load("tjammJyflOTrfU0zTXDUW4dGOLEyQ2lK");
 
           var pageData = window.sunbasket.analytics.querystring();
 
-        analytics.page(pageData);
-      }}();
+          analytics.page(pageData);
+        }
+      }();
     </script>
   <script type="text/javascript">
-    $(function(){
+    $(function () {
       window.sunbasket.analytics.updateAttributionCookie(true);
     });
   </script>
@@ -91,57 +121,41 @@
 
 
   <script type="text/javascript">
-      $(function () {
-          $(document).ajaxSend(function (e, xhr, options) {
-              if (options.type == "POST" || options.type == "PUT") {
-                  xhr.setRequestHeader('X-CSRF-TOKEN', 'be4f2cb0-6b9f-4331-b881-5964a3d3fa68');
-              }
-          });
+    $(function () {
+      $(document).ajaxSend(function (e, xhr, options) {
+        if (options.type == "POST" || options.type == "PUT") {
+          xhr.setRequestHeader('X-CSRF-TOKEN', '24fc6227-5aea-470b-9aff-5386acc57e0a');
+        }
       });
+    });
   </script>
 
   <script type="text/javascript">
 
-      function getCookie(cname) {
-          var name = cname + "=";
-          var decodedCookie = decodeURIComponent(document.cookie);
-          var ca = decodedCookie.split(';');
-          for (var i = 0; i < ca.length; i++) {
-              var c = ca[i];
-              while (c.charAt(0) === ' ') {
-                  c = c.substring(1);
-              }
-              if (c.indexOf(name) === 0) {
-                  return c.substring(name.length, c.length);
-              }
-          }
-          return "";
+    $(document).ready(function () {
+      var variation = window.sunbasket.cookies.get('join-flow-variation');
+
+      if (variation && variation.length > 0) {
+        $('a[href="/join"], a.btn-join').attr('href', '/join/' + variation);
       }
+    });
 
-      var variation = getCookie('join-flow-variation');
+    function appendParams(selector) {
+      var query_params = location.search.substr(1);
 
-      $(document).ready(function () {
-          if (variation && variation.length > 0) {
-              $('a[href="/join"], a.btn-join').attr('href', '/join/' + variation);
+      $(selector).attr('href', function () {
+        var targetUrl = this.href;
+        var hashPart = this.hash;
+
+        if (query_params.length > 0 && (targetUrl !== undefined && targetUrl.length > 0)) {
+          if (hashPart !== "") {
+            targetUrl = targetUrl.substring(0, targetUrl.indexOf("#"));
           }
+
+          return targetUrl + (targetUrl.indexOf('?') > -1 ? "&" : "?") + query_params + hashPart;
+        }
       });
-
-      function appendParams(selector) {
-          var query_params = location.search.substr(1);
-
-          $(selector).attr('href', function () {
-              var targetUrl = this.href;
-              var hashPart = this.hash;
-
-              if (query_params.length > 0  && (targetUrl !== undefined && targetUrl.length > 0)){
-                  if (hashPart !== "") {
-                      targetUrl = targetUrl.substring(0, targetUrl.indexOf("#"));
-                  }
-
-                  return targetUrl + (targetUrl.indexOf('?') > -1 ? "&" : "?") + query_params + hashPart;
-              }
-          });
-      }
+    }
 
   </script>
 
@@ -188,20 +202,22 @@
   <meta name="theme-color" content="#ffffff">
 
   <link rel="stylesheet" type="text/css"
-        href="/resources/bundle/allCss.css?v=4.18.1"/>
+        href="/resources/bundle/allCss.css?v=4.30.0"/>
 
 
-<link rel='stylesheet' href='/resources/css/explore/explore.css?v=4.18.1'/>
-<link rel='stylesheet' href='/resources/css/recipe.css?v=4.18.1'/>
-<style type="text/css">.grecaptcha-badge { visibility: hidden; }</style>
+<link rel='stylesheet' href='/resources/css/explore/explore.css?v=4.30.0'/>
+<link rel='stylesheet' href='/resources/css/recipe.css?v=4.30.0'/>
+<style type="text/css">.grecaptcha-badge {
+    visibility: hidden;
+  }</style>
 </head>
 
 <body
  class="innerPage recipePage explorePage pageStartTop"  >
 
 <div class="page-wrapper">
-  <div id="mobile-page-cover"></div>
-  <header>
+<div id="mobile-page-cover"></div>
+<header>
     <!-- offer banner -->
     <!-- choose a navbar -->
 
@@ -326,31 +342,40 @@
 </nav>
 <script>$('body').addClass('logged-out');</script>
           </header>
-  <div class="clearfix"></div>
+<div class="clearfix"></div>
 
-  <script>
-    (function($){
-      var landingPagePathname = getCookie('landing-page-pathname');
+<script>
+  (function ($) {
+    var landingPagePathname = window.sunbasket.cookies.get('landing-page-pathname');
 
 
 
-      if (!!landingPagePathname) {
-        $(function() {
-          if ($('body').hasClass('healthy-all-day-experience')) {
-            var selector = '.btn-primary, .btn-secondary, .cta-link, a[href*="/join"], .join, a.link, .append-me, .home-page .join, .logo-center';
-            appendParams(selector);
-            $('.navbar .navbar-brand').attr('href', landingPagePathname);
-          }
-        });
-      }
-    })(jQuery);
-  </script>
+    if (!!landingPagePathname) {
+      $(function () {
+        if ($('body').hasClass('healthy-all-day-experience')) {
+          var selector = '.btn-primary, .btn-secondary, .cta-link, a[href*="/join"], .join, a.link, .append-me, .home-page .join, .logo-center';
+          appendParams(selector);
+          $('.navbar .navbar-brand').attr('href', landingPagePathname);
+        }
+      });
+    }
+  })(jQuery);
+</script>
 
-  <!-- adds fade-in class if interstitial page works like a modal -->
-  <div id="page-content" class="page-content">
-      <script src="https://cdn.ravenjs.com/3.27.0/raven.min.js"></script>
-        <script type="text/javascript">Raven.config("https://74f0149498834aae9208628dad9d42a2@o70926.ingest.sentry.io/1080564").install();</script>
-      <div class="sticky-back-bar" style="display: none">
+<!-- adds fade-in class if interstitial page works like a modal -->
+<div id="page-content" class="page-content">
+  <script
+      src="https://browser.sentry-cdn.com/5.29.1/bundle.tracing.min.js"
+      integrity="sha384-oMewZ7UOLvGpEKmWrXEBuQZA7ftGffl8JUn8O1yhF41YQdhxpVAMP0y0e83AWhDL"
+      crossorigin="anonymous"
+  ></script>
+  <script type="text/javascript">Sentry.init({
+    dsn: 'https://74f0149498834aae9208628dad9d42a2@o70926.ingest.sentry.io/1080564',
+    release: '4.30.0',
+    integrations: [new Sentry.Integrations.BrowserTracing()],
+    tracesSampleRate: 0.2
+  });</script>
+<div class="sticky-back-bar" style="display: none">
   <div class="container">
     <a href="/join/menuconfirmation-2">&larr; Back to recipe selection</a>
   </div>
@@ -562,9 +587,9 @@ $(function() {
 				<div class="recipe-stats-container">
 
 	<p class="diet-types">
-			<span class="type">Gluten-Free, </span>
+			<span class="type">Dairy-Free, </span>
 			<span class="type">Soy-Free, </span>
-			<span class="type">Dairy-Free</span>
+			<span class="type">Gluten-Free</span>
 			</p>
 	<p>
 		<span class="bold">2</span> <span> Servings, </span>
@@ -796,16 +821,31 @@ $(function() {
 
         calcSelectorWidth($('.main-protein-selector-container .protein-list-selector-' + recipeId), '0');
 
-        window.sunbasket.analytics.track('Protein Option Viewed', {
-            via: isModal ? 'protein_selection_modal' : 'product_page',
-            protein_selected: $selectedOption.text(),
-            upgrade_id: $selectedOption.data('internalId'),
-            sku: $(this).data('recipeInternalId'),
-            protein_type: $selectedOption.data('proteinType'),
-            diet_tags: proteinDietTypes.split(',').map(function(r){ return r.trim(); }),
-            previous_diet_tags: previousDietTypes.split(',').map(function(r){ return r.trim(); }),
-            meal_plan: (window.sunbasket.user && window.sunbasket.user.mealPlan) ? window.sunbasket.user.mealPlan : null
-        });
+        var props = {
+          via: isModal ? 'protein_selection_modal' : 'product_page',
+          protein_selected: $selectedOption.text(),
+          upgrade_id: $selectedOption.data('internalId'),
+          protein_id: $selectedOption.data('id'),
+          recipe_type: $(this).data('recipeType'),
+          protein_pantry_flag: $(this).data('proteinPantryFlag'),
+          sku: $(this).data('recipeInternalId'),
+          protein_type: $selectedOption.data('proteinType'),
+          diet_tags: proteinDietTypes.split(',').map(function(r){ return r.trim(); }),
+          previous_diet_tags: previousDietTypes.split(',').map(function(r){ return r.trim(); }),
+          meal_plan: (window.sunbasket.user && window.sunbasket.user.mealPlan) ? window.sunbasket.user.mealPlan : null
+        };
+
+        try {
+          var upgradeId = $selectedOption.data('id');
+          var itemTags = JSON.parse(atob($(this).data('itemTags'), 'utf8'));
+
+          if (itemTags) {
+            props.item_tags = itemTags.hasOwnProperty(upgradeId) ? itemTags[upgradeId] : itemTags[0];
+          }
+        } catch (ignore) {
+        }
+
+        window.sunbasket.analytics.track('Protein Option Viewed', props);
     });
 
     $('.main-protein-selector-container .protein-list-selector').change(function () {
@@ -888,7 +928,8 @@ $(function() {
                               Get healthy recipes, tips &amp; more
                             </p>
                             <form action="#" class="formModule" id="lead_capture_form">
-                                <div id="g-recaptcha-lead_capture_form"></div>
+                              <div id="g-recaptcha-lead_capture_form" class="g-recaptchav2"></div>
+
                               <div class="col-xs-8 flush-right">
                                 <input type="email" placeholder="Email address" class="newsletter-input form-control input-lg" id="prospect_email" required>
                               </div>
@@ -947,12 +988,14 @@ $(function() {
                       <span class="terms-exclusions">*Some exclusions may apply.</span>  <a class="offer-tooltip-terms-footer underline" href="#" data-placement="top" title data-toggle="tooltip">See Terms</a>
                     </p>
                   <p class="legal-text">
-                    &copy; 2020 Sun Basket 4.18.1<span class="margin-left-xs margin-right-xs gray-medium-light">|</span>
+                    &copy; 2020 Sun Basket 4.30.0<span class="margin-left-xs margin-right-xs gray-medium-light">|</span>
                     <a class="text-xxs a-gray-medium" target="_blank" rel="noreferrer noopener" href="/terms">Terms</a>
                     <span class="margin-left-xs margin-right-xs gray-medium-light">|</span>
                     <a class="text-xxs a-gray-medium" target="_blank" rel="noreferrer noopener" href="/privacy">Privacy</a>
                     <span class="margin-left-xs margin-right-xs gray-medium-light">|</span>
                     <a class="text-xxs a-gray-medium" target="_blank" rel="noreferrer noopener" href="/accessibility">Accessibility</a>
+                    <span class="margin-left-xs margin-right-xs gray-medium-light">|</span>
+                    <a class="text-xxs a-gray-medium" target="_blank" rel="noreferrer noopener" href="/security">Security</a>
                   </p>
 
                   <p class="legal-text">This site is protected by reCAPTCHA and the Google
@@ -964,74 +1007,60 @@ $(function() {
         </div>
 
         </footer>
-<script src="/resources/bundle/commonJs.js?v=4.18.1"></script>
+<script src="/resources/bundle/commonJs.js?v=4.30.0"></script>
         <script src="https://www.google.com/recaptcha/api.js?render=6LePSuQUAAAAAOemOOWD19nvHb41MORnT8psiz41"></script>
     <script type="text/javascript">
-        function getCookie(cname) {
-            var name = cname + "=";
-            var decodedCookie = decodeURIComponent(document.cookie);
-            var ca = decodedCookie.split(';');
-            for(var i = 0; i <ca.length; i++) {
-                var c = ca[i];
-                while (c.charAt(0) === ' ') {
-                    c = c.substring(1);
-                }
-                if (c.indexOf(name) === 0) {
-                    return c.substring(name.length, c.length);
-                }
-            }
-            return "";
-        }
-
         $('#lead_capture_form').submit(function(e){
-        	e.preventDefault();
-        	var form = this;
-        	$('button[type=submit]', form).disableButton();
+          e.preventDefault();
+          var $form = $(this);
+          var $submitButton = $('button[type=submit]', $form);
 
-        	var recaptchaV2Rendered = $('#g-recaptcha-lead_capture_form').html().length;
+          $submitButton.disableButton();
 
-            var emailAddress = $('#prospect_email').val();
-            var recaptchaV2Response = $('#g-recaptcha-response').val();
+          var $reCaptchaV2Element = $form.find('.g-recaptchav2');
+          var reCaptchaV2Response = $form.find('#g-recaptcha-response').val();
+
+          var emailAddress = $('#prospect_email').val();
 
           function captchaLogic(token) {
               $.ajax({
                   url: "/emailProspect/email/"+ encodeURIComponent(emailAddress),
-                  data: {recaptchaV3Token:token,
-                      recaptchaV2Response:recaptchaV2Response
-                  },
+                  data: {recaptchaV3Token:token, reCaptchaV2Response:reCaptchaV2Response},
                   contentType: "application/x-www-form-urlencoded; charset=UTF-8",
                   method: "POST",
                   complete: function(response){
                       if (response.status === 400 && window.sunbasket.reCaptchaV2Key) {
                           grecaptcha.ready(function () {
-                              if (!recaptchaV2Rendered){
-                                  grecaptcha.render('g-recaptcha-lead_capture_form', {
+                              if (!$reCaptchaV2Element.html().length){
+                                  grecaptcha.render($reCaptchaV2Element.attr('id'), {
                                       'sitekey' : window.sunbasket.reCaptchaV2Key,
                                       'callback': function () {
-                                          $('button[type=submit]', form).enableButton();
+                                        $submitButton.enableButton();
                                       }
                                   });
                               } else {
-                                  $('#g-recaptcha-lead_capture_form').show();
+                                  $reCaptchaV2Element.show();
                                   grecaptcha.reset();
                               }
                           });
-                          $('button[type=submit]', form).disableButton();
+                          $submitButton.disableButton(false);
 
                       } else {
                           $("#lead_capture_form .btn-primary").html("Success");
                           $('.success-msg').fadeIn(500);
+
                           setTimeout(function(){
                               $("#lead_capture_form .btn-primary").html("Submit");
                               $('.success-msg').fadeOut(2000);
                               $("#prospect_email").val("");
                           }, 3000);
 
-                          if (window.sunbasket.reCaptchaV2Key && recaptchaV2Rendered) {
-                              grecaptcha.reset();
-                              $('#g-recaptcha-lead_capture_form').hide();
+                          if (window.sunbasket.reCaptchaV2Key && !$reCaptchaV2Element.html().length) {
+                            grecaptcha.reset();
+                            $reCaptchaV2Element.hide();
                           }
-                          $('button[type=submit]', form).enableButton();
+
+                          $submitButton.enableButton();
                       }
                   },
                   fail: function (xhr, status, errorThrown) {

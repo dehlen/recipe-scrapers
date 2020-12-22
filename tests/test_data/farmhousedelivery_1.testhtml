@@ -24,7 +24,7 @@
       right: 0;
       top: 0;
 	   	}
-	}
+	}	
 	</style>
 
 <!--[if lt IE 9]>
@@ -55,8 +55,8 @@
 <link rel="alternate" type="application/rss+xml" title="Farmhouse Delivery &raquo; Feed" href="https://recipes.farmhousedelivery.com/feed/" />
 <link rel="alternate" type="application/rss+xml" title="Farmhouse Delivery &raquo; Comments Feed" href="https://recipes.farmhousedelivery.com/comments/feed/" />
 <link rel="alternate" type="application/rss+xml" title="Farmhouse Delivery &raquo; Green Shakshuka Comments Feed" href="https://recipes.farmhousedelivery.com/green-shakshuka/feed/" />
- <script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/recipes.farmhousedelivery.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.2"}};
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/recipes.farmhousedelivery.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.4"}};
 			/*! This file is auto-generated */
 			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
 		</script>
@@ -74,29 +74,28 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel='stylesheet' id='foundation-icon-css' href='https://recipes.farmhousedelivery.com/wp-content/plugins/easy-foundation-shortcodes/styles/foundation-icons.css?ver=5.4.2' type='text/css' media='all' />
-<link rel='stylesheet' id='foundation-norm-css' href='https://recipes.farmhousedelivery.com/wp-content/plugins/easy-foundation-shortcodes/styles/5/normalize.css?ver=5.4.2' type='text/css' media='all' />
-<link rel='stylesheet' id='foundation-css' href='https://recipes.farmhousedelivery.com/wp-content/plugins/easy-foundation-shortcodes/styles/5/foundation.min.css?ver=5.4.2' type='text/css' media='all' />
-<link rel='stylesheet' id='wp-block-library-css' href='https://recipes.farmhousedelivery.com/wp-includes/css/dist/block-library/style.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='foundation-icon-css' href='https://recipes.farmhousedelivery.com/wp-content/plugins/easy-foundation-shortcodes/styles/foundation-icons.css?ver=5.4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='foundation-norm-css' href='https://recipes.farmhousedelivery.com/wp-content/plugins/easy-foundation-shortcodes/styles/5/normalize.css?ver=5.4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='foundation-css' href='https://recipes.farmhousedelivery.com/wp-content/plugins/easy-foundation-shortcodes/styles/5/foundation.min.css?ver=5.4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://recipes.farmhousedelivery.com/wp-includes/css/dist/block-library/style.min.css?ver=5.4.4' type='text/css' media='all' />
 <link rel='stylesheet' id='foundation-css-css' href='https://recipes.farmhousedelivery.com/wp-content/themes/EyeLikeDesign/stylesheets/foundation.min.css?ver=3.2.5' type='text/css' media='all' />
 <link rel='stylesheet' id='app-css-css' href='https://recipes.farmhousedelivery.com/wp-content/themes/ELDchildTheme/stylesheets/app.css?ver=1.0.4' type='text/css' media='all' />
-<link rel='stylesheet' id='open-sans-css' href='https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C300%2C400%2C600&#038;subset=latin%2Clatin-ext&#038;display=fallback&#038;ver=5.4.2' type='text/css' media='all' />
-<link rel='stylesheet' id='eld-foundation-css-css' href='https://recipes.farmhousedelivery.com/wp-content/themes/ELDchildTheme/style.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='open-sans-css' href='https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C300%2C400%2C600&#038;subset=latin%2Clatin-ext&#038;display=fallback&#038;ver=5.4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='eld-foundation-css-css' href='https://recipes.farmhousedelivery.com/wp-content/themes/ELDchildTheme/style.css?ver=5.4.4' type='text/css' media='all' />
 <link rel='stylesheet' id='jetpack_css-css' href='https://recipes.farmhousedelivery.com/wp-content/plugins/jetpack/css/jetpack.css?ver=7.9.1' type='text/css' media='all' />
 <link rel='stylesheet' id='lightboxStyle-css' href='https://recipes.farmhousedelivery.com/wp-content/lbp-css/EyeLikeDesign/colorbox.min.css?ver=2.7.2' type='text/css' media='screen' />
 <script type='text/javascript' src='https://recipes.farmhousedelivery.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
 <script type='text/javascript' src='https://recipes.farmhousedelivery.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
-<script type='text/javascript' src='https://recipes.farmhousedelivery.com/wp-content/plugins/easy-foundation-shortcodes/js/5/vendor/custom.modernizr.js?ver=5.4.2'></script>
+<script type='text/javascript' src='https://recipes.farmhousedelivery.com/wp-content/plugins/easy-foundation-shortcodes/js/5/vendor/custom.modernizr.js?ver=5.4.4'></script>
 <link rel='https://api.w.org/' href='https://recipes.farmhousedelivery.com/wp-json/' />
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://recipes.farmhousedelivery.com/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://recipes.farmhousedelivery.com/wp-includes/wlwmanifest.xml" />
-<meta name="generator" content="WordPress 5.4.2" />
+<meta name="generator" content="WordPress 5.4.4" />
 <link rel='shortlink' href='https://wp.me/pa3Zfx-1E3' />
 <link rel="alternate" type="application/json+oembed" href="https://recipes.farmhousedelivery.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frecipes.farmhousedelivery.com%2Fgreen-shakshuka%2F" />
 <link rel="alternate" type="text/xml+oembed" href="https://recipes.farmhousedelivery.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frecipes.farmhousedelivery.com%2Fgreen-shakshuka%2F&#038;format=xml" />
-
 <link rel='dns-prefetch' href='//v0.wordpress.com' />
-<style type='text/css'>img#wpstats{display:none}</style><script type="text/javascript" src="https://recipes.farmhousedelivery.com/wp-content/plugins/si-captcha-for-wordpress/captcha/si_captcha.js?ver=1602369356"></script>
+<style type='text/css'>img#wpstats{display:none}</style><script type="text/javascript" src="https://recipes.farmhousedelivery.com/wp-content/plugins/si-captcha-for-wordpress/captcha/si_captcha.js?ver=1608675229"></script>
 
 <style type="text/css">
 .si_captcha_small { width:175px; height:45px; padding-top:10px; padding-bottom:10px; }
@@ -187,14 +186,15 @@ p#si_captcha_code_p { clear: left; padding-top:10px; }
 <div id="main" class="eight columns" role="main">
 <div class="post-box">
 
+ 
 <article id="post-6327" class="post-6327 post type-post status-publish format-standard has-post-thumbnail hentry category-breakfast category-main-dishes category-vegetable-side-dishes">
 <header class="entry-header">
 <h1 class="entry-title">Green Shakshuka</h1>
 </header>
 <div class="entry-meta">
 <h6>Posted on <a href="https://recipes.farmhousedelivery.com/2020/04/28/" title="8:13 pm" rel="bookmark"><time class="entry-date" datetime="2020-04-28T20:13:29+00:00" pubdate>April 28, 2020</time></a></h6> <a href="//yummly.com" rel="nofollow" class="YUMMLY-YUM-BUTTON">Yum</a><br />
- </div>
- <div class="entry-content">
+</div>
+<div class="entry-content">
 <p><img class="aligncenter size-large wp-image-6328" src="http://recipes.farmhousedelivery.com/wp-content/uploads/2020/04/no-blob_clean-handle-1024x683.jpg" alt="" width="657" height="438" srcset="https://recipes.farmhousedelivery.com/wp-content/uploads/2020/04/no-blob_clean-handle-1024x683.jpg 1024w, https://recipes.farmhousedelivery.com/wp-content/uploads/2020/04/no-blob_clean-handle-300x200.jpg 300w, https://recipes.farmhousedelivery.com/wp-content/uploads/2020/04/no-blob_clean-handle-768x512.jpg 768w, https://recipes.farmhousedelivery.com/wp-content/uploads/2020/04/no-blob_clean-handle-1536x1024.jpg 1536w, https://recipes.farmhousedelivery.com/wp-content/uploads/2020/04/no-blob_clean-handle.jpg 1600w" sizes="(max-width: 657px) 100vw, 657px" /></p>
 <p><span style="font-weight: 400;">Who knew a recipe could get us all excited with just a word? Shakshuka is awfully fun to say, but even more fun when you realize how delicious it is. An easy way to make dinner out of a few handfuls of greens and some eggs, it takes all of about ten minutes to go from “I’m hungry” to your plate. Use any greens you have on hand &#8211; vegans can replace the cream with coconut milk and the eggs with some sauteed mushrooms.</span></p>
 <h5><strong><span style="text-decoration: underline;">Green Shakshuka</span></strong></h5>
@@ -213,18 +213,15 @@ p#si_captcha_code_p { clear: left; padding-top:10px; }
 </ul>
 <p><span style="text-decoration: underline;">Instructions:</span></p>
 <p><span style="font-weight: 400;">Saute onions &amp; garlic in olive oil in a large skillet until they take on a little color. Add jalapeno and continue cooking for 1-2 minutes. Add chopped greens, season with salt and pepper to taste and cover until greens are just wilted. Add cream and bring to a simmer. Crack eggs on top of greens, cover and cook until eggs are cooked to your preference. Serve in wide bowls with a dollop of yogurt and a drizzle of hot sauce and thick slices of warm bread on the side.</span></p>
-  </div>
-
+</div>
 <footer class="entry-meta">
 
-  <span class="cat-links">
+<span class="cat-links">
 <span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="https://recipes.farmhousedelivery.com/category/breakfast/" rel="category tag">Breakfast</a>, <a href="https://recipes.farmhousedelivery.com/category/main-dishes/" rel="category tag">Main Dishes</a>, <a href="https://recipes.farmhousedelivery.com/category/vegetable-side-dishes/" rel="category tag">Vegetable &amp; Side Dishes</a> </span><br />
-
-
-   </footer>
+ </footer>
 </article>
 
- <nav class="nav-single">
+<nav class="nav-single">
 <h3 class="assistive-text">Post navigation</h3>
 <span class="nav-previous"><a href="https://recipes.farmhousedelivery.com/3-ingredient-uchi-brussels-sprouts/" rel="prev">&larr; 3- Ingredient Uchi Brussels Sprouts</a></span>
 <span class="nav-next"><a href="https://recipes.farmhousedelivery.com/chipotle-lime-chicken-tacos-with-crunchy-radish-salsa/" rel="next">Chipotle-Lime Chicken Tacos with Crunchy Radish Salsa &rarr;</a></span>
@@ -255,8 +252,8 @@ p#si_captcha_code_p { clear: left; padding-top:10px; }
 <input type='hidden' name='comment_post_ID' value='6327' id='comment_post_ID' />
 <input type='hidden' name='comment_parent' id='comment_parent' value='0' />
 <div id="captchaImgDiv">
-<div class="si_captcha_small"><img id="si_image_com" src="https://recipes.farmhousedelivery.com/wp-content/plugins/si-captcha-for-wordpress/captcha/securimage_show.php?si_sm_captcha=1&amp;si_form_id=com&amp;prefix=uMDM2a6gPqU5p0X4" width="132" height="45" alt="CAPTCHA" title="CAPTCHA" />
-<input id="si_code_com" name="si_code_com" type="hidden" value="uMDM2a6gPqU5p0X4" />
+<div class="si_captcha_small"><img id="si_image_com" src="https://recipes.farmhousedelivery.com/wp-content/plugins/si-captcha-for-wordpress/captcha/securimage_show.php?si_sm_captcha=1&amp;si_form_id=com&amp;prefix=JTcKXtb10lHQmSwC" width="132" height="45" alt="CAPTCHA" title="CAPTCHA" />
+<input id="si_code_com" name="si_code_com" type="hidden" value="JTcKXtb10lHQmSwC" />
 <div id="si_refresh_com">
 <a href="#" rel="nofollow" title="Refresh" onclick="si_captcha_refresh('si_image_com','com','/wp-content/plugins/si-captcha-for-wordpress/captcha','https://recipes.farmhousedelivery.com/wp-content/plugins/si-captcha-for-wordpress/captcha/securimage_show.php?si_sm_captcha=1&amp;si_form_id=com&amp;prefix='); return false;">
 <img class="si_captcha_refresh" src="https://recipes.farmhousedelivery.com/wp-content/plugins/si-captcha-for-wordpress/captcha/images/refresh.png" width="22" height="20" alt="Refresh" onclick="this.blur();" /></a>
@@ -267,7 +264,7 @@ p#si_captcha_code_p { clear: left; padding-top:10px; }
 <label for="si_captcha_code">CAPTCHA Code</label><span class="required"> *</span>
 </p>
 </div>
- <script type='text/javascript'>
+<script type='text/javascript'>
           var sUrlInput = document.getElementById("comment");
                   var oParent = sUrlInput.parentNode;
           var sSubstitue = document.getElementById("captchaImgDiv");
@@ -315,13 +312,12 @@ p#si_captcha_code_p { clear: left; padding-top:10px; }
 </li>
 <li class="cat-item cat-item-10"><a href="https://recipes.farmhousedelivery.com/category/vegetable-side-dishes/">Vegetable &amp; Side Dishes</a>
 </li>
- </ul>
+</ul>
 </aside> </div>
 
 </div>
 </aside>
 </div>
-
  </div>
 <footer id="footer" role="contentinfo">
 <div class="container">
@@ -379,7 +375,7 @@ p#si_captcha_code_p { clear: left; padding-top:10px; }
 Building 7, Suite 400<br />
 Austin, TX 78758<br />
 USA</p>
-<p><a href="/cdn-cgi/l/email-protection#721b1c141d321413001f1a1d07011716171e1b0417000b5c111d1f"><span class="__cf_email__" data-cfemail="01686f676e416760736c696e74726465646d68776473782f626e6c">[email&#160;protected]</span></a></p>
+<p><a href="/cdn-cgi/l/email-protection#563f383039163037243b3e3923253332333a3f2033242f7835393b"><span class="__cf_email__" data-cfemail="a8c1c6cec7e8cec9dac5c0c7dddbcdcccdc4c1decddad186cbc7c5">[email&#160;protected]</span></a></p>
 <p>Austin: 512-529-8569<br />
 Houston: 832-529-4747<br />
 </p>
@@ -400,8 +396,8 @@ Farmhouse Delivery. All rights reserved.
 		<script defer src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
 		<script defer>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
 	<![endif]-->
- <div style="display:none">
-</div>
+<div style="display:none">
+ </div>
 
 <script type="text/javascript">
 jQuery(document).ready(function($){
@@ -409,31 +405,31 @@ jQuery(document).ready(function($){
 });
 </script>
 <script type='text/javascript' src='https://recipes.farmhousedelivery.com/wp-content/themes/ELDchildTheme/javascripts/jquery.horizontalNav.js?ver=1.1'></script>
-<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=202041'></script>
-<script type='text/javascript' src='https://secure.gravatar.com/js/gprofiles.js?ver=2020Octaa'></script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=202052'></script>
+<script type='text/javascript' src='https://secure.gravatar.com/js/gprofiles.js?ver=2020Decaa'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var WPGroHo = {"my_hash":""};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://recipes.farmhousedelivery.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=5.4.2'></script>
+<script type='text/javascript' src='https://recipes.farmhousedelivery.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=5.4.4'></script>
 <script type='text/javascript' src='https://recipes.farmhousedelivery.com/wp-content/themes/EyeLikeDesign/javascripts/eld-foundation.min.js?ver=3.2.5'></script>
 <script type='text/javascript' src='https://recipes.farmhousedelivery.com/wp-content/themes/EyeLikeDesign/javascripts/app.js?ver=3.2.5'></script>
-<script type='text/javascript' src='https://recipes.farmhousedelivery.com/wp-content/themes/EyeLikeDesign/javascripts/theme.js?ver=5.4.2'></script>
+<script type='text/javascript' src='https://recipes.farmhousedelivery.com/wp-content/themes/EyeLikeDesign/javascripts/theme.js?ver=5.4.4'></script>
 <script type='text/javascript' src='https://recipes.farmhousedelivery.com/wp-content/themes/ELDchildTheme/javascripts/child-theme.js?ver=1.0.4'></script>
-<script type='text/javascript' src='https://recipes.farmhousedelivery.com/wp-includes/js/comment-reply.min.js?ver=5.4.2'></script>
-<script type='text/javascript' src='https://recipes.farmhousedelivery.com/wp-content/plugins/easy-foundation-shortcodes/js/5/foundation.min.js?ver=5.4.2'></script>
-<script type='text/javascript' src='https://recipes.farmhousedelivery.com/wp-content/plugins/easy-foundation-shortcodes/js/script.js?ver=5.4.2'></script>
+<script type='text/javascript' src='https://recipes.farmhousedelivery.com/wp-includes/js/comment-reply.min.js?ver=5.4.4'></script>
+<script type='text/javascript' src='https://recipes.farmhousedelivery.com/wp-content/plugins/easy-foundation-shortcodes/js/5/foundation.min.js?ver=5.4.4'></script>
+<script type='text/javascript' src='https://recipes.farmhousedelivery.com/wp-content/plugins/easy-foundation-shortcodes/js/script.js?ver=5.4.4'></script>
 <script type='text/javascript' src='https://recipes.farmhousedelivery.com/wp-content/plugins/lightbox-plus/js/jquery.colorbox.1.5.9-min.js?ver=1.5.9'></script>
-<script type='text/javascript' src='https://recipes.farmhousedelivery.com/wp-includes/js/wp-embed.min.js?ver=5.4.2'></script>
+<script type='text/javascript' src='https://recipes.farmhousedelivery.com/wp-includes/js/wp-embed.min.js?ver=5.4.4'></script>
 <script type='text/javascript' src='https://recipes.farmhousedelivery.com/wp-content/plugins/si-captcha-for-wordpress/captcha/si_captcha.js?ver=1.0'></script>
-<script type='text/javascript' src='https://stats.wp.com/e-202041.js' async='async' defer='defer'></script>
+<script type='text/javascript' src='https://stats.wp.com/e-202052.js' async='async' defer='defer'></script>
 <script type='text/javascript'>
 	_stq = window._stq || [];
 	_stq.push([ 'view', {v:'ext',j:'1:7.9.1',blog:'148713791',post:'6327',tz:'0',srv:'recipes.farmhousedelivery.com'} ]);
 	_stq.push([ 'clickTrackerInit', '148713791', '6327' ]);
 </script>
- <script src="https://www.yummly.com/js/widget.js?wordpress"></script>
+<script src="https://www.yummly.com/js/widget.js?wordpress"></script>
 <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

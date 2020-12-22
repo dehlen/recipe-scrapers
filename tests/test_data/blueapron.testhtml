@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <!--[if lte IE 7]> <html id='ie7' class='ie' xmlns:og='http://ogp.me/ns#' xmlns='http://www.w3.org/1999/xhtml' lang="en"> <![endif]-->
 <!--[if IE 8]> <html id='ie8' class='ie' xmlns:og='http://ogp.me/ns#' xmlns='http://www.w3.org/1999/xhtml' lang="en"> <![endif]-->
@@ -34,13 +33,13 @@
 
 <!--[if lte IE 9]>
 <link rel="stylesheet" media="screen" href="https://media.blueapron.com/assets/app-ie9-45ca15bf13019100e5b1309e12aa01483879329cf06518dd56b8d673e64d911c.css" />
-<link rel="stylesheet" media="screen" href="https://media.blueapron.com/assets/marketing-c701f34637fe2e4d815177e806c8adcc9a71878e33bada8af7fd2e52827547d2.css" />
+<link rel="stylesheet" media="screen" href="https://media.blueapron.com/assets/marketing-3f46a5a440abaeab056e8549dfd0570615fd39c9bbafe9a779360d232b75a56b.css" />
 <![endif]-->
 <!--[if gt IE 9]>
-<link rel="stylesheet" media="screen" href="https://media.blueapron.com/assets/app-aa53a2817a198ad9cb9290a32a4d76179443e57e5c2dd9c9a705fa03ac891145.css" />
+<link rel="stylesheet" media="screen" href="https://media.blueapron.com/assets/app-2839d0b9998bbb5174efde9d6e4af5721c4792b59e8b60bb211c3b7826db3abf.css" />
 <![endif]-->
 <!--[if !IE]>-->
-<link rel="stylesheet" media="screen" href="https://media.blueapron.com/assets/app-aa53a2817a198ad9cb9290a32a4d76179443e57e5c2dd9c9a705fa03ac891145.css" />
+<link rel="stylesheet" media="screen" href="https://media.blueapron.com/assets/app-2839d0b9998bbb5174efde9d6e4af5721c4792b59e8b60bb211c3b7826db3abf.css" />
 <!--<![endif]-->
 <!--[if lte IE 7]>
 <script src="https://media.blueapron.com/assets/json3-c98b21e5fa1a8054ebdf3119ef8f5e3566e52141194fa05059d006009e03fe43.js"></script>
@@ -152,7 +151,7 @@
 <![endif]-->
 
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="nNoWjCjRAJLASolVmGEJQ6ToD3QUAWssC/BBsdo0UVhte8DinR2/anfqouVdR5ahagM6OrnV+oOzm7wab7BWmQ==" />
+<meta name="csrf-token" content="9oVqzSy+34VSpWdo7w2Kxb7zuEBeJl/7fiXwH4cnzmyCjo+mj6lFQWvVJTaNOobRpsvrfsDg3u10kw9avUebLA==" />
 <meta content='Blue Apron' property='og:site_name'>
 <meta content='article' property='og:type'>
 <meta content='BBQ Chickpeas &amp; Farro with Corn, Cucumbers &amp; Hard-Boiled Eggs' property='og:title'>
@@ -726,7 +725,7 @@ If the problem persists, please contact
 <meta content='American' itemprop='recipeCuisine'>
 <meta content='https://media.blueapron.com/recipes/24483/c_main_dish_images/1593115477-32-0038-5165/0819_2PV2_BBQ-Chickpea_4449_CropRight_Web_high_feature.jpg' itemprop='image thumbnailUrl'>
 <span itemprop='aggregateRating' itemscope itemtype='http://schema.org/AggregateRating'>
-<meta content='2319' itemprop='ratingCount'>
+<meta content='2321' itemprop='ratingCount'>
 <meta content='4.32' itemprop='ratingValue'>
 </span>
 <!-- SECTION: RECIPE HERO -->
@@ -738,49 +737,49 @@ If the problem persists, please contact
 </div>
 </div>
 <div class='col-sm-6 col-sm-pull-6'>
-<div class='p-15'>
-<div class='ba-recipe-title'>
+<div class='ba-recipe-title p-15'>
 <h1 class='ba-recipe-title__main'>
 BBQ Chickpeas &amp; Farro
+<span class='ba-recipe__vegetarian'>
+<svg xmlns="http://www.w3.org/2000/svg" width="19" height="18" viewBox="0 0 19 18">
+    <g fill="none" fill-rule="evenodd">
+        <g fill="#1EB392" fill-rule="nonzero">
+            <g>
+                <path d="M17.088 12.926c.293-2.712-.067-5.256-2.627-6.821-1.01-.617-2.285-.86-3.472-1.114C9.601 4.695 2.575 2.825 1.187.912 1.062.742.909.592.625.268.433 1.254.214 2.062.128 2.89c-.412 3.945.29 7.66 2.966 10.69 3.435 3.89 7.648 5.242 12.587 2.609.66-.351.983-.232 1.294.354.165.314.988 1.458 1.43 1.232.443-.222.223-.683.101-.87-.622-.924-1.806-1.818-2.574-2.617-1.697-1.763-3.857-2.859-6.029-3.92-.558-.275-.747-.336-1.287-.65 0 0-1.822-.854-1.395-1.333.116-.192 4.604 1.598 5.953 2.23 1.342.631 2.571 1.507 3.914 2.312z" transform="translate(-436 -105) matrix(-1 0 0 1 455 105)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
+
+</span>
 </h1>
 <h2 class='ba-recipe-title__sub mt-10'>
 with Corn, Cucumbers &amp; Hard-Boiled Eggs
 </h2>
-<div class='ba-recipe-subtitle__cook-time'></div>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="33px" height="33px" viewBox="0 0 33 33" version="1.1" class="icon-svg icon-svg--clock viewBox='0 0 17 17'">
-    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
-    <title>Group</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="recipe-detail---desktop" transform="translate(-228.000000, -216.000000)" stroke="#0a9b3e">
-            <g id="Group-24" transform="translate(0.000000, 1.000000)">
-                <g id="beauty-+-romance" transform="translate(135.000000, 112.000000)">
-                    <g id="Group-5">
-                        <g id="icons-copy" transform="translate(72.000000, 103.000000)">
-                            <g id="cook">
-                                <g id="Group-2">
-                                    <g id="Group" transform="translate(22.000000, 1.000000)">
-                                        <circle id="Oval" cx="15.5" cy="15.5" r="15.5"></circle>
-                                        <path d="M15.5,4.5 L15.5,16.5" id="Line-4" stroke-linecap="square"></path>
-                                        <path d="M15.9644661,16.9644661 L22.3284271,23.3284271" id="Line-4" stroke-linecap="square"></path>
-                                    </g>
-                                </g>
-                            </g>
-                        </g>
-                    </g>
+<div class='ba-recipe--details'>
+<div class='ba-recipe-subtitle__cook-time'>
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="16" viewBox="0 0 18 16" class="icon-svg icon-svg--clock viewBox='0 0 17 17'">
+    <g fill="none" fill-rule="evenodd">
+        <g stroke="#00A0DF" stroke-width="1.5">
+            <g>
+                <g transform="translate(-16 -176) translate(16 172) translate(0 4)">
+                    <ellipse cx="8.679" cy="8" rx="7.929" ry="7.25"></ellipse>
+                    <path stroke-linecap="round" d="M8.196 4.444L8.196 8.889 11.571 10.667"></path>
                 </g>
             </g>
         </g>
     </g>
-</svg><span class='total-time'>30 min</span><span content='PT30M' itemprop='totalTime'></span>
-<span class='ba-recipe-subtitle__ww-badge'></span>
+</svg><span class='total-time'>30 MIN</span><span content='PT30M' itemprop='totalTime'></span>
 </div>
-<div class='culinary-badges'>
-<span class='culinary-badge'>Vegetarian</span>
-<span class='ba-info-list__item-value culinary-badge__badge-info js-CulinaryBadgeInformation'>i</span>
+<div class='ba-recipe-servings'>
+<span itemprop='recipeYield'>2</span>
+Servings
 </div>
-<div class='hide' id='badge-info-container'>
+</div>
+<span class='ba-recipe-subtitle__ww-badge'>
+</span>
+</div>
+<div class='p-15 hide' id='badge-info-container'>
 <div class='healthv2 badge-info-inner'>
 <div class='healthv2 culinary-badge-container'>
 <div class='healthv2 culinary-badge-title'>Wellness at Blue Apron</div>
@@ -854,57 +853,31 @@ Our diabetes friendly offering allows you to enjoy wholesome options while adher
 </div>
 </div>
 </div>
-<div class='recipe-main-list'>
-<ul class='ba-info-list ba-info-list--inline'>
-<li class='ba-info-list__item'>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25px" height="25px" viewBox="0 0 25 25" version="1.1" class="icon-svg icon-svg--serve">
-    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
-    <title>icon-servings</title>
-    <desc>Created with Sketch.</desc>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Recipe-Detail_1440-Copy" transform="translate(-130.000000, -284.000000)" stroke="#002C9B" stroke-width="1.5">
-            <g id="icon-servings" transform="translate(130.000000, 285.000000)">
-                <path d="M3.2550842,22.3721251 C2.79899787,22.8354485 2.03885399,22.8354485 1.55236191,22.3721251 C1.09627558,21.9088018 1.09627558,21.1365963 1.55236191,20.6423847 L8.27203382,13.8160877 L9.97475611,15.5458281 L3.2550842,22.3721251 Z" id="Path" fill="#002C9B" fill-rule="nonzero" stroke-linejoin="round"></path>
-                <path d="M15.2653575,13.7851995 L21.9850294,20.6114965 C22.1978697,20.8277141 22.3498985,21.1365963 22.3498985,21.4763667 C22.3498985,21.8161371 22.2282755,22.0941311 21.9850294,22.3412369 C21.5289431,22.8045602 20.7383935,22.8045602 20.2823071,22.3412369 L13.5626352,15.5149399 L15.2653575,13.7851995 Z" id="Path" fill="#002C9B" fill-rule="nonzero" stroke-linejoin="round"></path>
-                <path d="M23.4740803,4.72408027 L18.7012079,9.58440135 C18.2147158,10.0786129 17.6066007,10.3257187 16.9376741,10.3257187 C16.2687474,10.3257187 15.6302266,10.0477247 15.1741403,9.58440135 L14.1707503,8.56509004 C13.1977662,7.54577872 13.1977662,5.93959119 14.1707503,4.9511681 L18.666388,0.397157191" id="Path" stroke-linecap="round" stroke-linejoin="round" fill-rule="nonzero"></path>
-                <path d="M1.43073888,1.46079905 C1.79560795,1.09014038 2.40372305,0.904811054 3.13346118,0.904811054 C3.71117053,0.904811054 4.34969139,1.02836394 5.07942951,1.24458149 C6.53890577,1.6770166 8.08959928,2.5418868 8.88014892,3.37586879 C9.6402928,4.14807433 10.0355676,5.13649743 10.0355676,6.21758519 C10.0355676,7.20600828 9.67069856,8.16354315 9.0321777,8.90486048 L8.72812014,9.21374269 C7.99838202,9.86239535 7.08620936,10.233054 6.08281944,10.233054 C5.018618,10.233054 4.04563384,9.8006189 3.28548996,9.05930158 C2.46453456,8.2253196 1.61317342,6.68090851 1.18749284,5.19827387 C0.701000759,3.46853346 0.792218025,2.14033992 1.43073888,1.46079905 Z" id="Path" fill="#002C9B" fill-rule="nonzero" stroke-linejoin="round"></path>
-                <path d="M9.15551839,9.44816054 L14.395213,14.6878552" id="Line" stroke-linecap="square"></path>
-                <path d="M9.15551839,2.00668896 L21.1828532,14.0340237" id="Line-Copy" stroke-linecap="round" stroke-linejoin="round" transform="translate(15.384615, 8.235786) scale(1, -1) translate(-15.384615, -8.235786) "></path>
-            </g>
-        </g>
-    </g>
-</svg>
-
-<div class='ba-info-list__item-value'>
-<span itemprop='recipeYield'>2</span>
-Servings
-</div>
+<div class='recipe-main__description p-15'>
+<p itemprop='description'>This farro salad boasts delicious contrast from tender chickpeas tossed in a savory-sweet barbecue sauce, crunchy marinated cucumbers, and bites of sweet corn (charred to lightly caramelize the kernels for even more flavor).<a href="https://media.blueapron.com/recipes/24483/c_card_pdfs/1595434322-32-0002-6318/2PV3_BBQChickpeasFarro_WEB.pdf"></a><br><a href="https://media.blueapron.com/recipes/24483/c_card_pdfs/1595434322-32-0002-6318/2PV3_BBQChickpeasFarro_WEB.pdf"><strong>CLICK FOR RECIPE CARD</strong></a></p>
+<a class="btn btn-orange get-cooking-btn" name="button" href="/users/sign_up"><span class='btn-txt'>Get Cooking</span>
+</a></div>
+<div class='nutrition-container p-15'>
+<ul class='nutrition-list'>
+<li class='nutrition-list--item nutrition-list--item__heading'>
+<div class='item-title'>Nutrition</div>
+<div class='item-value'>PER SERVING</div>
 </li>
-<li class='ba-info-list__item nutrition-list-value'>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="19px" height="25px" viewBox="0 0 19 25" version="1.1" class="icon-svg icon-svg--nutrition">
-    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
-    <title>icon-nutrition</title>
-    <desc>Created with Sketch.</desc>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Recipe-Detail_1440-Copy" transform="translate(-282.000000, -283.000000)" fill="#002C9B" fill-rule="nonzero">
-            <path d="M290.852468,292.25441 C290.810403,290.780509 289.991148,290.180123 288.875,289.25 C288.458333,288.902778 288.598499,288.541039 289.295496,288.164785 C289.569176,288.010967 289.785122,288.011248 290.031052,288.197344 C291.479707,289.295463 292.134442,290.476405 292.399951,291.968107 C292.402259,291.981074 292.404538,292.043876 292.406788,292.116547 C294.046122,291.635489 296.919676,290.62344 298.979167,292.257718 C301.198671,294.019824 300.976702,297.411701 300.397596,300.274765 C299.713877,303.658339 298.285352,305.401502 296.634612,307.25131 C295.015858,309.062197 293.216976,307.018819 291.423865,307.018819 C291.40679,307.018819 291.391639,307.009737 291.375285,307.007402 C291.359172,307.009737 291.34354,307.018819 291.326706,307.018819 C289.533595,307.018819 287.734952,309.062197 286.115958,307.25131 C284.465218,305.401502 283.036453,303.658339 282.352252,300.274765 C281.773147,297.411701 281.676709,294.019824 283.896454,292.257718 C286.187833,290.43926 289.389015,291.897212 290.852468,292.25441 Z M299.88316,283.412265 C299.280805,284.664627 295.667579,291.612932 291.312843,287.899497 C290.759735,282.010127 298.43753,282.977318 299.774276,283.189498 C299.883387,283.207218 299.933024,283.308621 299.88316,283.412265 Z" id="icon-nutrition"></path>
-        </g>
-    </g>
-</svg>
-
-<span class='ba-info-list__item-value'>
-<span class='recipe-estimated-calories-container'>
-Est.
-</span>
+<li class='nutrition-list--item'>
+<div class='item-title'>Calories</div>
+<div class='item-value'>
 <span itemprop='nutrition' itemscope itemtype='http://schema.org/NutritionInformation'>
 <span itemprop='calories'>730</span>
 </span>
-Cals<span class='desktop-only'>/serving</span></span>
-</li>
-<li class='ba-info-list__item'>
-<div class='ba-info-list__item-value js-NutritionCalories item-value--nutrition'>
-<span class='view-all'>View All</span>
+Cals
+<span class='recipe-estimated-calories-container'>
+(est.)
+</span>
 </div>
+</li>
+</ul>
+<div class='view-full-nutrition-container js-NutritionCalories'>
+<span class='view-full-nutrition-link'>View Full Nutrition</span>
 <div class='hide' data-calories='730' data-url='https://media.blueapron.com/recipes/24483/facility/38/nutritional_label/1595012477-32-0018-3321/072720__202PV3__20BBQ_20Chickpeas_20__20Farro__20As_20Packaged__20National.png' id='recipe-nutrition-label-container'>
 <div class='nutrition-label-inner'>
 <img alt='Nutrition Label' id='recipe-nutrition-label-png' src='https://media.blueapron.com/recipes/24483/facility/38/nutritional_label/1595012477-32-0018-3321/072720__202PV3__20BBQ_20Chickpeas_20__20Farro__20As_20Packaged__20National.png'>
@@ -915,13 +888,7 @@ Cals<span class='desktop-only'>/serving</span></span>
 </div>
 </div>
 </div>
-</li>
-</ul>
 </div>
-<div class='recipe-main__description'>
-<p itemprop='description'>This farro salad boasts delicious contrast from tender chickpeas tossed in a savory-sweet barbecue sauce, crunchy marinated cucumbers, and bites of sweet corn (charred to lightly caramelize the kernels for even more flavor).<a href="https://media.blueapron.com/recipes/24483/c_card_pdfs/1595434322-32-0002-6318/2PV3_BBQChickpeasFarro_WEB.pdf"></a><br><a href="https://media.blueapron.com/recipes/24483/c_card_pdfs/1595434322-32-0002-6318/2PV3_BBQChickpeasFarro_WEB.pdf"><strong>CLICK FOR RECIPE CARD</strong></a></p>
-<a class="btn btn-orange get-cooking-btn" name="button" href="/users/sign_up"><span class='btn-txt'>Get Cooking</span>
-</a></div>
 </div>
 <div id='js-WinePairing'></div>
 </div>
@@ -1344,7 +1311,7 @@ Follow Us
 Discover What's Cookin'
 </h3>
 <div class='footer-newsletter-form-hldr'>
-<form id="recipe_newsletter_footer_form" class="csrf-ajax" action="/newsletter/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="ScvezCsvW5XxXS6BfBJsp0GDkkZtm0u+/xS7G8H1odvt51GXnMrf3RMvI59IDTKalDPDT3pq+DlwdTG5rXv75Q==" />
+<form id="recipe_newsletter_footer_form" class="csrf-ajax" action="/newsletter/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="tX9hHW8IaxXIJgOxbae8LDY5rPh1Qclj1N1ajF8QjaDVI9XDVrmKvI69H7a3lSvHNofQWffH0GBT/yK+zg2JQA==" />
 <input type="hidden" name="newsletter_subscriber[source]" id="newsletter_subscriber_source" value="Footer newsletter form" />
 <input type="hidden" name="newsletter_subscriber[receive_meat_fish]" id="newsletter_subscriber_receive_meat_fish" value="1" />
 <input type="text" name="newsletter_subscriber[email]" id="newsletter_subscriber_email" placeholder="Email Address" class="required email" data-validate="{required: true, email: true, messages: {email: &#39;Invalid email&#39;}}" aria-labelledby="recipe_newsletter_footer_form" />
