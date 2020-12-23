@@ -17,7 +17,7 @@ class TestDelishScraper(ScraperTest):
         self.assertEqual(self.harvester_class.total_time(), 60)
 
     def test_yields(self):
-        self.assertEqual(self.harvester_class.yields(), "8 serving(s)")
+        self.assertEqual(self.harvester_class.yields(), "8-10 servings")
 
     def test_image(self):
         self.assertEqual(
@@ -49,7 +49,7 @@ class TestDelishScraper(ScraperTest):
     def test_instructions(self):
         self.assertEqual(
             self.harvester_class.instructions(),
-            "Preheat oven to 350°. Line a 15” x 10” jelly roll pan with parchment and grease with cooking spray. In a large bowl, combine sugar, flour, salt, baking soda, pumpkin spice, eggs, and pumpkin puree until just combined. Spread into prepared pan and bake until a toothpick inserted in center of cake comes out clean, 15 minutes.\nMeanwhile, lay out a large kitchen towel on your counter (try to use one with little to no texture) and dust with powdered sugar. When cake is done baking, flip onto kitchen towel and gently peel off parchment paper.\nStarting at a short end, gently but tightly roll cake into a log. Let cool completely.\nMeanwhile, make filling: In a large bowl, combine cream cheese, melted butter, vanilla, powdered sugar, and salt. Using a hand mixer, whip until smooth.\nWhen cake is cooled, gently unroll (it’s ok if it remains slightly curled) and spread with cream cheese filling. Roll back up and dust with more powdered sugar. Slice and serve.",
+            "Preheat oven to 325º and butter an 8\" or 9\" springform pan. Make crust: In a food processor, blend Oreos with melted butter and salt. Pat into a springform pan and set aside while you make filling. Make cheesecake: In a large bowl using a hand mixer, beat cream cheese and sugar until completely smooth and fluffy. Add cornstarch, then add eggs. Add Baileys and vanilla. Pour batter into crust and place on a large baking sheet.  Bake until center of cheesecake is only slightly jiggly, 1 hour 20 minutes to 1 hour 30 minutes. Let cheesecake cool in oven, 1 hour, then refrigerate until completely cool, 4 hours or up to overnight. (If you'd like to use a water bath, tightly wrap outside of springform pan with two layers of aluminum foil. Transfer to a deep roasting pan and pour in enough boiling water to reach halfway up the cheesecake pan. Bake as directed.)  When ready to serve, make ganache: In a small saucepan over low heat, heat heavy cream. Place chocolate in a heatproof bowl and pour hot cream on top. Let sit 3 minutes, then stir until creamy, until no lumps remain. Refrigerate ganache until slightly thick, 15 minutes, and spread all over cheesecake. Let set 10 minutes, then serve."
         )
 
 
@@ -68,7 +68,7 @@ class TestDelishRogueOlScraper(ScraperTest):
         self.assertEqual(self.harvester_class.total_time(), 25)
 
     def test_yields(self):
-        self.assertEqual(self.harvester_class.yields(), "10 serving(s)")
+        self.assertEqual(self.harvester_class.yields(), "8-10 servings")
 
     def test_ingredients(self):
         self.assertEqual(
@@ -93,5 +93,5 @@ class TestDelishRogueOlScraper(ScraperTest):
 
         self.assertEqual(
             self.harvester_class.instructions(),
-            'Preheat oven to 325º and butter an 8" or 9" springform pan.\nMake crust: In a food processor, blend Oreos with melted butter and salt. Pat into a springform pan and set aside while you make filling.\nMake cheesecake: In a large bowl using a hand mixer, beat cream cheese and sugar until completely smooth and fluffy. Add cornstarch, then add eggs. Add Baileys and vanilla.\nPour batter into crust and place on a large baking sheet.\nBake until center of cheesecake is only slightly jiggly, 1 hour 20 minutes to 1 hour 30 minutes. Let cheesecake cool in oven, 1 hour, then refrigerate until completely cool, 4 hours or up to overnight. (If you\'d like to use a water bath, tightly wrap outside of springform pan with two layers of aluminum foil. Transfer to a deep roasting pan and pour in enough boiling water to reach halfway up the cheesecake pan. Bake as directed.)\nWhen ready to serve, make ganache: In a small saucepan over low heat, heat heavy cream. Place chocolate in a heatproof bowl and pour hot cream on top. Let sit 3 minutes, then stir until creamy, until no lumps remain. Refrigerate ganache until slightly thick, 15 minutes, and spread all over cheesecake. Let set 10 minutes, then serve.',
+            "Preheat oven to 325º and butter an 8\" or 9\" springform pan. Make crust: In a food processor, blend Oreos with melted butter and salt. Pat into a springform pan and set aside while you make filling. Make cheesecake: In a large bowl using a hand mixer, beat cream cheese and sugar until completely smooth and fluffy. Add cornstarch, then add eggs. Add Baileys and vanilla. Pour batter into crust and place on a large baking sheet.  Bake until center of cheesecake is only slightly jiggly, 1 hour 20 minutes to 1 hour 30 minutes. Let cheesecake cool in oven, 1 hour, then refrigerate until completely cool, 4 hours or up to overnight. (If you'd like to use a water bath, tightly wrap outside of springform pan with two layers of aluminum foil. Transfer to a deep roasting pan and pour in enough boiling water to reach halfway up the cheesecake pan. Bake as directed.)  When ready to serve, make ganache: In a small saucepan over low heat, heat heavy cream. Place chocolate in a heatproof bowl and pour hot cream on top. Let sit 3 minutes, then stir until creamy, until no lumps remain. Refrigerate ganache until slightly thick, 15 minutes, and spread all over cheesecake. Let set 10 minutes, then serve.",
         )

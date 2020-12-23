@@ -6,6 +6,7 @@ from recipe_scrapers.foodnetwork import FoodNetwork
 class TestFoodNetworkScraper(ScraperTest):
 
     scraper_class = FoodNetwork
+    maxDiff = None
 
     def test_host(self):
         self.assertEqual("foodnetwork.com", self.harvester_class.host())

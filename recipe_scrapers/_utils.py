@@ -69,7 +69,7 @@ def get_yields(element):
 def normalize_string(string):
     # Convert all named and numeric character references (e.g. &gt;, &#62;)
     unescaped_string = html.unescape(string)
-    return re.sub(
+    normalized_string = re.sub(
         r"\s+",
         " ",
         unescaped_string.replace("\xa0", " ")
@@ -77,6 +77,7 @@ def normalize_string(string):
         .replace("\t", " ")
         .strip(),
     )
+    return re.sub('<[^<]+?>', '', normalized_string) # remove html tags
 
 
 def url_path_to_dict(path):

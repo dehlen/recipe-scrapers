@@ -6,6 +6,7 @@ from recipe_scrapers.cookstr import Cookstr
 class TestCookstrScraper(ScraperTest):
 
     scraper_class = Cookstr
+    maxDiff = None
 
     def test_host(self):
         self.assertEqual("cookstr.com", self.harvester_class.host())
