@@ -20,18 +20,17 @@ class TestYummlyScraper(ScraperTest):
         self.assertEqual("4 serving(s)", self.harvester_class.yields())
 
     def test_ingredients(self):
-        self.assertSetEqual(
-            set(
-                [
-                    "1 1/2 cups milk",
-                    '1 cardamom small, powdered'
-                    '3 teaspoons sugar can add more if you want it sweeter'
-                    '4 cashew badam or pista, for garnishing, optional'
-                    '100 grams carrot 4 baby carrots in number or 1 big size'
-                ]
-            ),
-            set(self.harvester_class.ingredients()),
+        self.assertCountEqual(
+        [
+            "100 grams carrot 4 baby carrots in number or 1 big size",
+            "3 teaspoons sugar can add more if you want it sweeter",
+            "1 cardamom small, powdered",
+            "1 1/2 cups milk",
+            "4 cashew badam or pista, for garnishing, optional"
+        ],
+        self.harvester_class.ingredients(),
         )
 
     def test_instructions(self):
-        return self.assertEqual("", self.harvester_class.instructions())
+        return self.assertEqual("",
+                                self.harvester_class.instructions())

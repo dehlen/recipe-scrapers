@@ -6,6 +6,7 @@ from recipe_scrapers.thepioneerwoman import ThePioneerWoman
 class TestThePioneerWomanScraper(ScraperTest):
 
     scraper_class = ThePioneerWoman
+    maxDiff = None
 
     def test_host(self):
         self.assertEqual("thepioneerwoman.com", self.harvester_class.host())
@@ -28,13 +29,13 @@ class TestThePioneerWomanScraper(ScraperTest):
     def test_ingredients(self):
         self.assertCountEqual(
             [
-                "1 stick Butter",
-                "1 whole Large Onion, Halved And Sliced",
-                "1-1/2 pound Ground Beef",
-                "Salt And Pepper, to taste",
-                "5 dashes Worcestershire Sauce",
-                "8 slices Swiss Cheese",
-                "8 slices Rye Bread",
+                "1 stick butter",
+                "1 whole large onion, halved and sliced",
+                "1 1/2 lb. ground beef",
+                "salt and pepper, to taste",
+                "5 dashes Worcestershire sauce",
+                "8 slices Swiss cheese",
+                "8 slices rye bread",
             ],
             self.harvester_class.ingredients(),
         )

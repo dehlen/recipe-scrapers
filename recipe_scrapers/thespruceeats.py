@@ -7,32 +7,18 @@ class TheSpruceEats(AbstractScraper):
     def host(cls):
         return "thespruceeats.com"
 
-    def title(self):
-        return self.schema.title()
-
-    def description(self):
-        return self.schema.description()
-
-    def total_time(self):
-        return self.schema.total_time()
-
-    def prep_time(self):
-        return self.schema.prep_time()
-
-    def cook_time(self):
-        return self.schema.cook_time()
-
-    def yields(self):
-        return self.schema.yields()
-
-    def image(self):
-        return self.schema.image()
-
     def ingredients(self):
-        return self.schema.ingredients()
+        ingredients = self.soup.find("ul", {"class": "ingredient-list"}).find_all(
+            "li", {"class": "simple-list__item"}
+        )
+
+        return [normalize_string(ingredient.get_text()) for ingredient in ingredients]
 
     def instructions(self):
-        return self.schema.instructions()
+        instructions = self.soup.find(
+            "section", {"class": "section--instructions"}
+        ).find_all("li")
 
-    def ratings(self):
-        return self.schema.ratings()
+        return "\n".join(
+            [normalize_string(instruction.get_text()) for instruction in instructions]
+        )

@@ -6,6 +6,7 @@ from recipe_scrapers.thevintagemixer import TheVintageMixer
 class TestTheVintageMixerScraper(ScraperTest):
 
     scraper_class = TheVintageMixer
+    maxDiff = None
 
     def test_host(self):
         self.assertEqual("thevintagemixer.com", self.harvester_class.host())
@@ -28,18 +29,18 @@ class TestTheVintageMixerScraper(ScraperTest):
     def test_ingredients(self):
         self.assertCountEqual(
             [
-                "2 tablespoons coconut flour, +1 teaspoon",
+                "2 tablespoons coconut flour, (+1 teaspoon)",
                 "1/4 cup almond flour",
                 "1/4 teaspoon baking powder",
                 "1/6 teaspoon baking soda",
                 "1/4 teaspoon salt",
-                "1 ripe banana, about 1/2 cup",
-                "2 tablespoons coconut oil, room temp",
-                "2 tablespoons almond butter, room temp",
-                "1 large egg, beaten",
+                "1 ripe banana, (about 1/2 cup)",
+                "2 tablespoons coconut oil, (room temp)",
+                "2 tablespoons almond butter, (room temp)",
+                "1 large egg, (beaten )",
                 "1 tablespoon pure maple syrup",
                 "1/2 teaspoon pure vanilla extract",
-                "1/2 cup cherries, pitted and chopped",
+                "1/2 cup cherries, (pitted and chopped)",
             ],
             self.harvester_class.ingredients(),
         )
