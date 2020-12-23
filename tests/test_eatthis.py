@@ -20,6 +20,9 @@ class TestEatThis(ScraperTest):
             self.harvester_class.description(), "Leckere, cremige Rahmchampignons – das war mein Soulfood aus den Kindertagen! Unsere vegane Version kann da locker mithalten, ach was, eigentlich schmeckt sie noch viel besser. Und Kalorien müssen bei unserer Sauce auch nicht großartig gezählt werden. Soulfood deluxe! 💚"
         )
 
+    def test_image(self):
+        self.assertEqual(self.harvester_class.image(), "https://www.eat-this.org/wp-content/uploads/2018/03/cremige-vegane-rahmchampignons-6.jpg")
+
     def test_total_time(self):
         self.assertEqual(25, self.harvester_class.total_time())
 
