@@ -10,25 +10,28 @@ class FoodNetwork(AbstractScraper):
     def title(self):
         return self.soup.find("h1").get_text().strip()
 
+    def description(self):
+        return None
+
     def total_time(self):
-        return get_minutes(
-            self.soup.find("span", {"class": "m-RecipeInfo__a-Description--Total"})
-        )
+        return 0
+
+    def prep_time(self):
+        return 0
+
+    def cook_time(self):
+        return 0
 
     def yields(self):
-        return get_yields(
-            self.soup.find("ul", {"class": "o-RecipeInfo__m-Yield"}).find(
-                "span", {"class": "o-RecipeInfo__a-Description"}
-            )
-        )
+        return None
 
     def ingredients(self):
-        ingredients = self.soup.findAll("p", {"class": "o-Ingredients__a-Ingredient"})
+        ingredients = self.soup.findAll("div", {"class": "ingredient"})
 
         return [normalize_string(ingredient.get_text()) for ingredient in ingredients]
 
     def instructions(self):
-        instructions = self.soup.findAll("li", {"class": "o-Method__m-Step"})
+        instructions = self.soup.findAll("div", {"class": "recipe-text"})
 
         return "\n".join(
             [

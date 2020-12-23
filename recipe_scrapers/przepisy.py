@@ -23,7 +23,7 @@ class Przepisy(AbstractScraper):
         return self.schema.cook_time()
 
     def yields(self):
-        return self.schema.yields()
+        return get_yields(self.soup.find("div", {"class": "person-count"}))
 
     def image(self):
         return self.schema.image()

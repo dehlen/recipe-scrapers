@@ -18,7 +18,7 @@ class TestNutritionByNathalieScraper(ScraperTest):
 
     def test_image(self):
         self.assertEqual(
-            "https://static.wixstatic.com/media/d3b5ba_7ae468273837425aa869486557b06bac~mv2.jpg/v1/fill/w_473,h_565,al_c,q_80,usm_0.66_1.00_0.01/d3b5ba_7ae468273837425aa869486557b06bac~mv2.jpg",
+            "https://static.wixstatic.com/media/d3b5ba_7ae468273837425aa869486557b06bac~mv2.jpg/v1/fit/w_1000%2Ch_1000%2Cal_c%2Cq_80/file.png",
             self.harvester_class.image(),
         )
 
@@ -40,6 +40,6 @@ class TestNutritionByNathalieScraper(ScraperTest):
 
     def test_instructions(self):
         return self.assertEqual(
-            "Heat a pan on medium heat with oil.\nAdd the cauliflower and allow it to cook for about 5 minutes (should be nearly fully cooked).\nTurn heat down to low and add turmeric, cayenne, garlic powder, salsa, salt and pepper and continue to cook until done (about 2-3 more minutes).\nStir in vegan cream cheese and cilantro. Serve immediately and enjoy!",
+            "Heat a pan on medium heat with oil.  \nAdd the cauliflower and allow it to cook for about 5 minutes (should be nearly fully cooked).  \nTurn heat down to low and add turmeric, cayenne, garlic powder, salsa, salt and pepper and continue to cook until done (about 2-3 more minutes).  \nStir in vegan cream cheese and cilantro. Serve immediately and enjoy! ",
             self.harvester_class.instructions(),
         )

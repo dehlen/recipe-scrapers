@@ -8,31 +8,64 @@ class Mindmegette(AbstractScraper):
         return "www.mindmegette.hu"
 
     def title(self):
-        return self.schema.title()
+        return self.soup.find("h1", {"class": "title"}).get_text()
 
     def description(self):
-        return self.schema.description()
+        desc = self.soup.find("meta", {"property": "og:description", "content": True})
+        return desc.get("content")
 
     def total_time(self):
-        return self.schema.total_time()
+        item_sibling = self.soup.find("span", {"class": "spriteTime"})
+        time = item_sibling.find_next().get_text()
+
+        return get_minutes(time)
 
     def prep_time(self):
-        return self.schema.prep_time()
+        return 0
 
     def cook_time(self):
-        return self.schema.cook_time()
-
-    def yields(self):
-        return self.schema.yields()
+        return self.total_time()
 
     def image(self):
-        return self.schema.image()
+        image_relative_url = self.soup.find("img", {"itemprop": "image", "src": True})[
+            "src"
+        ]
+
+        if image_relative_url is not None:
+            image_relative_url = f"https://{self.host()}{image_relative_url}"
+
+        return image_relative_url
 
     def ingredients(self):
-        return self.schema.ingredients()
+        ingredients = []
+        shopping_cart = self.soup.find("ul", {"class": "shopingCart"}).findAll("li")
+
+        for ingredient in shopping_cart:
+            amount_unit = (
+                ingredient.find("span", {"class": "ingredient-measure"})
+                .get("title")
+                .strip()
+            )
+            ingredient_name = (
+                ingredient.find("span", {"class": "ingredient-name"}).get_text().strip()
+            )
+            ingredients.append((amount_unit + " " + ingredient_name).strip())
+
+        return ingredients
 
     def instructions(self):
-        return self.schema.instructions()
+        instructions = self.soup.find("div", {"class": "instructions"}).findAll("li")
 
-    def ratings(self):
-        return self.schema.ratings()
+        instructions_arr = []
+        for instruction in instructions:
+            for tag in instruction.findAll("h2"):
+                tag.replaceWith("")
+            instructions_arr.append(normalize_string(instruction.get_text()))
+
+        return "\n".join(instructions_arr)
+
+    def yields(self):
+        item_sibling = self.soup.find("span", {"class": "spritePortion"})
+        portion = item_sibling.find_next().get_text()
+
+        return get_yields(portion)

@@ -32,7 +32,14 @@ class TudoGostoso(AbstractScraper):
         return self.schema.ingredients()
 
     def instructions(self):
-        return self.schema.instructions()
+        instructions_html = self.soup.findAll(
+            "div", {"class": "instructions e-instructions"}
+        )
+
+        return "\n".join(
+            normalize_string(instruction.get_text())
+            for instruction in instructions_html
+        )
 
     def ratings(self):
         return self.schema.ratings()

@@ -15,10 +15,10 @@ class TestCookstrScraper(ScraperTest):
         self.assertEqual(self.harvester_class.title(), "Chocolate Cake")
 
     def test_total_time(self):
-        self.assertEqual(60, self.harvester_class.total_time())
+        self.assertEqual(0, self.harvester_class.total_time())
 
     def test_total_yields(self):
-        self.assertEqual(0, self.harvester_class.yields())
+        self.assertEqual("None", self.harvester_class.yields())
 
     def test_ingredients(self):
         self.assertCountEqual(

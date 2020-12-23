@@ -26,7 +26,8 @@ class SteamyKitchen(AbstractScraper):
         return self.schema.yields()
 
     def image(self):
-        return self.schema.image()
+        img = self.soup.find("meta", {"property": "og:image", "content": True})
+        return img.get("content")
 
     def ingredients(self):
         return self.schema.ingredients()

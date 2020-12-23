@@ -28,13 +28,13 @@ class TestPrzepisyScraper(ScraperTest):
     def test_ingredients(self):
         self.assertEqual(
             [
-                "ziemniaki 1 kilogram",
-                "cebula 1 sztuka",
-                "jajka 2 sztuki",
-                "Przyprawa w Mini kostkach Czosnek Knorr 1 sztuka",
-                "Gałka muszkatołowa z Indonezji Knorr 1 szczypta",
-                "sól 1 szczypta",
-                "mąka 3 łyżki",
+                'ziemniaki',
+                'cebula',
+                'jajka',
+                'Przyprawa w Mini kostkach Czosnek Knorr',
+                'Gałka muszkatołowa z Indonezji Knorr',
+                'sól',
+                'mąka'
             ],
             self.harvester_class.ingredients(),
         )

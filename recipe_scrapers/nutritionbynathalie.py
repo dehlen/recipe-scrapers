@@ -17,17 +17,24 @@ class NutritionByNathalie(AbstractScraper):
     def title(self):
         return self.soup.find("h1").get_text()
 
+    def description(self):
+        return None
+
     def total_time(self):
+        return 0
+
+    def prep_time(self):
+        return 0
+
+    def cook_time(self):
         return 0
 
     def yields(self):
         return None
 
     def image(self):
-        try:
-            return self.soup.find("img", {"id": re.compile(r"^innercomp_")})["src"]
-        except Exception:
-            return None
+        img = self.soup.find("meta", {"property": "og:image", "content": True})
+        return img.get("content")
 
     def ingredients(self):
         ingredients = []
@@ -48,7 +55,7 @@ class NutritionByNathalie(AbstractScraper):
         return ingredients
 
     def instructions(self):
-        title = self.soup.find(text="Directions:").find_parent("p")
+        title = self.soup.find(text="Directions: ").find_parent("p")
 
         instructions = []
         for child in title.nextSibling.find_all("li"):

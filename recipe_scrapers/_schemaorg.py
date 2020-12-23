@@ -2,6 +2,7 @@
 # find a package that parses https://schema.org/Recipe properly (or create one ourselves).
 import extruct
 from ._utils import get_minutes, normalize_string
+from json.decoder import JSONDecodeError
 
 SCHEMA_ORG_HOST = "schema.org"
 SCHEMA_NAMES = ["Recipe", "WebPage"]
@@ -19,7 +20,10 @@ class SchemaOrg:
         self.format = None
         self.data = {}
 
-        data = extruct.extract(page_data, syntaxes=SYNTAXES, uniform=True)
+        try:
+            data = extruct.extract(page_data, syntaxes=SYNTAXES, uniform=True)
+        except JSONDecodeError:
+            data = {}
 
         for syntax in SYNTAXES:
             for item in data.get(syntax, []):
@@ -105,7 +109,7 @@ class SchemaOrg:
         image = self.data.get("image")
 
         if image is None:
-            raise SchemaOrgException("Image not found in SchemaOrg")
+            return None
 
         if type(image) == dict:
             return image.get("url")
@@ -118,7 +122,7 @@ class SchemaOrg:
         if "http://" not in image and "https://" not in image:
             # some sites give image path relative to the domain
             # in cases like this handle image url with class methods or og link
-            return ""
+            return None
 
         return image
 
@@ -172,7 +176,7 @@ class SchemaOrg:
                 normalize_string(instruction) for instruction in instructions_gist
             )
 
-        return instructions
+        return normalize_string(instructions)
 
     def ratings(self):
         ratings = self.data.get("aggregateRating", None)
@@ -180,8 +184,8 @@ class SchemaOrg:
             raise SchemaOrgException("No ratings data in SchemaOrg.")
 
         if type(ratings) == dict:
-            ratingValue = ratings.get("ratingValue", None)
-            return round(float(ratingValue), 2) if ratingValue else None
+            rating_value = ratings.get("ratingValue", None)
+            return round(float(rating_value), 2) if rating_value else None
         return round(float(ratings), 2)
 
     def cuisine(self):

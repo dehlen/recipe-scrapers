@@ -25,8 +25,8 @@ class TestSimplyQuinoaScraper(ScraperTest):
                 "1 cup quinoa flour",
                 "1 cup oat flour",
                 "2 teaspoons baking powder",
-                "1 1/4 cup almond milk (or milk of choice)",
-                "2 large eggs (or flax eggs)",
+                "1 1/4 cup almond milk ((or milk of choice))",
+                "2 large eggs ((or flax eggs))",
                 "2 tablespoons maple syrup",
                 "2 tablespoons oil",
                 "1/3 cup blueberries",
@@ -44,4 +44,4 @@ class TestSimplyQuinoaScraper(ScraperTest):
         )
 
     def test_ratings(self):
-        self.assertEqual(0, self.harvester_class.ratings())
+        self.assertEqual(5.0, self.harvester_class.ratings())

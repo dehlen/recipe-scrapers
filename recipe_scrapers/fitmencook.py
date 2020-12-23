@@ -8,31 +8,45 @@ class FitMenCook(AbstractScraper):
         return "fitmencook.com"
 
     def title(self):
-        return self.schema.title()
+        raw_title = self.soup.find("h2", {"class": "gap-none"}).get_text()
+        title = raw_title.replace("\t", "")
+        title = title.replace("\n", "")
+
+        return title
 
     def description(self):
-        return self.schema.description()
+        desc = self.soup.find("meta", {"property": "og:description", "content": True})
+        return desc.get("content")
 
     def total_time(self):
-        return self.schema.total_time()
+        return get_minutes(self.soup.find("span", {"class": "total-time"}))
 
     def prep_time(self):
-        return self.schema.prep_time()
+        return get_minutes(self.soup.find("span", {"class": "prep-time"}))
 
     def cook_time(self):
-        return self.schema.cook_time()
+        return get_minutes(self.soup.find("span", {"class": "cook-time"}))
 
     def yields(self):
-        return self.schema.yields()
+        for h4 in self.soup.findAll("h4"):
+            for strong in h4.findAll("strong"):
+                raw_yield = strong.text
+                for word in raw_yield.split():
+                    if word.isdigit():
+                        yields = word
 
-    def image(self):
-        return self.schema.image()
+        return get_yields("{} servings".format(yields))
 
     def ingredients(self):
-        return self.schema.ingredients()
+        ingredients_parent = self.soup.find("div", {"class": "recipe-ingredients"})
+        ingredients = ingredients_parent.findAll("li")
+
+        return [normalize_string(ingredient.get_text()) for ingredient in ingredients]
 
     def instructions(self):
-        return self.schema.instructions()
+        instructions_parent = self.soup.find("div", {"class": "recipe-steps"})
+        instructions = instructions_parent.findAll("li")
 
-    def ratings(self):
-        return self.schema.ratings()
+        return "\n".join(
+            [normalize_string(instruction.get_text()) for instruction in instructions]
+        )

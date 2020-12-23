@@ -8,31 +8,32 @@ class Inspiralized(AbstractScraper):
         return "inspiralized.com"
 
     def title(self):
-        return self.schema.title()
+        return self.soup.find("h2").get_text()
 
     def description(self):
-        return self.schema.description()
+        desc = self.soup.find("meta", {"property": "og:description", "content": True})
+        return desc.get("content")
 
     def total_time(self):
-        return self.schema.total_time()
+        return get_minutes(self.soup.find("span", {"itemprop": "totalTime"}))
 
     def prep_time(self):
-        return self.schema.prep_time()
+        return get_minutes(self.soup.find("span", {"itemprop": "prepTime"}))
 
     def cook_time(self):
-        return self.schema.cook_time()
+        return get_minutes(self.soup.find("span", {"itemprop": "cookTime"}))
 
     def yields(self):
-        return self.schema.yields()
-
-    def image(self):
-        return self.schema.image()
+        return get_yields(self.soup.find("span", {"itemprop": "servingSize"}))
 
     def ingredients(self):
-        return self.schema.ingredients()
+        ingredients = self.soup.findAll("li", {"class": "ingredient"})
+
+        return [normalize_string(ingredient.get_text()) for ingredient in ingredients]
 
     def instructions(self):
-        return self.schema.instructions()
+        instructions = self.soup.findAll("li", {"class": "instruction"})
 
-    def ratings(self):
-        return self.schema.ratings()
+        return "\n".join(
+            [normalize_string(instruction.get_text()) for instruction in instructions]
+        )
