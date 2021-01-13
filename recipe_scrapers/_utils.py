@@ -77,7 +77,22 @@ def normalize_string(string):
         .replace("\t", " ")
         .strip(),
     )
-    return re.sub('<[^<]+?>', '', normalized_string) # remove html tags
+    # remove html tags
+    return re.sub('<[^<]+?>', '', normalized_string)
+
+
+def normalize_instructions_string(string):
+    # Convert all named and numeric character references (e.g. &gt;, &#62;)
+    unescaped_string = html.unescape(string)
+    normalized_string = re.sub(
+        r"\s+",
+        " ",
+        unescaped_string.replace("\xa0", " ")
+        .replace("\t", " ")
+        .strip(),
+    )
+    # remove html tags
+    return re.sub('<[^<]+?>', '', normalized_string)
 
 
 def url_path_to_dict(path):

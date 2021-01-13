@@ -1,7 +1,7 @@
 # IF things in this file continue get messy (I'd say 300+ lines) it may be time to
 # find a package that parses https://schema.org/Recipe properly (or create one ourselves).
 import extruct
-from ._utils import get_minutes, normalize_string
+from ._utils import get_minutes, normalize_string, normalize_instructions_string
 from json.decoder import JSONDecodeError
 
 SCHEMA_ORG_HOST = "schema.org"
@@ -173,10 +173,10 @@ class SchemaOrg:
                 )
 
             return "\n".join(
-                normalize_string(instruction) for instruction in instructions_gist
+                normalize_instructions_string(instruction) for instruction in instructions_gist
             )
 
-        return normalize_string(instructions)
+        return normalize_instructions_string(instructions)
 
     def ratings(self):
         ratings = self.data.get("aggregateRating", None)
