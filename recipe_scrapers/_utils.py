@@ -85,7 +85,7 @@ def normalize_instructions_string(string):
     # Convert all named and numeric character references (e.g. &gt;, &#62;)
     unescaped_string = html.unescape(string)
     normalized_string = re.sub(
-        r"\s+",
+        r"[^\S\r\n]",
         " ",
         unescaped_string.replace("\xa0", " ")
         .replace("\t", " ")
